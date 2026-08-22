@@ -102,7 +102,11 @@ Tre errori banali cancellano per sempre una linea narrativa di un compagno. Segn
 
 ## 0-QUATER. 📈 PROGRESSIONE LIVELLI 8 → 11 (tutto il gruppo)
 
-Nell'Atto 2 si passa da **livello 8** a **livello 10** (spesso si tocca l'**11** proprio con Ketheric o pochi passi dopo l'ingresso in Atto 3). Tabella di riferimento — dettagli completi in `build_completa_livello_1-12.md`.
+Nell'Atto 2 si passa da **livello 8** a **livello 9-10**.
+
+⚠️ **Correzione:** una versione precedente di questa riga diceva che l'**11** si tocca "con Ketheric o pochi passi dopo". Non è così: **l'11 non arriva nell'Atto 2**. Anche facendo *tutto* (Atto 1 completo, Sottosuolo, Grymforge, Nursery, e qui Gran Mausoleo compreso) si entra nell'Atto 3 a **livello 9, al massimo 10**; l'11 arriva nelle prime missioni della Città Bassa. **Arrivare a Rivington a livello 9 è la curva normale del gioco, non un segno che hai saltato qualcosa.**
+
+La tabella qui sotto copre comunque anche il livello 11, così la trovi già pronta quando ci arrivi in Atto 3. Dettagli completi in `build_completa_livello_1-12.md`.
 
 | Liv. | Protagonista (Pal 6/Str) | Cuorescuro (Chierico Vita) | Karlach (Barbaro) | Gale (Mago) | Astarion (Ladro) | Wyll (Warlock) | Lae'zel (Guerriero) |
 |---|---|---|---|---|---|---|---|

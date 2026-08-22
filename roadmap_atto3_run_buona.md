@@ -12,24 +12,25 @@
 - [0-TER. ⛔ Gli 8 errori che chiudono contenuti per sempre](#0-ter--gli-8-errori-che-chiudono-contenuti-per-sempre)
 - [0-QUATER. ⏱️ I quattro orologi dell'Atto 3](#0-quater-️-i-quattro-orologi-dellatto-3)
 - [0-QUINQUIES. 🔗 L'ordine obbligato in una riga](#0-quinquies--lordine-obbligato-in-una-riga)
-- [0-SEXIES. 📈 Progressione livelli 11 → 12](#0-sexies--progressione-livelli-11--12)
+- [0-SEXIES. 📈 Progressione livelli 9/10 → 12](#0-sexies--progressione-livelli-910--12)
 - [0-SEPTIES. 🧾 Correzioni ai file precedenti](#0-septies--correzioni-ai-file-precedenti)
 - [0-OCTIES. 🔬 Studio approfondito — i compagni nell'Atto 3](#0-octies--studio-approfondito--i-compagni-nellatto-3)
 - [🗺️ La mappa dell'Atto 3](#️-la-mappa-dellatto-3)
 - [🏆 Tutti i trofei dell'Atto 3 (+ la tecnica salva/ricarica)](#-tutti-i-trofei-dellatto-3--la-tecnica-salvaricarica)
 - [🎯 I trofei "sparsi" da chiudere qui](#-i-trofei-sparsi-da-chiudere-qui-non-legati-a-una-tappa)
+- [🎭 Chi portare, tappa per tappa](#-chi-portare-tappa-per-tappa)
 
 **Tappe (percorso in ordine)**
-- [Tappa 27 — Arrivo a Rivington e nuovo campo](#tappa-27--arrivo-a-rivington-e-nuovo-campo-liv-11)
-- [Tappa 28 — Circo degli Ultimi Giorni](#tappa-28--circo-degli-ultimi-giorni-liv-11)
-- [Tappa 29 — Rivington: secondarie e Tempio della Mano Aperta](#tappa-29--rivington-secondarie-e-tempio-della-mano-aperta-liv-11)
-- [Tappa 30 — Roccia del Wyrm: incoronazione di Gortash e Florrick](#tappa-30--roccia-del-wyrm-incoronazione-di-gortash-e-florrick-liv-11--️-orologio)
-- [Tappa 31 — Città Bassa: apertura e logistica](#tappa-31--città-bassa-apertura-e-logistica-liv-11)
-- [Tappa 32 — L'Alto Arpista: Jaheira e Minsc](#tappa-32--lalto-arpista-jaheira-e-minsc-liv-1112--priorità-alta)
-- [Tappa 33 — Fermare le Rotative](#tappa-33--fermare-le-rotative-liv-12--️-scade-con-gortash)
-- [Tappa 34 — Salvare Vanra (Zietta Ethel)](#tappa-34--salvare-vanra-zietta-ethel-liv-12)
-- [Tappa 35 — Mistico Carcame e Villa Philgrave](#tappa-35--mistico-carcame-e-villa-philgrave-liv-12)
-- [Tappa 36 — Curiosità Stregonesche, Torre di Ramazith, Dama Aylin](#tappa-36--curiosità-stregonesche-torre-di-ramazith-dama-aylin-liv-12)
+- [Tappa 27 — Arrivo a Rivington e nuovo campo](#tappa-27--arrivo-a-rivington-e-nuovo-campo-liv-9-10)
+- [Tappa 28 — Circo degli Ultimi Giorni](#tappa-28--circo-degli-ultimi-giorni-liv-9-10)
+- [Tappa 29 — Rivington: secondarie e Tempio della Mano Aperta](#tappa-29--rivington-secondarie-e-tempio-della-mano-aperta-liv-10)
+- [Tappa 30 — Roccia del Wyrm: incoronazione di Gortash e Florrick](#tappa-30--roccia-del-wyrm-incoronazione-di-gortash-e-florrick-liv-10--️-orologio)
+- [Tappa 31 — Città Bassa: apertura e logistica](#tappa-31--città-bassa-apertura-e-logistica-liv-10-11)
+- [Tappa 32 — L'Alto Arpista: Jaheira e Minsc](#tappa-32--lalto-arpista-jaheira-e-minsc-liv-11--priorità-alta)
+- [Tappa 33 — Fermare le Rotative](#tappa-33--fermare-le-rotative-liv-11--️-scade-con-gortash)
+- [Tappa 34 — Salvare Vanra (Zietta Ethel)](#tappa-34--salvare-vanra-zietta-ethel-liv-11-12)
+- [Tappa 35 — Mistico Carcame e Villa Philgrave](#tappa-35--mistico-carcame-e-villa-philgrave-liv-11-12)
+- [Tappa 36 — Curiosità Stregonesche, Torre di Ramazith, Dama Aylin](#tappa-36--curiosità-stregonesche-torre-di-ramazith-dama-aylin-liv-11-12)
 - [Tappa 37 — Casa del Dolore (Cuorescuro) e Specchio della Perdita](#tappa-37--casa-del-dolore-cuorescuro-e-specchio-della-perdita-liv-12)
 - [Tappa 38 — Palazzo Szarr e Cazador (Astarion)](#tappa-38--palazzo-szarr-e-cazador-astarion-liv-12)
 - [Tappa 39 — Tabernacolo di Rivatempestosa (Gale e Mystra)](#tappa-39--tabernacolo-di-rivatempestosa-gale-e-mystra-liv-12)
@@ -125,9 +126,22 @@ Tutto ciò che sta fra "Città Bassa" e "Fermare le Rotative" puoi farlo nell'or
 
 ---
 
-## 0-SEXIES. 📈 PROGRESSIONE LIVELLI 11 → 12
+## 0-SEXIES. 📈 PROGRESSIONE LIVELLI 9/10 → 12
 
-L'Atto 3 porta tutto il gruppo al **livello 12**, il tetto massimo. Si arriva a 12 molto presto (di solito fra Rivington e le prime missioni di Città Bassa): da lì in poi l'unica progressione è **l'equipaggiamento**.
+L'Atto 3 porta tutto il gruppo al **livello 12**, il tetto massimo.
+
+✅ **Con quale livello si arriva a Rivington.** Facendo *tutto* l'Atto 1 e l'Atto 2 si entra nell'Atto 3 a **livello 9, al massimo 10**: è la curva normale del gioco, non un segno che hai saltato qualcosa. Le versioni precedenti di questa guida indicavano 11 già a Rivington: era **una stima ottimista di circa un livello**, ora corretta in tutte le intestazioni delle tappe.
+
+**Come sale, in pratica:**
+
+| Livello | Quando arriva |
+|---|---|
+| **9-10** | Rivington e Circo (Tappe 27-29) |
+| **10-11** | Roccia del Wyrm e apertura della Città Bassa (Tappe 30-32) |
+| **11-12** | Rotative, Vanra, Carcame, Curiosità Stregonesche (Tappe 33-36) |
+| **12** (tetto) | dalla Casa del Dolore in poi (Tappa 37) |
+
+Da lì in poi l'unica progressione è **l'equipaggiamento**.
 
 | Personaggio | Livello 12 | Note |
 |---|---|---|
@@ -142,7 +156,7 @@ L'Atto 3 porta tutto il gruppo al **livello 12**, il tetto massimo. Si arriva a 
 | **Jaheira** (Druida/Guerriera) | Livello 12 automatico | Arriva già formata |
 | **Minsc** (Ranger Cacciatore) | Livello 12 automatico | Arriva già formato, con Boo |
 
-**Gruppo consigliato per l'atto:** Protagonista + **Cuorescuro** + **Astarion** + rotazione. Ma attenzione: **ogni compagno deve essere in squadra per la propria tappa** (Astarion alla 38, Cuorescuro alla 37, Gale alla 39, Wyll alle 30/41/44, Karlach alla 31, Lae'zel alla 48, Jaheira alla 32). Cambia gruppo al campo prima di ogni tappa: è gratis e non ha svantaggi.
+**Gruppo consigliato per l'atto:** Protagonista + **Cuorescuro** + **Astarion** + rotazione. 👉 *La squadra consigliata per ogni singola tappa è nella sezione [🎭 Chi portare, tappa per tappa](#-chi-portare-tappa-per-tappa) e ripetuta in testa a ogni tappa.* Ma attenzione: **ogni compagno deve essere in squadra per la propria tappa** (Astarion alla 38, Cuorescuro alla 37, Gale alla 39, Wyll alle 30/41/44, Karlach alla 31, Lae'zel alla 48, Jaheira alla 32). Cambia gruppo al campo prima di ogni tappa: è gratis e non ha svantaggi.
 
 ---
 
@@ -293,9 +307,60 @@ Se ne hai qualcuno ancora aperto, **l'Atto 3 è l'ultima occasione**. Falli entr
 
 ---
 
+## 🎭 CHI PORTARE, TAPPA PER TAPPA
+
+Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei quattro slot attivi quel contenuto non parte (in alcuni casi è perso per sempre). Il cambio gruppo al campo è **gratuito e senza svantaggi**: fallo prima di ogni tappa, sempre.
+
+### Lo schema: 3 fissi + 1 che ruota
+
+| Slot | Chi | Perché è fisso |
+|---|---|---|
+| 1 | **Il protagonista** | è quello con Carisma e prove sociali più alte: tutte le Persuasioni CD 25-30 dell'atto passano da lui |
+| 2 | **Cuorescuro** | Chierico Vita 12: *Guarigione*, *Resurrezione Sontuosa*, *Parlare con i Morti*, *Luce del Giorno*. È il salva-partita |
+| 3 | **Astarion** | Rapidità di Mano e Furtività più alte: in Città Bassa metà del bottino è dietro serrature CD 20 |
+| 4 | **rotante** | la tabella qui sotto |
+
+> 💡 Se il tuo protagonista non fa da scassinatore né da faccia del gruppo, la coppia Cuorescuro + Astarion resta comunque il fondo più sicuro dell'atto.
+
+### Il quarto slot, tappa per tappa
+
+⚠️ = **obbligatorio**: se non è in squadra perdi contenuto.
+
+| Tappa | Quarto slot | Cosa ti giochi |
+|---|---|---|
+| 27 Rivington | Halsin | scene coi tiefling, linea degli orfani |
+| 28 Circo | il partner della romance | test di Zethino (approvazione + ispirazione) |
+| 29 Omicidi del Tempio | Gale | Arcano/Storia nell'indagine |
+| **30 Roccia del Wyrm** | ⚠️ **Wyll** | **il bivio di Mizora non parte senza di lui** |
+| **31 Città Bassa** | ⚠️ **Karlach** | **2° potenziamento da Dammon → la sua unica fine in cui sopravvive** |
+| **32 Jaheira e Minsc** | ⚠️ **Jaheira** | liberare Minsc; attacchi non letali obbligatori |
+| 33 Rotative | Wyll | prove di Carisma su Jelliwig |
+| 34 Vanra / Ethel | Karlach | abbattere Ethel viva senza uccidere Vanra |
+| 35 Mistico Carcame | Gale | far esplodere il vaso da lontano |
+| **36 Curiosità Stregonesche** | ⚠️ **Gale** | *Necromanzia di Thay*, **Markoheshkir** |
+| **37 Casa del Dolore** | ⚠️ **Cuorescuro** + Jaheira | la sua fine migliore; Jaheira per risparmiare Viconia |
+| **38 Palazzo Szarr** | ⚠️ **Astarion** + Karlach | il rituale di Cazador |
+| **39 Rivatempestosa** | ⚠️ **Gale** | l'udienza con Mystra |
+| 40 Casa della Speranza | Wyll | Warlock → sconto del rituale da Helsik (10.000 invece di 20.000) |
+| **41 Trono di Ferro** | Wyll + **squadra mobile** | 6 turni: servono velocità e teletrasporti, non cure |
+| 42 Fonderia | Karlach | il Titano delle Sentinelle d'Acciaio |
+| **43 Gortash** | Gale (**tutti a distanza**) | il trofeo salta appena scatta una trappola |
+| 44 Wyrmway e Ansur | Wyll + Gale + Karlach | suggerimenti nelle prove + burst su Ansur in volo |
+| 45 Tribunale | Gale — ⛔ **mai Jaheira/Minsc** | rischi di perderli come compagni |
+| 46 Orin | Astarion + Lae'zel + Karlach | il trofeo è una corsa: serve burst |
+| 47 Preparativi | ⚠️ **Lae'zel** in gruppo | la scena di Vlaakith |
+| **48 Pozza Morfica** | ⚠️ **Lae'zel** | Orpheus — e **da qui la squadra è congelata fino ai titoli di coda** |
+| 49-50 Finale | la stessa della 48 | non c'è più il campo |
+
+> 🚩 **La regola più importante di tutte:** le tappe **30, 31, 36, 37, 38, 39, 47 e 48** vanno fatte **con quel compagno in squadra**. Sono le sette occasioni in cui il gioco non ti dà una seconda possibilità.
+
+---
+
 # TAPPE
 
-## TAPPA 27 — ARRIVO A RIVINGTON E NUOVO CAMPO (liv. 11)
+## TAPPA 27 — ARRIVO A RIVINGTON E NUOVO CAMPO (liv. 9-10)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Halsin** — nessun obbligo qui. Astarion apre i forzieri dell'Emporio, Halsin ha le battute coi tiefling e apre la sua linea sugli orfani. **Karlach può aspettare la Tappa 31.**
 
 Esci dalla colonia e arrivi a **Rivington**, il sobborgo sud di Baldur's Gate. Prima di tutto: **riposo lungo**. Ti si apriranno diverse scene arretrate.
 
@@ -315,7 +380,9 @@ Esci dalla colonia e arrivi a **Rivington**, il sobborgo sud di Baldur's Gate. P
 
 ---
 
-## TAPPA 28 — CIRCO DEGLI ULTIMI GIORNI (liv. 11)
+## TAPPA 28 — CIRCO DEGLI ULTIMI GIORNI (liv. 9-10)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **il partner della tua romance** — il test di Zethino dà approvazione e ispirazione **solo col partner in squadra**, e la Percezione di Astarion è quella che coglie Akabi sul fatto.
 
 Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni e nasconde **un'arma leggendaria**.
 
@@ -332,7 +399,9 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 ---
 
-## TAPPA 29 — RIVINGTON: SECONDARIE E TEMPIO DELLA MANO APERTA (liv. 11)
+## TAPPA 29 — RIVINGTON: SECONDARIE E TEMPIO DELLA MANO APERTA (liv. 10)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — è un'indagine, non uno scontro: Cuorescuro lancia *Parlare con i Morti* sui due cadaveri, Astarion trova la botola in cucina e scassina la Pensione Fraygo, Gale copre Arcano e Storia.
 
 ### 29.1 — Risolvere gli Omicidi del Tempio della Mano Aperta
 
@@ -359,7 +428,9 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 ---
 
-## TAPPA 30 — ROCCIA DEL WYRM: INCORONAZIONE DI GORTASH E FLORRICK (liv. 11) — ⏱️ OROLOGIO
+## TAPPA 30 — ROCCIA DEL WYRM: INCORONAZIONE DI GORTASH E FLORRICK (liv. 10) — ⏱️ OROLOGIO
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **WYLL, obbligatorio** — senza Wyll in squadra non parte il bivio di Mizora, che è la scelta più delicata del gioco. Astarion serve per la cella di Florrick (Furtività + Rapidità di Mano) se Gortash non te la libera a parole.
 
 ⚠️ **Salvataggio manuale prima di entrare.** Questa tappa contiene due trappole permanenti.
 
@@ -405,7 +476,9 @@ Così hai il trofeo *e* la fine buona di Karlach *e* Mizora come alleata.
 
 ---
 
-## TAPPA 31 — CITTÀ BASSA: APERTURA E LOGISTICA (liv. 11)
+## TAPPA 31 — CITTÀ BASSA: APERTURA E LOGISTICA (liv. 10-11)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **KARLACH, obbligatoria** — Dammon alla Forgia dei Nove e Fytz il Petardo: **senza di lei in squadra non parte il secondo potenziamento del motore**, e senza quello non può andare nell'Averno nell'epilogo. È la tappa da non sbagliare.
 
 Con il lasciapassare entri in **Città Bassa**. Prima di tutto **cammina** lungo la strada principale per sbloccare tutti i punti di viaggio rapido, poi:
 
@@ -424,7 +497,9 @@ Con il lasciapassare entri in **Città Bassa**. Prima di tutto **cammina** lungo
 
 ---
 
-## TAPPA 32 — L'ALTO ARPISTA: JAHEIRA E MINSC (liv. 11-12) — PRIORITÀ ALTA
+## TAPPA 32 — L'ALTO ARPISTA: JAHEIRA E MINSC (liv. 11) — PRIORITÀ ALTA
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **JAHEIRA, obbligatoria** — rende più ricca l'imboscata degli Arpisti ed è lei che aiuta a liberare Minsc dal controllo dell'Assoluta. ⚠️ **Attiva gli attacchi non letali su tutti e quattro e lascia Gale al campo**: un *Dardo Incantato* uccide Minsc comunque.
 
 Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni** e **due alleati**.
 
@@ -445,7 +520,9 @@ Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni*
 
 ---
 
-## TAPPA 33 — FERMARE LE ROTATIVE (liv. 12) — ⏱️ SCADE CON GORTASH
+## TAPPA 33 — FERMARE LE ROTATIVE (liv. 11) — ⏱️ SCADE CON GORTASH
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Wyll** — questa tappa si risolve tutta a parole: porta il Carisma più alto che hai per convincere Jelliwig senza uccidere nessuno.
 
 Missione breve ma **irrecuperabile** se uccidi Gortash prima.
 
@@ -460,7 +537,9 @@ Missione breve ma **irrecuperabile** se uccidi Gortash prima.
 
 ---
 
-## TAPPA 34 — SALVARE VANRA (ZIETTA ETHEL) (liv. 12)
+## TAPPA 34 — SALVARE VANRA (ZIETTA ETHEL) (liv. 11-12)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Ethel va portata a zero **viva** (Vanra è nel suo stomaco): attacchi non letali attivi e Karlach come picchiatrice. **Niente incantesimi da danno a caso**: rischiano di ucciderla e con lei Vanra.
 
 Disponibile solo se nell'Atto 1 hai completato *Salvare Mayrina*. Nella tua run sì.
 
@@ -477,7 +556,9 @@ Disponibile solo se nell'Atto 1 hai completato *Salvare Mayrina*. Nella tua run 
 
 ---
 
-## TAPPA 35 — MISTICO CARCAME E VILLA PHILGRAVE (liv. 12)
+## TAPPA 35 — MISTICO CARCAME E VILLA PHILGRAVE (liv. 11-12)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — Astarion per la Rapidità di Mano CD 20 sulle porte trappolate (maledizione *Marciume Magico*), Gale per far esplodere da lontano il vaso col cuore di Carcame (8d6 da fuoco).
 
 Una linea "orrorifica" facoltativa, ma con ottime ricompense e una scelta morale netta.
 
@@ -494,7 +575,9 @@ Una linea "orrorifica" facoltativa, ma con ottime ricompense e una scelta morale
 
 ---
 
-## TAPPA 36 — CURIOSITÀ STREGONESCHE, TORRE DI RAMAZITH, DAMA AYLIN (liv. 12)
+## TAPPA 36 — CURIOSITÀ STREGONESCHE, TORRE DI RAMAZITH, DAMA AYLIN (liv. 11-12)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **GALE, obbligatorio** — è la tappa che potenzia di più il gruppo: la *Necromanzia di Thay* si apre in sicurezza solo con lui e una prova di Arcano, e il **Markoheshkir** della Torre di Ramazith va nelle sue mani.
 
 Questa è la tappa che potenzia di più il gruppo. **Porta Gale.**
 
@@ -526,6 +609,8 @@ Lorroakan vuole **Dama Aylin** per rubarle l'immortalità.
 
 ## TAPPA 37 — CASA DEL DOLORE (CUORESCURO) E SPECCHIO DELLA PERDITA (liv. 12)
 
+> 🎭 **Squadra ideale:** Tu + ⚠️ **CUORESCURO, obbligatoria** + **Astarion** + **Jaheira** — Jaheira è l'unica che può chiederti di risparmiare Viconia, e la scena ci guadagna molto. **Porta fonti di luce**: il chiostro è pieno di trappole d'ombra.
+
 ⚠️ **Cuorescuro deve essere in squadra.** Salvataggio manuale prima.
 
 1. **Trova il chiostro**: parla con **Ferg Drogher** a Rivington (te ne indica l'ubicazione). L'ingresso è nella **Casa del Dolore**, Città Bassa.
@@ -549,6 +634,8 @@ Lorroakan vuole **Dama Aylin** per rubarle l'immortalità.
 ---
 
 ## TAPPA 38 — PALAZZO SZARR E CAZADOR (ASTARION) (liv. 12)
+
+> 🎭 **Squadra ideale:** Tu + ⚠️ **ASTARION, obbligatorio** + **Cuorescuro** + **Karlach** — Cuorescuro serve per **Luce del Giorno** (Cazador ha *Ipersensibilità alla Luce Solare*: lo mette in ginocchio), Karlach per chiudere in fretta prima che il rituale faccia troppi danni.
 
 ⚠️ **Astarion in squadra.** Salvataggio manuale prima del rituale.
 
@@ -588,6 +675,8 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 
 ## TAPPA 39 — TABERNACOLO DI RIVATEMPESTOSA (GALE E MYSTRA) (liv. 12)
 
+> 🎭 **Squadra ideale:** Tu + ⚠️ **GALE, obbligatorio** + **Cuorescuro** + un quarto libero — Gale per l'udienza con Mystra, Cuorescuro perché l'**Amuleto del Devoto** nel sotterraneo è roba sua (il miglior amuleto del gioco per lei).
+
 ⚠️ **Gale in squadra.**
 
 1. Il **Tabernacolo di Rivatempestosa** è il tempio pan-divino della Città Bassa. Puoi **fare un'offerta a una divinità** (costa oro, dà una benedizione).
@@ -600,6 +689,8 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 ---
 
 ## TAPPA 40 — CASA DELLA SPERANZA: RAPHAEL, SPERANZA, MARTELLO ORFICO (liv. 12)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Wyll** — con un **Warlock in squadra** si sblocca da Helsik la Persuasione CD 25 **con vantaggio**: dimezza il costo del rituale (10.000 invece di 20.000). Astarion per rubare i reagenti e per non far scattare le piastre a pressione dentro la casa.
 
 Il "dungeon opzionale" migliore del gioco. **Fallo prima del Trono di Ferro**: l'equipaggiamento che ne esce cambia il resto dell'atto.
 
@@ -644,6 +735,8 @@ Quando provi a tornare al portale, **Raphael** ti affronta con 6 cambion vendica
 
 ## TAPPA 41 — ⏱️ TRONO DI FERRO (liv. 12) — LA TAPPA PIÙ DIFFICILE DELL'ATTO
 
+> 🎭 **Squadra ideale (qui conta la mobilità, non la composizione fissa):** Tu + **Wyll** + **Gale** + **Astarion**. Hai 6 turni per quattro ali, quindi servono quattro personaggi veloci (Passo Nebbioso, Volare, Velocità, Stivali di Velocità). **Wyll per la scena col padre.** Cuorescuro è la meno adatta a questa corsa: per una volta lasciala al campo.
+
 ⚠️⚠️ **Salvataggio manuale prima di attraccare.** Qui si vince o si perde il Gran Duca.
 
 ### Preparazione (non saltarla)
@@ -682,6 +775,8 @@ Dalla missione **Salvare i Gondiani** (o *Vendica gli Annegati*) arrivi al **som
 
 ## TAPPA 42 — FONDERIA DELLE SENTINELLE D'ACCIAIO (liv. 12)
 
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Astarion per i cancelli (Rapidità di Mano CD 20), Karlach per il **Titano delle Sentinelle d'Acciaio**, che è lo scontro più duro della tappa.
+
 ⚠️ **Solo DOPO il Trono di Ferro.** Se distruggi la Fonderia prima, tutti i Gondiani e le loro famiglie **bruciano**.
 
 1. La **Fonderia** è nel sud-ovest della Città Bassa, vicino al **Porto Grigio**. Si entra: scassinando i cancelli (**Rapidità di Mano CD 20**), in **Forma Selvatica** da una presa d'aria, o **volando** sul tetto e passando dalla botola.
@@ -701,6 +796,8 @@ Dalla missione **Salvare i Gondiani** (o *Vendica gli Annegati*) arrivi al **som
 ---
 
 ## TAPPA 43 — 🏆 GORTASH (liv. 12) — TROFEO *PASSO LEGGIADRO*
+
+> 🎭 **Squadra ideale (tutta a distanza):** Tu + **Cuorescuro** + **Astarion** + **Gale**. Il trofeo *Passo Leggiadro* salta **nel momento in cui una trappola spara**: non portare nessuno che corra in mischia dentro la sala del trono. ℹ️ Karlach ha battute dedicate su Gortash, ma portala solo se sei disposto a tenerla ferma sul balcone.
 
 ⚠️ **Salvataggio manuale prima.**
 
@@ -725,6 +822,8 @@ Dalla missione **Salvare i Gondiani** (o *Vendica gli Annegati*) arrivi al **som
 ---
 
 ## TAPPA 44 — WYRMWAY E ANSUR (liv. 12) — TROFEO *ATTERRAGGIO FORZATO*
+
+> 🎭 **Squadra ideale:** Tu + **Wyll** + **Gale** + **Karlach** — è la tappa con più aiuti in dialogo: **Wyll** suggerisce la sentenza giusta nella prova di *Giustizia*, **Gale** risolve la scacchiera nella prova di *Strategia*. Karlach serve per il burst su Ansur nel turno in cui vola (il trofeo si prende solo così).
 
 Fattibile solo dopo aver salvato **Ravengard** (è lui a parlarti di Ansur) e comodissimo dopo la morte di Gortash, con la fortezza sgombra.
 
@@ -757,6 +856,8 @@ Il drago di bronzo non-morto ti aspetta nel **Sacrario del Drago**, con due **Mi
 
 ## TAPPA 45 — 🏆 TRIBUNALE DEGLI OMICIDI (liv. 12)
 
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — ⛔ **mai Jaheira né Minsc** (rischi di perderli), e lascia al campo anche Minthara. Astarion è l'unico a cui l'**Armatura Bhaalista** serva davvero.
+
 ⚠️ **NON portare Jaheira né Minsc**: potrebbero lasciare il gruppo. Lascia al campo anche Minthara se ti dà problemi.
 
 ### Come funziona
@@ -783,6 +884,8 @@ Sotto le **Lapidi di Candulhallow** c'è il **Tribunale degli Omicidi**, presied
 ---
 
 ## TAPPA 46 — 🏆 ORIN E IL TEMPIO DI BHAAL (liv. 12)
+
+> 🎭 **Squadra ideale:** Tu + **Astarion** + **Lae'zel** + **Karlach** — il trofeo *Primo Sangue* è una corsa contro il rituale: Rapsodia + attacco furtivo, **Azione Impetuosa** e **Ira** sono i tre burst più alti che hai. ⚠️ Chi resta al campo può essere l'ostaggio rapito da Orin: mettilo in conto quando scegli.
 
 ⚠️ **Solo dopo aver ucciso Gortash.** Salvataggio manuale prima di scendere.
 
@@ -815,6 +918,8 @@ Sull'altare, Orin ti sfida a duello.
 ---
 
 ## TAPPA 47 — ULTIMI PREPARATIVI E RADUNA I TUOI ALLEATI
+
+> 🎭 **Squadra ideale:** Squadra libera, **ma Lae'zel in uno dei quattro slot attivi** — Vlaakith le appare solo se è in gruppo, ed è quella la scena in cui la convinci a rifiutare il patto.
 
 Questa è la tappa "respiro". Non c'è nulla di obbligatorio, ma è dove si chiudono metà dei trofei.
 
@@ -878,6 +983,8 @@ Ripassa questa tabella: ogni riga è un alleato in più alla battaglia finale.
 
 ## TAPPA 48 — 🚩 POZZA MORFICA: PUNTO DI NON RITORNO
 
+> 🎭 **Squadra ideale:** Tu + ⚠️ **LAE'ZEL, obbligatoria** + i due compagni **con cui vuoi finire il gioco** — 🚩 dallo skiff in poi **non esiste più il campo**: questa squadra è la stessa con cui giocherai la Tappa 49 e la Tappa 50. Sceglila adesso, non c'è un dopo.
+
 ⚠️ **Salvataggio manuale "PRIMA DELLO SKIFF" su uno slot dedicato.**
 
 Con entrambe le Pietranether, l'Imperatore ti convoca alla **Pozza Morfica**, nel cervello del nautiloide sotto la città. Ci si arriva con lo **skiff al molo**.
@@ -916,6 +1023,8 @@ Per la run buona: **non offrirti**, non offrire Karlach → **Orpheus si trasfor
 
 ## TAPPA 49 — CITTÀ ALTA E BATTAGLIA FINALE — TROFEO *INTERFECTOREM DRACONIS*
 
+> 🎭 **Squadra ideale:** **La squadra della Tappa 48: non si cambia più.** Contro il drago rosso servono **fulmine, radioso e forza** (Gale con *Catena di Fulmini*/*Disintegrazione*, il protagonista con Punizione Divina, Karlach con l'Ammazzagiganti). Chiama **tutti** gli alleati appena inizia lo scontro.
+
 1. **Attraversi la Città Alta** (cortile o fogne) fino alla **Sala Alta** e sali sul tronco cerebrale.
 2. **Gli alleati**: durante la salita puoi **chiamare i rinforzi** raccolti nella Tappa 47. Usali tutti: ogni gruppo che chiami toglie pressione al tuo party.
 3. **Sul dorso del Cervello** si combatte lo scontro finale.
@@ -937,6 +1046,8 @@ Nell'ultimo scontro compare un **drago rosso dominato**. ⚠️ **Il gioco ti sp
 ---
 
 ## TAPPA 50 — 🏆 IL FINALE: COME PRENDERE 3 TROFEI DA UN SOLO SALVATAGGIO
+
+> 🎭 **Squadra ideale:** **La stessa: qui non si combatte più.** Contano solo i dialoghi finali — e ogni compagno decide la propria fine anche se in quel momento è al campo, quindi nessuno resta escluso dall'epilogo.
 
 💾 **Salvataggio manuale "PRIMA DEL FINALE"** appena il Cervello è sconfitto e **prima** dell'ultimo dialogo.
 
