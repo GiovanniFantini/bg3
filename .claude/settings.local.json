@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:psnprofiles.com)",
+      "WebFetch(domain:baldursgate3.wiki.fextralife.com)",
+      "WebFetch(domain:dotesports.com)",
+      "WebFetch(domain:www.exophase.com)",
+      "WebFetch(domain:gamelite.it)",
+      "WebFetch(domain:freaking.news)"
+    ]
+  }
+}
