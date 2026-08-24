@@ -265,9 +265,9 @@ Lo useremo tre volte: **Scappatoia** (Tappa 30), **Il Potere Assoluto Corrompe**
 | 🏆 **Mente Sconvolgente** | Corteggia l'Imperatore | Tappa 47 | ✅ Sì (non serve accettare il girino) |
 | 🏆 **Omicidio a Baldur's Gate** | Entra nei ranghi degli Assassini Nefandi di Bhaal | Tappa 45 | ✅ Sì (con la mano di Gortash) |
 | 🏆 **Scappatoia** | Infrangi il patto di Wyll con Mizora | Tappa 30 | ⚠️ **Solo in 🔁 salva/ricarica** |
-| 🏆 **Nessuno Rimane Indietro** | Salva tutti i profughi tiefling | Scatta ai **titoli di coda** | ✅ Sì |
+| 🏆 **Nessuno Rimane Indietro** | Salva tutti i profughi tiefling | Scatta ai **titoli di coda**: conta chi è **vivo**, non chi hai salutato. Sono **sparsi**: elenco completo alla **Tappa 27** | ✅ Sì |
 | 🏆 **Rattoppare la Trama** | Stabilizza il globo netherese di Gale | Già fatto in Atto 2 | ✅ |
-| 🏆 **L'Ira della Regina-Lich** | Allèati con Voss contro Vlaakith | Già fatto in Atto 2; se manca, Voss è a Rivington | ✅ |
+| 🏆 **L'Ira della Regina-Lich** | Allèati con Voss contro Vlaakith | Già fatto in Atto 2; se manca, Voss è a **La Carezza di Sharess**, Città Bassa (Tappa 31) — **non** a Rivington | ✅ |
 | 🏆 **Tutto È Bene Quel Che Finisce Bene** | Completa il gioco | Tappa 50 | ✅ |
 | 🏆 **Eroe dei Reami Dimenticati** | Uccidi il cervello netherese e distruggi i girini | Tappa 50 | ✅ **È la fine buona** |
 | 🏆 **Il Potere Assoluto Corrompe** | Domina il cervello netherese e regna nel terrore | Tappa 50 | ⚠️ **Solo in 🔁 salva/ricarica** |
@@ -360,23 +360,100 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 
 ## TAPPA 27 — ARRIVO A RIVINGTON E NUOVO CAMPO (liv. 9-10)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Halsin** — nessun obbligo qui. Astarion apre i forzieri dell'Emporio, Halsin ha le battute coi tiefling e apre la sua linea sugli orfani. **Karlach può aspettare la Tappa 31.**
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Halsin** — nessun obbligo qui. Astarion apre forzieri e borseggia, Halsin ha le battute coi profughi e apre la sua linea sugli orfani tiefling. **Karlach può aspettare la Tappa 31.**
 
-Esci dalla colonia e arrivi a **Rivington**, il sobborgo sud di Baldur's Gate. Prima di tutto: **riposo lungo**. Ti si apriranno diverse scene arretrate.
+**Dove sei e cosa stai facendo.** Uscito dalla colonia illithid sbuchi a **Rivington**, il sobborgo agricolo **a sud** di Baldur's Gate. Qui non si combatte quasi: è la tappa in cui **si apre il campo nuovo**, si smaltiscono le **scene arretrate** dei compagni e si prende la mano con la mappa.
 
-**Cosa fare, in ordine:**
+⚠️ **La Città Bassa è ancora chiusa.** Il ponte (Attraversamento del Wyrm) e la Porta del Basilisco non ti fanno passare finché non hai il **Lasciapassare per la Città Bassa**, che si ottiene **risolvendo gli omicidi del Tempio della Mano Aperta** (Tappa 29). Quindi: **prima Rivington, poi la città**. Tutto ciò che questa guida rimanda "alla Tappa 31" è roba che *non puoi* fare adesso — non roba che stai dimenticando.
 
-1. **Il nuovo campo.** È dietro Rivington, con l'accampamento dei profughi tiefling. **Parla con tutti i tiefling**: Zevlor (se l'hai perdonato), Mattis, Mirkon, Arabella, Danis. È un requisito diretto di 🏆 *Nessuno Rimane Indietro*.
-2. **Yenna.** Una bambina con un gatto ti chiede di restare al campo: accetta. (È il "bersaglio di riserva" di Orin se in gruppo hai solo compagni: tenerla al campo è comunque la scelta giusta.)
-3. **Withers** è già al campo: recluta il **gregario** (🏆 *Esternalizzazione*) e tienilo lì per *Tuttofare*.
-4. **Voss.** Se non hai ancora 🏆 *L'Ira della Regina-Lich*, cercalo: nell'Atto 3 lo trovi a **La Carezza di Sharess** in Città Bassa. Accetta la sua alleanza contro Vlaakith.
-5. **Ferg Drogher** (mercante nel granaio requisito, Rivington): vende **Sethan**, il **Martello Nanico** e l'**Arco Lungo dei Cavalieri Infernali**. ⚠️ Se avessi mandato Cuorescuro da Shar sparirebbero: nella tua run ci sono tutti.
-6. **Emporio di Rivington**: qui c'è la **Catena Elfica** (*Elven Chain*), armatura leggera eccellente per Astarion o per un incantatore.
-7. **Il Bue Strano** (*Strange Ox*) — missione *Aiuta il Bue Diabolico*: non attaccarlo mai, aiutalo a entrare in Città Bassa. Diventa un alleato per il finale.
-8. **Gli gnomi** (*Deal with the Gnomes*): i profughi manoferrea vicino al molo. Aiutali.
-9. **Sfama il Mindflayer** (*Feed the Mind Flayer*): un illithid prigioniero e affamato nascosto sotto Rivington. Si può risolvere senza sacrificare nessuno: dà ispirazione. ⚠️ Non è Omeluum (quello è al Trono di Ferro, Tappa 41).
+**L'ordine giusto della zona:** Tappa 27 (campo e giro di Rivington) → Tappa 28 (Circo) → Tappa 29 (indagine e secondarie) → Tappa 30 (Incoronazione).
 
-> ⚠️ **Controllo doppelganger:** a Rivington cominciano le sostituzioni di Orin. Se un compagno dice qualcosa di stonato o "non ricorda" un evento, **portalo al campo e osservalo**: il mutaforma si rivela quando lo affronti.
+---
+
+### 27.1 — Il campo nuovo: le prime cose da fare
+
+Il campo dell'Atto 3 è **dietro Rivington**, sull'altura sopra il villaggio. Ci arrivi da solo la prima volta che riposi.
+
+1. **Riposo lungo. Poi un altro.** L'Atto 3 apre con una **coda di scene arretrate** (romance, missioni personali, Halsin e gli orfani, reazioni alla colonia illithid). Riposa **due o tre volte di fila** finché non smettono di partire filmati: è contenuto che altrimenti si accavalla e rischia di **saltare del tutto** più avanti.
+2. **Withers** è già lì. Due cose subito:
+   - recluta un **gregario** (🏆 *Esternalizzazione*) e **tienilo al campo** — non serve che combatta, serve che esista per *Tuttofare*;
+   - è anche il posto dove **ricalcolare le classi** prima delle tappe difficili.
+3. **Yenna.** Una bambina con un gatto (Grub) ti chiede ospitalità: **accetta**, resta al campo. È coerente con la run buona.
+   > ⚠️ Yenna è il "bersaglio di riserva" di **Orin**: se non rapisce un compagno rapisce lei. Non è colpa di una tua scelta sbagliata e **non c'è modo di evitarlo** — la si recupera alla Tappa 46.
+4. ⚠️ **Vlaakith appare a Lae'zel** proprio in questi riposi e le offre di diventare Comandante dei Draghi in cambio della morte di **Orpheus**. Ascolta e **non chiudere la questione ora**: la scelta definitiva è alla **Tappa 47** ✅ *convincila a rifiutare*. (Se hai già sostenuto **Voss** in Atto 2 la prova è molto più facile.)
+5. **Halsin.** Al campo ti chiede di occuparti degli **orfani tiefling** e di portarli nelle terre di Thaniel: **accetta**. È la sua linea dell'Atto 3.
+
+---
+
+### 27.2 — I tiefling: **non** c'è un campo tiefling
+
+È la cosa che confonde di più. Nell'Atto 1 erano tutti nel boschetto, nell'Atto 2 tutti alla Locanda dell'Ultima Luce. **Nell'Atto 3 no: si sono sparpagliati.**
+
+E soprattutto: 🏆 *Nessuno Rimane Indietro* **scatta ai titoli di coda** e conta **chi è ancora vivo**, non quanti ne hai salutati. Non devi rincorrerli per spuntare una lista — devi solo **non farli morire** lungo la strada.
+
+| Dove | Chi | Quando li incroci |
+|---|---|---|
+| **Campo profughi di Rivington** (attorno al granaio requisito) | **Bex, Cerys, Danis, Ide, Umi, Zorru** — e **Mattis**, che ha rimesso su bottega proprio nel granaio | Tappe 27-29 |
+| **Città Bassa** | **Alfira** e **Lakrissa** (Taverna del Canto Elfico), **Dammon** (Forgia dei Nove) | Tappa 31 |
+| **Curiosità Stregonesche** | **Rolan** (apprendista di Lorroakan) e, prigionieri nella torre, **Cal** e **Lia** | Tappa 36 |
+| **Fogne / Sottocittà** | **Arabella** (linea dei Gur) | Tappe 35-45 |
+| **Sala della Gilda** | **Mol** | Tappe 31-32 |
+| **Zevlor** | ⚠️ **non lo incontri a Rivington.** Se l'hai liberato dal baccello nella colonia illithid dell'Atto 2 è salvo e ti raggiunge come **alleato al finale**; se non l'avessi liberato, Orin lo uccide e ne trovi il cadavere al campo | Tappa 49 |
+
+---
+
+### 27.3 — Il giro di Rivington: la mappa in chiaro
+
+Fai un giro completo **a piedi** prima di lanciarti nelle missioni: sblocchi tutti i punti di viaggio rapido e vedi dove sta ogni cosa.
+
+| Luogo | Cosa c'è | Tappa |
+|---|---|---|
+| **Il campo** (altura dietro il villaggio) | Withers, Yenna, scene dei compagni | 27 |
+| **Granaio requisito** | **Ferg Drogher** (mercante), **Mattis**, **Manip Nestor** e la catasta delle donazioni | 27 / 29.3 |
+| **Emporio di Rivington** | mercante generico + la **Catena Elfica** | 27 |
+| **Villa di Arfur Gregorio** (vicino al cerchio runico) | profughi da sfrattare, seminterrato, lettera di ricatto | 27 / 29.3 |
+| **Tempio della Mano Aperta** | l'indagine sugli omicidi = **il tuo lasciapassare** | 29 |
+| **Pensione Fraygo** | la stanza nascosta dell'indagine | 29 |
+| **Circo degli Ultimi Giorni** (a nord del campo) | Nyrulna, Dribbles, ispirazioni | 28 |
+| **Molo** | gnomi manoferrea, il **Bue Strano** | 27 |
+| **Porta del Basilisco** | **Lora**, la madre di Vanra → apre la Tappa 34 | 29 |
+
+**Compere e bottino da fare qui:**
+- **Ferg Drogher** (nel granaio) vende **Sethan**, il **Martello Nanico** e l'**Arco Lungo dei Cavalieri Infernali**. ⚠️ Se avessi mandato Cuorescuro da Shar sparirebbero dal suo inventario: nella tua run ci sono tutti.
+- **Emporio di Rivington**: la **Catena Elfica** (*Elven Chain*), armatura leggera eccellente per Astarion o per un incantatore.
+
+---
+
+### 27.4 — Le missioni che si aprono qui
+
+- **Arfur Gregorio** — davanti alla sua villa ha assoldato **bravacci della Gilda** per **sfrattare i profughi** accampati in casa sua. ✅ **Schierati coi profughi** (Persuasione/Intimidazione): restano, nessuno combatte, prendi **ispirazione**. Poi scendi nel **seminterrato** → la lettera di ricatto avvia *Indaga sui Giocattoli Sospetti*. **Catena completa alla Tappa 29.3.**
+- **Il Bue Strano** (*Strange Ox*) — missione *Aiuta il Bue Diabolico*: ⚠️ **non attaccarlo mai**, aiutalo a entrare in Città Bassa. Diventa un **alleato per il finale**.
+- **Gli gnomi** (*Deal with the Gnomes*) — i profughi manoferrea vicino al molo: aiutali.
+- **Sfama il Mindflayer** (*Feed the Mind Flayer*) — un illithid prigioniero e affamato nascosto sotto Rivington. **Si risolve senza sacrificare nessuno**: dà ispirazione. ⚠️ Non è **Omeluum** (quello è al Trono di Ferro, Tappa 41).
+
+---
+
+### 27.5 — Gli errori tipici di questa tappa
+
+- ⚠️ **Cercare Voss qui.** Non c'è. Nell'Atto 3 lo trovi **molto più avanti**, a **La Carezza di Sharess** in Città Bassa (Tappa 31): è lì che accetti l'alleanza contro Vlaakith se ti manca 🏆 *L'Ira della Regina-Lich*.
+- ⚠️ **Cercare "il campo tiefling".** Non esiste: vedi 27.2.
+- ⚠️ **Correre al ponte.** Senza lasciapassare non passi: prima la Tappa 29.
+- ⚠️ **Attaccare il Bue Strano.** Perdi un alleato del finale per due monete di bottino.
+- ⚠️ **Ignorare i doppelganger.** A Rivington cominciano le sostituzioni di **Orin**. Se un compagno dice qualcosa di stonato o "non ricorda" un evento, **portalo al campo e osservalo**: il mutaforma si rivela quando lo affronti.
+
+---
+
+### ✅ Checklist Tappa 27
+
+- [ ] 2-3 riposi lunghi finché non finiscono le scene arretrate
+- [ ] Gregario reclutato da Withers (🏆 *Esternalizzazione*) e lasciato al campo
+- [ ] Yenna accolta al campo
+- [ ] Halsin: linea degli orfani tiefling accettata
+- [ ] Lae'zel: scena di Vlaakith ascoltata (decisione rimandata alla Tappa 47)
+- [ ] Arfur: profughi salvati e seminterrato visitato
+- [ ] Bue Strano aiutato, gnomi aiutati, mindflayer sfamato senza vittime
+- [ ] Ferg Drogher ed Emporio visitati (Sethan, Martello Nanico, Arco Lungo, Catena Elfica)
+- [ ] Tutti i punti di viaggio rapido di Rivington sbloccati
 
 ---
 
@@ -420,11 +497,34 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 ### 29.2 — Altre secondarie di Rivington
 
 - **Trova le Lettere Mancanti** — il postino derubato: recupera le lettere e consegnale (una è di Alfira!).
-- **Indaga sui Giocattoli Sospetti** — la bottega di giocattoli con i burattini animati: distruggi la fabbrica di burattini nel seminterrato.
+- **Indaga sui Giocattoli Sospetti** — parte dal seminterrato della villa di **Arfur Gregorio**: tutta la catena è qui sotto in **29.3**.
 - **Trova la "Severa Bibliotecaria" Ffion** — si incrocia con l'indagine sugli omicidi.
 - **Aiuta i Sopravvissuti alle Megere / Vendica i Sopravvissuti alle Megere** — parla con le vittime di Ethel: prepara la Tappa 34.
 - **Lora alla Porta del Basilisco** — la madre di **Vanra**: parlale, avvia *Salvare Vanra* (Tappa 34).
 - ⚠️ **Non uccidere Lora** neanche se Capitano Grisly ti offre 3.000 mo.
+
+### 29.3 — Arfur Gregorio: i profughi e i Giocattoli Sospetti
+
+> 🎭 **Squadra ideale:** Tu (Carisma) + **Astarion** — servono una prova sociale alta e, se vuoi, un borseggio. La catena parte a Rivington e **si chiude in Città Bassa**: i passi 4 e 5 li farai alla Tappa 31.
+
+**Chi è.** **Arfur Gregorio** è il **giocattolaio** di Rivington: pallone gonfiato, soci d'affari pessimi. Lo trovi **davanti alla sua villa**, vicino al cerchio runico.
+
+**Passo 1 — I profughi (la scelta buona).** Ha assoldato dei **bravacci della Gilda** per buttare fuori i profughi che si sono accampati in casa sua.
+- ✅ **Prendi le parti dei profughi**: con **Persuasione o Intimidazione** riuscita Arfur cede, i profughi **restano** e i bravacci se ne vanno **senza combattere**. Dà **ispirazione**.
+- ❌ Non farti pagare per sfrattarli, non aiutare i bravacci, non ucciderlo: è la via malvagia e **ti chiude l'indagine**.
+- ⚠️ Se lo **consegni ai Pugni Fiammeggianti** finisce in prigione e **ci muore**: perdi il confronto del Passo 4.
+
+**Passo 2 — Il seminterrato.** Entra in villa e **scendi sotto**: c'è una **lettera di ricatto**. Qualcuno lo ha costretto a **imbottire di esplosivo i giocattoli donati ai profughi**. Parte *Indaga sui Giocattoli Sospetti*.
+
+**Passo 3 — I giocattoli.** Vai al **granaio requisito** (quello di Ferg Drogher e Mattis) e parla con **Manip Nestor**: con una prova sociale ti lascia frugare nella **catasta delle donazioni**. Dentro ci sono gli **orsacchiotti esplosivi**. ⚠️ Non lasciarli lì: erano destinati ai bambini del campo.
+
+**Passo 4 — Arfur a La Carezza di Sharess** *(Città Bassa, Tappa 31)*. Dopo Rivington, Arfur **scappa a La Carezza di Sharess**. Mettilo alle strette (**Intimidazione**): confessa e dice da dove arriva la **polvere pirica** — dai **Fuochi d'Artificio di Felogyr**.
+
+**Passo 5 — Fuochi d'Artificio di Felogyr** *(Città Bassa)*. La parola d'ordine **«Mi manda zio Felogyr» (*«Uncle Felogyr sent me»*)** apre i **piani superiori**: dentro ci sono **cultisti di Bane** che assemblano gli ordigni. Falli fuori e la missione si chiude.
+
+> 🧩 **Perché conta.** L'attentato ai profughi non era opera di Arfur: serviva a **Gortash** per creare il panico e giustificare le **Sentinelle d'Acciaio**. È uno dei pezzi che incastrano la sua propaganda — stesso filo delle **Rotative** (Tappa 33) e della **Fonderia** (Tappa 42).
+
+**Bottino:** ispirazione (varia col background), **Pugnale +1** e il **Lasciapassare per l'Incoronazione Arciducale**, che Arfur ha addosso: **borseggialo con Astarion** al Passo 1 o al Passo 4 — è un ingresso comodo alla Roccia del Wyrm (Tappa 30).
 
 ---
 
@@ -489,7 +589,7 @@ Con il lasciapassare entri in **Città Bassa**. Prima di tutto **cammina** lungo
 2. **Forgia dei Nove** (*Forge of the Nine*) — **Dammon**. ⚠️ **Porta Karlach**: secondo potenziamento del motore infernale. Serve un altro **Ferro Infernale**: uno lo vende Dammon stesso, uno è nelle rovine della Sottocittà. Dopo l'upgrade parte una scena bellissima al campo (e sblocca 🏆 *Appuntamento Caliente* se non l'hai preso).
    - Vicino c'è **Fytz il Petardo**: porta Karlach anche lì per la scena dedicata.
 3. **Mercanti da visitare subito**: Curiosità Stregonesche (Tappa 36), **Tributo del Diavolo** (Helsik), Boutique dei Facemaker, Apotecario di Bonecloak.
-4. **La Carezza di Sharess** — l'investigatrice Valeria, Voss (se ti manca il trofeo), varie missioni.
+4. **La Carezza di Sharess** — l'investigatrice **Valeria** (Tappa 29.1), ⚠️ **Voss** (è **qui** che lo trovi, non a Rivington: accetta l'alleanza contro Vlaakith se ti manca 🏆 *L'Ira della Regina-Lich*), **Arfur Gregorio** scappato qui da Rivington (Tappa 29.3), varie missioni.
 5. ⚠️ **Volo.** Vicino alla Fonderia una folla vuole linciarlo: **salvalo**. È un alleato per il finale e conta per la coerenza della run.
 6. **Gilda dei Ladri e Casa dei Contabili**: si aprono con la Tappa 32.
 
