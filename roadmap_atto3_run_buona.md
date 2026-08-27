@@ -192,6 +192,9 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 | Villa Philgrave | Philgrave's Mansion |
 | Mistico Carcame | Mystic Carrion |
 | Zietta Ethel | Auntie Ethel |
+| Sirena Arrossita | The Blushing Mermaid |
+| Obitorio · Cimitero della Città Bassa | Mortuary · Lower City Graveyard |
+| Porto Grigio · Parco Bloomridge | Grey Harbour · Bloomridge Park |
 | Speranza | Hope |
 | Martello Orfico | Orphic Hammer |
 | Specchio della Perdita | Mirror of Loss |
@@ -231,9 +234,9 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 | Zona | Cosa contiene | Quando andarci |
 |---|---|---|
 | **Rivington** | Campo profughi, Circo degli Ultimi Giorni, Tempio della Mano Aperta, Emporio di Rivington, Ferg Drogher, il Bue Strano | Tappe 27-29 |
-| **Attraversamento del Wyrm** (Wyrm's Crossing) | Ponte doppio, L'Ascia Danzante di Danthelon, Sirena Arrossita, ingresso alla Roccia del Wyrm | Tappe 30, 32 |
+| **Attraversamento del Wyrm** (Wyrm's Crossing) | Ponte doppio, L'Ascia Danzante di Danthelon, ingresso alla Roccia del Wyrm | Tappe 30, 32 |
 | **Roccia del Wyrm** | Incoronazione, prigione (Florrick), **Wyrmway** e la tana di **Ansur**, trono di Gortash | Tappe 30, 43, 44 |
-| **Città Bassa** | Taverna del Canto Elfico (base), Curiosità Stregonesche, Torre di Ramazith, Casa del Dolore, Tributo del Diavolo, Casa dei Contabili, Gazzetta, La Carezza di Sharess, Forgia dei Nove, Villa Philgrave, Palazzo Szarr, Fonderia, Merci Flymm | Tappe 31-43 |
+| **Città Bassa** | Taverna del Canto Elfico (base), Curiosità Stregonesche, Torre di Ramazith, Casa del Dolore, Tributo del Diavolo, Casa dei Contabili, Gazzetta, La Carezza di Sharess, Forgia dei Nove, Villa Philgrave (Brampton), Sirena Arrossita (Steeps), Old Garlow's Place (Heapside), Obitorio e Cimitero, Palazzo Szarr, Fonderia, Merci Flymm | Tappe 31-43 |
 | **Fogne e Cisterna** | La Gilda, il Signore di Pietra (Minsc), i cultisti di Bhaal | Tappa 32 |
 | **Rovine della Sottocittà** | Tempio di Bhaal, tana antica del Mistico Carcame | Tappe 35, 46 |
 | **Casa della Speranza** (Averno) | Raphael, Speranza, Martello Orfico, set Crepuscolo Infernale | Tappa 40 |
@@ -416,7 +419,8 @@ Fai un giro completo **a piedi** prima di lanciarti nelle missioni: sblocchi tut
 | **Pensione Fraygo** | la stanza nascosta dell'indagine | 29 |
 | **Circo degli Ultimi Giorni** (a nord del campo) | Nyrulna, Dribbles, ispirazioni | 28 |
 | **Molo** | gnomi manoferrea, il **Bue Strano** | 27 |
-| **Porta del Basilisco** | **Lora**, la madre di Vanra → apre la Tappa 34 | 29 |
+| **Mulino abbandonato** | l'**illithid appena nato** di *Sfama il Mindflayer* (porta da scassinare) | 27 |
+| **Porta del Basilisco** | **Lora**, la madre di Vanra → apre la Tappa 34. ⚠️ **Parlale ORA**: se liberi Vanra senza aver avviato la missione da lei, perdi le due ricompense | 29 |
 
 **Compere e bottino da fare qui:**
 - **Ferg Drogher** (nel granaio) vende **Sethan**, il **Martello Nanico** e l'**Arco Lungo dei Cavalieri Infernali**. ⚠️ Se avessi mandato Cuorescuro da Shar sparirebbero dal suo inventario: nella tua run ci sono tutti.
@@ -429,7 +433,27 @@ Fai un giro completo **a piedi** prima di lanciarti nelle missioni: sblocchi tut
 - **Arfur Gregorio** — davanti alla sua villa ha assoldato **bravacci della Gilda** per **sfrattare i profughi** accampati in casa sua. ✅ **Schierati coi profughi** (Persuasione/Intimidazione): restano, nessuno combatte, prendi **ispirazione**. Poi scendi nel **seminterrato** → la lettera di ricatto avvia *Indaga sui Giocattoli Sospetti*. **Catena completa alla Tappa 29.3.**
 - **Il Bue Strano** (*Strange Ox*) — missione *Aiuta il Bue Diabolico*: ⚠️ **non attaccarlo mai**, aiutalo a entrare in Città Bassa. Diventa un **alleato per il finale**.
 - **Gli gnomi** (*Deal with the Gnomes*) — i profughi manoferrea vicino al molo: aiutali.
-- **Sfama il Mindflayer** (*Feed the Mind Flayer*) — un illithid prigioniero e affamato nascosto sotto Rivington. **Si risolve senza sacrificare nessuno**: dà ispirazione. ⚠️ Non è **Omeluum** (quello è al Trono di Ferro, Tappa 41).
+- **Sfama il Mindflayer** (*Feed the Mind Flayer*) — **mulino abbandonato** di Rivington: scassina la porta e scendi in cantina, c'è un **illithid appena nato** che dorme. Parlarci apre la missione. ⚠️ Non è **Omeluum** (quello è al Trono di Ferro, Tappa 41). **Come si risolve → 27.4-bis qui sotto.**
+
+---
+
+### 27.4-bis — ⚠️ Il mindflayer del mulino: cosa fare davvero
+
+L'illithid appena nato chiede **un cervello fresco**. Le opzioni sono tre e **nessuna è indolore**: sappilo prima di scegliere.
+
+**A) Dargli un cadavere** — come si fa, in pratica:
+1. Ti serve un **cadavere umanoide col cervello intatto**. Non devi ammazzare nessuno: a Rivington ce ne sono già diversi — il **profugo morto** vicino al nascondiglio degli gnomi manoferrea, il **profugo assassinato nel pozzo** vicino ai Corrieri della Costa della Spada, **Brilgor** (dietro il Tempio della Mano Aperta), **Padre Lorgan** (dentro il tempio), **Ffion Goldgrind** (piani alti della Pensione Fraygo).
+2. **Raccogli il corpo** (tasto di raccolta come un oggetto: pesa parecchio, usa un personaggio con Forza alta o alleggerisci lo zaino) e **portalo in cantina**.
+3. **Parla con l'illithid** col cadavere nell'inventario e scegli l'opzione per **darglielo**.
+4. Ricompensa: **+1 punto potere illithid** e **ispirazione**.
+   > ⚠️ **Il prezzo.** Sfamato, l'illithid sopravvive e più avanti **sterminerà la famiglia di Tym Armbrust** in Città Bassa. E se giochi un **Paladino, questa scelta ti fa rompere il giuramento**.
+   > ⚠️ Se usi **Brilgor, Padre Lorgan o Ffion** fallo **dopo** aver lanciato *Parlare con i Morti* su di loro (Tappa 29.1): senza le loro testimonianze l'indagine sugli omicidi si complica.
+
+**B) Convincerlo a cacciarsi il pasto da solo** (**Persuasione CD 15**) — sembra la via furba, ma è la peggiore: **va a caccia di gente viva**, muoiono degli NPC e **non prendi nulla**.
+
+**C) ✅ Ucciderlo** — è la scelta coerente con una run buona: è un predatore appena nato che, in ogni scenario in cui vive, **mangia qualcuno**. Attaccalo subito (dorme: apri con un attacco furtivo dal vantaggio). Lasci **ispirazione**, un **cervello di mindflayer** e un anello (*Ring of Truthfulness*).
+
+> 📌 **In sintesi:** se ti interessa il **punto potere illithid**, opzione A con un cadavere già morto — ma la famiglia Armbrust muore. Se vuoi la run pulita fino in fondo, **opzione C**.
 
 ---
 
@@ -451,7 +475,7 @@ Fai un giro completo **a piedi** prima di lanciarti nelle missioni: sblocchi tut
 - [ ] Halsin: linea degli orfani tiefling accettata
 - [ ] Lae'zel: scena di Vlaakith ascoltata (decisione rimandata alla Tappa 47)
 - [ ] Arfur: profughi salvati e seminterrato visitato
-- [ ] Bue Strano aiutato, gnomi aiutati, mindflayer sfamato senza vittime
+- [ ] Bue Strano aiutato, gnomi aiutati, mindflayer del mulino risolto (→ 27.4-bis)
 - [ ] Ferg Drogher ed Emporio visitati (Sethan, Martello Nanico, Arco Lungo, Catena Elfica)
 - [ ] Tutti i punti di viaggio rapido di Rivington sbloccati
 
@@ -536,6 +560,8 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 ### 30.1 — L'incoronazione
 
+> ✅ **Prima di salire alla Roccia: aiuta Farlin.** Sulla **spiaggia a ovest del posto di blocco della Campata Sud**, all'Attraversamento del Wyrm, la gnoma **Farlin** e i suoi della **Gilda** stanno per scontrarsi con gli uomini del **Signore di Pietra** (guidati da Caïros) vicino a una nave attraccata. **Accetta di aiutarli** — dettagli e ricompense alla **Tappa 32, punto 1-bis**.
+
 Attraversa l'**Attraversamento del Wyrm** ed entra nella **Roccia del Wyrm**. Assisti all'incoronazione di **Enver Gortash** ad Arciduca. Il **Gran Duca Ravengard**, con il girino, officia la cerimonia.
 
 ⛔ **NON ATTACCARLO.** Se apri il combattimento qui perdi l'accesso al Trono di Ferro e **cinque missioni** insieme (Ravengard, Gondiani, Omeluum, Rotative, Vendica gli Annegati).
@@ -606,6 +632,11 @@ Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni*
 **Percorso:**
 
 1. **L'Ascia Danzante di Danthelon** (Attraversamento del Wyrm): incontro con gli Arpisti → è un'imboscata di **mutaforma**. Jaheira in gruppo rende tutto più ricco.
+1-bis. ✅ **Farlin e la rissa sulla spiaggia** (Attraversamento del Wyrm, spiaggia a ovest del posto di blocco della Campata Sud). È **la chiave d'ingresso alla Sede della Gilda**, quindi falla **prima** del punto 2.
+   - **Aiutala**: la Gilda combatte al tuo fianco contro gli uomini del **Signore di Pietra** — che è **Minsc sotto controllo**, quindi sei già dalla parte giusta della storia.
+   - **Ricompensa**: Farlin mette una buona parola con **Tusgront**, il buttafuori della Sede della Gilda, che da quel momento **ti fa entrare senza prove di dialogo**.
+   - ❌ **Se rifiuti o attacchi**, *entrambe* le fazioni ti diventano ostili. ⚠️ E anche vincendo insieme a lei, **non intascarti il bottino della nave**: si arrabbia e diventa ostile.
+   - 💡 Se per sbaglio l'hai messa fuori combattimento (senza ucciderla), dopo un **riposo lungo** torna a garantire per te.
 2. **Sede della Gilda** (fogne di Città Bassa): parla con **Nove-Dita Keene**. Ti dice dove trovare il "Signore di Pietra".
 3. ⏱️ **Casa dei Contabili** (*Counting House*): arriva **prima** che la Gilda faccia irruzione. Nel caveau ci sono casseforti (le chiavi sono sparse per la città) e la pista di Minsc. Qui trovi anche parecchio oro e oggetti.
 4. **Fogne → Cisterna**: il covo del Signore di Pietra.
@@ -639,39 +670,136 @@ Missione breve ma **irrecuperabile** se uccidi Gortash prima.
 
 ## TAPPA 34 — SALVARE VANRA (ZIETTA ETHEL) (liv. 11-12)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Ethel va portata a zero **viva** (Vanra è nel suo stomaco): attacchi non letali attivi e Karlach come picchiatrice. **Niente incantesimi da danno a caso**: rischiano di ucciderla e con lei Vanra.
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Ethel va portata a zero **viva** (Vanra è nel suo stomaco): attacchi non letali attivi e Karlach come picchiatrice. **Niente incantesimi da danno a caso**: rischiano di ucciderla e con lei Vanra. Astarion serve per le serrature della tappa (casa di Old Garlow, muro illusorio, porta della tana).
 
-Disponibile solo se nell'Atto 1 hai completato *Salvare Mayrina*. Nella tua run sì.
+Disponibile solo se nell'Atto 1 hai completato *Salvare Mayrina*. Nella tua run sì — e le hai anche chiesto il capello (+1 Carisma), il che soddisfa già la condizione dell'Atto 1 perché Ethel possa diventare un'alleata.
 
-1. **Lora** alla **Porta del Basilisco** cerca la figlia **Vanra**.
-2. Vai alla **Sirena Arrossita** (*Blushing Mermaid*) e parla con il **Capitano Grisly**: è **Zietta Ethel** travestita. Ti offre 3.000 mo (6.000 se sei un Ladro) per uccidere Lora.
-   - ⛔ **Rifiuta.** Uccidere Lora è la scelta cattiva e chiude la fine buona.
-3. Trova il biglietto nella scrivania di palissandro che nomina la "Zietta", poi scendi nel **seminterrato della taverna**: la tana della megera.
-4. ⚠️ **Vanra è dentro lo stomaco di Ethel.** Se Ethel muore con Vanra dentro, **Vanra muore**. Due modi corretti:
-   - **Veleno della Megera** (*Hag's Bane*): si prepara con **Ceneri di Fiore Fatato Essiccato** + reagenti (li trovi nella tana stessa). **Lancialo addosso a Ethel** durante lo scontro: rigurgita Vanra.
-   - **Attacchi non letali**: attivali, abbattila in mischia e poi **libera Vanra tagliando**.
-5. **La scelta buona**: salva Vanra e **risparmia Ethel** solo se accetti il suo patto (diventa alleata per il finale). Se preferisci ucciderla — è comunque una scelta buona, hai fatto giustizia per le sue vittime — perdi solo quell'alleata.
+### 🗺️ 34.1 — Geografia della tappa
 
-**Ricompense**: **Amuleto del Cavalcavento** (*Amulet of Windrider*) e **Prerogativa del Duellante** (*Duellist's Prerogative*, stocco leggendario: reazione di parata + azione bonus extra). Lo stocco è **eccellente sul protagonista Paladino/Stregone**.
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Caserma della Porta del Basilisco** | **Città Bassa**, appena dentro la porta che arriva dall'Attraversamento del Wyrm. Waypoint **Porta del Basilisco**: Lora è nel cortile della caserma, che discute con **Liara Portyr** del Pugno Fiammante |
+| **Sirena Arrossita** (*Blushing Mermaid*) | **Città Bassa**, quartiere **Steeps**: a **sud del Parco Bloomridge**, affacciata sull'argine del **Porto Grigio** (*Grey Harbour*). Si riconosce a colpo d'occhio: l'edificio è lo **scafo di un vecchio veliero**, col ponte di prua usato come terrazza |
+| **Old Garlow's Place** | Quartiere **Heapside**, casa isolata su uno **sperone di roccia a picco sul Chionthar**. Ci vai solo per le ceneri del Veleno della Megera |
+| **Tana di Ethel** | **Sotto** la Sirena Arrossita: cantina → muro illusorio → antro paludoso |
+| **Casa di Lora** | Città Bassa, poco lontano dalla taverna: il marcatore compare sulla mappa quando salvi Vanra. **È lì che si ritirano le ricompense** |
+
+> ⛔ **L'ERRORE CHE COSTA LE DUE RICOMPENSE MIGLIORI:** devi **parlare con Lora alla caserma PRIMA** di liberare Vanra dalla tana. Se scendi sotto la taverna e risolvi tutto senza aver mai avviato la missione da lei, **non ti offre più né l'amuleto né lo stocco leggendario**. Lora sta sulla strada per la Città Bassa (Tappa 29): parlarle costa trenta secondi.
+
+### 34.2 — Prepara il Veleno della Megera *prima* di scendere
+
+È l'oggetto che risolve lo scontro senza rischi, e i reagenti **non sono nella tana**: vanno presi prima.
+
+1. Vai a **Old Garlow's Place** (Heapside, sulla rupe sopra il fiume). Porta d'ingresso chiusa: **Rapidità di Mano CD 15**.
+2. Nel salone al piano terra c'è una **cassaforte**: dentro le **Ceneri di Fiore Fatato Essiccato** (*Ashes of Dried Fey Flower*).
+3. **Craftale subito** in Alchimia: Ceneri + una qualsiasi **Essenza** (si ottiene da 3 × Pietra Silvana, Spore di Timmask, Lente Cristallina o altro materiale da essenza).
+   - ⚠️ **Le ceneri sono un oggetto unico nel gioco e NON sono marcate come oggetto di trama**: se le lasci in borsa, un'estrazione alchemica automatica può consumarle per un'altra ricetta. Crea la granata **nello stesso momento in cui le raccogli**.
+4. Effetto del **Veleno della Megera** (*Hag's Bane*): gittata **18 m**, infligge **Nauseato** per 3 turni e **costringe una megera che ha ingoiato un bambino a rigurgitarlo all'istante**.
+
+### 34.3 — La Sirena Arrossita e il Capitano Grisly
+
+1. Al **piano superiore** della taverna (la zona lussuosa oltre il palco e la sala da gioco) trovi il **Capitano Grisly**: è **Zietta Ethel** travestita. Ti dice che Lora è pericolosa e ti offre **3.000 mo** (**6.000** se sei un Ladro) per ucciderla.
+   - ⛔ **RIFIUTA.** Uccidere Lora è la via malvagia: prendi l'oro ma **Vanra è persa**.
+2. Tre modi per smascherarla, tutti validi:
+   - **rifiutare il contratto** → lascia cadere il travestimento da sola;
+   - il **biglietto nella scrivania di palissandro**, che parla della "Zietta";
+   - trovare il **vero Capitano Grisly** giù in cantina.
+3. **Ingresso alla tana**: porta di quercia al piano terra vicino al bancone (o le scale della cantina) → magazzino coi **barili di vino infuocato** → **salta sui barili** e supera una prova di **Indagare CD 15** per attraversare il **muro illusorio** → antro paludoso pattugliato dalle **vittime mascherate** → **porta di metallo chiusa**: **Rapidità di Mano**, oppure la **Chiave della Tana di Zietta Ethel**.
+   - ⚠️ Le **vittime mascherate** sono le stesse dell'Atto 1: **innocenti stregati**, non mostri. Usa attacchi non letali dove puoi invece di farle a pezzi.
+
+### 34.4 — Lo scontro: come NON uccidere Vanra
+
+⚠️ **Vanra è dentro lo stomaco di Ethel.** Se Ethel muore con la bambina dentro, **Vanra muore con lei**. Due modi puliti:
+
+| Metodo | Come |
+|---|---|
+| 🥇 **Veleno della Megera** | **Lancialo addosso a Ethel** appena parte il combattimento: rigurgita Vanra all'istante e resta **Nauseata 3 turni** (non agisce). È di gran lunga la via più sicura |
+| 🥈 **Attacchi non letali** | Attivali su **tutto il gruppo** (valgono solo in mischia!), abbattila corpo a corpo e poi **libera Vanra tagliando**. ⚠️ un *Dardo Incantato* o una zona di fuoco la uccidono lo stesso: tieni gli incantatori sui suoi minion |
+
+### 34.5 — Il destino di Ethel (scelta aperta)
+
+| Scelta | Conseguenze |
+|---|---|
+| **Risparmiarla** (accetti di lasciarla andare) | Ti dà **3.000 mo** e promette sostegno: diventa un'**alleata** in *Raduna i tuoi Alleati*. Prezzo morale: resta al mondo una megera che mangia bambini |
+| **Ucciderla** | Giustizia per le sue vittime, ed è **una scelta buona a pieno titolo**. Perdi l'alleata e i 3.000 mo. Bottino sul corpo: **Ring of Feywild Sparks** e una **Moneta d'Anima** |
+
+> 💭 Nessuna delle due sporca la run. Se ti interessa il conteggio degli alleati per la battaglia finale, risparmiala; se ti interessa la coerenza del personaggio, falla fuori — le vittime nelle gallerie parlano da sole.
+
+### 34.6 — Ricompense (da ritirare a casa di Lora)
+
+Riporta Vanra dalla madre e poi **va' a casa loro**: Lora ti consegna
+
+- **Amuleto del Cavalcavento** (*Amulet of Windrider*, molto raro) — *Cavalca i Venti* come incantesimo di 3° livello (riposo lungo) + *Raffica di Vento* di 2° (riposo breve). Mobilità gratis per chi non ha Passo Nebbioso.
+- **Prerogativa del Duellante** (*Duellist's Prerogative*) — **stocco leggendario +3**: 1d8+3 perforante **+1d4 necrotico**. Con la **mano secondaria vuota**:
+  - **Duellante Elegante**: critico già con **19** e **una reazione extra a turno**;
+  - **Taglio Debilitante** (*Withering Cut*): reazione che aggiunge danno necrotico pari al bonus di competenza;
+  - **Entusiasmo del Duellante**: **un attacco in mischia extra come azione bonus** (si ricarica ogni turno).
+  - ⚠️ Due avvertenze: servono le **competenze negli stocchi** per sbloccare le azioni d'arma, e i tre poteri funzionano **solo a mano secondaria vuota** → **niente scudo** (−2 CA sul Paladino). Sul protagonista Paladino/Stregone resta comunque un upgrade enorme: la reazione extra vale anche per Attacchi di Opportunità, *Intimorire Infernale* e *Controincantesimo*.
+
+> 🏆 Salvare Vanra sblocca **Ispirazione** per alcuni background (Accolito): conta per 🏆 **Giocatore di Ruolo**.
 
 ---
 
 ## TAPPA 35 — MISTICO CARCAME E VILLA PHILGRAVE (liv. 11-12)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — Astarion per la Rapidità di Mano CD 20 sulle porte trappolate (maledizione *Marciume Magico*), Gale per far esplodere da lontano il vaso col cuore di Carcame (8d6 da fuoco).
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — Astarion per la porta di pietra della villa (**CD 25**) e per la porta della tana antica (**Rapidità di Mano CD 20**, che va scassinata *senza aprirla*), Gale per far esplodere da lontano il vaso col cuore di Carcame (8d6 da fuoco).
 
-Una linea "orrorifica" facoltativa, ma con ottime ricompense e una scelta morale netta.
+Una linea "orrorifica" facoltativa, ma con ottime ricompense, una scelta morale netta e un oggetto che serve a un'altra missione.
 
-1. **Villa Philgrave**, Città Bassa: dentro c'è il lich mummia **Mistico Carcame** e il suo servo non-morto **Thrumbo**.
-2. Missione **Trova il Servitore del Mistico Carcame**: Carcame ti chiede di riportargli Thrumbo.
-   - ⛔ Non consegnare Thrumbo. **Schierati con lui**: è una vittima tenuta in schiavitù oltre la morte.
-3. Missione **Poni Fine all'Immortalità del Mistico Carcame**:
-   - Scala di ferro nel seminterrato → *Memorie di una Mummia* → tana antica nelle **Rovine della Sottocittà** (passando dalle fogne).
-   - Scassina le porte con **Rapidità di Mano CD 20** per non far scattare le trappole (maledizione *Marciume Magico*).
-   - Trova *Forma e Funzione dei Vasi Funerari*: il **cuore** di Carcame è dentro **Thrumbo**.
-   - Distruggi anche i tre vasi degli altri organi (cervello, polmoni, fegato): lo indeboliscono molto.
-   - Torna da Thrumbo, digli la verità: rigurgita il **Vaso col Cuore del Mistico Carcame**. **Distruggilo da lontano** (esplode per 8d6 da fuoco).
-4. **Ricompensa**: **Anello del Signore della Cripta** (*Crypt Lord Ring*) da Thrumbo, più il bottino della villa.
+### 🗺️ 35.1 — Geografia della tappa
+
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Villa Philgrave** | Città Bassa, quartiere **Brampton**: **a sud dei Fuochi d'Artificio di Felogyr** (*Felogyr's Fireworks*) e a ovest dei vicoli controllati dalla Gilda. Waypoint più vicino: **Heapside Strand** |
+| **Casa sulla spiaggia di Thrumbo** | Sulle **banchine a est della villa**: Thrumbo è nascosto **dentro un armadio** |
+| **Obitorio** (*Mortuary*) | Nella parte **est del Cimitero della Città Bassa**, sulla collinetta centrale. Ci si entra dalla **botola chiusa accanto ai gradini del portico**: **Rapidità di Mano CD 10**, o la chiave che ha addosso **Valmorba** |
+| **Tana antica di Carcame** | **Rovine della Sottocittà**: passa dalle **Fogne della Città Bassa**, sblocca il waypoint **Rovine della Sottocittà**, poi vai verso **ovest** fino al passaggio nascosto |
+
+**Quattro modi per entrare nella villa**: porta di pietra chiusa (**Rapidità di Mano CD 25**) · parola d'ordine **"Secreta mortuorum"** · buco nel seminterrato (solo creature **Piccole/Minuscole** → Camuffarsi o Forma Selvatica) · **balcone del terzo piano** con **Passo Nebbioso**.
+
+⚠️ Dentro: le **bare** sputano fuori non-morti se le apri, e il **ritratto** all'ultimo piano infligge danno psichico se fallisci una prova di **Arcano CD 15**.
+
+### 35.2 — Chi è il Mistico Carcame
+
+È un **Signore delle Mummie** (*Mummy Lord*), non un lich: si spaccia per un **medium** che lavora coi ricchi della Città Alta, e nel frattempo fa anche il **mercante** (puoi comprare da lui prima di romperla). Il suo servo non-morto è **Thrumbo**.
+
+**È immortale finché il suo cuore è intatto**: puoi abbatterlo quante volte vuoi, si rialza.
+
+### 35.3 — Trova il Servitore del Mistico Carcame
+
+1. Carcame ti chiede di riportargli **Thrumbo**, il servo scappato.
+2. Thrumbo è nella **casa sulla spiaggia a est della villa**, rannicchiato **in un armadio**.
+3. ⛔ **Non consegnarlo.** **Schierati con lui**: è una vittima tenuta in schiavitù oltre la morte. Così parte *Poni Fine all'Immortalità del Mistico Carcame*.
+
+### 35.4 — Poni Fine all'Immortalità del Mistico Carcame
+
+1. **Sotto la villa**: scendi nel covo di Carcame dalla **scala di ferro** (in alternativa aggira il muro con **Forma Selvatica**, **Camuffarsi** o **Forma Gassosa**). Lì trovi il libro ***Memorie di una Mummia***, che nomina la **tana antica nelle Rovine della Sottocittà**.
+2. **Nella tana antica** — ⚠️ **la regola d'oro**: **non aprire nulla di slancio**. Aprire i forzieri o la porta segreta applica la maledizione ***Marciume Magico*** (*Spell Rot*) e sveglia i non-morti. **Scassinare** la porta con **Rapidità di Mano CD 20 senza aprirla** è sicuro e **tiene spente le difese della tana**.
+3. **I quattro vasi canopi** (ognuno dà a Carcame un bonus difensivo: distruggerli lo indebolisce, ma **solo il cuore lo uccide davvero**):
+
+   | Vaso | Dove |
+   |---|---|
+   | **Cervello** | Su un tavolo nella **tana antica** |
+   | **Fegato** | In un **forziere dorato** nella tana antica |
+   | **Polmoni** | ⚠️ Fuori mappa rispetto al resto: **seminterrato dell'Obitorio**, nel Cimitero della Città Bassa (li aveva comprati **Valmorba** da un avventuriero) |
+   | **Cuore** | **Dentro Thrumbo** |
+
+4. Nel **laboratorio nascosto** della tana trovi ***Forma e Funzione dei Vasi Funerari***: è la prova che il cuore è dentro Thrumbo.
+5. **Torna da Thrumbo e digli la verità**: rigurgita il **Vaso col Cuore del Mistico Carcame**. **Distruggilo con attacchi a distanza** — esplode per **8d6 da fuoco**. Poi torna alla villa per lo scontro finale, stavolta definitivo.
+6. ⏱️ ⚠️ **Non lasciare la linea a metà.** Se abbatti Carcame senza aver distrutto il cuore e poi fai un **riposo lungo**, lui **risorge e stermina Thrumbo e i suoi amici**. Chiudi tutta la tappa prima di riposare.
+
+### 35.5 — Bottino
+
+| Da dove | Cosa |
+|---|---|
+| **Thrumbo**, a missione conclusa | **Anello del Signore della Cripta** (*Crypt Lord Ring*) |
+| **Corpo di Carcame** | *Staff of Cherished Necromancy* · *Armour of the Sporekeeper* · *Hood of the Weave* · *Veil of the Morning* · *Rusty Key* |
+| **Villa Philgrave** | ***Torch of Revocation*** (forziere chiuso) · *Acquisitions Record* · chiave della villa · **Ametista Scura** se non l'hai raccolta nell'Atto 1 (serve per la *Necromanzia di Thay*) |
+| **Tana antica** | Forzieri dorati pieni d'oro e il **Breaching Pikestaff** |
+
+> 🔗 **La *Torch of Revocation* serve a un'altra missione**: è l'oggetto che scaccia lo spirito in **Libera l'Artista** (Oskar Fevras, posseduto alla **Tenuta di Lady Jannath**). Le altre vie per averla sono **pagarla 3.000 mo** a Carcame o ucciderlo: seguendo questa tappa te la porti via **gratis**.
+
+> ⚠️ **Nota sui nomi**: gli oggetti lasciati in inglese qui sopra sono quelli di cui **non ho la dicitura italiana verificata**. A schermo cercali per icona/slot, non per traduzione letterale.
 
 ---
 
@@ -1328,7 +1456,7 @@ Ricerca svolta ad agosto 2026. Fonti principali:
 - **Wyll, Mizora e Karlach (bivio patto/Averno)**: [GameRant — How to Break Wyll's Pact with Mizora](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [TheGamer — All Karlach Endings](https://www.thegamer.com/baldurs-gate-3-all-karlach-endings/) · [SegmentNext — All Karlach Endings](https://segmentnext.com/baldurs-gate-3-karlach-endings/) · [Switchblade Gaming — Karlach Romance](https://www.switchbladegaming.com/baldurs-gate-3/karlach-romance/)
 - **Casa della Speranza e Raphael**: [bg3.wiki — House of Hope](https://bg3.wiki/wiki/House_of_Hope) · [CBR — Helsik Ritual](https://www.cbr.com/baldurs-gate-3-helsik-ritual-house-of-hope-guide/) · [GameRant — How to Complete the Helsik Ritual](https://gamerant.com/baldurs-gate-3-how-to-complete-the-helsik-ritual-house-of-hope-portal/)
 - **Bhaal, Orin, Tribunale**: [bg3.wiki — Get Orin's Netherstone](https://bg3.wiki/wiki/Get_Orin%27s_Netherstone) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve_the_Open_Hand_Temple_Murders) · [ScreenRant — Unholy Assassin o uccidere Sarevok](https://screenrant.com/baldurs-gate-3-murder-tribunal-unholy-assassin-sarevok/) · [Gamer Guides — Murder Tribunal walkthrough](https://www.gamerguides.com/baldurs-gate-3/guide/walkthrough/act-3-lower-city/murder-tribunal-walkthrough-in-bg3-unholy-assassin-and-finding-orin)
-- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway)
+- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway)
 - **Finali e alleati**: [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Endings](https://bg3.wiki/wiki/Endings) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies)
 - **Trofei**: **Lista trofei PSN italiana** — [UAGNA — Lista Trofei Baldur's Gate 3](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538) · [bg3.wiki — Guida "Fancy Footwork"](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)) · [Tigore's Tips — Fancy Footwork](https://tigorestips.com/dnd/bg3-gortashs-fancy-footwork-achievement-guide/) · [Tigore's Tips — Crash Landing (Ansur)](https://tigorestips.com/dnd/bg3-wyrmway-crash-landing-achievement-guide/) · [SegmentNext — Crash Landing](https://segmentnext.com/baldurs-gate-3-crash-landing/) · [PlayStationTrophies — Interfectorem Draconis](https://www.playstationtrophies.org/game/baldurs-gate-iii/trophy/interfectorem-draconis.html) · [dotesports — Mind Blown](https://dotesports.com/baldurs-gate/news/baldurs-gate-3-how-to-complete-the-mind-blown-achievement-in-bg3) · [TheGamer — Come corteggiare l'Imperatore](https://www.thegamer.com/baldurs-gate-3-bg3-the-emperor-romance-guide/) · [bg3.wiki — Leave No One Behind](https://bg3.wiki/wiki/Leave_No_One_Behind) · [GameRant — Trovare ogni tiefling](https://gamerant.com/baldurs-gate-3-bg3-find-every-missing-tiefling-leave-no-one-behind/) · [XboxAchievements — The Lich-Queen's Wrath](https://www.xboxachievements.com/game/baldurs-gate-3/achievement/the-lich-queens-wrath.html)
 - **Nomi italiani di luoghi, PNG e oggetti**: [NextGenTech.it — Guida strategica Atto 3](https://www.nextgentech.it/gaming/guida-strategica/baldurs-gate-3-guida-strategica-atto-3/) · [Bazaverse — Rivington](https://bazaverse.com/2024/04/22/baldurs-gate-3-rivington/) · [Bazaverse — La Guida Completa](https://bazaverse.com/2024/04/17/baldurs-gate-3-la-guida-completa/)
