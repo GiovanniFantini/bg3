@@ -37,9 +37,9 @@
 - [Tappa 40 — Casa della Speranza: Raphael, Speranza, Martello Orfico](#tappa-40--casa-della-speranza-raphael-speranza-martello-orfico-liv-12)
 - [Tappa 41 — ⏱️ Trono di Ferro](#tappa-41--️-trono-di-ferro-liv-12--la-tappa-più-difficile-dellatto)
 - [Tappa 42 — Fonderia delle Sentinelle d'Acciaio](#tappa-42--fonderia-delle-sentinelle-dacciaio-liv-12)
-- [Tappa 43 — 🏆 Gortash](#tappa-43---gortash-liv-12--trofeo-passo-leggiadro)
-- [Tappa 44 — Wyrmway e Ansur](#tappa-44--wyrmway-e-ansur-liv-12--trofeo-atterraggio-forzato)
-- [Tappa 45 — 🏆 Tribunale degli Omicidi](#tappa-45---tribunale-degli-omicidi-liv-12)
+- [Tappa 43 — 🏆 Gortash](#tappa-43---gortash-liv-12--trofeo-fancy-footwork)
+- [Tappa 44 — Wyrmway e Ansur](#tappa-44--wyrmway-e-ansur-liv-12--trofeo-crash-landing)
+- [Tappa 45 — 🏆 Tribunale degli Omicidi](#tappa-45---tribunale-degli-omicidi-liv-12--trofeo-murder-in-baldurs-gate)
 - [Tappa 46 — 🏆 Orin e il Tempio di Bhaal](#tappa-46---orin-e-il-tempio-di-bhaal-liv-12)
 - [Tappa 47 — Ultimi preparativi e Raduna i tuoi Alleati](#tappa-47--ultimi-preparativi-e-raduna-i-tuoi-alleati)
 - [Tappa 48 — 🚩 Pozza Morfica: punto di non ritorno](#tappa-48---pozza-morfica-punto-di-non-ritorno)
@@ -85,7 +85,7 @@ L'Atto 3 è il più grande, il più libero e **il più facile da rovinare**. Tre
 4. **Controlla il gruppo dopo ogni riposo.** Orin sostituisce un tuo compagno con un mutaforma e non te lo dice. Se un compagno parla "strano" o ha battute fuori posto, **è lei**.
 5. **Salvataggi manuali a rotazione su 5 slot.** In questo atto ti servono salvataggi *conservati*, non solo recenti: vedi la sezione trofei.
 6. **Livello 12 il prima possibile.** Il tetto è 12: arrivarci prima del Trono di Ferro rende tutto il resto molto più gestibile.
-7. **Compra, non risparmiare.** Alla fine dell'atto l'oro non serve più a niente e ti servono ~10.000-20.000 monete per la Casa della Speranza. Vendi tutto il ciarpame.
+7. **Compra, non risparmiare.** Alla fine dell'atto l'oro non serve più a niente e ti servono ~10.000-20.000 monete per la Casa della Speranza — **oppure zero**, se accetti l'incarico dei Guanti per Helsik (Tappa 40.1). Vendi comunque tutto il ciarpame.
 8. **Viaggio rapido**: sblocca subito tutti i punti di Città Bassa camminando lungo la strada principale. Ti risparmierà ore.
 
 ---
@@ -198,6 +198,9 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 | Speranza | Hope |
 | Martello Orfico | Orphic Hammer |
 | Specchio della Perdita | Mirror of Loss |
+| Volta Stregonesca | Sorcerous Vault |
+| Chiostro del Cupo Abbraccio | Cloister of Sombre Embrace |
+| Camera · Soglia della Perdita | Chamber · Threshold of Loss |
 | Crepuscolo Infernale (set) | Helldusk (armour set) |
 | Pozza Morfica | Morphic Pool |
 
@@ -236,7 +239,7 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 | **Rivington** | Campo profughi, Circo degli Ultimi Giorni, Tempio della Mano Aperta, Emporio di Rivington, Ferg Drogher, il Bue Strano | Tappe 27-29 |
 | **Attraversamento del Wyrm** (Wyrm's Crossing) | Ponte doppio, L'Ascia Danzante di Danthelon, ingresso alla Roccia del Wyrm | Tappe 30, 32 |
 | **Roccia del Wyrm** | Incoronazione, prigione (Florrick), **Wyrmway** e la tana di **Ansur**, trono di Gortash | Tappe 30, 43, 44 |
-| **Città Bassa** | Taverna del Canto Elfico (base), Curiosità Stregonesche, Torre di Ramazith, Casa del Dolore, Tributo del Diavolo, Casa dei Contabili, Gazzetta, La Carezza di Sharess, Forgia dei Nove, Villa Philgrave (Brampton), Sirena Arrossita (Steeps), Old Garlow's Place (Heapside), Obitorio e Cimitero, Palazzo Szarr, Fonderia, Merci Flymm | Tappe 31-43 |
+| **Città Bassa** | Taverna del Canto Elfico (base), Curiosità Stregonesche e Torre di Ramazith (Heapside), Casa del Dolore (Steeps), Tributo del Diavolo, Casa dei Contabili, Gazzetta, La Carezza di Sharess, Forgia dei Nove, Villa Philgrave (Brampton), Sirena Arrossita (Steeps), Old Garlow's Place (Heapside), Obitorio e Cimitero, Palazzo Szarr, Fonderia, Merci Flymm | Tappe 31-43 |
 | **Fogne e Cisterna** | La Gilda, il Signore di Pietra (Minsc), i cultisti di Bhaal | Tappa 32 |
 | **Rovine della Sottocittà** | Tempio di Bhaal, tana antica del Mistico Carcame | Tappe 35, 46 |
 | **Casa della Speranza** (Averno) | Raphael, Speranza, Martello Orfico, set Crepuscolo Infernale | Tappa 40 |
@@ -261,12 +264,12 @@ Lo useremo tre volte: **Scappatoia** (Tappa 30), **Il Potere Assoluto Corrompe**
 
 | Trofeo (nome PSN italiano) | Requisito | Dove | Compatibile con la run buona? |
 |---|---|---|---|
-| 🏆 **Passo Leggiadro** | Sconfiggi Gortash senza far scattare neanche una trappola | Tappa 43 | ✅ Sì |
-| 🏆 **Primo Sangue** | Uccidi Orin prima che i cultisti completino il rituale | Tappa 46 | ✅ Sì |
-| 🏆 **Atterraggio Forzato** | Butta giù il drago mentre è a mezz'aria (**Ansur**) | Tappa 44 | ✅ Sì |
+| 🏆 **Fancy Footwork** ⚠️ *(dicitura IT non verificata)* | Sconfiggi Gortash senza far scattare neanche una trappola | Tappa 43 | ✅ Sì |
+| 🏆 **First Blood** ⚠️ *(nascosto; dicitura IT non verificata)* | Uccidi Orin prima che i cultisti completino il rituale | Tappa 46 | ✅ Sì |
+| 🏆 **Crash Landing** ⚠️ *(dicitura IT non verificata)* | Butta giù il drago mentre è a mezz'aria (**Ansur**) | Tappa 44 | ✅ Sì |
 | 🏆 **Interfectorem Draconis** | Uccidi il drago rosso nella Città Alta (battaglia finale) | Tappa 49 | ✅ Sì |
 | 🏆 **Mente Sconvolgente** | Corteggia l'Imperatore | Tappa 47 | ✅ Sì (non serve accettare il girino) |
-| 🏆 **Omicidio a Baldur's Gate** | Entra nei ranghi degli Assassini Nefandi di Bhaal | Tappa 45 | ✅ Sì (con la mano di Gortash) |
+| 🏆 **Murder in Baldur's Gate** ⚠️ *(nascosto; dicitura IT non verificata)* | Entra nei ranghi degli Assassini Nefandi di Bhaal | Tappa 45 | ✅ Sì (con la mano di Gortash) |
 | 🏆 **Scappatoia** | Infrangi il patto di Wyll con Mizora | Tappa 30 | ⚠️ **Solo in 🔁 salva/ricarica** |
 | 🏆 **Nessuno Rimane Indietro** | Salva tutti i profughi tiefling | Scatta ai **titoli di coda**: conta chi è **vivo**, non chi hai salutato. Sono **sparsi**: elenco completo alla **Tappa 27** | ✅ Sì |
 | 🏆 **Rattoppare la Trama** | Stabilizza il globo netherese di Gale | Già fatto in Atto 2 | ✅ |
@@ -295,7 +298,7 @@ Se ne hai qualcuno ancora aperto, **l'Atto 3 è l'ultima occasione**. Falli entr
 | 🏆 **Artista della Fuga** — *Evadi di prigione dopo l'arresto* | Commetti un crimine davanti ai Pugni Fiammeggianti in Città Bassa, **arrenditi**, poi scassina la cella e scappa (o usa Passo Nebbioso). La prigione della Roccia del Wyrm va benissimo |
 | 🏆 **Tuttofare** — *Multiclassa in tutte le classi* | Servono 12 classi su 12 livelli, quindi **un solo livello per classe**. Usa un **gregario di Withers** (100 mo): rispeccalo con **13 in FOR, DES, INT, SAG e CAR** (con point-buy ci stai: 13/13/8/13/13/13) e prendi un livello per ciascuna delle 12 classi |
 | 🏆 **Esternalizzazione** — *Recluta un gregario* | Parla con **Withers** al campo: 100 mo. Lo stesso gregario ti serve per *Tuttofare* |
-| 🏆 **Topo da Biblioteca** — *Leggi 100 libri diversi* | **Curiosità Stregonesche** (Tappa 36) è una libreria a tre piani: qui lo chiudi in dieci minuti |
+| 🏆 **Topo da Biblioteca** — *Leggi 100 libri diversi* | **Curiosità Stregonesche** (Tappa 36) è una libreria a tre piani e ti porta a un passo dal traguardo, ma **non basta da sola**: leggi tutto quello che trovi anche negli altri atti |
 | 🏆 **Musicista di Strada** — *100 mo suonando* | Suona uno strumento in mezzo alla folla a Rivington o davanti alla Taverna del Canto Elfico. Serve un personaggio con proficienza (Bardo, o chiunque col talento **Iniziato all'Arte**) |
 | 🏆 **Scava per la Vittoria** — *5 forzieri sepolti* | Rivington e il cimitero della Città Bassa ne hanno diversi: cerca i mucchi di terra smossa con la pala |
 | 🏆 **Giocatore di Ruolo** — *10 obiettivi di background* | L'Atto 3 ne offre a decine (Vanra, Circo, Gilda, Tribunale…): tieni d'occhio le notifiche "Ispirazione" |
@@ -344,7 +347,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 | **37 Casa del Dolore** | ⚠️ **Cuorescuro** + Jaheira | la sua fine migliore; Jaheira per risparmiare Viconia |
 | **38 Palazzo Szarr** | ⚠️ **Astarion** + Karlach | il rituale di Cazador |
 | **39 Rivatempestosa** | ⚠️ **Gale** | l'udienza con Mystra |
-| 40 Casa della Speranza | Wyll | Warlock → sconto del rituale da Helsik (10.000 invece di 20.000) |
+| 40 Casa della Speranza | Wyll | Warlock → **Persuasione CD 25** invece di Intimidazione da Helsik: sconto a 10.000 |
 | **41 Trono di Ferro** | Wyll + **squadra mobile** | 6 turni: servono velocità e teletrasporti, non cure |
 | 42 Fonderia | Karlach | il Titano delle Sentinelle d'Acciaio |
 | **43 Gortash** | Gale (**tutti a distanza**) | il trofeo salta appena scatta una trappola |
@@ -805,83 +808,228 @@ Una linea "orrorifica" facoltativa, ma con ottime ricompense, una scelta morale 
 
 ## TAPPA 36 — CURIOSITÀ STREGONESCHE, TORRE DI RAMAZITH, DAMA AYLIN (liv. 11-12)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **GALE, obbligatorio** — è la tappa che potenzia di più il gruppo: la *Necromanzia di Thay* si apre in sicurezza solo con lui e una prova di Arcano, e il **Markoheshkir** della Torre di Ramazith va nelle sue mani.
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **GALE, obbligatorio** — è la tappa che potenzia di più il gruppo, e Gale serve **due volte**: è lui che lancia **Vedere l'Invisibile** e tira **Arcano CD 20** per liberare il **Markoheshkir** dal Globo di Invulnerabilità, ed è lui che deve leggere la *Necromanzia di Thay*. Astarion per le serrature (CD 15-20) e per il Codex nella volta.
 
-Questa è la tappa che potenzia di più il gruppo. **Porta Gale.**
+### 🗺️ 36.1 — Geografia della tappa
 
-### 36.1 — Curiosità Stregonesche (*Sorcerous Sundries*)
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Curiosità Stregonesche** (*Sorcerous Sundries*) | Città Bassa, **cuore del quartiere Heapside**, lungo il **Muro Centrale**: è l'edificio **circolare con la grande cupola di vetrate colorate**, non puoi sbagliarlo. Vicini: **Erboristeria di Bonecloak**, **Torre di Guardia Centrale**, **Armeria di Rivatempestosa** |
+| **Torre di Ramazith** | Sopra il negozio, ma **non ci si arriva a piedi**: solo dal **portale** al primo piano |
+| **Volta Stregonesca** (*Sorcerous Vault*) | Sotto il negozio: dal **Libro con Fermaglio** nell'ufficio di Tolna, oppure dal pulsante **Volta** nella torre (⚠️ **di sola andata**) |
 
-- Tre piani di libri: 🏆 **Topo da Biblioteca** si chiude qui.
-- **Tolna Tomo-Mercante** e **Lorroakan** (che parla solo tramite proiezione): pergamene di alto livello, comprane a valanga (**Resurrezione**, **Blocca Mostri**, **Catena di Fulmini**).
-- ⚠️ **La Necromanzia di Thay** (se l'hai portata dall'Atto 1): al terzo piano c'è il modo di **leggerla in sicurezza**. Con Gale e una prova di Arcano puoi aprirla: dà il potere **Chiama Ombra**. È una scelta grigia ma non malvagia: se non vuoi rischiare, lasciala stare.
-- **Gli enigmi della libreria** (le sfere che aprono le stanze protette) portano ai forzieri con oggetti pregiati.
+### 36.2 — Il negozio, piano per piano
 
-### 36.2 — Torre di Ramazith
+- **Piano terra**: sala di vendita attorno al bancone centrale, sorvegliata da **quattro Armature Animate**. Negli espositori c'è roba in parte libera e in parte **segnata come furto**: guarda l'icona prima di prendere.
+- **Primo piano**: due stanze chiuse (**Rapidità di Mano CD 15**), una camera con la nota ***The Path to Karsus***, e l'ufficio di **Tolna Tomo-Mercante** — dentro c'è il **Libro con Fermaglio** (il portale per la volta) e, **sotto il suo bancone**, ***The Path to Elminster***.
+- **Tolna** vende libri e pergamene molto rare (**Resurrezione**, **Blocca Mostri**, **Catena di Fulmini**): comprane a valanga, e falla parlare della volta con prove **CD 16-18** (Persuasione/Intimidazione/Inganno).
+- **Rolan** lavora al banco se è sopravvissuto agli atti precedenti — nella tua run sì — e ha dialoghi dedicati alle tue scelte.
 
-Si sale con i **portali**, seguendo l'ordine dei simboli. In cima e nei livelli intermedi:
-- 🎒 **Markoheshkir** (bastone leggendario, **il miglior oggetto da incantatore del gioco**) → **a Gale, sempre**.
-- 🎒 **Veste della Trama** (*Robe of the Weave*)
-- 🎒 **Mantello dello Spostamento** (*Cloak of Displacement*)
+> 🏆 **Topo da Biblioteca** = **leggere 100 libri diversi in una partita**. Qui ce ne sono a decine e la tappa dà una spinta enorme, ma **non si chiude solo qui**: continua a leggere tutto quello che trovi anche altrove.
 
-### 36.3 — ⚠️ Lorroakan e Dama Aylin — *Trova il Canto Notturno*
+### 36.3 — La Volta Stregonesca (l'enigma delle porte)
 
-Lorroakan vuole **Dama Aylin** per rubarle l'immortalità.
+Non sono "sfere": è un **puzzle di teletrasporti**. Quattro stanze collegate, ognuna con **quattro porte etichettate** che ti spostano da una all'altra; sbagliare sequenza ti fa girare a vuoto.
 
-- ⛔ **Non consegnarla** (5.000 mo e lui come alleato — è la scelta cattiva: perdi Aylin, Isobel, e Rolan).
-- ✅ **La scelta buona**: **avvisa Aylin**, poi affronta Lorroakan. Evoca 4 mirmidoni elementali + mercenari; Aylin arriva con te.
-  - ⚠️ **Rolan**: se hai salvato **Cal e Lia** nell'Atto 2 (tu l'hai fatto), **si schiera con te** automaticamente. Se ne avessi salvato solo uno servirebbero prove CD 15-20.
-  - Dopo, **Rolan diventa il nuovo custode della torre** — e un alleato per il finale.
-- **Guadagni**: **Dama Aylin** e **Isobel** come alleate + **Rolan** + la torre saccheggiabile.
+- Le **due soluzioni sono scritte**: ***The Path to Elminster*** (sotto il bancone di Tolna) e ***The Path to Karsus*** (camera al primo piano). Prendile **prima** di entrare.
+- ⚠️ Ogni stanza è trappolata: **fosse di gas** e **teste di gargoyle** che sputano fuoco e ghiaccio. Con **Vedere l'Invisibile** si vedono le **leve** che disattivano le trappole stanza per stanza.
+- 🎒 **Codex Tharchiate** (*Tharchiate Codex*): in una teca, **Rapidità di Mano CD 20**. Leggerlo dà **prima** la maledizione permanente *Tharchiate Withering* e **poi** il potenziamento *Tharchiate Vigour*. ⚠️ Toccalo **solo se hai Rimuovi Maledizione disponibile**, altrimenti ti tieni la maledizione.
+- 🎒 ⚠️ **Annali di Karsus** (*The Annals of Karsus*): stanno nella **sezione Karsus** della volta e sono **il prerequisito dell'udienza di Gale con Mystra** (Tappa 39) — se vai al Tabernacolo senza averli presi, non succede niente. Sequenza di porte: **Silverhand → Abiurazione → Argento**, poi tira la leva (in alternativa **Bussare**). Leggerli produce la **Pergamena di Detronizzazione**, che **non si ottiene in nessun altro modo nel gioco**.
+
+### 36.4 — ⚠️ Necromanzia di Thay: come funziona davvero
+
+Il libro **non si "apre in sicurezza al terzo piano" di Curiosità Stregonesche**: si sblocca con l'**Ametista Scura** (se ti manca, ce n'è una a **Villa Philgrave**, Tappa 35) e da quel momento si legge **dove vuoi**.
+
+- Sono **tre pagine**, ognuna con un **TS su Saggezza**: **CD 10 → 15 → 20**.
+  - 1° fallimento: *Sussurri di Follia* — via con un **riposo lungo**.
+  - 2° fallimento: *Conoscenza Nefasta* — serve **Rimuovi Maledizione**.
+  - Entrambe danno **svantaggio alle prove di Saggezza** finché ci sono.
+- 💡 **Alcune classi hanno prove alternative più facili**: Bardo (Intrattenere), Stregone e Warlock (Carisma), Mago (**Intelligenza CD 5** sulla prima pagina). Fallo leggere a **Gale** o a **Wyll**, mai a Karlach.
+- **Cosa dà davvero**:
+  - **una pagina qualsiasi** → **Parlare con i Morti** permanente, lanciabile come rituale (ce l'hai già dall'Atto 1);
+  - **tutte e tre le pagine** → passivo **Conoscenza Proibita** (*Forbidden Knowledge*): **+1 ai tiri salvezza e alle prove di Saggezza**.
+- ✅ **Il passivo lo prendi comunque, anche fallendo tutti i tiri salvezza.** Le maledizioni si curano, il +1 resta: **girale tutte e tre**.
+
+### 36.5 — Torre di Ramazith
+
+> ⚠️ **Correzione importante**: **non** si sale "seguendo l'ordine dei simboli". La **Proiezione di Lorroakan**, al primo piano, apre **quattro portali** con altrettante targhe che descrivono il Canto Notturno. **Solo il portale azzurro pallido** — quello con la descrizione corretta — ti porta dentro. **Gli altri tre ti sbattono a terra e ti buttano fuori dall'edificio.**
+
+Dentro, sul **piano intermedio**, ci sono cinque **Pulsanti della Trama** su colonne:
+
+| Pulsante | Cosa fa |
+|---|---|
+| **Sotto** | Ti teletrasporta al **piano inferiore** (dove c'è la roba buona) |
+| **Volta** | Ti spara nella **Volta Stregonesca** — ⚠️ **di sola andata** |
+| **Pulizia** | Apre gli sfiati di gas |
+| **Sicurezza** | Attiva i **cannoni arcani** |
+| **Artiglieria** | Spara una palla di fuoco dalla cima della torre |
+
+🎒 **Piano inferiore — i due pezzi grossi**, entrambi dentro un **Globo di Invulnerabilità**:
+
+- **Markoheshkir** — bastone leggendario **+2**: **Incantesimo Arcano +1** (CD e tiri per colpire con incantesimi), **Batteria Arcana** (il prossimo incantesimo **non consuma slot**) e **Favore di Kereska** (ti carichi di un elemento a scelta). **A Gale, sempre.**
+- **Veste della Trama** (*Robe of the Weave*).
+
+> ⚠️ **Come si prendono, e perché si può sbagliare per sempre:** serve **Vedere l'Invisibile** per individuare la **leva nascosta**, e poi una prova di **Arcano CD 20** per spegnere il globo. **Se fallisci, le statue lanciano *Disintegrazione* sul personaggio che ci ha provato**, e dopo qualche fallimento **quel personaggio non può più riprovare**. Fai tirare **Gale**, con un'**Ispirazione** pronta da spendere se il dado va male.
+
+Altro bottino nella torre: **Cappello di Pelle di Serpente** (piano intermedio), **Pozione di Guarigione Suprema** (in cima), **Pergamena di Cerchio della Morte**, lingotto d'oro, **chiave Alta Sicurezza nº1**.
+
+> ❌ **Correzione**: il **Mantello dello Spostamento** *non* sta nella torre. Si **compra da Entharl Danthelon** all'**Ascia Danzante di Danthelon** (Attraversamento del Wyrm) per circa **190 mo**. Se non l'hai già preso passando di lì, torna a comprarlo: costa niente.
+
+### 36.6 — ⚠️ Lorroakan e Dama Aylin — *Trova il Canto Notturno*
+
+Lorroakan vuole Aylin per **rubarle l'immortalità**: ha comprato da un warlock di Calimshan una **bacchetta che domina i celestiali**.
+
+| Scelta | Conseguenze |
+|---|---|
+| ⛔ **Consegnarla** | 5.000 mo e Lorroakan alleato (col mortaio di palle di fuoco della torre). È la via cattiva: **perdi Aylin, Isobel e Rolan** |
+| ✅ **Avvisarla** | Aylin si infuria e vuole affrontarlo di persona. **Guadagni Aylin e Isobel alleate**, più Rolan, più la torre da saccheggiare |
+
+**Come va lo scontro:** Lorroakan evoca i **mirmidoni elementali** — **acqua, aria, terra e fuoco** — più i due scagnozzi **Krank** e **Miklaur**. **Aylin arriva con quattro compagni celestiali**: è una rissa grossa ma sei in netto vantaggio numerico.
+
+- ⚠️ **Rolan**: se hai salvato **Cal e Lia** nell'Atto 2 (tu l'hai fatto), **si schiera con te automaticamente**. Con uno solo dei due salvo servirebbe una prova **CD 15-20**; se fossero morti, o se gli avessi detto di andarsene nell'Atto 1, combatterebbe **contro** di te.
+- Dopo la vittoria **Rolan diventa il nuovo custode della Torre di Ramazith** e un alleato per la battaglia finale.
 
 ---
 
 ## TAPPA 37 — CASA DEL DOLORE (CUORESCURO) E SPECCHIO DELLA PERDITA (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + ⚠️ **CUORESCURO, obbligatoria** + **Astarion** + **Jaheira** — Jaheira è l'unica che può chiederti di risparmiare Viconia, e la scena ci guadagna molto. **Porta fonti di luce**: il chiostro è pieno di trappole d'ombra.
+> 🎭 **Squadra ideale:** Tu + ⚠️ **CUORESCURO, obbligatoria** + **Astarion** + **Jaheira** — Cuorescuro apre da sola il passaggio segreto (niente prova di Indagare) ed è l'unica per cui la tappa esiste; Jaheira è l'unica che può chiederti di risparmiare Viconia, e la scena ci guadagna molto; Astarion per le serrature. **Porta fonti di luce**: il chiostro è pieno di trappole d'ombra.
 
 ⚠️ **Cuorescuro deve essere in squadra.** Salvataggio manuale prima.
 
-1. **Trova il chiostro**: parla con **Ferg Drogher** a Rivington (te ne indica l'ubicazione). L'ingresso è nella **Casa del Dolore**, Città Bassa.
-2. **I ricordi di Cuorescuro** — per ottenere la fine migliore (salvare i genitori **senza** prove disperate) devi averle fatto ritrovare **almeno 2 dei 3 ricordi**:
-   - la **lapide di Allister Marnley** al cimitero della Città Bassa;
-   - il **graffito nascosto** vicino al punto di viaggio rapido di Baldur's Gate;
-   - la **grotta dell'orchidea notturna** dentro il chiostro stesso.
-   Serve anche **approvazione 50+** con lei (nella tua run ci sei).
-3. **Viconia DeVir**, la Madre Superiora, ti aspetta in fondo. Vuole l'artefatto githyanki, poi vuole **Cuorescuro**.
-   - ⛔ **Non consegnarla mai** (esiste la missione *Consegna Cuorescuro a Viconia*: è la strada cattiva, la perdi come compagna).
-   - ✅ Combatti. Il chiostro è pieno di Sharran e di trappole d'ombra: porta luce.
-   - **Dopo la vittoria**: puoi ucciderla o risparmiarla. **Risparmiarla** fa approvazione con Jaheira; ucciderla fa approvazione con Minsc. In una run buona: **lascia decidere Cuorescuro** — la scena in cui la risparmia è la sua liberazione definitiva.
-4. **La Soglia della Perdita** → i genitori **Arnell** ed **Emmeline Fogliasacra** (*Hallowleaf*). Shar appare e le chiede di ucciderli.
-   - ✅ **Rifiuta Shar.** Con i ricordi + approvazione, Cuorescuro **salva i genitori**: si riprendono al campo e la famiglia si riunisce.
-   - Ricompensa: **Lancia della Notte di Selûne** (se non l'avevi già completa) e, soprattutto, la sua fine migliore.
-5. 🎒 **Fortezza Ambulante di Viconia** (*Viconia's Walking Fortress*) — **il miglior scudo del gioco**. Mettilo su Cuorescuro.
-6. **Specchio della Perdita** (*Mirror of Loss*): nel chiostro. Sacrificando un ricordo (prova di Religione/Arcano) dà **+2 permanenti a una caratteristica**, **una volta per personaggio**.
-   - ✅ Usalo su **tutto il gruppo**: è puro guadagno.
-   - ⚠️ **NON usarlo con Cuorescuro** se hai appena recuperato i suoi ricordi: rischi di annullare il lavoro fatto.
+### 🗺️ 37.1 — Geografia della tappa
+
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Casa del Dolore** | Città Bassa, quartiere **Steeps**, **nell'angolo più remoto**: sta **isolata oltre un corso d'acqua**, e ci si arriva da un **ponte** che la collega fra la **Casa di Elerrathin** e la **Tenuta di Lady Jannath** (sì, quella di *Libera l'Artista*, vedi Tappa 35). Ha un giardinetto attorno e **un solo ingresso** |
+| **Chiostro del Cupo Abbraccio** | Sotto la casa: una **caverna enorme**. Sale d'addestramento (**Infiltrazione** e **Interrogatorio**) al livello cantina; camera principale con la conca centrale; **camerate a nord**, **biblioteca a sud**, **armeria a sud-est** |
+| **Grotta dell'orchidea notturna** | Si apre **dall'armeria**: prova di **Percezione CD 15** per notare la barricata. Dentro: un laghetto, **orchidee notturne raccoglibili** e un picnic abbandonato con i **documenti sulla Camera della Perdita** |
+| **Camera della Perdita** | In fondo al chiostro, oltre la **Soglia della Perdita**. Dentro ci sono lo **Specchio della Perdita** e la scena finale con Shar |
+
+### 37.2 — Come si entra
+
+1. **Ferg Drogher**, a Rivington vicino al **Fienile Requisito**, ti dice che gli Sharran si nascondono nella **Casa del Dolore** in Città Bassa.
+2. Al banco d'ingresso c'è **Mirie**, l'Attendente del Dolore. Le doppie porte chiuse si aprono con **Rapidità di Mano CD 15** o con la **Chiave del Dolore** → **Sala delle Mappe**.
+3. Il passaggio segreto per il chiostro è nel muro della Sala delle Mappe: **Indagare CD 20** — **oppure niente prova**, perché con **Cuorescuro** in squadra si apre da sé dopo il rituale della *Mappatura del Cuore*.
+
+### 37.3 — I tre ricordi (falli PRIMA di affrontare Viconia)
+
+Per la fine migliore — Cuorescuro salva i genitori **senza** prove disperate — servono **2 ricordi su 3** e **approvazione 50+** (nella tua run ci sei):
+
+| Ricordo | Dove |
+|---|---|
+| **Lapide di Allister Marnley** | **Cimitero della Città Bassa** |
+| **Graffito nascosto** | Su un tabellone vicino al **punto di viaggio rapido di Baldur's Gate** |
+| **Grotta dell'orchidea notturna** | Dentro il chiostro: dall'**armeria**, **Percezione CD 15** sulla barricata |
+
+> ✅ **Il passo che quasi tutti si perdono:** dopo il **secondo** ricordo si sblocca al campo la conversazione **"sugli odori della città"**. **È quella che blinda il finale buono**: se non ti è ancora partita, **riposa finché non la vedi** prima di scendere da Viconia.
+
+> 🏆 Nella grotta **raccogli un'orchidea notturna e regalagliela**: è il trofeo **Sbocciato nelle Notti Più Buie**.
+
+> 💡 Nella grotta c'è anche il **biglietto scritto in fretta** sui documenti della Camera della Perdita: **prendilo**, serve allo Specchio (vedi 37.6).
+
+### 37.4 — Viconia DeVir
+
+La Madre Superiora si rivela essere **Viconia DeVir**. Vuole l'artefatto githyanki, poi vuole **Cuorescuro**.
+
+- Con **Persuasione CD 20** si può evitare il combattimento, **ma la richiesta di consegnarti Cuorescuro resta**: ⛔ **non si consegna mai** (esiste proprio la missione *Consegna Cuorescuro a Viconia* — è la strada cattiva, la perdi come compagna). **Combatti.**
+- Il chiostro è pieno di Sharran e di **trappole d'ombra**: porta luce.
+- **Dopo la vittoria**: puoi ucciderla o risparmiarla. **Risparmiarla** fa approvazione con **Jaheira**; **ucciderla** con **Minsc** (e con Minthara comunque). In una run buona: **lascia decidere Cuorescuro** — la scena in cui la risparmia è la sua liberazione definitiva.
+
+🎒 **Fortezza Ambulante di Viconia** (*Viconia's Walking Fortress*) — scudo **leggendario, +3 CA**, addosso a lei:
+- **vantaggio ai TS contro gli incantesimi** e **svantaggio ai tiri per colpire con incantesimi** contro chi lo porta;
+- **reazione**: chi ti colpisce in mischia subisce **2d4 da forza** e cade **prono** se fallisce un TS di **Forza**;
+- **Guscio Riflettente** (azione bonus, riposo breve) e **Legame Protettivo** (azione, riposo lungo).
+→ **Mettilo su Cuorescuro.**
+
+Altro bottino del chiostro: **Mazza dell'Ancella**, **Veste da Sacerdotessa di Viconia**, **Diamante Nero** sull'altare, **chiave Alta Sicurezza nº8**.
+
+### 37.5 — La Soglia della Perdita (è un cancello vero)
+
+La porta che chiude la Camera della Perdita **non si apre da sola**. Quattro modi:
+
+| Come | Note |
+|---|---|
+| **Sconfiggere Viconia** | La via naturale: dopo lo scontro la Soglia si apre |
+| **Bussare** (*Knock*) | La scorciatoia comoda se vuoi entrare prima |
+| **Mettere 1.000+ mo di valore** sul piatto della statua | Funziona con oggetti, non serve oro contante |
+| **Rapidità di Mano CD 30** | Solo Astarion pompato + Ispirazione, ed è comunque un tiro brutto |
+
+### 37.6 — Specchio della Perdita
+
+Sta all'**estremità ovest della Camera della Perdita**. Una volta aperta la Soglia **è usabile quando vuoi**: non serve aver già ucciso Viconia.
+
+1. **Sbloccarlo**: un membro del gruppo deve passare **Religione CD 20** *oppure* **Arcano CD 25** — **oppure** aver letto il **biglietto scritto in fretta** della grotta dell'orchidea, che **salta del tutto la prova**. 💡 Un altro motivo per fare la grotta per prima.
+2. **Il bonus grosso, personaggio per personaggio**: pregando Shar con **Religione CD 25** ottieni **+2 permanenti** a una caratteristica a scelta. **Una volta sola per personaggio.**
+3. Senza la preghiera resta comunque il **+1 Carisma** del *Ricordo del Patriar*.
+4. ⚠️ **Se fallisci la CD 25, quel personaggio non potrà più ottenere il +2** (il +1 Carisma sì). **Salva prima** e tira con Ispirazione pronta.
+5. ⚠️ I personaggi **seluniti** hanno **svantaggio** alla prova di Religione, a meno che non siano camuffati.
+
+> ❌ **Correzione su Cuorescuro:** non è che "rischi di annullare il lavoro fatto". Se ha **rinnegato Shar** — la tua run — lo Specchio **le nega ogni beneficio** e le dice che ha già ceduto quasi tutti i suoi ricordi. Non perdi niente: semplicemente **su di lei non funziona**. (Solo da Giustiziera Oscura otterrebbe il +2 in automatico.)
+
+✅ **Su tutti gli altri usalo**: è puro guadagno permanente.
+
+### 37.7 — La scena finale: Shar e i genitori
+
+Oltre la Soglia, nella Camera della Perdita, ci sono i genitori **Arnell** ed **Emmeline Fogliasacra** (*Hallowleaf*). **Shar appare e chiede a Cuorescuro di ucciderli.**
+
+- ✅ **Rifiuta Shar.** Con **2 ricordi + approvazione 50+ + la conversazione sugli odori** già fatti, Cuorescuro **li salva senza dover passare prove disperate**: si riprendono al campo e la famiglia si riunisce.
+- ⚠️ **Nota di correzione**: la **Lancia della Notte di Selûne** **non è una ricompensa di questa tappa** — è la trasformazione della *Lancia della Notte* del **Guanto di Shar (Atto 2)**, decisa da come hai chiuso *Il Prescelto di Shar*. Qui la ricompensa vera è **la sua fine migliore**, più lo scudo di Viconia.
 
 ---
 
 ## TAPPA 38 — PALAZZO SZARR E CAZADOR (ASTARION) (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + ⚠️ **ASTARION, obbligatorio** + **Cuorescuro** + **Karlach** — Cuorescuro serve per **Luce del Giorno** (Cazador ha *Ipersensibilità alla Luce Solare*: lo mette in ginocchio), Karlach per chiudere in fretta prima che il rituale faccia troppi danni.
+> 🎭 **Squadra ideale:** Tu + ⚠️ **ASTARION, obbligatorio** + **Cuorescuro** + **Karlach** — Cuorescuro serve per **Luce del Giorno**, che è letteralmente la carta che vince lo scontro (vedi 38.4); Karlach per chiudere in fretta. ⚠️ **Controlla le armi prima di entrare**: Cazador **resiste alle armi non magiche** (in Tattico e Onore ne è **immune**) e **a tutto il necrotico**.
 
 ⚠️ **Astarion in squadra.** Salvataggio manuale prima del rituale.
 
-### 38.1 — Arrivare al palazzo
+### 🗺️ 38.1 — Geografia e ingresso
 
-Il **Palazzo Szarr** è in Città Alta ma ci si accede dalla Città Bassa: scale alla **Torre di Guardia Centrale** oppure salto dal tetto del **Tributo del Diavolo**. Tre guardie ammaliate ti bloccano: prove di Inganno/Intimidazione (con Astarion presente ti lasciano passare).
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Palazzo Szarr** | **Città Alta**, sul confine con la Città Bassa. Waypoint più vicino: **Torre di Guardia Centrale** — da lì si va **a nord camminando sulla sommità del Muro Centrale** fino ai bastioni del palazzo |
+| **Ingresso principale** | Dalla **Torre Sud**, che si collega ai bastioni. In alternativa: **Passo Nebbioso** o **salto dal tetto del Tributo del Diavolo** (*Devil's Fee*) |
+| **Il Canile** | Stanza **nascosta dietro muri illusori** al livello degli spawn: qui sta **Godey** |
+| **Sotterranei di Cazador** | Sotto la sala da ballo (botola nella sala da pranzo laterale): prigioni, spawn, bambini Gur e il cerchio rituale |
 
-### 38.2 — Dentro il palazzo
+Ai posti di guardia ci sono tre servitori **ammaliati** — **Jaryd**, **Reklan** e **Merony**: convincili (Inganno/Intimidazione) o abbattili per prendere la chiave.
 
-Per aprire la **sala da ballo** servono due cose:
-- l'**Anello della Famiglia Szarr** → da **Godey** nei canili (scheletro parlante: puoi anche trattare con lui);
-- la parola d'ordine dal **Dizionario Kozakuriano** → nella camera degli ospiti maledetta, sul cadavere di **Victoria**. Usa **Rimuovi Maledizione** o un **Elisir di Resistenza al Necrotico** prima di prenderlo.
+### 38.2 — Le due chiavi della sala da ballo
 
-Sotto la sala da ballo: le **prigioni** con gli spawn vampiro, inclusi i **bambini Gur** di cui parlava **Ulma**. **Liberali**.
+La **Porta Sinistra** (*Sinister Door*) al piano superiore è chiusa con una serratura arcana e vuole **due cose insieme**:
 
-🎒 Nei livelli inferiori c'è la **Lama Pelorsun** (stocco radiante): **perfetta contro Cazador**, che ha *Ipersensibilità alla Luce Solare*. **Luce del Giorno** (*Daylight*) lo mette in ginocchio.
+1. **Anello della Famiglia Szarr** → ce l'ha **Godey**, lo **scheletro invisibile** nel **canile**, la stanza nascosta dietro i **muri illusori**. Puoi **trattare con lui** o combatterlo.
+2. **Dizionario Kozakuriano** → in un **armadio di mogano**, nella stanza al livello inferiore dove giace il **cadavere maledetto di Victoria**. ⚠️ Il corpo **emana danno necrotico**: usa **Rimuovi Maledizione** o un **Elisir di Resistenza al Necrotico** prima di avvicinarti. Il dizionario ti dà la **parola d'ordine** da pronunciare alla porta.
 
-### 38.3 — ⚠️ IL RITUALE — il bivio di Astarion
+🎒 Nella stessa stanza: **Elmo della Grinta** (*Helmet of Grit*), in un forziere opulento chiuso.
+
+⚠️ La **sala da ballo** è sorvegliata da **tre lupi mannari** più altre creature: entra pronto, non a metà riposo.
+
+### 38.3 — I sotterranei: gli spawn, i Gur e la Lama Pelorsun
+
+Sotto la sala da ballo ci sono le **prigioni** con gli spawn vampiro, inclusi i **bambini Gur** di cui parlava **Ulma**. **Liberali.**
+
+🎒 **Lama Pelorsun** (*Pelorsun Blade*) — **stocco +1 molto raro**: **1d8+1 perforante + 1d4 radiante** e **vantaggio contro i non-morti**. È l'arma su misura per questa tappa.
+
+> 🔍 **Dov'è, esattamente:** dal waypoint dei sotterranei prendi la **seconda porta aperta sulla destra**, poi scendi dalla **botola nel pavimento** (salto o teletrasporto). La lama è **sotto un cumulo di terra**, dentro un **cofanetto di palissandro trappolato**: serve una prova di **Percezione CD 15** per accorgersene. Senza cercarla, non la vedi.
+
+### 38.4 — ⚠️ Cazador: come si vince davvero
+
+| Dato | Valore |
+|---|---|
+| **PF / CA** | **208 / CA 16** (Equilibrata) · **311 / CA 17** (Tattico e Onore) |
+| **Iniziativa** | Ha **Allerta: +5** → parte quasi sempre prima di te |
+| **Resistenze** | **Tutto il necrotico** e **le armi non magiche** (in Tattico/Onore **immune** alle non magiche) |
+| **Rigenerazione** | **+10 PF a turno**… **a meno che non sia sotto la luce del sole o abbia appena subito danno radiante** |
+| **Vulnerabilità** | **Ipersensibilità alla Luce Solare**: se **inizia il turno alla luce del sole** prende **20 danni radianti** e ha **svantaggio** ad attacchi e prove |
+
+> 🥇 **Luce del Giorno (*Daylight*) è la mossa che decide lo scontro.** Non solo lo danneggia e gli dà svantaggio: **gli spegne la rigenerazione** e **lo costringe fuori dalla forma di nebbia**. Va bene anche la **Luce di Lathander**. Se non lanci luce, ti curi addosso 10 PF a turno per niente.
+
+**Chi combatte con lui**: **6 pipistrelli che ne richiamano altri 6 ogni round**, **Chatterteeth**, **3 Cacciatori Gur Caduti** e **4 Lupi Mannari Predatori**.
+⚠️ **Non inseguire i pipistrelli**: si moltiplicano all'infinito, è una trappola per il tempo. Concentra tutto su Cazador. *(In modalità Onore ha in più l'azione leggendaria **Sciame Vampirico**, 12d12 perforanti.)*
+
+### 38.5 — ⚠️ IL RITUALE — il bivio di Astarion
 
 Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 
@@ -889,75 +1037,160 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 |---|---|
 | **Lascialo ascendere** | Sacrifica 7.000 anime. Diventa Vampiro Asceso: potente, ma crudele e possessivo. **Ulma e i Gur ti diventano nemici** |
 | ✅ **Convincilo a rinunciare** (Persuasione) | Uccide Cazador da sé, resta uno spawn ma **libero**. Poi decide degli spawn prigionieri |
-| **Rifiuta di aiutarlo** | Distrugge il bastone, gli spawn muoiono, **Astarion lascia il gruppo per sempre** |
-| **Interrompi il rituale a metà** | Ti attacca: scontro mortale |
+| **Rifiuta di aiutarlo** | Distrugge il bastone di Cazador, **Astarion lascia il gruppo per sempre** (e ti augura di morire urlando) |
+| **Interrompi il rituale a metà** | Ti diventa ostile: o lo uccidi o niente |
 
 **La scelta buona (in due passaggi):**
+
 1. **Persuadilo a NON ascendere.** ("Non hai bisogno del suo potere per essere libero.")
 2. Quando decide degli spawn: ✅ **liberali verso l'Underdark**. (Le altre opzioni: ucciderli o lasciarli lì.)
    → Ottieni **Ulma e i Gur come alleati** per il finale.
 
-🎒 **Bottino**: **Rapsodia** (*Rhapsody*, pugnale che accumula bonus a ogni uccisione — **a Astarion**), il bastone **Sventura** (*Woe*), la **Lama Pelorsun**, l'armatura di Cazador.
+### 38.6 — Bottino
+
+| Cosa | Note |
+|---|---|
+| **Rapsodia** (*Rhapsody*) | **Pugnale +1 molto raro** addosso a Cazador. **Rimessa Scarlatta**: ogni nemico ucciso dà **+1 a tiri per colpire, danno e CD degli incantesimi**, fino a **+3**; al massimo sblocca *Festa Scarlatta*. **Dolce Salasso**: infligge Sanguinamento se colpisci mentre sei **nascosto o invisibile** → **su Astarion è perfetto** |
+| **Sventura** (*Woe*) | Bastone, da Cazador |
+| **Bastone di Cazador** | Solo se **non** viene distrutto (cioè se non rifiuti di aiutare Astarion) |
+| **Lama Pelorsun** | Vedi 38.3 — va cercata con Percezione |
+| **Elmo della Grinta** | Forziere opulento nella stanza di Victoria |
+| **Anello della Famiglia Szarr** · **chiave dell'Alta Sicurezza** | Più l'armatura di Cazador e il resto del palazzo |
 
 ---
 
 ## TAPPA 39 — TABERNACOLO DI RIVATEMPESTOSA (GALE E MYSTRA) (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + ⚠️ **GALE, obbligatorio** + **Cuorescuro** + un quarto libero — Gale per l'udienza con Mystra, Cuorescuro perché l'**Amuleto del Devoto** nel sotterraneo è roba sua (il miglior amuleto del gioco per lei).
+> 🎭 **Squadra ideale:** Tu + ⚠️ **GALE, obbligatorio** + **Cuorescuro** + un quarto libero — Gale per l'udienza con Mystra, Cuorescuro perché l'**Amuleto del Devoto** nel sotterraneo è roba sua.
 
 ⚠️ **Gale in squadra.**
 
-1. Il **Tabernacolo di Rivatempestosa** è il tempio pan-divino della Città Bassa. Puoi **fare un'offerta a una divinità** (costa oro, dà una benedizione).
-2. ⚠️ **Il sotterraneo**: qui c'è l'**Amuleto del Devoto** (*Amulet of the Devout*, +2 CD incantesimi divini e recupero di Canalizza Divinità) → **a Cuorescuro**. Serve una prova per accedere alla cripta.
-3. **Gale e Mystra**: al santuario di Mystra, Gale ottiene un'udienza. Mystra gli rivela che l'orbo contiene la **Trama Karsita** e gli offre il perdono in cambio della **Corona di Karsus**.
-   - ✅ **La scelta buona**: sostienilo, ma **digli che non deve nulla a Mystra** e soprattutto **non deve sacrificarsi**. La decisione sulla Corona si prende alla fine (Tappa 50): lì gli consiglierai di **restituirla a Mystra**.
-   - ⚠️ Se Gale ha firmato un contratto con **Raphael** (per l'orbo), **distruggilo alla Casa della Speranza** (Tappa 40): senza quello non è davvero libero di scegliere.
-4. **Aelis Siryasius** e gli altri chierici: qualche secondaria minore e ispirazioni.
+### 🗺️ 39.1 — Geografia della tappa
+
+| Luogo | Dove sta esattamente |
+|---|---|
+| **Tabernacolo di Rivatempestosa** | Città Bassa, quartiere **Eastway**, **proprio a fianco della Caserma della Porta del Basilisco** — la stessa dove hai parlato con Lora alla Tappa 34. È il tempio pan-divino della città |
+| **Il sotterraneo** | Si entra da una **botola esterna** vicino all'ingresso: **Rapidità di Mano CD 10**, oppure la **Chiave della Botola** che ha addosso il **Vicario Humbletoes** |
+
+### 39.2 — Offerte e benedizioni: una sola, scegli bene
+
+Puoi donare a una divinità e ricevere una benedizione. La cifra **scala col livello**: 400 mo al livello 1, **4.500 mo ai livelli 11-12**.
+
+> ⚠️ **Una divinità per personaggio, per sempre.** Appena un personaggio riceve la benedizione di un dio, **non può più donare a nessun altro**. Non è reversibile: decidi prima di aprire il portafoglio.
+
+### 39.3 — ⚠️ Il sotterraneo: come non prendersi la maledizione
+
+Nel sotterraneo ci sono gli **sfiati trappolati** e i **forzieri delle offerte**.
+
+> ⛔ **Prendere gli oggetti direttamente dai forzieri applica la maledizione *Castigato dalla Divinità*.** Si evita in due modi: **rompi il forziere**, oppure **butta prima gli oggetti a terra** e raccoglili da lì. *(Unica eccezione nel gioco: Jaheira che indossa il Dono di Khalid.)*
+
+🎒 **Amuleto del Devoto** (*Amulet of the Devout*, molto raro) — nel **forziere delle offerte centrale**:
+- **+2 alla CD degli incantesimi** (⚠️ **tutti**, non solo quelli divini);
+- **una carica extra di Canalizza Divinità**.
+→ **A Cuorescuro.** *(Bug noto: la carica extra si ricarica col **riposo breve** invece che col lungo, e può non tornare se togli l'amuleto prima di riposare.)*
+
+### 39.4 — Gale e Mystra: prima la Volta, poi il Tabernacolo
+
+> ⚠️ **L'ordine conta.** L'udienza con Mystra **si sblocca dopo** che Gale ha messo le mani sugli ***Annali di Karsus***, che stanno nella **sezione Karsus della Volta Stregonesca** (Tappa 36). Se vieni qui prima, non succede niente.
+
+1. **Prendere gli Annali** (Volta Stregonesca, Tappa 36): la sezione Karsus si apre con la sequenza di porte **Silverhand → Abiurazione → Argento**, poi si tira la leva. In alternativa: **Bussare** (*Knock*).
+   - 🎒 Leggerli produce la **Pergamena di Detronizzazione** (*Scroll of Dethrone*), che **non si ottiene in nessun altro modo nel gioco**, e fa avanzare *Il Mago di Waterdeep*.
+2. **Al Tabernacolo**, la **statua di Mystra** è il varco: Gale viene portato via per l'udienza sui piani esterni.
+3. Mystra gli rivela che quello che cercava è la **Trama Karsita** e gli mette davanti la scelta: **restituirle la Corona di Karsus** (perdono e cura) oppure **prendersi il potere da sé**.
+   - ✅ **La scelta buona**: sostienilo, ma **digli che non deve nulla a Mystra** e soprattutto **che non deve sacrificarsi**. La decisione sulla Corona si prende alla fine (Tappa 50): lì gli consiglierai di **restituirla**.
+   - ⚠️ Se Gale ha firmato il contratto con **Raphael** per l'orbo, **distruggilo alla Casa della Speranza** (Tappa 40): senza quello non è davvero libero di scegliere.
+
+> ❌ **Correzione**: **Aelis Siryasius non sta al Tabernacolo.** È uno **stregone mezzo-drow** che si è barricato in una sezione delle **Fogne della Città Bassa** (zona della Tappa 32), legato all'enigma dello **scheletro di Sarin**. Il PNG del Tabernacolo è il **Vicario Humbletoes**, che fa anche da mercante.
 
 ---
 
 ## TAPPA 40 — CASA DELLA SPERANZA: RAPHAEL, SPERANZA, MARTELLO ORFICO (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Wyll** — con un **Warlock in squadra** si sblocca da Helsik la Persuasione CD 25 **con vantaggio**: dimezza il costo del rituale (10.000 invece di 20.000). Astarion per rubare i reagenti e per non far scattare le piastre a pressione dentro la casa.
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Wyll** — con un **Warlock in squadra** Helsik ti fa passare una **Persuasione CD 25** al posto dell'Intimidazione CD 25: stesso sconto, ma su una prova che Wyll tira meglio. Astarion per disinnescare i piedistalli trappolati dell'Archivio e per le serrature.
 
 Il "dungeon opzionale" migliore del gioco. **Fallo prima del Trono di Ferro**: l'equipaggiamento che ne esce cambia il resto dell'atto.
 
-### 40.1 — Entrare
+### 🗺️ 40.1 — Geografia e ingresso
 
-1. **Tributo del Diavolo** (*Devil's Fee*), Città Bassa: la mercante **Helsik**.
-2. Ti servono il **grimorio rilegato in pelle di folletto** e **cinque componenti**: **Diamante, Teschio, Marmo Infernale, Moneta di Mammon, Incenso**.
-   - **Comprali** da Helsik (20.000 mo, o 10.000 con Intimidazione CD 25 riuscita — con Warlock in gruppo c'è anche una Persuasione CD 25 con vantaggio),
-   - **oppure rubali**: di sopra c'è il suo forziere personale con gli stessi reagenti (Rapidità di Mano + Invisibilità). In una run buona è un furto a una mercante di artefatti diabolici: decidi tu, non ha conseguenze narrative.
-3. **Il rituale** (stanza di sopra, cerchio disegnato col sangue; la freccia indica il cerchio "in alto"):
-   1. **Teschio** nel cerchio in alto, sotto la freccia
-   2. **Moneta di Mammon** nel cerchio subito in senso orario
-   3. **Diamante** nel cerchio in basso a destra (salta un cerchio)
-   4. **Incenso** nel cerchio in basso a sinistra
-   5. **Marmo Infernale** al **centro** della stella
-   → il cerchio si illumina, si apre il portale.
+| Luogo | Dove sta |
+|---|---|
+| **Tributo del Diavolo** (*Devil's Fee*) | Città Bassa: il negozio di **Helsik**. È lo stesso edificio dal cui **tetto** si salta verso il **Palazzo Szarr** (Tappa 38) |
+| **Stanza del rituale** | Al piano di sopra del negozio: il cerchio a sette punte disegnato col sangue |
+| **Casa della Speranza** | Un altro piano d'esistenza (Averno). Si entra e si esce **solo** dal portale |
 
-### 40.2 — Dentro (l'ordine conta)
+**Tre modi per avere il rituale da Helsik:**
 
-1. ⚠️ **Prendi subito l'Abito del Debitore** (*Debtor's Attire*) e indossalo: senza travestimento tutta la casa ti diventa ostile.
-2. **Non far scattare gli allarmi**: non rubare oggetti protetti senza disinnescare le piastre a pressione.
-3. **La vasca del Boudoir** (i rubinetti) **ripristina tutte le risorse come un riposo lungo**, infinite volte, finché non affronti Raphael. Usala senza pietà.
-4. **Saccheggia TUTTO prima di liberare Speranza**:
-   - 🎒 **Martello Orfico** (*Orphic Hammer*) — **indispensabile per liberare Orpheus** (Tappa 48)
-   - 🎒 **Set Crepuscolo Infernale** (*Helldusk*): armatura, guanti, stivali, elmo — l'unica armatura pesante che **non richiede competenza**
-   - 🎒 **Amuleto di Salute Superiore** (*Amulet of Greater Health*, Costituzione 23) — da **Haarlep**
-   - 🎒 **Guanti della Forza del Gigante delle Colline**
-   - 🎒 **Monete d'Anima** e i **contratti**
-   - ⚠️ **Il contratto di Mol**: recuperalo e **daglielo** (la trovi in città) → Mol diventa alleata e resta libera. Requisito per la coerenza di 🏆 *Nessuno Rimane Indietro*
-   - ⚠️ **Il contratto di Gale** (se firmato): **distruggilo**
-5. **Haarlep** (l'incubo nel boudoir): puoi combatterlo o assecondarlo. Se lo sconfiggi, oltre all'amuleto ottieni un vantaggio nello scontro con Raphael (usa la sua forma per indebolirlo).
-6. ⚠️ **Libera Speranza** (missione *Salva Speranza*): fa scattare l'allarme. Lei si unisce a te per lo scontro ed è una curatrice fortissima.
+| Come | Costo |
+|---|---|
+| Pagare e basta | **20.000 mo** |
+| **Intimidazione CD 25** — oppure, **se hai un Warlock**, **Persuasione CD 25** | **10.000 mo** |
+| Accettare l'incarico: rubarle i **Guanti della Forza del Gigante delle Colline** dentro la Casa della Speranza | **Gratis** (parte la missione *Procura i Guanti per Helsik*) — e i guanti li trovi comunque là dentro |
 
-### 40.3 — Raphael
+💡 In alternativa puoi **rubare** i componenti nel negozio. In una run buona è un furto a una mercante di artefatti diabolici: decidi tu, non ha conseguenze narrative.
 
-Quando provi a tornare al portale, **Raphael** ti affronta con 6 cambion vendicativi.
-- ⚠️ Se hai **spezzato il contratto di Yurgir** nell'Atto 2 (l'hai fatto): con una **Persuasione CD 30** riuscita **Yurgir combatte al tuo fianco**. Usa un'Ispirazione.
-- Tattica: distruggi i **pilastri di sangue** che lo curano, mantieni **Speranza** viva (le sue *Cura Ferite di Massa* e *Libertà di Movimento* fanno la differenza), colpiscilo con danni radiosi.
-- Sconfitto Raphael: la casa è tua. **Non lasciare niente indietro.**
+**Il rituale** (stanza di sopra; la freccia indica la punta "in alto"):
+
+1. **Teschio** → punta della stella **più vicina all'altare**
+2. **Moneta di Mammon** → punta successiva **in senso orario**
+3. **Diamante** → **salta una punta** e mettilo sulla seguente
+4. **Incenso** → punta successiva al diamante
+5. **Marmo Infernale** → al **centro** della stella
+
+> ✅ **Niente panico**: **l'ordine in cui li appoggi non conta**, e se sbagli punto puoi **riprendere l'oggetto e rimetterlo altrove**. Non esiste modo di "rompere" il rituale. Quando la disposizione è giusta il cerchio si illumina e il portale si apre.
+
+### 40.2 — Dentro: la catena che sblocca tutto
+
+⚠️ **Prima cosa appena entri**: la **proiezione di Speranza** ti dà l'**Abito del Debitore** (*Debtor's Attire*). **Indossalo subito**: senza travestimento gli abitanti ti diventano ostili. Altri set sono negli armadi del **Corridoio Principale** (servono per tutto il gruppo).
+
+> 🔑 **La catena da seguire, in quest'ordine — è il cuore della tappa:**
+> **Haarlep** (nel Boudoir) → ti dà la **chiave della cassaforte** (o gliela prendi combattendo) → nella **cassaforte di Raphael** c'è la **parola d'ordine** → la parola d'ordine abbassa lo **scudo nell'Archivio** → sotto lo scudo c'è il **Martello Orfico** → **e senza il Martello non puoi liberare Speranza**.
+> Se salti un anello, ti ritrovi davanti al martello senza poterlo prendere.
+
+**Regole della casa:**
+- **Non far scattare l'allarme**: scatta se ti vedono senza travestimento, se attacchi qualcuno o se rubi certi oggetti. Quando scatta, tutti i **Debitori Eterni** diventano ostili e Raphael ti aspetta al portale.
+- 🛁 **La vasca del Boudoir** (i rubinetti) **ripristina tutte le risorse come un riposo lungo**, quante volte vuoi, finché non affronti Raphael. **Usala senza pietà** e lancia lì i buff a lunga durata poco prima dello scontro.
+- **Saccheggia TUTTO prima di liberare Speranza**: liberarla fa scattare l'allarme.
+
+### 40.3 — Dove sta ogni pezzo
+
+| Oggetto | Dove, e come si prende |
+|---|---|
+| 🎒 **Martello Orfico** (*Orphic Hammer*) | **Archivio**, sotto scudo: serve la parola d'ordine dalla cassaforte del Boudoir. **Indispensabile** sia per liberare Speranza sia per liberare **Orpheus** (Tappa 48) |
+| 🎒 **Amuleto di Salute Superiore** (*Amulet of Greater Health*) | ⚠️ **Non è di Haarlep**: sta sul **piedistallo più a sinistra dell'Archivio**, **trappolato**. Disinnesca con **Rapidità di Mano CD 20**, oppure **sostituiscilo con un oggetto di peso uguale**. Effetto: **Costituzione fissata a 23** e **vantaggio ai TS di Costituzione** |
+| 🎒 **Guanti della Forza del Gigante delle Colline** | Altro piedistallo trappolato dell'Archivio (stessa tecnica). Sono anche il "pagamento" per Helsik |
+| 🎒 **Guanti Crepuscolo Infernale** (*Helldusk Gloves*) | **Li indossa Haarlep**: o lo uccidi o glieli borseggi. ⚠️ Se accetti le sue condizioni e lo lasci vivo **senza** borseggiarlo, i guanti li perdi |
+| 🎒 **Elmo Crepuscolo Infernale** | Nella **Volta**: **Percezione CD 10** + prova di **Saggezza**, poi **Arcano CD 20** per aprirla. Dentro anche **666 mo** |
+| 🎒 **Armatura Crepuscolo Infernale** | L'unica armatura pesante che **non richiede competenza** |
+| 🎒 **5 Monete d'Anima** | Nella **cassaforte del Boudoir**, insieme alla parola d'ordine |
+| ⚠️ **Contratto di Mol** | Recuperalo e **daglielo** (la trovi in città) → Mol resta libera e diventa alleata. Coerente con 🏆 *Nessuno Rimane Indietro* |
+| ⚠️ **Contratto di Gale** | Se l'ha firmato: **distruggilo**, altrimenti alla Tappa 39 non è libero di scegliere |
+
+**Speranza**: la sua prigione si raggiunge dalla **botola del corridoio principale** o dal **balcone est**. Ci sono **Spettatori** e **Diavoletti Vendicativi**; poi la liberi **col Martello Orfico**. Si unisce a te per lo scontro finale ed è una **curatrice fortissima**.
+
+### 40.4 — ⚠️ Raphael
+
+Quando provi a tornare al portale, Raphael ti affronta.
+
+| Dato | Valore |
+|---|---|
+| **PF / CA** | **666 PF · CA 21** (livello 16, +3 iniziativa) |
+| **Immunità** | **Fuoco**, bruciatura, veleno, **metamorfosi** e **bandimento** ⚠️ |
+| **Resistenze** | Armi **non magiche**, **fulmine**, **freddo**, **veleno** |
+| **Alleati suoi** | **Korrilla** + **6 Cambion Vendicativi** |
+
+> ⚠️ **Non portare fuoco.** È **immune**, e nella seconda fase i *suoi* incantesimi ignorano perfino la tua resistenza al fuoco. Niente armi mondane. Punta su **radiante, forza, psichico, tuono**.
+
+**I quattro Pilastri delle Anime** sono il vero meccanismo dello scontro. Finché sono in piedi, **ognuno** gli dà:
+- **+1d12 danni da fuoco**, **+3 Destrezza** (a pilastri pieni arriva a **CA 27**), **una carica d'anima** (= slot incantesimo), e **3d6 PF quando lo consuma** con *Divora Anime*.
+
+- 🥇 **Abbattili in fretta**: il trucco più efficace è **piazzare barili di polvere da sparo vicino ai pilastri** prima di far partire lo scontro e farli saltare tutti insieme.
+- ⚠️ **Attenzione però**: distrutti **tutti e quattro**, Raphael entra nella **seconda fase (Immondo Asceso)** con quattro cariche finali, **Inferno Devastante** (20d6 in 4 metri) e **multiattacco con Impeto**. Abbattili sì, ma arrivaci con il gruppo in piedi e Speranza viva.
+
+**Chi combatte con te:**
+- **Speranza**, se l'hai liberata (*Cura Ferite di Massa* e *Libertà di Movimento* fanno la differenza);
+- ⚠️ **Yurgir**, se hai **spezzato il suo contratto** nell'Atto 2 — **e tu l'hai fatto**. In alternativa lo si convince **durante** lo scontro con una **Persuasione CD 30**: tieni pronta un'Ispirazione.
+
+Sconfitto Raphael: la casa è tua. **Non lasciare niente indietro.**
 
 ---
 
@@ -967,7 +1200,18 @@ Quando provi a tornare al portale, **Raphael** ti affronta con 6 cambion vendica
 
 ⚠️⚠️ **Salvataggio manuale prima di attraccare.** Qui si vince o si perde il Gran Duca.
 
-### Preparazione (non saltarla)
+### 🗺️ 41.1 — Geografia e ingresso
+
+| Luogo | Dove sta |
+|---|---|
+| **Merci Flymm** (*Flymm Cargo*) | Città Bassa: il **sommergibile** nel magazzino è **l'unico ingresso e l'unica uscita** del Trono di Ferro |
+| **Trono di Ferro** | Prigione **sottomarina** sotto il porto: quattro ali attorno alla scaletta del sommergibile |
+
+Ci si arriva portando avanti **Salvare i Gondiani** (o *Vendica gli Annegati*), oppure trovando il passaggio dalle **Fogne della Città Bassa**.
+
+> ⏱️ **Sequenza consigliata da bg3.wiki**: incoronazione → parla con **Mizora** → **riposo lungo** → *poi* Trono di Ferro. È l'ordine che garantisce di trovare il Duca **vivo**.
+
+### 41.2 — Preparazione (non saltarla)
 
 | Cosa | Perché |
 |---|---|
@@ -975,171 +1219,350 @@ Quando provi a tornare al portale, **Raphael** ti affronta con 6 cambion vendica
 | **Pozioni di Velocità** per tutti | +movimento e azione extra |
 | **Stivali di Velocità / Stivali dei Sette Venti** | movimento raddoppiato |
 | **Pergamene di Volare** comprate in anticipo | le celle sono su livelli diversi |
+| **Buff ed elisir lanciati PRIMA di scendere dal sommergibile** | ogni turno speso a buffarsi è un prigioniero perso |
 | **Attivare la modalità a turni PRIMA di attraccare** | ti fa pianificare con calma |
 | **Wyll in gruppo** | scena col padre (e se hai rotto il patto, sei pronto a Mizora) |
 
-### Come si entra
+### 41.3 — Il cronometro e la mappa dei prigionieri
 
-Dalla missione **Salvare i Gondiani** (o *Vendica gli Annegati*) arrivi al **sommergibile di Merci Flymm** (*Flymm Cargo*), in Città Bassa. È l'unico ingresso e l'unica uscita.
+| Difficoltà | Turni |
+|---|---|
+| Esploratrice | **8** |
+| **Equilibrata** | **6** |
+| Tattica / Onore | **5** |
 
-### La corsa
+Chi non è tornato al sommergibile allo scadere **muore all'istante**.
 
-- ⏱️ **6 turni** in Equilibrata (8 in Esploratrice, 5 in Tattica/Onore). Chi non è tornato al sommergibile **muore all'istante**.
-- **Dividi il gruppo in 4**: uno per ala (centrale, ovest, est, sud).
-- **Le leve** aprono le celle: puoi attivarle **da lontano con attacchi a distanza**.
-- ⚠️ **I Gondiani liberati corrono da soli al sommergibile.** Non devi scortarli: aprigli la cella e passa oltre.
-- ⚠️ **Ravengard e Omeluum diventano personaggi controllabili**: li muovi tu. **Ravengard ha solo 35 PF** — non lasciarlo in mezzo ai sahuagin, e curalo se serve.
-- **Ravengard è nella cella centrale**, si apre con la leva accanto alla porta.
-- **Omeluum** (se l'hai salvato nell'Atto 1) ha un teletrasporto: usalo per accelerare.
-- **Chiudi le porte dei tunnel** dietro di te per bloccare i sahuagin.
+**Dove sono tutti** (13 Gondiani + il Duca + Omeluum):
+
+| Ala | Chi c'è |
+|---|---|
+| **Est** (blocco di celle **subito a est della scaletta**) | ⚠️ **GRAN DUCA RAVENGARD, cella centrale del blocco** + altri 2 prigionieri |
+| **Centro** | 3 prigionieri, fra cui **Obelia Toobin**, che è già libera in piedi |
+| **Ovest** | **6 prigionieri** in due celle — è l'ala più affollata |
+| **Sud** | 2 prigionieri, uno **legato a una branda** |
+
+*(Ci sono anche due prigionieri già morti: non contano per la missione.)*
+
+### 41.4 — La corsa
+
+- **Dividi il gruppo in 4**, uno per ala, e **parti dalle celle più lontane**: le vicine le chiudi con quello che resta.
+- **Le leve**: tirarle **a mano non costa un'azione**. Da lontano si attivano **con attacchi a distanza** — un *Dardo Incantato* o un *Raggio Rovente* può farne **scattare più di una nello stesso turno**.
+- ✅ **I Gondiani liberati corrono da soli alla scaletta**: non devi scortarli, sanno la strada. Sono però disarmati, quindi coprili se puoi.
+- ⚠️ **Ravengard e Omeluum diventano personaggi controllabili**: li muovi tu. **Ravengard ha circa 35 PF** (ancora meno in Tattica) — non lasciarlo in mezzo ai sahuagin.
+- **Omeluum** (se l'hai salvato nell'Atto 1) può **teletrasportare un alleato al sicuro una volta per round**: è il tuo jolly.
+- **Chiudi le porte dei tunnel** dietro di te e usa i **rilevatori di calore** per sigillare i sahuagin.
 - **Priorità**: **1) Ravengard → 2) Omeluum → 3) più Gondiani possibile.**
-- Se hai **rotto il patto di Wyll**: **Mizora appare e cerca di uccidere il Duca** con ragni esplosivi. Tienilo lontano e proteggilo.
+
+> ⚠️ **Se hai rotto il patto di Wyll**: **Mizora appare e cerca di uccidere il Duca**. Gli applica *Ossequio Immondo: Inginocchiati* per un turno e **evoca ragnetti esplosivi** che si fanno saltare addosso a lui. Antidoti: **resistenza al fuoco** sul Duca, una cura pronta, o semplicemente **teletrasportarlo via subito**.
 
 > 🔁 Non c'è vergogna nel ricaricare: questa sezione è progettata per essere rigiocata. Salvare **tutti** (Duca + Omeluum + 13 Gondiani) è possibile ma richiede una corsa quasi perfetta.
 
-**Dopo**: Ravengard torna al campo, si riconcilia con Wyll e ti indirizza verso **Ansur** (Tappa 44). Omeluum ti ricompensa e diventa alleato.
+**Dopo**: Ravengard resta al campo sotto la protezione del Prisma Astrale, si riconcilia con Wyll (portalo in squadra) e ti indirizza verso **Ansur** (Tappa 44). Omeluum ti ricompensa e diventa alleato.
 
 ---
 
 ## TAPPA 42 — FONDERIA DELLE SENTINELLE D'ACCIAIO (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Astarion per i cancelli (Rapidità di Mano CD 20), Karlach per il **Titano delle Sentinelle d'Acciaio**, che è lo scontro più duro della tappa.
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Karlach** — Astarion serve **due volte**: cancelli esterni (**CD 20**) e **porte del Centro di Controllo (CD 30**, le più dure dell'atto). Karlach per il **Titano delle Sentinelle d'Acciaio**, lo scontro più duro della tappa.
 
-⚠️ **Solo DOPO il Trono di Ferro.** Se distruggi la Fonderia prima, tutti i Gondiani e le loro famiglie **bruciano**.
+⚠️ **Solo DOPO il Trono di Ferro.** Se distruggi la Fonderia prima, i Gondiani prigionieri e le loro famiglie **bruciano**. E vale anche il contrario: se **uccidi Gortash prima**, il Cervello prende il controllo della Fonderia e fa scattare l'**interruttore uomo morto** che uccide tutti gli ostaggi rimasti.
 
-1. La **Fonderia** è nel sud-ovest della Città Bassa, vicino al **Porto Grigio**. Si entra: scassinando i cancelli (**Rapidità di Mano CD 20**), in **Forma Selvatica** da una presa d'aria, o **volando** sul tetto e passando dalla botola.
-2. **Ufficio della sicurezza**: **Zanner Toobin**. Ora che le famiglie sono salve, collabora.
-3. **Distruggere il Neurocitore** — modi possibili:
-   - lascia che sia **Zanner** a farlo (la strada pulita);
-   - usa la **Bomba di Polvere Runica** di **Wulbren** (l'hai salvato nell'Atto 2);
-   - leggi i due libri per ottenere il vero nome di Gond (**Nebelun**) e attiva tu il Neurocitore.
-4. ⚠️ **Il Titano delle Sentinelle d'Acciaio**: scontro duro. 🎒 Droppa **Gontr Mael**, arco lungo leggendario (a Astarion arciere o a Minsc).
-5. **Vendica gli Manoferrea** — il bivio **Wulbren vs Barcus**:
-   - **Wulbren** vuole vendetta contro i Gondiani;
-   - ✅ **La scelta buona**: convinci **Barcus Wroot** a sostituirlo come capo. Ottieni **sia i Gondiani sia gli Manoferrea** come alleati e nessuno si massacra.
-   - (Se lasci il comando a Wulbren tieni comunque lui come alleato, ma i Gondiani rischiano.)
+### 🗺️ 42.1 — Geografia e ingressi
+
+| Luogo | Dove sta |
+|---|---|
+| **Fonderia delle Sentinelle d'Acciaio** | Bordo **ovest** della Città Bassa, sulle **Banchine del Porto Grigio**, fra la scalinata del quartiere **Steeps** e la **Casa della Regina delle Acque** (*Water Queen's House*). Waypoint: **Banchine del Porto Grigio** |
+
+**Quattro modi per entrare:**
+
+| Via | Requisito |
+|---|---|
+| **Cancello principale** | **Rapidità di Mano CD 20** |
+| **Lucernario sul tetto** | Volare o saltare, poi giù dalla botola |
+| **Due ingressi sul lato sud** | Aperti |
+| **Condotto di aerazione** | **Percezione CD 5**, ma **solo creature Piccole o Minuscole** → Forma Selvatica o Camuffarsi |
+
+⚠️ All'esterno **pattugliano le Sentinelle d'Acciaio**: entra **invisibile o furtivo**, non c'è nessun motivo di prenderle di petto.
+
+### 42.2 — Dentro: i Gondiani e Zanner Toobin
+
+- **Anticamera**: **Gasper Throaks** e il **Console di Ferro Chadd**.
+- **Catena di montaggio**: i **Gondiani** lavorano sotto minaccia di **collari esplosivi**, con le famiglie tenute in ostaggio. Tre prove per tirarli dalla tua parte — **tutte e tre funzionano**:
+  - **Inganno CD 15** (fingiti un rinforzo banita) · **Intimidazione CD 18** · **Persuasione CD 18** (offri la liberazione).
+  - Riuscendo, ottieni i **Gondiani come alleati** e l'accesso all'ufficio.
+- **Ufficio della sicurezza** (in fondo, chiuso: **CD 15**): dentro c'è **Zanner Toobin**, artefice gondiano **cieco** e capo non dichiarato della sua gente. È lui ad aver costruito il Neurocitore — e ad averci messo dentro i **meccanismi di autodistruzione**. 💡 Nel suo **taccuino** (borseggiabile) c'è la procedura alternativa.
+- **Livello laboratorio** (ascensore dall'ufficio): fucine, stazioni di assemblaggio, uno **studio con cadaveri di zombie**, un **altare di Bane** e le **porte del Centro di Controllo chiuse a CD 30**.
+
+### 42.3 — Distruggere il Neurocitore: quattro strade
+
+Il **Neurocitore** è la fusione cervello-macchina che dà al Cervello Netherese il controllo di tutte le Sentinelle. Sta nel **Centro di Controllo**, oltre un'anticamera con dei vasi-cervello manovrabili.
+
+| Come | Dettagli |
+|---|---|
+| ✅ **Zanner lo distrugge** | Se sopravvive e ti **accompagna** al Centro di Controllo, lo fa saltare lui dopo il Titano. È la strada pulita |
+| **Bomba di Polvere Runica** | Quella di **Wulbren** (salvato nell'Atto 2): piazzala nel **Quadro Neurale** (*Neural Switchboard*) |
+| **Parola d'ordine** | **Intelligenza CD 7**, poi inserisci **"Nebelun"** — il nome gnomico di Gond. Lo trovi nei libri ***Le Molte Facce di Gond*** e ***Proprietà di Zanner Toobin*** |
+| **Parlare con i Morti** | Se Zanner muore prima di arrivare: interroga il cadavere e ti dà la sequenza |
+
+### 42.4 — ⚠️ Il Titano delle Sentinelle d'Acciaio
+
+Nel Centro di Controllo, **nascosto sotto una piattaforma mobile**: **Titano di livello 12** più **tre Sentinelle Fuoco Infernale di livello 11**. In modalità Onore il Titano stesso diventa la variante Fuoco Infernale.
+
+> 💡 **Si può evitare del tutto**: con l'**invisibilità** vai dritto al Neurocitore e la missione si chiude lo stesso. Ma perdi Gontr Mael, quindi non conviene.
+
+🎒 **Gontr Mael** — **arco lungo leggendario +3**, dal Titano:
+- ogni colpo applica la condizione di **Dardo Guida** (il bersaglio è più facile da colpire);
+- **Fretta Celestiale** (azione, riposo lungo);
+- emette **luce in 6 metri**;
+- **Dardo di Luce Celestiale**: **spaventa** il bersaglio e aggiunge **1d4 radiante a tutti i tuoi attacchi a distanza per 10 round**.
+→ A **Astarion arciere** o a **Minsc**.
+
+> ⚠️ **Gontr Mael NON cade se uccidi il Titano mentre è affetto da *Atrofizzato* (*Atrophied*)**. Se stai usando effetti che applicano quella condizione, **finiscilo in un altro modo** o l'arco te lo giochi.
+
+**Altro bottino**: **Balestra Motore Infernale** (*Hellfire Engine Crossbow*, si **fabbrica**: progetto + **braccio di Sentinella** + **modulo di puntamento**), **Elmo da Sentinella**, **Spadone da Sentinella**, **Mazza Infernale**, campione di parassita illithid.
+
+### 42.5 — *Vendica gli Manoferrea*: il bivio Wulbren / Barcus
+
+- **Wulbren** vuole vendetta contro i Gondiani e pretende che la Fonderia salti con la sua bomba.
+- ✅ **La scelta buona**: convinci **Barcus Wroot** a **sostituirlo come capo** degli Manoferrea. Ottieni **sia i Gondiani sia gli Manoferrea** come alleati per la battaglia finale, e nessuno si massacra.
+- (Se lasci il comando a Wulbren tieni comunque lui come alleato, ma i Gondiani rischiano grosso.)
 
 **Effetto sul resto dell'atto**: con le Sentinelle d'Acciaio disattivate, **lo scontro con Gortash diventa molto più semplice**.
 
 ---
 
-## TAPPA 43 — 🏆 GORTASH (liv. 12) — TROFEO *PASSO LEGGIADRO*
+## TAPPA 43 — 🏆 GORTASH (liv. 12) — TROFEO *FANCY FOOTWORK*
 
-> 🎭 **Squadra ideale (tutta a distanza):** Tu + **Cuorescuro** + **Astarion** + **Gale**. Il trofeo *Passo Leggiadro* salta **nel momento in cui una trappola spara**: non portare nessuno che corra in mischia dentro la sala del trono. ℹ️ Karlach ha battute dedicate su Gortash, ma portala solo se sei disposto a tenerla ferma sul balcone.
+> 🎭 **Squadra ideale (tutta a distanza):** Tu + **Cuorescuro** + **Astarion** + **Gale**. Il trofeo salta **nel momento in cui una trappola spara**: non portare nessuno che corra in mischia dentro la sala del trono. ℹ️ Karlach ha battute dedicate su Gortash, ma portala solo se sei disposto a tenerla ferma sul balcone.
 
 ⚠️ **Salvataggio manuale prima.**
 
-### 🏆 Passo Leggiadro — *Sconfiggi Gortash senza far scattare neanche una trappola*
+> ⚠️ **Nome del trofeo**: in inglese è **Fancy Footwork** — *"Sconfiggi Gortash alla Roccia del Wyrm senza attivare nessuna trappola"*. La dicitura italiana ufficiale **non l'ho potuta verificare** (nella lista PSN italiana non l'ho trovata): a schermo cercalo dalla descrizione, non dal nome. "Passo Leggiadro" era una traduzione di comodo, non la dicitura reale.
+
+### 🗺️ 43.1 — La sala del trono, pezzo per pezzo
+
+La **Roccia del Wyrm** è la fortezza sull'isola in mezzo al **Chionthar**, collegata alla Città Bassa e all'Attraversamento del Wyrm da due ponti levatoi (waypoint **Roccia del Wyrm**). Gli appartamenti di Gortash sono al piano alto.
+
+**Tre vie per salire**: le **doppie porte principali** · un **ingresso laterale** da scassinare · la **torre campanaria**, arrampicandosi su impalcature e scale.
+
+| Zona | Cosa c'è |
+|---|---|
+| **Anticamera** | Sei **busti dei condottieri leggendari** di Baldur's Gate (uno è "Lo Straniero Strabico", cioè **Bane**). Una **scala mobile** si abbassa con una leva e porta al **ballatoio superiore**: è la posizione da cui si tira |
+| **Sala del trono** | Gortash in fondo, protetto da **Guanti Neri** e **Consoli di Ferro** (più le Sentinelle, se non hai fatto la Fonderia). Nei forzieri della sala c'è roba grossa: vedi 43.4 |
+| **Le trappole** | **Sfiati stordenti**, **proiettori di incenerimento**, **lanciagranate** e **cortine di forza**, sul tetto e tutt'attorno: sono queste a far fallire il trofeo |
+
+Gortash è un **boss di livello 9**: da solo non è un problema, **si appoggia agli scagnozzi** e alle trappole della sala, e ti tira granate.
+
+### 43.2 — 🏆 Come prendere il trofeo
 
 ⚠️ **Attenzione (Patch 8):** il trofeo fallisce **nel momento in cui una trappola spara**, anche se poi raccogli o butti via le granate. Le vecchie guide dicono il contrario: sono superate.
 
 **Tre metodi, dal più affidabile al più rapido:**
 
-1. **Disinnesco preventivo (consigliato).** Fermati nella sala d'attesa prima della sala del trono e, **con la modalità a turni attiva**, prendi di mira le trappole a una a una con **attacchi a distanza mirati** (mira manuale sull'oggetto). Eliminale quasi tutte prima di parlargli.
-2. **Portalo fuori dalla sala.** Gira in senso orario per la fortezza fino a una scala + rampicanti: in cima c'è una porta scassinabile che dà **nel corridoio dietro il trono**. Combattendo lì eviti tutte le trappole della sala delle udienze. In alternativa, lascia tre compagni sul **balcone** e trascina lo scontro all'aperto.
+1. **Disinnesco preventivo (consigliato).** Fermati nell'anticamera prima della sala del trono e, **con la modalità a turni attiva**, prendi di mira le trappole a una a una con **attacchi a distanza mirati** (mira manuale sull'oggetto). Eliminale quasi tutte prima di parlargli.
+2. **Portalo fuori dalla sala.** Gira in senso orario per la fortezza fino a una scala + rampicanti: in cima c'è una porta scassinabile che dà **nel corridoio dietro il trono**. Combattendo lì eviti tutte le trappole della sala delle udienze. In alternativa, lascia tre compagni sul **ballatoio** e trascina lo scontro all'aperto.
 3. **Invisibilità Superiore** su un attaccante a distanza: resta invisibile anche dopo aver colpito, quindi le trappole non si attivano su di lui. Colpiscilo da fuori sala.
 
 **Nel dialogo**: rifiuta l'alleanza. Se avevi fatto finta di accettare, ti chiede le Pietranether: **rifiuta due volte**.
 
-🎒 **Bottino**: **Guanto Tempestato di Pietranether** (si divide in **Pietranether di Gortash** + **Guanto del Tiranno**), **Drappo dell'Autorità**, **Balestra Fabbricata**, pezzi d'armatura.
+### 43.3 — 📌 La mano di Gortash (non dimenticarla)
 
-📌 ⚠️ **Prendi la MANO di Gortash dal cadavere.** Ti serve alla Tappa 45.
+**Prendi la MANO di Gortash dal cadavere.** È la "prova d'omicidio" che ti serve al **Tribunale degli Omicidi** (Tappa 45): i tre **Cavalieri della Morte** all'ingresso pongono un enigma la cui risposta è *"ho ucciso per essere qui, e ho preso la mano della vittima come prova"* — senza una mano mozzata non passi. Al Tribunale, **Sarevok** ti giudica e ti consegna l'**Amuleto di Bhaal**, che è la chiave per il **Tempio di Bhaal**.
+
+> ⚠️⚠️ **La mano esiste solo se uccidi Gortash PRIMA di Orin.** Nel tuo ordine (43 → 45 → Orin) va bene: **non invertirlo**.
+
+### 43.4 — Bottino
+
+| Cosa | Note |
+|---|---|
+| **Guanto Tempestato di Pietranether** | Si divide in **Pietranether di Gortash** + **Guanto del Tiranno** |
+| **Drappo dell'Autorità** (*Cloth of Authority*) | |
+| **Balestra Fabbricata** (*Fabricated Arbalest*) | |
+| **Stivaloni Tirannici** (*Tyrannical Jackboots*) | |
+| **Riflettoguardia** (*Reflectoguard*) · **Ottimizzatore di Fase** (*Phase Optimizer*) | Due pezzi che il file prima non elencava |
+| **Chiave di Gortash** · pugnale · bomba di polvere da sparo · biglietto di Helsik | |
+| ⚠️ **Nei forzieri della sala**: **Stivali Crepuscolo Infernale** (*Helldusk Boots*) e **Guanti del Servitore della Mano Nera** | **Gli stivali del set Crepuscolo Infernale stanno QUI, non alla Casa della Speranza**: è questa tappa a completarti il set |
 
 > Da questo momento in poi le tre missioni legate a Gortash sono chiuse. Se hai seguito l'ordine, le hai già completate tutte.
 
 ---
 
-## TAPPA 44 — WYRMWAY E ANSUR (liv. 12) — TROFEO *ATTERRAGGIO FORZATO*
+## TAPPA 44 — WYRMWAY E ANSUR (liv. 12) — TROFEO *CRASH LANDING*
 
-> 🎭 **Squadra ideale:** Tu + **Wyll** + **Gale** + **Karlach** — è la tappa con più aiuti in dialogo: **Wyll** suggerisce la sentenza giusta nella prova di *Giustizia*, **Gale** risolve la scacchiera nella prova di *Strategia*. Karlach serve per il burst su Ansur nel turno in cui vola (il trofeo si prende solo così).
+> 🎭 **Squadra ideale:** Tu + **Wyll** + **Gale** + **Karlach** — è la tappa con più aiuti in dialogo: **Wyll** suggerisce la sentenza giusta nella prova di *Giustizia*, **Gale** risolve la scacchiera nella prova di *Strategia* (e ci guadagna **+1 approvazione**). Karlach serve per il burst su Ansur nel turno in cui vola (il trofeo si prende solo così).
 
 Fattibile solo dopo aver salvato **Ravengard** (è lui a parlarti di Ansur) e comodissimo dopo la morte di Gortash, con la fortezza sgombra.
 
+> ⚠️ **Nome del trofeo**: in inglese è **Crash Landing** — *"Nel Wyrmway, aspetta che il drago sia a mezz'aria, poi buttalo giù dal cielo"*. La dicitura italiana ufficiale non l'ho verificata: "Atterraggio Forzato" era una traduzione di comodo.
+
 ### 44.1 — Aprire il Wyrmway
 
-Nella **prigione della Roccia del Wyrm** ci sono due **torce a testa di drago**: colpiscile con **danni da fulmine** (*Presa Folgorante*, *Freccia Fulminante*, *Scarica Elettrica*). Si apre il passaggio.
+L'ingresso è nella **prigione della Roccia del Wyrm**. Ci sono due **torce a testa di drago**: colpisci **entrambe** con **danni da fulmine** (*Presa Folgorante*, *Freccia Fulminante*, *Scarica Elettrica*). Le fiamme diventano **azzurre** e il muro fra le due torce si rivela un'illusione: si passa.
 
 ### 44.2 — Le quattro prove
 
 | Camera | Soluzione |
 |---|---|
-| **Giustizia** | Sposta il giudice d'ombra che copre i dipinti, poi metti sul piatto la sentenza **proporzionata**: "La Cella". *(Wyll suggerisce: la via giusta sta fra gli estremi.)* |
-| **Intuito** | Prendi i tre libri volanti e indica il consigliere dalla filosofia dannosa: **Suelto** (predica di distruggere le terre nemiche anche dopo la resa) |
-| **Strategia** | Scacco matto in due mosse sulla scacchiera. *(Gale dà il suggerimento se è in gruppo. In alternativa: distruggi il re nero con danni da fulmine.)* |
-| **Coraggio** | Un personaggio deve reggere la torcia per **4 turni** mentre gli altri lo difendono. **Santuario** o **Pozione di Resistenza Universale** rendono la prova banale |
+| **Giustizia** | Congeda il **giudice d'ombra** che copre i tre dipinti, poi scegli la sentenza **proporzionata**: **"La Cella"** — la via di mezzo fra libertà ed esecuzione. *(Wyll suggerisce: "la strada giusta sta fra gli estremi".)* |
+| **Intuito** | Acchiappa i **tre libri volanti** dei tre consiglieri e leggili. La colpevole è **Cristina Suelto**, che nel suo libro predica di **radere al suolo le terre nemiche anche dopo la resa**: **attacca lei** |
+| **Strategia** | **Scacco matto in due mosse** sulla scacchiera. ⚠️ **Esistono tre disposizioni diverse**, quindi la soluzione non è sempre la stessa: **porta Gale** e te la dà lui (+1 approvazione). In alternativa: distruggi il re nero con danni da fulmine |
+| **Coraggio** | Un personaggio regge la **torcia azzurra** per **4 turni** mentre gli altri lo difendono da **elementali d'aria e d'acqua** e poi dai **Mirmidoni**. Il portatore **non deve andare a terra**: **Santuario** o **Pozione di Resistenza Universale** rendono la prova banale |
 
-### 44.3 — 🏆 Ansur — *Atterraggio Forzato*
+Le prove portano al **Sacrario del Drago** (*Dragon's Sanctum*), dove riposano i resti di Ansur.
 
-Il drago di bronzo non-morto ti aspetta nel **Sacrario del Drago**, con due **Mirmidoni d'Acqua**.
+### 44.3 — 🏆 Ansur
 
-**Per il trofeo devi ucciderlo mentre è a mezz'aria.**
-- In un turno casuale Ansur **si alza in volo e comincia a caricare il fulmine** ("La Tempesta in Attesa è risorta").
-- **Non ucciderlo prima**: portalo quasi a zero durante la prima fase, poi **scarica tutto** nel turno in cui vola.
-- Prepara: Karlach in Ira con Attacco Furioso, Lae'zel con **Azione Impetuosa**, Gale con **Palla di Fuoco/Disintegrazione**, il protagonista con **Punizione Divina** massimizzata. Bevi **Elisir di Forza del Gigante** prima.
-- Alternativa: bloccalo con **Bandire**, **Scacciare Non Morti**, **Comando (Fuggi)** o **Esplosione Mentale**.
+| Dato | Valore |
+|---|---|
+| **Cos'è** | **Drago non-morto di livello 17**, **CA 19** |
+| **PF** | **400** (Equilibrata) · 280 (Esploratrice) · **600** (Tattica e Onore) |
+| **Immunità** | ⚠️ **Fulmine** e **veleno**. Non può essere fatto **prono**, né **paralizzato**, né **ammaliato**, né sanguinante |
+| **Resistenze** | Necrotico |
+| **Accompagnato da** | Due **Mirmidoni d'Acqua** |
 
-🎒 **Ricompense**: **Ammazzagiganti di Balduran** (*Balduran's Giantslayer*, spadone leggendario → Karlach o Lae'zel) ed **Elmo di Balduran** (*Helm of Balduran*: +2 CA, rigenerazione, immunità a critici) — **il miglior elmo del gioco**, mettilo sul tank.
+**Come si svolge:**
+- **Fase 1**: alterna soffio elettrico a distanza e attacchi in mischia, spostandosi in volo fra due posizioni.
+- ⚠️ **Quando scende a circa metà PF comincia a caricare la *Nova Cuoredi Tempesta***: quando la scarica sono **18d10 da fulmine su tutta l'arena**.
+- **Fase 2**: dopo la nova evoca **cinque scariche di fulmine a turno**. Ai livelli di difficoltà alti piove: il gruppo diventa **Bagnato** e quindi **più vulnerabile al fulmine**.
+
+> 🏆 **Per il trofeo devi buttarlo giù mentre è a mezz'aria.** Correzione importante rispetto a prima: **non è un turno casuale** — è la **soglia di metà PF** a farlo alzare in volo per caricare la nova. Quindi il piano è:
+> 1. Portalo **appena sopra il 50%** e fermati lì.
+> 2. **Prepara tutto**: Karlach in Ira con Attacco Furioso, **Azione Impetuosa**, **Velocità**, Elisir di Forza del Gigante, Gale con Disintegrazione, il protagonista con Punizione Divina massimizzata.
+> 3. **Sfonda la soglia** e, nel turno in cui si alza, **scarica tutto insieme**.
+>
+> ⚠️ Se non lo ammazzi in quella finestra ti arriva la nova da 18d10 addosso. **Salva prima.**
+
+**Se le cose vanno male:** i **Mirmidoni d'Acqua vanno eliminati per primi**; la **Sfera Resiliente di Otiluke** annulla **completamente** la nova su chi la riceve; in alternativa ripara il gruppo **dietro le colonne e i cristalli**. Bloccarlo con *Bandire*, *Scacciare Non Morti* o *Comando (Fuggi)* resta un'opzione, ma occhio: prono e paralisi su di lui **non funzionano**.
+
+### 44.4 — 🎒 Ricompense
+
+- **Ammazzagiganti di Balduran** (*Balduran's Giantslayer*) — spadone leggendario, **da Ansur** → Karlach o Lae'zel.
+- **Elmo di Balduran** (*Helm of Balduran*) — ⚠️ **non è un drop**: sta **sull'altare di pietra accanto ad Ansur**, prendilo a mano. È **il miglior elmo del gioco**:
+  - **+1 alla CA e a tutti i tiri salvezza** *(correzione: non +2 CA come diceva prima questa guida)*;
+  - **cura 2 PF all'inizio di ogni tuo turno** in combattimento;
+  - **immunità ai colpi critici** e **immunità a Stordito**.
+  → Sul tank.
 
 ---
 
-## TAPPA 45 — 🏆 TRIBUNALE DEGLI OMICIDI (liv. 12)
+## TAPPA 45 — 🏆 TRIBUNALE DEGLI OMICIDI (liv. 12) — TROFEO *MURDER IN BALDUR'S GATE*
 
 > 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — ⛔ **mai Jaheira né Minsc** (rischi di perderli), e lascia al campo anche Minthara. Astarion è l'unico a cui l'**Armatura Bhaalista** serva davvero.
 
-⚠️ **NON portare Jaheira né Minsc**: potrebbero lasciare il gruppo. Lascia al campo anche Minthara se ti dà problemi.
+⚠️ **NON portare Jaheira né Minsc**: potrebbero lasciare il gruppo.
 
-### Come funziona
+> ⚠️ **Nome del trofeo**: in inglese è **Murder in Baldur's Gate** (trofeo **nascosto**) — *"Ricopri di sangue le strade di Baldur's Gate: diventa un Assassino Nefando di Bhaal"*. Dicitura italiana non verificata.
 
-Sotto le **Lapidi di Candulhallow** c'è il **Tribunale degli Omicidi**, presieduto da **Sarevok Anchev**. Per essere ammessi bisogna presentarsi come assassini: serve **la mano mozzata di un bersaglio della lista**.
+### 🗺️ 45.1 — Dove si entra
 
-### ✅ La strada compatibile con una run buona
+Il Tribunale è una **cripta segreta sotto le Lapidi di Candulhallow** (*Candulhallow's Tombstones*), nel quartiere **Eastway**, **dietro la Taverna del Canto Elfico**. L'accesso è una **porta nascosta in fondo al negozio**.
 
-**Usa la mano di Gortash.** È un tiranno, l'hai ucciso tu, ed è uno dei bersagli della lista. Mostra la mano a Sarevok e, alla sua domanda, rispondi che **hai posto fine all'esistenza di Gortash e gli hai preso il braccio**.
+### 45.2 — L'enigma del guardiano
 
-→ Vieni accettato fra gli **Assassini Nefandi di Bhaal**: 🏆 **Omicidio a Baldur's Gate**.
-→ Ottieni **Amuleto di Bhaal** e **Mappa del Tempio di Bhaal**: l'ingresso "pulito" per la Tappa 46.
+All'ingresso **Ciò Che Sorveglia** ti sbarra la strada: *"Presentami bene un dono tuo, o ti staccherò la carne dalle ossa."*
 
-> **Non devi uccidere innocenti.** L'altra strada (accettare l'incarico del Diconatore e assassinare l'investigatrice) è la versione malvagia: **non farla**. Se il gioco te lo propone, rifiuta: sei già dentro.
+- ✅ **Risposta giusta**: ***"Ho ucciso per essere qui — e ho preso la mano della vittima come prova."***
+- ⚠️ **Qualsiasi altra opzione fa partire il combattimento.**
 
-### Altre cose da fare lì
+**Mani valide**: la **Mano di Gortash** (la tua), la mano di un qualunque bersaglio della lista, o la **Borsa di Mani di Dolor**.
 
-- ⚠️ **Libera Valeria**, l'investigatrice prigioniera del Tribunale → alleata per il finale.
-- **Sarevok**: dopo aver ottenuto quel che ti serve puoi affrontarlo. È un ottimo scontro e droppa equipaggiamento pregiato. In alternativa lo ritroverai comunque al Tempio di Bhaal.
-- 🎒 **Armatura Bhaalista** (*Bhaalist Armour*) — **la migliore armatura leggera del gioco** (aura di vulnerabilità ai danni perforanti). Perfetta su Astarion.
+### 45.3 — Il processo di Sarevok
 
-> 💡 **Se preferisci non entrare affatto nel Tribunale** (scelta di coerenza narrativa): al Tempio di Bhaal si arriva comunque con **Scassinare** o sparando ai cadaveri appesi. Perderai solo il trofeo. In alternativa: 💾 salva prima, prendi il trofeo, 🔁 ricarica.
+**Sarevok Anchev** evoca lo **spettro di una vittima recente**, scelto in base alle mani che hai addosso, e ti chiede **come l'hai uccisa**.
+
+- Se l'hai **davvero uccisa tu** (è il tuo caso con Gortash): **nessuna prova richiesta**. Rispondi che hai posto fine alla sua esistenza e gli hai preso il braccio.
+- Altrimenti serve **Inganno CD 20**.
+- ⛔ Negare l'omicidio o rivendicare un "duello leale" fa partire il combattimento.
+
+**Se passi**, vieni accolto fra gli **Assassini Nefandi di Bhaal**:
+
+| Ricompensa | Note |
+|---|---|
+| **Amuleto di Bhaal** | La chiave per entrare nel **Tempio di Bhaal** (Tappa 46) |
+| **Mappa del Tempio di Bhaal** | L'ingresso "pulito" |
+| **Elmo Cornuto di Sarevok** · **Spada del Caos** | ⚠️ Te li dà **superando la prova**: non devi ucciderlo per averli |
+| **Eco di Abazigal** | Si sblocca come **mercante** di equipaggiamento bhaalista |
+
+> **Non devi uccidere innocenti per ottenere tutto questo.** L'altra strada (accettare l'incarico del Diconatore e assassinare l'investigatrice) è la versione malvagia: **non farla**.
+
+### 45.4 — ⚠️ Valeria: l'unica scelta davvero morale qui
+
+Superata la prova ti mettono davanti **Valeria**, l'**investigatrice hollyphant** prigioniera.
+
+- ⛔ **Ucciderla** completa il rituale d'assassinio: è la via malvagia.
+- ✅ **Risparmiarla** te la fa **reclutare come alleata** per la battaglia finale. È questa.
+
+### 45.5 — 🎒 Armatura Bhaalista
+
+**La migliore armatura leggera del gioco** — ma attenzione a come si ottiene: ⚠️ **non è un bottino, si compra**.
+
+- **Venditore**: **Eco di Abazigal**, al Tribunale. **2.000 mo** (2.700 in Onore).
+- **Requisito**: puoi comprarla **solo** se hai accettato di diventare **Assassino Nefando di Bhaal** completando la prova (cioè se hai preso il trofeo).
+- **Effetti**: **CA 14 + modificatore di Destrezza** · **Aura dell'Omicidio**: i nemici entro **3 metri** diventano **vulnerabili ai danni perforanti** (raggio portato da 2 a 3 m nella Patch 8) · **Imboscatore**: **+2 all'iniziativa**.
+- → Su **Astarion**, e tieni il gruppo in mischia dentro l'aura: raddoppia il danno perforante di tutti.
+
+**Sarevok**: dopo aver ottenuto quel che ti serve puoi affrontarlo. In alternativa lo ritroverai comunque al Tempio di Bhaal.
+
+> 💡 **Se preferisci non entrare affatto nel Tribunale** (scelta di coerenza narrativa): la porta del Tempio di Bhaal vuole **comunque l'Amuleto di Bhaal**, quindi l'unica alternativa è **affrontare Sarevok e saccheggiarglielo dal cadavere**. Perderai il trofeo, l'Armatura Bhaalista e i doni di Sarevok. In alternativa: 💾 salva prima, prendi il trofeo, 🔁 ricarica.
 
 ---
 
 ## TAPPA 46 — 🏆 ORIN E IL TEMPIO DI BHAAL (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + **Astarion** + **Lae'zel** + **Karlach** — il trofeo *Primo Sangue* è una corsa contro il rituale: Rapsodia + attacco furtivo, **Azione Impetuosa** e **Ira** sono i tre burst più alti che hai. ⚠️ Chi resta al campo può essere l'ostaggio rapito da Orin: mettilo in conto quando scegli.
+> 🎭 **Squadra ideale:** Tu + **Astarion** + **Lae'zel** + **Karlach** — il trofeo *First Blood* è una corsa contro il rituale: Rapsodia + attacco furtivo, **Azione Impetuosa** e **Ira** sono i tre burst più alti che hai. ⚠️ Chi resta al campo può essere l'ostaggio rapito da Orin: mettilo in conto quando scegli.
 
 ⚠️ **Solo dopo aver ucciso Gortash.** Salvataggio manuale prima di scendere.
 
-### 46.1 — Prima di partire
+> ⚠️ **Nome del trofeo**: in inglese è **First Blood** (nascosto) — *"Uccidi Orin mentre i suoi cultisti stanno recitando il canto rituale"*. Dicitura italiana non verificata.
 
-- **Controlla il gruppo**: Orin ha rapito un tuo compagno (o **Yenna**). Il rapito è l'ostaggio sull'altare.
-- **Riposo lungo** e risorse al massimo. Il Tempio è una discesa lunga senza possibilità di tornare indietro comodamente.
-- Lascia al campo il compagno che vuoi "salvare" solo se ti conviene tatticamente: l'ostaggio si recupera comunque.
+### 🗺️ 46.1 — Dove si entra e com'è fatto
 
-### 46.2 — La discesa
+Il **Tempio di Bhaal** sta **in fondo al settore nord-est delle Rovine della Sottocittà**, e ci si arriva **solo passando dalle Fogne della Città Bassa**.
 
-**Rovine della Sottocittà → Tempio di Bhaal.** Cultisti, Assassini Nefandi e **Sarevok** (se non l'hai già affrontato). Usa danni radiosi e controllo di gruppo.
+⚠️ **La porta di pietra vuole l'Amuleto di Bhaal.** Due modi per averlo: superare la prova del **Tribunale degli Omicidi** (Tappa 45), oppure **saccheggiarlo dal cadavere di Sarevok** dopo averlo affrontato lì. *(Non esiste una scorciatoia da scassinatore: se salti del tutto il Tribunale, devi comunque passare da Sarevok.)*
 
-### 46.3 — 🏆 Primo Sangue — *Uccidi Orin prima che i cultisti completino il rituale*
+| Zona | Cosa c'è |
+|---|---|
+| **Balconata esterna** | Le nicchie con i **cadaveri delle persone che Orin ha impersonato**, e una piccola biblioteca con ***L'Estasi dell'Omicidio*** |
+| **Stanza della Prescelta** | Gli alloggi privati di Orin — passaggio nascosto o scalinata principale. Dentro: la madre **Helena** mummificata in bella vista, i documenti sui suoi conflitti interiori, e del bottino. ⚠️ **È qui che si vince lo scontro**: vedi 46.2 |
+| **Piattaforma dell'altare** | Orin e il suo seguito. Sopra, scolpito nella parete, l'enorme **simbolo di Bhaal** |
 
-Sull'altare, Orin ti sfida a duello.
+### 46.2 — ⚠️ Il passaggio che cambia tutto lo scontro
 
-- **Passa le prove di Persuasione (CD 25)**: la convinci a **non uccidere l'ostaggio**. Usa un'**Ispirazione** se fallisci — questo salva la vita al compagno rapito.
-- Si trasforma comunque nella **Massacratrice**.
-- ⏱️ **Il trofeo richiede velocità**: i cultisti attorno stanno completando un rituale. **Concentra tutto su Orin**, ignora i cultisti.
-  - Apri con **Velocità** su chi fa più danni.
-  - **Bloccala**: *Blocca Mostri*, *Esplosione Mentale*, *Colpo Assordante*, *Comando*.
-  - Astarion con **Rapsodia** + attacco furtivo, Lae'zel con **Azione Impetuosa**, Karlach in Ira: si chiude in 2-3 turni.
-  - ⚠️ Se il rituale si completa, ricarica e rifallo più rapido.
+Il file prima diceva solo "passa una Persuasione CD 25". In realtà **puoi impedire del tutto la trasformazione nella Massacratrice** — e insieme salvare l'ostaggio. Basta arrivare all'altare **già informato**:
 
-🎒 **Bottino**: **Pietranether di Orin**, **Sete di Sangue** (*Bloodthirst*), **Malizia Cremisi** (*Crimson Mischief*) e **Anello dell'Opportunità Omicida** — la combinazione di pugnali definitiva per Astarion.
+1. **Prima di scendere**, entra nella **Stanza della Prescelta**.
+2. Lancia **Parlare con i Morti** sul cadavere di **Helena Anchev**, la madre: scopri che **è stato Sarevok a ordinarne il sacrificio**.
+3. Leggi le pagine del **libro di Sarevok**: **Sarevok è il padre biologico di Orin**.
+4. All'altare, **usa quelle due rivelazioni nel dialogo**. Orin **perde completamente la concentrazione**: **non uccide l'ostaggio** e **non si trasforma**.
+5. *(Facoltativo)* Puoi infierire ancora con una prova **CD 25 di Inganno, Persuasione o Religione** per farla **crollare del tutto** prima del combattimento.
+
+> ⚠️ **Se non usi queste opzioni, Orin invoca Bhaal e si trasforma comunque nella Massacratrice**, qualunque cosa tu dica. È la differenza fra uno scontro duro e uno scontro facile — e rende il trofeo *First Blood* molto più abbordabile.
+
+### 46.3 — Lo scontro
+
+> ❌ **Correzione**: **non è un duello uno-contro-uno.** Il duello con i compagni esclusi è **solo per l'origine Impulso Oscuro**. Nella tua run è un normale **scontro di gruppo**, con il seguito di Orin: **Teschio della Morte**, **Invocatori** e **Mietitori di Bhaal**.
+
+🏆 **Per il trofeo devi uccidere Orin mentre i cultisti stanno ancora salmodiando.** Quindi:
+
+- **Concentra tutto su Orin**, ignora completamente i cultisti.
+- Apri con **Velocità** su chi fa più danni.
+- **Bloccala**: *Blocca Mostri*, *Esplosione Mentale*, *Colpo Assordante*, *Comando*.
+- Astarion con **Rapsodia** + attacco furtivo, Lae'zel con **Azione Impetuosa**, Karlach in **Ira**: si chiude in 2-3 turni.
+- 💡 Se hai fatto il passaggio 46.2 e non si trasforma, è ancora più rapido.
+- ⚠️ Se il rituale si completa, ricarica e rifallo più veloce.
+
+### 46.4 — 🎒 Bottino
+
+| Cosa | Note |
+|---|---|
+| **Sete di Sangue col Pomo di Pietranether** | Si separa in **Sete di Sangue** (*Bloodthirst*, **pugnale**) + **Pietranether di Orin** |
+| **Malizia Cremisi** (*Crimson Mischief*) | ⚠️ **È una spada corta leggendaria +2**, non un pugnale: 1d6+2 perforante **+1d4 necrotico**. **Preda i Deboli**: +1d4 perforante contro bersagli **sotto il 50% dei PF**. **Ferocia Venarossa**: **+7 perforante quando attacchi con vantaggio** (mano primaria). Nella mano secondaria, **Arma Cremisi** aggiunge il modificatore di caratteristica al danno |
+| **Anello dell'Opportunità Omicida** (*Ring of Murderous Opportunity*) | |
+| **Carapace Mutilato** · **Armatura di Cuoio Borchiato +2** · **Chiave dell'Altare** | |
+
+→ **Malizia Cremisi in mano primaria + Sete di Sangue nella secondaria su Astarion** è la coppia definitiva del gioco: con l'**Armatura Bhaalista** (Tappa 45) che rende i nemici vicini **vulnerabili al perforante**, il danno raddoppia.
 
 📌 Con **entrambe le Pietranether** in mano, la strada per il finale è aperta. **Non affrettarti**: fai prima la Tappa 47.
 
@@ -1152,6 +1575,8 @@ Sull'altare, Orin ti sfida a duello.
 Questa è la tappa "respiro". Non c'è nulla di obbligatorio, ma è dove si chiudono metà dei trofei.
 
 ### 47.1 — 🏆 Mente Sconvolgente (l'Imperatore)
+
+*(Trofeo **Mind Blown**, nascosto: "Intreccia una relazione con l'Imperatore". Il nome italiano **Mente Sconvolgente** è verificato.)*
 
 **Requisiti:**
 1. Aver **ripulito e visitato il vecchio nascondiglio dell'Imperatore** nella cantina della Taverna del Canto Elfico (Tappa 31), **guardando i suoi oggetti personali**.
@@ -1170,34 +1595,36 @@ Fai **almeno 4-5 riposi lunghi** consecutivi: si sbloccano a catena tutte le sce
 
 ⚠️ **Vlaakith appare a Lae'zel** a Rivington e le offre di diventare Comandante dei Draghi in cambio della morte di Orpheus. ✅ **Convincila a rifiutare** (prove alte, CD 30, ma se hai sostenuto Voss e le mostri le prove è molto più facile). Usa un'Ispirazione.
 
-### 47.3 — Raduna i tuoi Alleati — la lista completa
+### 47.3 — Raduna i tuoi Alleati — la lista completa e verificata
 
-Ripassa questa tabella: ogni riga è un alleato in più alla battaglia finale.
+Ogni riga è un alleato in più alla battaglia finale. ⚠️ **Le righe segnate con 📌 hanno un requisito che il file prima non riportava**: controllale.
 
 | Alleato | Requisito nella tua run |
 |---|---|
-| **Halsin** | Maledizione spezzata + almeno una volta in squadra ✅ |
-| **Jaheira** e **Minsc** | Tappa 32 (Minsc vivo) |
+| **Halsin** | Maledizione spezzata + tiefling salvati + almeno una volta **in squadra attiva** (non solo al campo) ✅ |
+| **Jaheira** e **Minsc** | Reclutare Minsc in *L'Alto Arpista* (Tappa 32) |
 | **Zevlor** | Perdonato + liberato dalla colonia ✅ |
-| **Mol** | Contratto recuperato alla Casa della Speranza e restituito (Tappa 40) |
-| **Rolan** | Cal e Lia salvi + Lorroakan ucciso (Tappa 36) |
-| **Dama Aylin** e **Isobel** | Canto Notturno risparmiato + salvata da Lorroakan (Tappa 36) |
-| **Arabella** | Genitori trovati + portata al campo ✅ |
-| **Orsogufo Corazzato** | Cucciolo liberato + Dammon vivo ✅ |
+| **Mol** | Contratto recuperato alla Casa della Speranza e **restituito a lei** (Tappa 40) |
+| **Rolan** | Vivo per tutti e tre gli atti + Cal e Lia salvi + schierato con Aylin contro Lorroakan (Tappa 36) |
+| **Dama Aylin** e **Isobel** | Canto Notturno risparmiato (Atto 2) + rapimento di Isobel sventato + Aylin salvata da Lorroakan (Tappa 36) |
+| 📌 **Arabella** | Salvata da Teela (Atto 1) + genitori trovati e portata al campo (Atto 2) + ⚠️ **parlarle nelle Fogne della Città Bassa nell'Atto 3** — questo passaggio mancava |
+| **Orsogufo Corazzato** | Cucciolo liberato + reclutato come seguace del campo negli Atti 1-2 + **Dammon vivo** ✅ |
 | **Volo** | Liberato nell'Atto 1 + **salvato dalla folla** vicino alla Fonderia (Tappa 31) |
-| **Barcus Wroot** | Salvato 3 volte + Fonderia distrutta + nuovo capo degli Manoferrea (Tappa 42) |
-| **Zanner Toobin e i Gondiani** | Tappe 41-42 |
-| **Yurgir** | Contratto spezzato + combattuto con te contro Raphael (Tappa 40) |
-| **Ulma e i Gur** | Astarion **non** asceso (Tappa 38) |
-| **Nove-Dita Keene** | Schierato con la Gilda (Tappa 32) |
-| **Consigliera Florrick** | Liberata dalla Roccia del Wyrm (Tappa 30) |
+| **Barcus Wroot** | Salvato 3 volte + Fonderia distrutta + **nuovo capo del Clan Manoferrea** (Tappa 42). *Si esclude con Wulbren* |
+| 📌 **Zanner Toobin e i Gondiani** | ⚠️ **Bisogna salvarli TUTTI** in *Salvare i Gondiani* (cioè tutti e 13 al Trono di Ferro) **+** schierarsi con loro o mettere Barcus al posto di Wulbren. È il motivo per cui la corsa della Tappa 41 va fatta bene |
+| **Yurgir** | Contratto spezzato (Atto 2) + **combattuto con te contro Raphael** alla Casa della Speranza (Tappa 40) |
+| **Ulma e i Gur** | Cazador sconfitto **senza** che Astarion ascenda (Tappa 38). *Si esclude con l'Astarion Asceso* |
+| **Nove-Dita Keene** | Schierato con la Gilda + salvata dagli Zhentarim (Tappa 32) |
+| **Consigliera Florrick** | Salvata al Riposo di Waukeen (Atto 1) + liberata dalla Roccia del Wyrm (Tappa 30) |
 | **Gran Duca Ravengard** | Salvato al Trono di Ferro (Tappa 41) |
-| **Valeria** | Liberata dal Tribunale (Tappa 45) |
-| **Bue Strano** | Mai attaccato + fatto entrare in Città Bassa (Tappa 27) |
-| **Kith'rak Voss** | Risparmiato + alleanza accettata ✅ |
-| **Kuo-toa** | BOOOAL smascherato nell'Atto 1 ✅ |
-| **Zietta Ethel** | Solo se hai accettato il suo patto (Tappa 34) — facoltativo |
-| **Mizora** | Solo se **mantieni** il patto di Wyll (Tappa 30) |
+| **Valeria** | **Risparmiata** al Tribunale degli Omicidi (Tappa 45) |
+| **Bue Strano** | Mai attaccato né smascherato + fatto entrare in Città Bassa (Tappa 27) |
+| 📌 **Kith'rak Voss** | Risparmiato nell'Atto 1 **+**, nell'Atto 3, **liberare Orpheus** nel finale (o promettergli la libertà passando prove **CD 30** di Persuasione/Inganno) |
+| 📌 **Kuo-toa** | BOOOAL smascherato nell'Atto 1 ✅ **+ ordinare a Pooldripp di "costruire un esercito"** |
+| **Zietta Ethel** | Solo se l'hai risparmiata alla Tappa 34 — facoltativo |
+| **Mizora** | Solo se **mantieni** il patto di Wyll (Tappa 30) ✅ |
+
+> ℹ️ **Alleati che NON puoi avere in questa run**, perché stanno sul ramo malvagio o si escludono a vicenda: **Astarion Asceso** (escluso da Ulma e i Gur), **Lorroakan** (escluso da Aylin, Isobel e Rolan), **Viconia** (escluderebbe Cuorescuro), **Wulbren** (escluso da Barcus), **gli Zhentarim** (esclusi dalla Gilda), **Bhaal** (solo Impulso Oscuro). Non ti manca niente: hai scelto l'altro lato di ogni coppia.
 
 ### 47.4 — Ultimo giro di acquisti e assetto
 
@@ -1215,37 +1642,47 @@ Ripassa questa tabella: ogni riga è un alleato in più alla battaglia finale.
 
 ⚠️ **Salvataggio manuale "PRIMA DELLO SKIFF" su uno slot dedicato.**
 
-Con entrambe le Pietranether, l'Imperatore ti convoca alla **Pozza Morfica**, nel cervello del nautiloide sotto la città. Ci si arriva con lo **skiff al molo**.
+### 🗺️ 48.1 — Dove si va e cosa si perde
 
-> 🚩 **Salendo sullo skiff perdi per sempre**: Città Bassa, fogne, **il campo** (niente riposi lunghi, niente bauli, niente cambio gruppo). Tutte le missioni non chiuse falliscono.
+Con entrambe le Pietranether, l'Imperatore ti convoca alla **Pozza Morfica**, nel cervello del nautiloide sotto la città. Ci si arriva dal **Molo della Pozza Morfica**, nelle **Rovine della Sottocittà**: interagisci con lo **skiff** e parte la scena in cui una **stalattite crolla** e vi fa finire tutti in acqua.
+
+> 🚩 **Entrare nella Pozza Morfica è il punto di non ritorno dell'Atto 3.** Perdi per sempre:
+> - i **riposi** (lunghi e brevi al campo);
+> - l'accesso a **bauli e attrezzatura immagazzinata**;
+> - il **cambio dei compagni**;
+> - ⚠️ **il respec con Withers** — questo il file prima non lo diceva: **la build con cui scendi è quella con cui finisci il gioco**.
 >
-> **Prima di salire, scorri la [lista di controllo finale](#-lista-di-controllo-finale-prima-della-pozza-morfica).**
+> Tutte le missioni non chiuse falliscono. **Prima di salire, scorri la [lista di controllo finale](#-lista-di-controllo-finale-prima-della-pozza-morfica).**
 
-### 48.1 — ⚠️ La scelta: Imperatore o Orpheus
+**La discesa**: zona di sbarco → **pozze salmastre con imboscate di Divoratori d'Intelletto** → ponti spezzati → il confronto.
+
+### 48.2 — ⚠️ La scelta: Imperatore o Orpheus
 
 ⚠️ **Lae'zel deve essere in uno dei 4 slot attivi** per la sua versione della scena.
-⚠️ **Devi avere il Martello Orfico** (Tappa 40). Senza, Raphael appare e te lo baratta con la **Corona di Karsus** — un pessimo affare.
+⚠️ **Devi avere il Martello Orfico** (Tappa 40). Senza, Raphael si presenta qui e te lo baratta con la **Corona di Karsus** — un pessimo affare.
 
 | Scelta | Conseguenze |
 |---|---|
 | **Dare le Pietranether all'Imperatore** | Divora il cervello di Orpheus e diventa abbastanza potente da dominare il Cervello Netherese. Lae'zel (se sta con Voss) **ti diventa ostile e va uccisa**. Orpheus muore |
-| ✅ **Liberare Orpheus** col Martello Orfico | L'Imperatore ti abbandona e passa al Cervello. **Orpheus si unisce a te**: i githyanki si liberano di Vlaakith, Lae'zel ha la sua fine migliore |
+| ✅ **Liberare Orpheus** col Martello Orfico | L'Imperatore ti abbandona e passa al Cervello. **Orpheus si unisce a te**: i githyanki possono liberarsi di Vlaakith e Lae'zel ha la sua fine migliore |
 
 ✅ **La scelta buona: libera Orpheus.**
 
-### 48.2 — ⚠️ Chi diventa mindflayer
+### 48.3 — ⚠️ Chi diventa mindflayer (e l'insidia su Orpheus)
 
-Con Orpheus libero, **qualcuno deve trasformarsi in illithid** per impugnare le Pietranether. Le opzioni:
+Le Pietranether può impugnarle **solo un illithid**: qualcuno deve trasformarsi. Tre volontari possibili:
 
 | Volontario | Esito |
 |---|---|
-| ✅ **Orpheus** | Si trasforma lui, **nessuno del gruppo si sacrifica**. È l'esito migliore per la tua run: il principe sceglie liberamente il proprio sacrificio |
-| **Il protagonista** | Diventi mindflayer per sempre → è la strada per 🏆 **Ceremorfosi** (da fare in 🔁 salva/ricarica) |
-| **Karlach** | Il motore si zittisce e resta a Faerûn, ma perdi la sua fine nell'Averno |
+| ✅ **Orpheus** | Si trasforma lui e **nessuno del gruppo si sacrifica**. ⚠️ **MA**: a vittoria ottenuta si presenta sulle banchine definendosi **"un abominio" e chiede di essere ucciso**. Serve una **Persuasione CD 20** per convincerlo a vivere — **se non la passi, o se non ci provi, si uccide** |
+| **Il protagonista** | Diventi mindflayer per sempre → è la strada per 🏆 **Ceremorfosi** (da fare in 🔁 salva/ricarica). Orpheus resta sé stesso e **guida la rivolta githyanki contro Vlaakith**, arrivando in volo sui draghi rossi |
+| **Karlach** | Si sacrifica lei: resta a Faerûn ma **perdi la sua fine nell'Averno**. Anche qui Orpheus resta integro e guida la rivolta |
+
+> ⚠️ **Questa è la correzione più importante della tappa.** Il file prima presentava "si offre Orpheus" come una scelta indolore: **non lo è**. Va benissimo lasciarlo fare — è comunque l'opzione che non costa nulla al tuo gruppo — ma **tieni pronta un'Ispirazione per la Persuasione CD 20** sulle banchine, altrimenti il principe che hai appena liberato si toglie la vita davanti a te.
 
 💾 **Salvataggio manuale "PRIMA DEL GIRINO"**: da qui prenderai poi 🏆 *Ceremorfosi*.
 
-Per la run buona: **non offrirti**, non offrire Karlach → **Orpheus si trasforma**.
+Per la run buona: **non offrirti**, non offrire Karlach → **Orpheus si trasforma** → **e poi convincilo a vivere**.
 
 ---
 
@@ -1253,19 +1690,30 @@ Per la run buona: **non offrirti**, non offrire Karlach → **Orpheus si trasfor
 
 > 🎭 **Squadra ideale:** **La squadra della Tappa 48: non si cambia più.** Contro il drago rosso servono **fulmine, radioso e forza** (Gale con *Catena di Fulmini*/*Disintegrazione*, il protagonista con Punizione Divina, Karlach con l'Ammazzagiganti). Chiama **tutti** gli alleati appena inizia lo scontro.
 
-1. **Attraversi la Città Alta** (cortile o fogne) fino alla **Sala Alta** e sali sul tronco cerebrale.
+1. **Attraversi la Città Alta** — dal **cortile** oppure dalle **fogne** — fino alla **Sala Alta**, e sali sul **tronco cerebrale**.
 2. **Gli alleati**: durante la salita puoi **chiamare i rinforzi** raccolti nella Tappa 47. Usali tutti: ogni gruppo che chiami toglie pressione al tuo party.
-3. **Sul dorso del Cervello** si combatte lo scontro finale.
+3. **In cima al Cervello**, il personaggio illithid lancia la **Costrizione di Karsus** per entrare nella psiche del Cervello Netherese: lo scontro finale si combatte lì, su **piattaforme che si sgretolano**.
 
 ### 🏆 Interfectorem Draconis — *Uccidi il drago rosso nella Città Alta*
 
-Nell'ultimo scontro compare un **drago rosso dominato**. ⚠️ **Il gioco ti spinge a correre verso il traguardo (la corona): NON farlo prima di aver ucciso il drago**, o perdi il trofeo.
+Nell'ultimo scontro compare il **Drago Rosso Dominato**. ⚠️ **Il gioco ti spinge a correre verso il traguardo (la corona): NON farlo prima di aver ucciso il drago**, o perdi il trofeo.
+
+| Dato | Valore |
+|---|---|
+| **Livello / PF / CA** | 17 · **400 PF** · **CA 19** (in Equilibrata) |
+| **Immunità** | ⚠️ **Tutti i danni da fuoco** |
+| **Difese** | **Squame del Grande Wyrm**: **ogni danno in entrata è ridotto di 2**. Ha anche **Resistenza Magica** |
+| **Soffio Infuocato** | **14d6 da fuoco in 30 metri**, TS Destrezza — e **può usarlo ogni turno** |
+| **Multiattacco** | Artigli + morso, fino a ~96 danni totali |
+| **Presenza Spaventosa** | TS Saggezza o Spaventato |
+| **Volo** | **Come azione bonus**, fino a 30 m |
 
 **Tattica:**
 - **Chiama tutti gli alleati** appena inizia lo scontro.
-- Bloccalo: **Esplosione Mentale** (potere illithid), **Buco Nero**, *Blocca Mostri*, *Bandire*.
-- Concentraci sopra tutto il gruppo: è resistente al fuoco, quindi **fulmine, radioso e forza** (Gale con *Disintegrazione*/*Catena di Fulmini*, il protagonista con Punizione Divina, Karlach con l'**Ammazzagiganti di Balduran**).
-- Solo dopo che è morto, punta alla corona.
+- 🥇 **Buco Nero** (potere illithid) per inchiodarlo, poi **Esplosione Mentale** a ripetizione per tenerlo **stordito** mentre il resto del gruppo lo smonta. Funzionano anche *Blocca Mostri* e *Bandire*.
+- ⚠️ **Niente fuoco** (immune) e **niente colpetti**: siccome **ogni colpo perde 2 danni**, dieci attacchi deboli valgono molto meno di due grossi. Meglio **Disintegrazione**, **Catena di Fulmini**, Punizione Divina massimizzata e l'**Ammazzagiganti di Balduran**.
+- 💡 Curiosità utile: se dopo essersi alzato in volo **atterra su dei tentacoli, li uccide all'istante** — a volte ti fa pulizia da solo.
+- Solo dopo che il drago è morto, punta alla corona.
 
 > ⚠️ **Attenzione:** il drago **rosso** della battaglia finale e **Ansur** (bronzo, Tappa 44) sono due trofei diversi. Ti servono entrambi.
 
@@ -1303,11 +1751,12 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 | **Gale** | Recupera la Corona di Karsus e **restituiscila a Mystra** → è perdonato e torna suo Prescelto. *(Tenerla lo condanna alla fame eterna.)* |
 | **Karlach** | Il motore cede. ✅ **Mandala nell'Averno** con **Wyll** (patto mantenuto → Lama dell'Averno) e/o col protagonista se la ami. È **l'unica fine in cui sopravvive** |
 | **Wyll** | Se è Lama dell'Averno: parte con Karlach. Se è libero: incoraggialo a **restare l'eroe delle frontiere** o a diventare **Gran Duca** accanto al padre |
-| **Lae'zel** | Parte con **Orpheus** a rovesciare Vlaakith. Puoi convincerla a restare, ma la sua fine migliore è la rivoluzione githyanki |
+| **Lae'zel** | Parte con **Orpheus** a rovesciare Vlaakith: è la sua fine migliore. *(Convincerla a restare a Faerûn richiede **Persuasione CD 30** se non sei diventato un mindflayer; se è la tua romance può anche partire con te.)* |
 | **Astarion** | Non asceso: torna vulnerabile alla luce del sole ma **libero**. Rassicuralo: resta |
 | **Cuorescuro** | Coi genitori salvi, si ricongiunge alla famiglia |
 | **Halsin** | Torna nelle terre di Thaniel a crescere gli orfani di guerra |
 | **Protagonista** | Non ti sei trasformato: resti umano, con i tuoi |
+| ⚠️ **Orpheus** | Se si è trasformato lui, sulle banchine si definisce **"un abominio" e chiede di morire**: passa la **Persuasione CD 20** per convincerlo a vivere. Se fallisci, **si uccide** (vedi Tappa 48.3) |
 
 3. **L'epilogo** (la festa sei mesi dopo, al campo): parla con **tutti**. È il vero commiato del gioco e chiude le romance.
 
@@ -1340,7 +1789,7 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 | **Protagonista** (Pal/Str) | **Prerogativa del Duellante** (Tappa 34) · **Armatura Crepuscolo Infernale** (Tappa 40) · **Elmo di Balduran** (Tappa 44) · **Amuleto di Salute Superiore** (Tappa 40) |
 | **Cuorescuro** | **Amuleto del Devoto** (Tappa 39) · **Fortezza Ambulante di Viconia** (Tappa 37) · **Lancia della Notte di Selûne** |
 | **Karlach** | **Ammazzagiganti di Balduran** (Tappa 44) o **Nyrulna** (Tappa 28) · **Guanti della Forza del Gigante delle Colline** (Tappa 40) |
-| **Gale** | **Markoheshkir** (Tappa 36) · **Veste della Trama** (Tappa 36) · **Guanti della Potenza Magica** (Tappa 28) · **Mantello dello Spostamento** |
+| **Gale** | **Markoheshkir** (Tappa 36) · **Veste della Trama** (Tappa 36) · **Guanti della Potenza Magica** (Tappa 28) · **Mantello dello Spostamento** (si **compra da Danthelon**, non è nella torre) |
 | **Astarion** | **Malizia Cremisi** + **Sete di Sangue** (Tappa 46) · **Rapsodia** (Tappa 38) · **Armatura Bhaalista** (Tappa 45) · **Anello dell'Opportunità Omicida** |
 | **Wyll** | **Stocco Infernale** (Atto 2) · **Mantello dello Spostamento** · oggetti +CD incantesimi |
 | **Lae'zel** | **Ammazzagiganti di Balduran** o **Spada d'Argento del Piano Astrale** · **Elmo di Balduran** se fa da tank |
@@ -1364,17 +1813,17 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 ## ✅ LISTA DI CONTROLLO FINALE (prima della Pozza Morfica)
 
 **Trofei dell'atto**
-- [ ] 🏆 **Passo Leggiadro** — Gortash senza trappole
-- [ ] 🏆 **Primo Sangue** — Orin prima del rituale
-- [ ] 🏆 **Atterraggio Forzato** — Ansur a mezz'aria
-- [ ] 🏆 **Omicidio a Baldur's Gate** — Assassino Nefando (mano di Gortash)
+- [ ] 🏆 **Fancy Footwork** — Gortash senza trappole
+- [ ] 🏆 **First Blood** — Orin prima del rituale
+- [ ] 🏆 **Crash Landing** — Ansur a mezz'aria
+- [ ] 🏆 **Murder in Baldur's Gate** — Assassino Nefando (mano di Gortash)
 - [ ] 🏆 **Mente Sconvolgente** — Imperatore corteggiato
 - [ ] 🔁 🏆 **Scappatoia** — patto di Wyll rotto e poi ricaricato
 - [ ] Trofei "sparsi" chiusi: Artista della Fuga · Tuttofare · Esternalizzazione · Topo da Biblioteca · Musicista di Strada · Scava per la Vittoria · Giocatore di Ruolo · Alchimista Amatoriale · Non Servono Monete · Due Piccioni con uno Gnomo · Azione Impetuosa · Botte da Orbi · Pussa Via · In Alto i Calici · Risse da Taverna
 
 **Missioni che scadono con Gortash (devono essere già chiuse)**
 - [ ] **Fermare le Rotative** (titolo positivo)
-- [ ] **Salvare i Gondiani**
+- [ ] **Salvare i Gondiani** — ⚠️ **tutti e 13**, altrimenti Zanner e i Gondiani non diventano alleati
 - [ ] **Recuperare Omeluum**
 - [ ] **Salvare il Gran Duca** (Ravengard vivo al campo)
 
@@ -1451,12 +1900,12 @@ Con questa run buona arrivi a **51 trofei su 54** (platino escluso: 50/53). Rest
 Ricerca svolta ad agosto 2026. Fonti principali:
 
 - **Struttura, missioni e ordine**: [bg3.wiki — Act Three](https://bg3.wiki/wiki/Act_Three) · [bg3.wiki — Quests](https://bg3.wiki/wiki/Quests) · [Gamestegy — Act 3 Checklist](https://gamestegy.com/post/bg3/1641/act-3-checklist) · [Gamestegy — Act 3 Unique Items](https://gamestegy.com/post/bg3/1077/act-3-unique-items) · [Switchblade Gaming — Act 3 Guide: quali missioni scadono](https://www.switchbladegaming.com/baldurs-gate-3/act-3-guide/) · [GameRant — Best Quest Order in Act 3](https://gamerant.com/baldurs-gate-3-best-quest-order-in-act-3/) · [Inverse — Act 3 Checklist](https://www.inverse.com/gaming/baldurs-gate-3-act-3-checklist)
-- **Gortash, Sentinelle, Gondiani, Trono di Ferro**: [bg3.wiki — Get Gortash's Netherstone](https://bg3.wiki/wiki/Get_Gortash%27s_Netherstone) · [bg3.wiki — Disable the Steel Watch](https://bg3.wiki/wiki/Disable_the_Steel_Watch) · [bg3.wiki — Iron Throne](https://bg3.wiki/wiki/Iron_Throne) · [bg3.wiki — Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue_the_Grand_Duke) · [GameRevolution — Iron Throne: salvare tutti in 6 turni](https://www.gamerevolution.com/guides/944631-baldurs-gate-3-bg3-iron-throne-save-everyone-6-turns-rescue-all-prisoners) · [PC Gamer — Iron Throne prisoners](https://www.pcgamer.com/baldurs-gate-3-iron-throne-prisoners-duke-ravengard/) · [GameSpot — Ravengard e i Gondiani](https://www.gamespot.com/articles/baldurs-gate-3-duke-ravengard-gondians-iron-throne-guide/1100-6516806/) · [bg3.wiki — Stop the Presses](https://bg3.wiki/wiki/Stop_the_Presses)
-- **Missioni dei compagni**: [bg3.wiki — The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf) · [bg3.wiki — Investigate Cazador's Palace](https://bg3.wiki/wiki/Investigate_Cazador%27s_Palace) · [bg3.wiki — Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness) · [bg3.wiki — The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep) · [bg3.wiki — The Githyanki Warrior](https://bg3.wiki/wiki/The_Githyanki_Warrior) · [bg3.wiki — Our Fiery Friend](https://bg3.wiki/wiki/Our_Fiery_Friend) · [bg3.wiki — The Blade of Frontiers](https://bg3.wiki/wiki/The_Blade_of_Frontiers) · [bg3.wiki — Wyll](https://bg3.wiki/wiki/Wyll) · [bg3.wiki — The High Harper](https://bg3.wiki/wiki/The_High_Harper)
+- **Gortash, Sentinelle, Gondiani, Trono di Ferro**: [bg3.wiki — Get Gortash's Netherstone](https://bg3.wiki/wiki/Get_Gortash%27s_Netherstone) · [bg3.wiki — Disable the Steel Watch](https://bg3.wiki/wiki/Disable_the_Steel_Watch) · [bg3.wiki — Steel Watch Foundry](https://bg3.wiki/wiki/Steel_Watch_Foundry) · [bg3.wiki — Enver Gortash](https://bg3.wiki/wiki/Enver_Gortash) · [bg3.wiki — Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress) · [bg3.wiki — Iron Throne](https://bg3.wiki/wiki/Iron_Throne) · [bg3.wiki — House of Hope](https://bg3.wiki/wiki/House_of_Hope) · [bg3.wiki — Raphael/Combat](https://bg3.wiki/wiki/Raphael/Combat) · [bg3.wiki — Helsik](https://bg3.wiki/wiki/Helsik) · [bg3.wiki — Rescue the Grand Duke](https://bg3.wiki/wiki/Rescue_the_Grand_Duke) · [GameRevolution — Iron Throne: salvare tutti in 6 turni](https://www.gamerevolution.com/guides/944631-baldurs-gate-3-bg3-iron-throne-save-everyone-6-turns-rescue-all-prisoners) · [PC Gamer — Iron Throne prisoners](https://www.pcgamer.com/baldurs-gate-3-iron-throne-prisoners-duke-ravengard/) · [GameSpot — Ravengard e i Gondiani](https://www.gamespot.com/articles/baldurs-gate-3-duke-ravengard-gondians-iron-throne-guide/1100-6516806/) · [bg3.wiki — Stop the Presses](https://bg3.wiki/wiki/Stop_the_Presses)
+- **Missioni dei compagni**: [bg3.wiki — The Pale Elf](https://bg3.wiki/wiki/The_Pale_Elf) · [bg3.wiki — Szarr Palace](https://bg3.wiki/wiki/Szarr_Palace) · [bg3.wiki — Cazador Szarr/Combat](https://bg3.wiki/wiki/Cazador_Szarr/Combat) · [bg3.wiki — Investigate Cazador's Palace](https://bg3.wiki/wiki/Investigate_Cazador%27s_Palace) · [bg3.wiki — Daughter of Darkness](https://bg3.wiki/wiki/Daughter_of_Darkness) · [bg3.wiki — Mirror of Loss](https://bg3.wiki/wiki/Mirror_of_Loss) · [bg3.wiki — Cloister of Sombre Embrace](https://bg3.wiki/wiki/Cloister_of_Sombre_Embrace) · [bg3.wiki — The Wizard of Waterdeep](https://bg3.wiki/wiki/The_Wizard_of_Waterdeep) · [bg3.wiki — Stormshore Tabernacle](https://bg3.wiki/wiki/Stormshore_Tabernacle) · [bg3.wiki — The Annals of Karsus](https://bg3.wiki/wiki/The_Annals_of_Karsus) · [bg3.wiki — The Githyanki Warrior](https://bg3.wiki/wiki/The_Githyanki_Warrior) · [bg3.wiki — Our Fiery Friend](https://bg3.wiki/wiki/Our_Fiery_Friend) · [bg3.wiki — The Blade of Frontiers](https://bg3.wiki/wiki/The_Blade_of_Frontiers) · [bg3.wiki — Wyll](https://bg3.wiki/wiki/Wyll) · [bg3.wiki — The High Harper](https://bg3.wiki/wiki/The_High_Harper)
 - **Wyll, Mizora e Karlach (bivio patto/Averno)**: [GameRant — How to Break Wyll's Pact with Mizora](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [TheGamer — All Karlach Endings](https://www.thegamer.com/baldurs-gate-3-all-karlach-endings/) · [SegmentNext — All Karlach Endings](https://segmentnext.com/baldurs-gate-3-karlach-endings/) · [Switchblade Gaming — Karlach Romance](https://www.switchbladegaming.com/baldurs-gate-3/karlach-romance/)
 - **Casa della Speranza e Raphael**: [bg3.wiki — House of Hope](https://bg3.wiki/wiki/House_of_Hope) · [CBR — Helsik Ritual](https://www.cbr.com/baldurs-gate-3-helsik-ritual-house-of-hope-guide/) · [GameRant — How to Complete the Helsik Ritual](https://gamerant.com/baldurs-gate-3-how-to-complete-the-helsik-ritual-house-of-hope-portal/)
 - **Bhaal, Orin, Tribunale**: [bg3.wiki — Get Orin's Netherstone](https://bg3.wiki/wiki/Get_Orin%27s_Netherstone) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve_the_Open_Hand_Temple_Murders) · [ScreenRant — Unholy Assassin o uccidere Sarevok](https://screenrant.com/baldurs-gate-3-murder-tribunal-unholy-assassin-sarevok/) · [Gamer Guides — Murder Tribunal walkthrough](https://www.gamerguides.com/baldurs-gate-3/guide/walkthrough/act-3-lower-city/murder-tribunal-walkthrough-in-bg3-unholy-assassin-and-finding-orin)
-- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway)
+- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
 - **Finali e alleati**: [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Endings](https://bg3.wiki/wiki/Endings) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies)
 - **Trofei**: **Lista trofei PSN italiana** — [UAGNA — Lista Trofei Baldur's Gate 3](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538) · [bg3.wiki — Guida "Fancy Footwork"](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)) · [Tigore's Tips — Fancy Footwork](https://tigorestips.com/dnd/bg3-gortashs-fancy-footwork-achievement-guide/) · [Tigore's Tips — Crash Landing (Ansur)](https://tigorestips.com/dnd/bg3-wyrmway-crash-landing-achievement-guide/) · [SegmentNext — Crash Landing](https://segmentnext.com/baldurs-gate-3-crash-landing/) · [PlayStationTrophies — Interfectorem Draconis](https://www.playstationtrophies.org/game/baldurs-gate-iii/trophy/interfectorem-draconis.html) · [dotesports — Mind Blown](https://dotesports.com/baldurs-gate/news/baldurs-gate-3-how-to-complete-the-mind-blown-achievement-in-bg3) · [TheGamer — Come corteggiare l'Imperatore](https://www.thegamer.com/baldurs-gate-3-bg3-the-emperor-romance-guide/) · [bg3.wiki — Leave No One Behind](https://bg3.wiki/wiki/Leave_No_One_Behind) · [GameRant — Trovare ogni tiefling](https://gamerant.com/baldurs-gate-3-bg3-find-every-missing-tiefling-leave-no-one-behind/) · [XboxAchievements — The Lich-Queen's Wrath](https://www.xboxachievements.com/game/baldurs-gate-3/achievement/the-lich-queens-wrath.html)
 - **Nomi italiani di luoghi, PNG e oggetti**: [NextGenTech.it — Guida strategica Atto 3](https://www.nextgentech.it/gaming/guida-strategica/baldurs-gate-3-guida-strategica-atto-3/) · [Bazaverse — Rivington](https://bazaverse.com/2024/04/22/baldurs-gate-3-rivington/) · [Bazaverse — La Guida Completa](https://bazaverse.com/2024/04/17/baldurs-gate-3-la-guida-completa/)
