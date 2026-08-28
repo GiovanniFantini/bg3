@@ -370,7 +370,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 
 **Dove sei e cosa stai facendo.** Uscito dalla colonia illithid sbuchi a **Rivington**, il sobborgo agricolo **a sud** di Baldur's Gate. Qui non si combatte quasi: è la tappa in cui **si apre il campo nuovo**, si smaltiscono le **scene arretrate** dei compagni e si prende la mano con la mappa.
 
-⚠️ **La Città Bassa è ancora chiusa.** Il ponte (Attraversamento del Wyrm) e la Porta del Basilisco non ti fanno passare finché non hai il **Lasciapassare per la Città Bassa**, che si ottiene **risolvendo gli omicidi del Tempio della Mano Aperta** (Tappa 29). Quindi: **prima Rivington, poi la città**. Tutto ciò che questa guida rimanda "alla Tappa 31" è roba che *non puoi* fare adesso — non roba che stai dimenticando.
+⚠️ **La Città Bassa è ancora chiusa.** Il ponte (Attraversamento del Wyrm) e la Porta del Basilisco non ti fanno passare finché non hai il **Lasciapassare per la Città Bassa**, che ti consegna l'**Investigatrice Valeria** quando le porti le prove degli **omicidi del Tempio della Mano Aperta** (Tappa 29). *(Ci si arriva anche seguendo la pista dei **Giocattoli Sospetti**, o — se proprio vuoi fare il pagliaccio — facendoti arrestare ed evadendo dalla prigione di Rivington.)* Quindi: **prima Rivington, poi la città**. Tutto ciò che questa guida rimanda "alla Tappa 31" è roba che *non puoi* fare adesso — non roba che stai dimenticando.
 
 **L'ordine giusto della zona:** Tappa 27 (campo e giro di Rivington) → Tappa 28 (Circo) → Tappa 29 (indagine e secondarie) → Tappa 30 (Incoronazione).
 
@@ -401,7 +401,7 @@ E soprattutto: 🏆 *Nessuno Rimane Indietro* **scatta ai titoli di coda** e con
 |---|---|---|
 | **Campo profughi di Rivington** (attorno al granaio requisito) | **Bex, Cerys, Danis, Ide, Umi, Zorru** — e **Mattis**, che ha rimesso su bottega proprio nel granaio | Tappe 27-29 |
 | **Città Bassa** | **Alfira** e **Lakrissa** (Taverna del Canto Elfico), **Dammon** (Forgia dei Nove) | Tappa 31 |
-| **Curiosità Stregonesche** | **Rolan** (apprendista di Lorroakan) e, prigionieri nella torre, **Cal** e **Lia** | Tappa 36 |
+| **Curiosità Stregonesche** | **Rolan**, al banco del negozio: lo trovi **teso e stranamente rigido**, perché **Lorroakan tiene in pugno Cal e Lia** per averlo al guinzaglio. Si risolve alla Tappa 36 | Tappa 36 |
 | **Fogne / Sottocittà** | **Arabella** (linea dei Gur) | Tappe 35-45 |
 | **Sala della Gilda** | **Mol** | Tappe 31-32 |
 | **Zevlor** | ⚠️ **non lo incontri a Rivington.** Se l'hai liberato dal baccello nella colonia illithid dell'Atto 2 è salvo e ti raggiunge come **alleato al finale**; se non l'avessi liberato, Orin lo uccide e ne trovi il cadavere al campo | Tappa 49 |
@@ -454,9 +454,10 @@ L'illithid appena nato chiede **un cervello fresco**. Le opzioni sono tre e **ne
 
 **B) Convincerlo a cacciarsi il pasto da solo** (**Persuasione CD 15**) — sembra la via furba, ma è la peggiore: **va a caccia di gente viva**, muoiono degli NPC e **non prendi nulla**.
 
-**C) ✅ Ucciderlo** — è la scelta coerente con una run buona: è un predatore appena nato che, in ogni scenario in cui vive, **mangia qualcuno**. Attaccalo subito (dorme: apri con un attacco furtivo dal vantaggio). Lasci **ispirazione**, un **cervello di mindflayer** e un anello (*Ring of Truthfulness*).
+**C) ✅ Ucciderlo** — è la scelta coerente con una run buona: è un predatore appena nato che, in ogni scenario in cui vive, **mangia qualcuno**. Attaccalo subito (dorme: apri con un attacco furtivo dal vantaggio). Lascia **ispirazione**, l'**Anello della Sincerità** (*Ring of Truthfulness*) e un **cervello di mindflayer**.
+   > ✅ **Correzione importante**: il cervello, **se lo consumi, vale un punto potere illithid**. Quindi **l'opzione C ti dà lo stesso punto dell'opzione A**, senza far morire nessuno.
 
-> 📌 **In sintesi:** se ti interessa il **punto potere illithid**, opzione A con un cadavere già morto — ma la famiglia Armbrust muore. Se vuoi la run pulita fino in fondo, **opzione C**.
+> 📌 **In sintesi: opzione C, e basta.** Il punto potere illithid lo prendi comunque (consumando il cervello), l'anello pure, e nessuno muore. L'opzione A costa la **famiglia Armbrust** e **rompe il giuramento del Paladino** per lo stesso identico bottino. L'opzione B (**Persuasione CD 15**) è la peggiore in assoluto: l'illithid va a caccia da solo, **Sloncha Owena muore**, **Bogdan Vortleson sparisce**, e **non prendi niente**.
 
 ---
 
@@ -492,13 +493,26 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 **Percorso:**
 
-1. **Klaus e Benji** all'ingresso: fatti annusare, entra.
-2. **Zethino** — il test dell'amore (100 mo): fallo **col partner della tua romance** in gruppo. Dà approvazione e ispirazione.
+1. **Klaus e Benji** all'ingresso: Benji ti annusa e Klaus decide. ⚠️ **Ti rifiutano se sei insanguinato, sporco o "assaggiato" dal girino**: lavati e ripresentati, oppure passa con una prova di dialogo o **pagando 200 mo**.
+2. **Zethino** — il test dell'amore (**100 mo**): fallo **col partner della tua romance** in gruppo. Ti porta in una radura e ti fa domande sul partner: le risposte giuste danno **ispirazione** (Accolito/Saggio) e approvazione.
+   > ⚠️ **Occhio a Orin**: può presentarsi lei sotto le sembianze di Zethino e **avvelenarti alla fine del test**. Se la dryade dice qualcosa di stonato, è lei.
 3. ⚠️🏆 **Akabi e la Ruota della Fortuna** (500 mo a giro). **Non accusarlo apertamente**: ti trasforma in una forma di formaggio per 20 turni. Devi **coglierlo sul fatto** con una prova di **Percezione**, poi contestarlo: ti teletrasporta nella **giungla**, dove trovi:
    - **Nyrulna** (tridente leggendario, torna in mano quando lo lanci + esplosione tonante) → per Karlach lanciatrice o per il protagonista
    - **Fascia del Furfante Mistico** (*Band of the Mystic Scoundrel*)
    > *Consiglio:* salva prima di girare la ruota. Se ti va male, ricarica.
-4. **Dribbles il Clown.** Il suo spettacolo degenera in uno scontro con mutaforma. Dopo lo scontro parte la missione ⚠️ **Trova Dribbles il Clown**: devi raccogliere **7 pezzi del suo corpo** sparsi per la mappa (Rivington, Città Bassa, fogne, cimitero). Ricompensa: **Guanti della Potenza Magica** (*Spellmight Gloves*) — +1d8 danni agli incantesimi, uno dei migliori oggetti del gioco per Gale.
+4. **Dribbles il Clown.** Il suo spettacolo degenera in uno scontro: i domatori **Ryland e Keren** si rivelano **mutaforma** e attaccano. Dopo, è **Lucretious** a darti la missione ⚠️ **Trova Dribbles il Clown**: **7 pezzi del corpo** sparsi per mezza mappa. Ricompensa: **Guanti della Potenza Magica** (*Spellmight Gloves*) — +1d8 danni agli incantesimi, uno dei migliori oggetti del gioco per Gale.
+
+   | Pezzo | Dove |
+   |---|---|
+   | **Mano** | Su un piatto nel **negozio di Popper**, dentro il circo stesso |
+   | **Torso** | Sul cadavere di **Penela Lumpensicks**, nella grotta **sotto il Tempio della Mano Aperta** |
+   | **Braccio** | Sul cadavere di **Coraggiosa Piccola Kimmabeth**, nel **seminterrato di Peartree House** |
+   | **Gamba** | Sul cadavere di **Incontinentia Figgin**, nel **seminterrato della casa di Lavernica** |
+   | **Piede** | Sul cadavere di **Winslow Reginol**, nelle **Rovine della Sottocittà** |
+   | **Bacino** | Sul cadavere di **Gohumberry Tresp**, in un **edificio vuoto della Città Bassa** |
+   | **Testa** | Sul cadavere di **Wilting Alex**, nelle **Rovine della Sottocittà** |
+
+   💡 Due pezzi su sette sono nelle Rovine della Sottocittà: raccoglili quando ci passi per il Mistico Carcame (Tappa 35) o per il Tempio di Bhaal (Tappa 46), non fare un viaggio apposta.
 5. **Lucretious** (la direttrice necromante) e i banchi: qualche oggetto scenico, niente di essenziale.
 
 ---
@@ -517,7 +531,8 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 4. Lancia **Parlare con i Morti** su entrambi i cadaveri (Padre Lorgan e Brilgor): "un nano vestito di rosso".
 5. **Botola in cucina** → tunnel sotto il tempio: tre **mutaforma** ostili. Nel covo trovi il nome dell'assassino (**Dolor**) e una **chiave a fiori**.
 6. La chiave apre una stanza nascosta alla **Pensione Fraygo** (*Fraygo's Flophouse*): cadavere di **Ffion Goldgrind** e la **Pergamena Insanguinata** con l'elenco dei bersagli.
-7. Porta le prove all'**Investigatrice Valeria** a **La Carezza di Sharess**: Brilgor è scagionato e ottieni il **Lasciapassare per la Città Bassa**.
+7. Porta le prove all'**Investigatrice Valeria** (Pugni Fiammanti): Brilgor è scagionato e ti consegna il **Lasciapassare per la Città Bassa**.
+   > 💡 **Da qui in poi il suo nome è una chiave**: dire ai Pugni Fiammanti *"mi manda Valeria"* ti fa superare i cordoni in città — per esempio quello al piano di sopra della **Taverna del Canto Elfico**.
 
 > 📌 Conserva la **Pergamena Insanguinata**: serve alla Tappa 45.
 
@@ -543,7 +558,7 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 **Passo 2 — Il seminterrato.** Entra in villa e **scendi sotto**: c'è una **lettera di ricatto**. Qualcuno lo ha costretto a **imbottire di esplosivo i giocattoli donati ai profughi**. Parte *Indaga sui Giocattoli Sospetti*.
 
-**Passo 3 — I giocattoli.** Vai al **granaio requisito** (quello di Ferg Drogher e Mattis) e parla con **Manip Nestor**: con una prova sociale ti lascia frugare nella **catasta delle donazioni**. Dentro ci sono gli **orsacchiotti esplosivi**. ⚠️ Non lasciarli lì: erano destinati ai bambini del campo.
+**Passo 3 — I giocattoli.** Vai al **granaio requisito** (quello di Ferg Drogher e Mattis) e parla con **Manip Nestor**: ti lascia frugare nella **catasta delle donazioni** con una prova sociale **oppure con una donazione di 500 mo**. Dentro ci sono gli **orsacchiotti esplosivi**. ⚠️ Non lasciarli lì: erano destinati ai bambini del campo.
 
 **Passo 4 — Arfur a La Carezza di Sharess** *(Città Bassa, Tappa 31)*. Dopo Rivington, Arfur **scappa a La Carezza di Sharess**. Mettilo alle strette (**Intimidazione**): confessa e dice da dove arriva la **polvere pirica** — dai **Fuochi d'Artificio di Felogyr**.
 
@@ -551,7 +566,9 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 > 🧩 **Perché conta.** L'attentato ai profughi non era opera di Arfur: serviva a **Gortash** per creare il panico e giustificare le **Sentinelle d'Acciaio**. È uno dei pezzi che incastrano la sua propaganda — stesso filo delle **Rotative** (Tappa 33) e della **Fonderia** (Tappa 42).
 
-**Bottino:** ispirazione (varia col background), **Pugnale +1** e il **Lasciapassare per l'Incoronazione Arciducale**, che Arfur ha addosso: **borseggialo con Astarion** al Passo 1 o al Passo 4 — è un ingresso comodo alla Roccia del Wyrm (Tappa 30).
+**Bottino:** ispirazione (varia col background), **Pugnale +1** e il **Lasciapassare per l'Incoronazione Arciducale**.
+
+> ⏱️ **Attenzione all'ordine**: Arfur ti consegna il lasciapassare **quando lo metti alle strette al Passo 4**, cioè in Città Bassa — che però viene **dopo** l'incoronazione (Tappa 30). Se lo vuoi *prima*, l'unica via è **borseggiarglielo a Rivington** con Astarion al Passo 1. Non è indispensabile — alla Roccia del Wyrm entri comunque — ma è l'ingresso più comodo.
 
 ---
 
@@ -634,15 +651,19 @@ Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni*
 
 **Percorso:**
 
-1. **L'Ascia Danzante di Danthelon** (Attraversamento del Wyrm): incontro con gli Arpisti → è un'imboscata di **mutaforma**. Jaheira in gruppo rende tutto più ricco.
+1. **L'Ascia Danzante di Danthelon**, all'**estremità ovest dell'Attraversamento del Wyrm**: il negoziante ti apre il **seminterrato degli Arpisti**, ed è lì che la catena comincia davvero. Gli Arpisti sono stati **sostituiti da mutaforma**: l'**Arpista Geraldus** confessa di essere stato costretto a tradirli. Dopo lo scontro Jaheira ti dice cosa cerca davvero: **Minsc di Rashemen**, perso mentre indagava sul culto.
 1-bis. ✅ **Farlin e la rissa sulla spiaggia** (Attraversamento del Wyrm, spiaggia a ovest del posto di blocco della Campata Sud). È **la chiave d'ingresso alla Sede della Gilda**, quindi falla **prima** del punto 2.
    - **Aiutala**: la Gilda combatte al tuo fianco contro gli uomini del **Signore di Pietra** — che è **Minsc sotto controllo**, quindi sei già dalla parte giusta della storia.
    - **Ricompensa**: Farlin mette una buona parola con **Tusgront**, il buttafuori della Sede della Gilda, che da quel momento **ti fa entrare senza prove di dialogo**.
    - ❌ **Se rifiuti o attacchi**, *entrambe* le fazioni ti diventano ostili. ⚠️ E anche vincendo insieme a lei, **non intascarti il bottino della nave**: si arrabbia e diventa ostile.
    - 💡 Se per sbaglio l'hai messa fuori combattimento (senza ucciderla), dopo un **riposo lungo** torna a garantire per te.
-2. **Sede della Gilda** (fogne di Città Bassa): parla con **Nove-Dita Keene**. Ti dice dove trovare il "Signore di Pietra".
-3. ⏱️ **Casa dei Contabili** (*Counting House*): arriva **prima** che la Gilda faccia irruzione. Nel caveau ci sono casseforti (le chiavi sono sparse per la città) e la pista di Minsc. Qui trovi anche parecchio oro e oggetti.
-4. **Fogne → Cisterna**: il covo del Signore di Pietra.
+2. **Sede della Gilda** (fogne di Città Bassa). **Due modi per arrivarci**: il **passaggio sotterraneo dal waypoint della Porta del Basilisco** (il più rapido) oppure il **vicolo in superficie** sorvegliato dalla Gilda — lì servono prove di Persuasione/Intimidazione, **a meno che tu non abbia Jaheira in squadra o non abbia aiutato Farlin** (punto 1-bis).
+   - **Nove-Dita Keene** ti rivela che Minsc è il **Signore di Pietra** e che la Gilda prepara un'imboscata alla **Casa dei Contabili**. 💡 La stessa informazione si può estorcere anche **a Uktar**, farsi sfuggire dall'ubriaco **Tut Thistlebog**, o **leggere in una nota nell'ufficio di Keene**: se una prova ti va male, hai altre due strade.
+3. ⏱️ **Casa dei Contabili** (*Counting House*): arriva **prima** che la Gilda faccia irruzione.
+   - Ti serve un **pass bancario**: te lo dà il **Capo Impiegato Meadhoney** con una prova di dialogo, oppure glielo rubi.
+   - 🧩 **Il caveau è un enigma a piastrelle**: calpestale in quest'ordine — **in alto a sinistra → in alto a destra → centro → centro-destra**.
+   - Dentro: casseforti (le chiavi sono sparse per la città), parecchio oro e la pista di Minsc.
+4. **Fogne → Cisterna Abbandonata**: Minsc scappa dalla Casa dei Contabili e lo insegui di sotto. **Due percorsi**: quello **sotterraneo**, fra acque caustiche e valvole delle chiuse da azionare col tempismo giusto, e quello **in superficie**, con le piastre a pressione nel giardino "Vietato l'accesso" a **nord della Fonderia delle Sentinelle**.
 5. ⚠️⚠️ **LO SCONTRO CON MINSC.**
    - **ATTIVA GLI ATTACCHI NON LETALI** su tutto il gruppo (menu Reazioni/Passive) **prima** di iniziare.
    - Vale solo per i **danni da mischia**: attenzione agli incantatori, un *Dardo Incantato* lo uccide comunque.
@@ -660,12 +681,14 @@ Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni*
 
 Missione breve ma **irrecuperabile** se uccidi Gortash prima.
 
-1. Parla con **Estra Stir** (Città Bassa), **Lens** (Rivington) o direttamente con **Ettvard Needle** alla **Gazzetta della Bocca di Baldur**.
-2. Scopri che stanno preparando un pezzo diffamatorio sul tuo gruppo.
-3. Scendi nel seminterrato (Sentinelle d'Acciaio di guardia) e trova **Jelliwig**, la fata che manovra la stampa.
-4. **La scelta buona**: convinci Jelliwig (Persuasione/Intimidazione) e **sostituisci l'articolo** con uno positivo — i blocchi tipografici sono sparsi nell'edificio.
+1. Parla con la giornalista **Estra Stir** (Città Bassa, **vicino alla Porta del Basilisco**) o direttamente con il caporedattore **Ettvard Needle** alla **Gazzetta della Bocca di Baldur**, **a sud della Taverna del Canto Elfico**.
+2. Scopri che stanno preparando un pezzo diffamatorio sul tuo gruppo. Ettvard si rifiuta di fermare la stampa.
+3. **Scendi nel seminterrato.** Tre vie: l'**ascensore** vicino all'ingresso, le **porte di metallo** al piano di sotto (dopo aver parlato con Ettvard, sgattaiolando oltre l'ingresso chiuso), o dal **tetto** con **Passo Nebbioso**/**Volare** scavalcando le barricate.
+   - ⚠️ Di guardia ci sono **due Sentinelle d'Acciaio**: passa in **invisibilità o furtività**, non ingaggiarle.
+4. In fondo c'è **Jelliwig**, la creatura fatata che manovra magicamente la stampa.
+5. **La scelta buona**: convincila (prove **CD 7-15**, a seconda di come imposti il discorso) e **sostituisci il blocco tipografico** con un titolo positivo — del tipo *"Gli avventurieri, la nostra migliore speranza per la città"* o *"Celebriamo gli eroi che hanno abbattuto il Generale Ketheric"*. I blocchi di ricambio sono nei **cesti di vimini**, sugli **scaffali** e nelle **scrivanie** dell'edificio.
    - ❌ Non uccidere Ettvard. ❌ Non distruggere la stampa.
-5. **Effetto**: titolo positivo → **+10 di atteggiamento con quasi tutti i mercanti della città** (sconti concreti). Titolo negativo → −15 ovunque.
+6. **Effetto**: titolo **positivo** → **+10 di atteggiamento** con quasi tutti i mercanti della città (sconti concreti). Titolo **neutro** → nessun cambiamento. Titolo **negativo** → **−15** ovunque.
 
 > 💡 Fallo **prima** di comprare alla Casa della Speranza e da Curiosità Stregonesche: lo sconto si sente.
 
@@ -1905,7 +1928,7 @@ Ricerca svolta ad agosto 2026. Fonti principali:
 - **Wyll, Mizora e Karlach (bivio patto/Averno)**: [GameRant — How to Break Wyll's Pact with Mizora](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [TheGamer — All Karlach Endings](https://www.thegamer.com/baldurs-gate-3-all-karlach-endings/) · [SegmentNext — All Karlach Endings](https://segmentnext.com/baldurs-gate-3-karlach-endings/) · [Switchblade Gaming — Karlach Romance](https://www.switchbladegaming.com/baldurs-gate-3/karlach-romance/)
 - **Casa della Speranza e Raphael**: [bg3.wiki — House of Hope](https://bg3.wiki/wiki/House_of_Hope) · [CBR — Helsik Ritual](https://www.cbr.com/baldurs-gate-3-helsik-ritual-house-of-hope-guide/) · [GameRant — How to Complete the Helsik Ritual](https://gamerant.com/baldurs-gate-3-how-to-complete-the-helsik-ritual-house-of-hope-portal/)
 - **Bhaal, Orin, Tribunale**: [bg3.wiki — Get Orin's Netherstone](https://bg3.wiki/wiki/Get_Orin%27s_Netherstone) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve_the_Open_Hand_Temple_Murders) · [ScreenRant — Unholy Assassin o uccidere Sarevok](https://screenrant.com/baldurs-gate-3-murder-tribunal-unholy-assassin-sarevok/) · [Gamer Guides — Murder Tribunal walkthrough](https://www.gamerguides.com/baldurs-gate-3/guide/walkthrough/act-3-lower-city/murder-tribunal-walkthrough-in-bg3-unholy-assassin-and-finding-orin)
-- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
+- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Find Dribbles the Clown](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) · [bg3.wiki — Investigate the Murders](https://bg3.wiki/wiki/Investigate_the_Murders) · [bg3.wiki — Feed the Mind Flayer](https://bg3.wiki/wiki/Feed_the_Mind_Flayer) · [bg3.wiki — Investigate the Suspicious Toys](https://bg3.wiki/wiki/Investigate_the_Suspicious_Toys) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
 - **Finali e alleati**: [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Endings](https://bg3.wiki/wiki/Endings) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies)
 - **Trofei**: **Lista trofei PSN italiana** — [UAGNA — Lista Trofei Baldur's Gate 3](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538) · [bg3.wiki — Guida "Fancy Footwork"](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)) · [Tigore's Tips — Fancy Footwork](https://tigorestips.com/dnd/bg3-gortashs-fancy-footwork-achievement-guide/) · [Tigore's Tips — Crash Landing (Ansur)](https://tigorestips.com/dnd/bg3-wyrmway-crash-landing-achievement-guide/) · [SegmentNext — Crash Landing](https://segmentnext.com/baldurs-gate-3-crash-landing/) · [PlayStationTrophies — Interfectorem Draconis](https://www.playstationtrophies.org/game/baldurs-gate-iii/trophy/interfectorem-draconis.html) · [dotesports — Mind Blown](https://dotesports.com/baldurs-gate/news/baldurs-gate-3-how-to-complete-the-mind-blown-achievement-in-bg3) · [TheGamer — Come corteggiare l'Imperatore](https://www.thegamer.com/baldurs-gate-3-bg3-the-emperor-romance-guide/) · [bg3.wiki — Leave No One Behind](https://bg3.wiki/wiki/Leave_No_One_Behind) · [GameRant — Trovare ogni tiefling](https://gamerant.com/baldurs-gate-3-bg3-find-every-missing-tiefling-leave-no-one-behind/) · [XboxAchievements — The Lich-Queen's Wrath](https://www.xboxachievements.com/game/baldurs-gate-3/achievement/the-lich-queens-wrath.html)
 - **Nomi italiani di luoghi, PNG e oggetti**: [NextGenTech.it — Guida strategica Atto 3](https://www.nextgentech.it/gaming/guida-strategica/baldurs-gate-3-guida-strategica-atto-3/) · [Bazaverse — Rivington](https://bazaverse.com/2024/04/22/baldurs-gate-3-rivington/) · [Bazaverse — La Guida Completa](https://bazaverse.com/2024/04/17/baldurs-gate-3-la-guida-completa/)
