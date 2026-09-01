@@ -992,6 +992,26 @@ Una linea "orrorifica" facoltativa, ma con ottime ricompense, una scelta morale 
 
 ⚠️ Dentro: le **bare** sputano fuori non-morti se le apri, e il **ritratto** all'ultimo piano infligge danno psichico se fallisci una prova di **Arcano CD 15**.
 
+### ⚠️ 35.1-bis — Se scendendo nelle Rovine incontri Orin travestita da un tuo compagno
+
+Succede proprio qui: i Tunnel Orientali e le Rovine sono zona di Orin, e prima o poi ti si para davanti "un tuo compagno" che è lei. **Sono due eventi diversi con conseguenze opposte**: prima di reagire, vai al campo e guarda il roster.
+
+| Verifica | Di cosa si tratta |
+|---|---|
+| Il compagno vero è **ancora al campo o nel gruppo** (ne vedi due) | **Scherno**: Orin ti sta solo provocando |
+| Il compagno vero **non c'è più** dal roster, e/o al campo trovi un "regalo" macabro col biglietto | **Rapimento**: l'impostora ha preso il suo posto |
+
+**Se è lo scherno** — non c'è **nessuna decisione da prendere**. Qualunque battuta scegli, si rivela, ti sfotte e sparisce: **lì non è uccidibile** (non è il suo vero corpo) e attaccarla non è punito né serve. **Non modifica nessuna tappa successiva**, e **non puoi impedire il rapimento futuro** riconoscendola adesso. Sono gli stessi travestimenti i cui cadaveri ritrovi nelle nicchie della balconata alla **Tappa 46**.
+
+**Se è il rapimento** — smascherala subito (accusala o attaccala): si trasforma e teleporta via, nessuna penalità. Poi:
+
+1. ⛔ **Non scendere al Tempio adesso**, anche se sei già nelle Rovine: serve l'**Amuleto di Bhaal** (Tappa 45) e vale l'errore #7 — **prima Gortash (43)**, poi Tribunale (45), poi Orin (46).
+2. ⏱️ **Non c'è un contatore a riposi lunghi** come per Florrick: l'ostaggio non ti scade in mano durante le Tappe 36-45. Il punto in cui muore davvero è **il dialogo all'altare** (46.2) — la fretta non lo salva, la preparazione sì.
+3. ☠️ Se muore lì è **definitivo**: nemmeno Withers. Arriva alla 46.2 con *Parlare con i Morti*, le pagine di Sarevok e **Ispirazioni da parte per la CD 25**.
+4. 🎭 **Il rapito esce dal roster fino alla Tappa 46**: rifai le squadre consigliate delle tappe intermedie senza di lui, e ⚠️ **controlla la squadra della Tappa 46** — se l'ostaggio è proprio uno di quelli che avevi previsto lì, va sostituito.
+
+> ⛔ **Non ti puoi "schierare con Orin", e non c'è nessun doppio gioco.** A differenza di Gortash, **non esiste un ramo di alleanza**: non le prometti mai nulla, non c'è una finta adesione da tradire dopo, e la sua Pietranether si prende **solo dal cadavere**. Le battute «Fa' pure, non ti fermerò» / «Il suo destino non mi interessa» non sono un patto: **la combatti comunque**, hai solo perso l'ostaggio. E la prova di **Inganno** della 46.2 **non è fingersi sua alleata** — è manipolazione psicologica (Sarevok è suo padre, ha fatto sacrificare Helena) per distrarla dall'ostaggio: Persuasione, Intimidazione e Religione fanno la stessa cosa con un tono diverso, usa quella col bonus più alto. Il ramo bhaalita vero (sacrificare l'ostaggio, diventare Prescelto, il Carnefice) è **esclusivo dell'origine Impulso Oscuro**: in questa run non ti verrà nemmeno offerto.
+
 ### 35.2 — Chi è il Mistico Carcame
 
 È un **Signore delle Mummie** (*Mummy Lord*), non un lich: si spaccia per un **medium** che lavora coi ricchi della Città Alta, e nel frattempo fa anche il **mercante** (puoi comprare da lui prima di romperla). Il suo servo non-morto è **Thrumbo**.
@@ -1773,7 +1793,7 @@ Nel Mattatoio c'è **Valeria**, l'**investigatrice hollyphant**, incatenata. La 
 
 ## TAPPA 46 — 🏆 ORIN E IL TEMPIO DI BHAAL (liv. 12)
 
-> 🎭 **Squadra ideale:** Tu + **Astarion** + **Lae'zel** + **Karlach** — il trofeo *Primo Sangue* è una corsa contro il rituale: Rapsodia + attacco furtivo, **Azione Impetuosa** e **Ira** sono i tre burst più alti che hai. ⚠️ Chi resta al campo può essere l'ostaggio rapito da Orin: mettilo in conto quando scegli.
+> 🎭 **Squadra ideale:** Tu + **Astarion** + **Lae'zel** + **Karlach** — il trofeo *Primo Sangue* è una corsa contro il rituale: Rapsodia + attacco furtivo, **Azione Impetuosa** e **Ira** sono i tre burst più alti che hai. ⚠️ Chi resta al campo può essere l'ostaggio rapito da Orin: mettilo in conto quando scegli. **Se il rapito è proprio uno di questi tre, qui non c'è**: sostituiscilo (il burst lo reggono Karlach in Ira + Astarion con Rapsodia + **Velocità** dal caster). Vedi **35.1-bis**.
 
 ⚠️ **Solo dopo aver ucciso Gortash.** Salvataggio manuale prima di scendere.
 
@@ -1798,6 +1818,7 @@ Il **Tempio di Bhaal** sta **in fondo al settore nord-est delle Rovine della Cit
 Ci sono **due** modi di salvarlo, e conviene arrivare all'altare potendoli usare entrambi:
 
 - **Via diretta:** **Inganno / Intimidazione / Persuasione CD 25** durante il primo dialogo.
+  > 💡 **L'*Inganno* qui non è fingersi sua alleata**: non esiste nessuna finta adesione da tradire dopo. È manipolazione psicologica per staccarle l'attenzione dall'ostaggio — le tre abilità fanno la stessa cosa con un tono diverso, **usa quella col bonus più alto**.
 - **Via informata** (più sicura, perché aggiunge opzioni di dialogo): rivelarle la sua vera discendenza, con **Inganno / Persuasione / Religione CD 25**. Per sbloccarla:
 
 1. **Prima di scendere**, entra nella **Stanza della Prescelta**.
