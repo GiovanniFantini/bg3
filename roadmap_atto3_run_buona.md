@@ -30,6 +30,7 @@
 - [Tappa 33 — Fermare le Rotative](#tappa-33--fermare-le-rotative-liv-11--️-scade-con-gortash)
 - [Tappa 34 — Salvare Vanra (Zietta Ethel)](#tappa-34--salvare-vanra-zietta-ethel-liv-11-12)
 - [Tappa 35 — Mistico Carcame e Villa Philgrave](#tappa-35--mistico-carcame-e-villa-philgrave-liv-11-12)
+- [Tappa 35-bis — Tenuta di Lady Jannath: Libera l'Artista](#tappa-35-bis--tenuta-di-lady-jannath-libera-lartista-liv-11-12)
 - [Tappa 36 — Curiosità Stregonesche, Torre di Ramazith, Dama Aylin](#tappa-36--curiosità-stregonesche-torre-di-ramazith-dama-aylin-liv-11-12)
 - [Tappa 37 — Casa del Dolore (Cuorescuro) e Specchio della Perdita](#tappa-37--casa-del-dolore-cuorescuro-e-specchio-della-perdita-liv-12)
 - [Tappa 38 — Palazzo Szarr e Cazador (Astarion)](#tappa-38--palazzo-szarr-e-cazador-astarion-liv-12)
@@ -335,7 +336,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 |---|---|---|
 | **Taverna del Canto Elfico** (*Elfsong Tavern*) | La tua base in città (ci puoi **spostare il campo**) · **Alfira e Lakrissa** al piano di sopra · la gara di battute **Laff Riot** con **Harvard Willoughby** · in cantina il **Nascondiglio dei Cavalieri dello Scudo** = il **vecchio nascondiglio dell'Imperatore** (githyanki ostili; ⚠️ prerequisito di 🏆 *Mente Sconvolgente*) · botola verso le fogne · 🏆 *In Alto i Calici* e *Risse da Taverna* · il problema dei parassiti in cucina | 31 / 47 |
 | **Forgia dei Nove** (*Forge of the Nine*) | **Dammon**: ⚠️ **secondo potenziamento del motore di Karlach** (serve un altro **Ferro Infernale**) · armi e armature pesanti · **Stivali di Persistenza** | 31 |
-| **Tabernacolo di Rivatempestosa** (*Stormshore Tabernacle*) | **Vicario Humbletoes** (mercante, e ha la chiave della botola) · **statua degli dei**: una sola benedizione per personaggio, prezzo che scala col livello · **sotterraneo** con i forzieri delle offerte e l'**Amuleto del Devoto** (⚠️ non prenderli a mano dal forziere) · la **statua di Mystra** è il varco per l'udienza di **Gale** | 39 |
+| **Tabernacolo di Rivatempestosa** (*Stormshore Tabernacle*) | **Vicario Humbletoes** (mercante, e ha la chiave della botola) · **statua degli dei**: **Unto nello Splendore**, +2 permanente a tutti i TS — una sola divinità per personaggio, ma **l'effetto è identico per tutte** (4.500 mo, pagabili in oggetti) · **sotterraneo** con i forzieri delle offerte e l'**Amuleto del Devoto** (⚠️ non prenderli a mano dal forziere) · la **statua di Mystra** è il varco per l'udienza di **Gale** | 39 |
 | **Curiosità Stregonesche** (*Sorcerous Sundries*) | **Rolan** al banco · **Tolna Tomo-Mercante** (pergamene di 5°-6°) · quattro **Armature Animate** · *The Path to Karsus* e *The Path to Elminster* · il **Libro con Fermaglio** → Volta · il portale → Torre · 🏆 *Topo da Biblioteca* | 36 |
 | ↳ **Volta Stregonesca** (*Sorcerous Vault*) | L'enigma delle porte-teletrasporto · **Annali di Karsus** (prerequisito dell'udienza con Mystra) · **Codex Tharchiate** · *L'ultima strategia della Cavaliera Rossa* · trappole a gas e teste di gargoyle | 36 / 39 |
 | ↳ **Torre di Ramazith** (*Ramazith's Tower*) | **Proiezione di Lorroakan** e i quattro portali · i cinque **Pulsanti della Trama** · **Markoheshkir** e **Veste della Trama** dentro il Globo di Invulnerabilità · ⚠️ il bivio **Dama Aylin / Lorroakan** · dopo, Rolan diventa il custode della torre | 36 |
@@ -359,7 +360,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 | **Gazzetta della Bocca di Baldur** (*Baldur's Mouth*) | **Ettvard Needle** · **Estra Stir** · il seminterrato con la **stampa** e **Jelliwig** · i **blocchi tipografici** (positivi, neutri, negativi) · **Tusgront**, poco a sud, apre l'ingresso di superficie della **Gilda** | 32 / 33 |
 | **Casa della Regina delle Acque** (*Water Queen's House*) | Il tempio di Umberlee · **Alta Marea Allandra Grey** · la missione *Vendica gli Annegati* · la **Cantina della Regina delle Acque** → stanza del tesoro e **caverna nascosta** che si apre dalla spiaggia | 41 / 42 |
 | **Fuochi d'Artificio di Felogyr** (*Felogyr's Fireworks*) | Parola d'ordine **«Mi manda zio Felogyr»** → piani superiori · i **cultisti di Bane** che assemblano gli ordigni · **Avery Sonshal** e la commessa **Tamara** (granate, fuochi, tinture) · la polvere pirica | 29.3 |
-| **Tenuta di Lady Jannath** (*Lady Jannath's Estate*) | *Libera l'Artista*: **Oskar Fevras** posseduto · la villa infestata su quattro piani · si risolve con la **Torcia della Revoca** (dalla Tappa 35) · poi la mostra d'arte | 35 |
+| **Tenuta di Lady Jannath** (*Lady Jannath's Estate*) | *Libera l'Artista*: **Oskar Fevras** posseduto · la villa infestata su quattro piani + tetto · i **18 poltergeist invisibili**, i **teschi maledetti**, l'enigma dei ritratti nell'atelier · si risolve con la **Torch of Revocation** presa alla Tappa 35 | **35-bis** |
 | **Erboristeria di Bonecloak** (*Bonecloak's Apothecary*) | **Derryth Bonecloak** · reagenti alchemici · seminterrato | 31 |
 | **Boutique dei Facemaker** (*Facemaker's Boutique*) | **Figaro Pennygood** · vestiti e tinture rare · è uno dei bersagli di **Dolor** | 31 / 45 |
 | **Caserma della Porta del Basilisco** | **Lora**, la madre di Vanra, nel cortile con **Blaze Liara Portyr** — ⚠️ parlale **prima** di liberare Vanra | 34 |
@@ -522,6 +523,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 | 33 Rotative | Wyll | prove di Carisma su Jelliwig |
 | 34 Vanra / Ethel | Karlach | abbattere Ethel viva senza uccidere Vanra |
 | 35 Mistico Carcame | Gale | far esplodere il vaso da lontano |
+| 35-bis Lady Jannath | Cuorescuro + Gale | *Rimuovi Maledizione* sui teschi, *Vedere l'Invisibile* sui poltergeist |
 | **36 Curiosità Stregonesche** | ⚠️ **Gale** | *Necromanzia di Thay*, **Markoheshkir** |
 | **37 Casa del Dolore** | ⚠️ **Cuorescuro** + Jaheira | la sua fine migliore; Jaheira per risparmiare Viconia |
 | **38 Palazzo Szarr** | ⚠️ **Astarion** + Karlach | il rituale di Cazador |
@@ -1056,6 +1058,114 @@ Succede proprio qui: i Tunnel Orientali e le Rovine sono zona di Orin, e prima o
 
 ---
 
+## TAPPA 35-BIS — TENUTA DI LADY JANNATH: LIBERA L'ARTISTA (liv. 11-12)
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + **Gale** — è una tappa in cui ogni slot ha un compito preciso: **Cuorescuro** distrugge i **teschi maledetti** con *Rimuovi Maledizione* (istantaneo, niente combattimento), **Gale** lancia **Vedere l'Invisibile** perché i **poltergeist sono invisibili di natura**, **Astarion** apre il cancello sul retro e i due forzieri chiusi. ⚠️ **Attiva gli attacchi non letali** prima di entrare: servono a non far fallire la missione.
+
+⚠️ **Falla subito dopo la Tappa 35**, perché dipende da un oggetto che prendi lì.
+
+### ⚠️ 35bis.0 — I due prerequisiti
+
+| Serve | Perché | Dove |
+|---|---|---|
+| **Oskar Fevras liberato nell'Atto 1** | La villa si infesta **solo** se l'hai riscattato dagli Zhentarim. Senza di lui non c'è missione: trovi solo la **mostra d'arte** (vedi 35bis.6) | Nascondiglio Zhentarim, Atto 1 |
+| ***Torch of Revocation*** | È l'unico oggetto che libera lo spirito dal ritratto | **Tappa 35**: gratis se hai fatto *Trova il Servitore del Mistico Carcame*, altrimenti **3.000 mo** da Carcame o dal forziere dorato se lo uccidi |
+
+> ❌ **Correzione al file dell'Atto 1**: là è scritto "300–600 monete". Il prezzo di Brem è **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**. In alternativa lo si ottiene **senza pagare**, convincendo Brem che Oskar gli dà più problemi che guadagni.
+
+### 🗺️ 35bis.1 — Geografia e i quattro modi di entrare
+
+La **Tenuta di Lady Jannath** sta in **Città Bassa**, quartiere **Steeps**, a ovest del posto di blocco per la Città Alta — **la stessa isola urbana della Casa del Dolore** (Tappa 37): il ponte per la Casa del Dolore parte proprio fra questa villa e la **Casa di Elerrathin**. Waypoint: **Baldur's Gate**.
+
+| Ingresso | Coordinate | Come |
+|---|---|---|
+| **Portone principale** | X: −253 · Y: −76 | Guardato dal maggiordomo **Tarhun Mnemonis**, che ti avverte che dentro succede qualcosa |
+| **Balcone laterale** | X: −268 · Y: −76 | **Forza 9** oppure *Passo Nebbioso* |
+| **Balcone dell'ufficio** | X: −274 · Y: −55 | Ci si arrampica sulle radici |
+| **Porta sul retro** | X: −245 · Y: −44 | Cancello chiuso, **Rapidità di Mano CD 10** — è la scorciatoia per salire diretto da Lady Jannath |
+
+**I piani**: piano terra (atrio col camino, dispensa e cucina) → primo piano (ufficio, sala da pranzo) → secondo piano (**camera padronale**, dove trovi Lady Jannath e Oskar) → terzo piano (**armeria**) → quarto piano (**atelier**) → tetto.
+
+### 35bis.2 — Cosa sta infestando la casa
+
+Tre tipi di problema, e ognuno ha una risposta secca:
+
+| Minaccia | Come funziona | ✅ La risposta |
+|---|---|---|
+| **Poltergeist** (**18 in tutta la villa**) | **Invisibili di natura**, volano, ti tirano addosso gli oggetti e ti spingono a distanza. Diventano ostili quando li riveli | **Vedere l'Invisibile** o **Fuoco Fatato**. Distribuzione: 3 dispensa · 3 cucina · 2 balcone · 2 sala da pranzo · 5 fra scalone e armeria · 3 camera padronale |
+| **Teschi maledetti** (**6**) | Lanciano **Ondata Tonante ogni turno** (**3d8 necrotici** + spinta) e danno *Approccio Infestato* entro 3 m | 💡 ***Rimuovi Maledizione* li distrugge all'istante.** Altrimenti **Silenzio** per zittirli, poi contundenti: sono **vulnerabili a forza, radiante e contundente**. Stanno 2 sui pianerottoli, 3 in armeria, 1 a guardia dell'atelier |
+| **Anime Vendicative e Tormentate** | Vivono dentro **4 candelabri dorati** e ti appiccicano *Forza Fantasmatica*: **1d6 psichici a turno per 10 turni, senza tiro salvezza** | 🔑 **Non combattere le anime: rompi il candelabro.** Distrutto quello, muore anche l'anima |
+
+### 35bis.3 — ⚠️ Oskar posseduto: NON ucciderlo
+
+Arrivato alla **camera padronale** parte la scena: Oskar è posseduto e compaiono **tre poltergeist**.
+
+- 🔑 **Metti KO Oskar e i tre poltergeist spariscono all'istante.** È la via pulita: chiudi lo scontro in un colpo.
+- ⛔ **Se Oskar muore, la missione fallisce sul posto.** Ecco perché gli **attacchi non letali** vanno attivati **prima** di entrare — e vale la regola di sempre: funzionano **solo sui colpi in mischia con arma**, quindi tieni gli incantatori lontani da lui. Un *Dardo Incantato* lo ammazza comunque.
+- Abbattuto, Oskar **lascia cadere la sua chiave**: raccoglila, apre il forziere segreto dell'atelier senza tirare.
+- Lady Jannath ti chiede di andare a **indagare nell'atelier**, all'ultimo piano.
+
+### 35bis.4 — L'atelier e l'enigma dei ritratti
+
+L'atelier è protetto da un **teschio maledetto** all'ingresso (vedi sopra). Dentro c'è un **cavalletto vuoto** e diversi quadri appoggiati.
+
+1. Prendi l'**autoritratto di Oskar**, appoggiato alla **parete ovest**, e mettilo **sul cavalletto vuoto**.
+2. Si apre una **parete mobile** → dietro c'è uno stanzino con il **ritratto posseduto** e un **forziere rustico chiuso**.
+3. Il forziere si apre con la **chiave di Oskar** o con **Rapidità di Mano CD 20**: dentro c'è la **lettera** che rivela tutto — Oskar era andato dal **Mistico Carcame** per il suo problema soprannaturale.
+
+> ⚠️ **Sbagliare quadro ha un costo**: se metti sul cavalletto un ritratto qualsiasi, evochi un'**Anima Tormentata**, il quadro brucia e lo spirito muore. Non è irreparabile, ma è tempo e danni buttati: prendi **quello appoggiato a ovest**.
+>
+> 💡 La **parete mobile** si può forzare anche direttamente con **Rapidità di Mano CD 20**, saltando l'enigma. L'enigma resta la via gratis.
+>
+> 📌 Al **primo piano** c'è il ***Registro dell'Appaltatore*** (*Contractor's Record*): è l'indizio che ti dice che l'atelier nascosto esiste. Leggilo se vuoi la scoperta "in ordine".
+
+### 35bis.5 — Kerri Evenfield: la torcia e le due prove
+
+Lo spirito è **Kerri Evenfield**, un'ex di Oskar **morta suicida**. Lui era andato dal Mistico Carcame per **riportarla indietro** e capire se la colpa fosse sua: da lì l'infestazione.
+
+1. **Equipaggia la *Torch of Revocation*** e colpisci il **ritratto posseduto** con un **attacco in mischia con la mano secondaria**. Kerri viene liberata, ed è furiosa.
+2. **Prima prova — CD 15**, Intimidazione o Persuasione (ci sono varianti di classe: Druido, Ranger, Magia Selvaggia, Chierico). La confonde e la fa desistere.
+3. **Seconda prova — CD 18**, Inganno / Intimidazione / Persuasione: la convince a raccontare la sua storia e ad **andarsene in pace**.
+4. **Se le prove falliscono si combatte**: Kerri + **2 Anime Vendicative** + **2 Anime Tormentate**. Vincendo prendi un'**Ispirazione** e l'infestazione finisce lo stesso in tutta la villa — ma perdi la fine migliore, quindi **salva prima delle due prove**.
+
+### 35bis.6 — I finali
+
+| Esito | Come ci arrivi | Cosa ottieni |
+|---|---|---|
+| 🥇 **Oskar vivo e matrimonio salvo** | Le due prove superate, e **non** raccontare a Lady Jannath la verità su Kerri | Oskar ti dipinge un **Ritratto Personale** (**1.500 mo**) — 💡 **ogni membro del gruppo può chiederne uno parlandogli separatamente**. Più le Ispirazioni |
+| 🥈 **Verità detta a Lady Jannath** | Dopo aver combattuto Kerri, racconti tutto | Oskar se ne va e lascia l'anello ***After Death Do Us Part*** |
+| ⛔ **Lasci che Kerri uccida Oskar** | Non intervieni | Kerri sparisce, **missione fallita** |
+| ⛔ **Uccidi Oskar** o **lo abbandoni** | Danni letali, o te ne vai | **Missione fallita** |
+
+> ℹ️ **Se Oskar non fosse stato liberato nell'Atto 1** la villa non sarebbe infestata: Lady Jannath ci terrebbe una **mostra d'arte**, con **Gorran Penghyst** e **Delwaer Jeth** che litigano su un quadro falso e il ciambellano **Mercer** a pattugliare le zone vietate (camera, ufficio, atelier), dove si entra con **Inganno/Intimidazione/Persuasione CD 22**. Nella tua run non è questo il ramo.
+
+### 35bis.7 — Bottino
+
+| Piano | Cosa |
+|---|---|
+| **Piano terra** | **Medaglione d'ottone** e una **lettera bruciata** nel camino (X: −260 · Y: −60) |
+| **Primo piano** | Forziere chiuso (**Rapidità di Mano CD 15**): **Balestra a Mano +2**, **6 Frecce Uccidi-Immondi**, **6 Frecce Uccidi-Aberrazioni** · borsa di monete sulla libreria · **Registro dell'Appaltatore** |
+| **Secondo piano** | **Elisir di Vedere l'Invisibile** sul tavolo vicino al falso balcone (💡 usalo qui: ti risparmia uno slot di Gale) · due casse di legno con oro, oggetti di valore e ingredienti |
+| **Terzo piano (armeria)** | **Pergamena di Vedere l'Invisibile** sul tavolo · armi normali e **+1** nelle teche · cassa rustica sotto le scale (X: −266 · Y: −56) |
+| **Quarto piano (atelier)** | Baule da viaggio dietro le tele · forziere segreto dietro la parete mobile |
+| **Tetto** (accesso X: −266 · Y: −58) | **Tegola crepata** (X: −253 · Y: −52, **Percezione CD 15**): oro, pozioni e un **Kit di Disinnesco** o **Arnesi da Scasso** · **nido d'uccello con un Diamante Nero**, ⚠️ ci arrivi **solo volando** · ⚠️ sul tetto c'è una trappola di **Crescita di Spine** |
+| **Lady Jannath** (mercante) | Quadri, **tinture rare e molto rare**, gemme, gioielli, l'anello di fidanzamento e la **chiave Alta Sicurezza nº2** |
+
+> ⚠️ **Nota sui nomi**: *Torch of Revocation* e *After Death Do Us Part* restano in inglese perché **non ho la dicitura italiana verificata**. Cercali per icona e slot.
+
+### ✅ Checklist Tappa 35-bis
+
+- [ ] **Attacchi non letali attivi** su tutto il gruppo prima di entrare
+- [ ] *Torch of Revocation* in inventario (dalla Tappa 35)
+- [ ] Oskar messo **KO**, mai ucciso → chiave raccolta
+- [ ] Teschi maledetti sciolti con *Rimuovi Maledizione*; candelabri rotti
+- [ ] Autoritratto sul cavalletto → parete mobile → lettera nel forziere
+- [ ] Kerri: **CD 15** poi **CD 18** superate (salvataggio prima)
+- [ ] **Ritratto Personale** ritirato — uno per personaggio
+- [ ] Tegola del tetto, Diamante Nero, chiave **Alta Sicurezza nº2**
+
+---
+
 ## TAPPA 36 — CURIOSITÀ STREGONESCHE, TORRE DI RAMAZITH, DAMA AYLIN (liv. 11-12)
 
 > 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **GALE, obbligatorio** — è la tappa che potenzia di più il gruppo, e Gale serve **due volte**: è lui che lancia **Vedere l'Invisibile** e tira **Arcano CD 20** per liberare il **Markoheshkir** dal Globo di Invulnerabilità, ed è lui che deve leggere la *Necromanzia di Thay*. Astarion per le serrature (CD 15-20) e per il Codex nella volta.
@@ -1163,7 +1273,7 @@ Lorroakan vuole Aylin per **rubarle l'immortalità**: ha comprato da un warlock 
 
 | Luogo | Dove sta esattamente |
 |---|---|
-| **Casa del Dolore** | Città Bassa, quartiere **Steeps**, **nell'angolo più remoto**: sta **isolata oltre un corso d'acqua**, e ci si arriva da un **ponte** che la collega fra la **Casa di Elerrathin** e la **Tenuta di Lady Jannath** (sì, quella di *Libera l'Artista*, vedi Tappa 35). Ha un giardinetto attorno e **un solo ingresso** |
+| **Casa del Dolore** | Città Bassa, quartiere **Steeps**, **nell'angolo più remoto**: sta **isolata oltre un corso d'acqua**, e ci si arriva da un **ponte** che parte fra la **Casa di Elerrathin** e la **Tenuta di Lady Jannath** (la villa infestata di *Libera l'Artista* — ⚠️ **non** è coperta dalla Tappa 35: lì prendi solo la **Torcia della Revoca** che serve a risolverla, vedi 35.5). Ha un giardinetto attorno e **un solo ingresso**, a **X: −264 · Y: −10** |
 | **Chiostro del Cupo Abbraccio** | Sotto la casa: una **caverna enorme**. Sale d'addestramento (**Infiltrazione** e **Interrogatorio**) al livello cantina; camera principale con la conca centrale; **camerate a nord**, **biblioteca a sud**, **armeria a sud-est** |
 | **Grotta dell'orchidea notturna** | Si apre **dall'armeria**: prova di **Percezione CD 15** per notare la barricata. Dentro: un laghetto, **orchidee notturne raccoglibili** e un picnic abbandonato con i **documenti sulla Camera della Perdita** |
 | **Camera della Perdita** | In fondo al chiostro, oltre la **Soglia della Perdita**. Dentro ci sono lo **Specchio della Perdita** e la scena finale con Shar |
@@ -1181,7 +1291,7 @@ Per la fine migliore — Cuorescuro salva i genitori **senza** prove disperate �
 | Ricordo | Dove |
 |---|---|
 | **Lapide di Allister Marnley** | **Cimitero della Città Bassa** |
-| **Graffito nascosto** | Su un tabellone vicino al **punto di viaggio rapido di Baldur's Gate** |
+| **Graffito nascosto** | ⚠️ **Dietro** un tabellone vicino al punto di viaggio rapido **Baldur's Gate** (Città Bassa nord-ovest, lo stesso che usi per la Casa del Dolore), sul **sentiero lungo l'acqua** — coord. **X: −214 · Y: −32**. Il disegno è sulla **faccia posteriore**: dalla strada non si vede, devi girarci dietro. **Cuorescuro deve essere in squadra** |
 | **Grotta dell'orchidea notturna** | Dentro il chiostro: dall'**armeria**, **Percezione CD 15** sulla barricata |
 
 > ✅ **Il passo che quasi tutti si perdono:** dopo il **secondo** ricordo si sblocca al campo la conversazione **"sugli odori della città"**. **È quella che blinda il finale buono**: se non ti è ancora partita, **riposa finché non la vedi** prima di scendere da Viconia.
@@ -1221,23 +1331,99 @@ La porta che chiude la Camera della Perdita **non si apre da sola**. Quattro mod
 
 Sta all'**estremità ovest della Camera della Perdita**. Una volta aperta la Soglia **è usabile quando vuoi**: non serve aver già ucciso Viconia.
 
-> ❌ **Correzione importante — lo Specchio non funziona come diceva questa guida.** Non è "passi Religione 25 e scegli +2 a una caratteristica". Sono **due passaggi distinti**, e il +2 è il risultato di **un tiro nascosto**.
+> ❌ **Correzione — non funziona come "passi una prova e scegli il +2".** Sono **due prove distinte e in quest'ordine**: prima **Religione CD 20** per capire cos'è lo Specchio (Passo 1), poi **Religione CD 25** per pregare (Passo 2). ⚠️ **La preghiera non è un'ottimizzazione: è l'interruttore.** Finché non la superi, cedere ricordi non produce **nulla** — vedi la correzione al Passo 2.
 
-1. **Sbloccarlo (una volta per tutto il gruppo)**: un membro deve passare **Religione CD 20** *oppure* **Arcano CD 25** — **oppure** aver letto il **Biglietto scritto in fretta** della grotta dell'orchidea, che salta del tutto la prova. 💡 Un altro motivo per fare la grotta per prima.
-   > ⚠️ **In Stratega e Onore è diverso**: la prova è **Religione CD 25**, l'opzione Arcano **non esiste**, il biglietto **non la salta più** e **ogni personaggio deve passarla da solo**.
-2. **Come si ottiene davvero il bonus**: ogni personaggio può **cedere fino a 6 ricordi** (uno per caratteristica). Ogni ricordo ceduto dà **−2 temporanei** a quella caratteristica (*Vigore Rubato*, via col riposo lungo o con *Rimuovi Maledizione*) e fa partire un **tiro nascosto**:
-   - risultato 0-4 → uno dei cinque ricordi "narrativi": **solo uno di essi è utile**, il **Ricordo del Patriar** = **+1 Carisma permanente**;
-   - risultato 5 → **+2 permanenti** a una caratteristica.
-3. 🔑 **Il 5 è impossibile a meno che** tu non abbia prima **pregato Shar con Religione CD 25**: quella preghiera dà **+3 permanente a tutti i tiri nascosti successivi**. È la prova da superare, non il premio.
-4. 🥈 **Scorciatoia sicura:** chi ha letto la *Necromanzia di Thay* può **cedere il passivo Conoscenza Proibita**: **+2 garantito, nessun tiro, nessuna maledizione**. È l'unica via che aggira del tutto la CD 25 (vedi 36.4).
-5. 🎲 **Ordine consigliato** (se non usi la scorciatoia): cedi **3 ricordi**, poi tira la preghiera, poi cedi i restanti. È il compromesso con la probabilità migliore di portare a casa **sia** il +1 Carisma **sia** il +2.
-6. ⚠️ **Un solo tentativo di preghiera a testa**: se fallisci la CD 25, quel personaggio non arriverà mai al +2 (il +1 Carisma resta possibile). **Salva prima**, e tira con *Migliorare Caratteristica* e un'Ispirazione pronta.
-7. ⚠️ I personaggi **seluniti** hanno **svantaggio** alla prova di Religione, a meno che non siano **camuffati**.
-8. ⚠️ Appena un personaggio prende il **+2**, non può più cedere altri ricordi: se ti interessa anche il **+1 Carisma**, prendilo **prima**.
+#### Passo 1 — Sbloccarlo (una volta sola, per tutto il gruppo)
 
-> ❌ **Correzione su Cuorescuro:** non è che "rischi di annullare il lavoro fatto". Se ha **rinnegato Shar** — la tua run — lo Specchio **le nega ogni beneficio** e le dice che ha già ceduto quasi tutti i suoi ricordi. Non perdi niente: semplicemente **su di lei non funziona**. (Solo da Giustiziera Oscura otterrebbe il +2 in automatico.)
+Un membro del gruppo deve riconoscere cos'è lo Specchio:
 
-✅ **Su tutti gli altri usalo**: è puro guadagno permanente.
+| Via | Note |
+|---|---|
+| **Religione CD 20** | La strada normale. 💡 **Vantaggio** se hai completato la *Mappatura del Cuore*, il rituale di Cuorescuro |
+| **Arcano CD 25** | ⚠️ **Non contarci**: l'opzione è sparita nelle patch più recenti e alle difficoltà alte non esiste |
+| **Biglietto scritto in fretta** (grotta dell'orchidea) | Saltava del tutto la prova — ❌ **ma le patch recenti hanno ristretto la scorciatoia**. Prendilo comunque, e tieni pronto qualcuno che sappia tirare Religione |
+
+> ⚠️ **In Stratega e Onore è più duro**: la prova sale, l'opzione Arcano non c'è e **ogni personaggio deve passarla per conto suo**.
+
+#### Passo 2 — 🔑 La preghiera non è un bonus: è l'interruttore
+
+> ❌ **Correzione verificata sul campo.** La versione precedente di questo file diceva che, anche senza pregare, restava un **20% a tentativo** di pescare il *Ricordo del Patriar* (+1 Carisma). **È falso.** Nella run reale **cinque personaggi hanno ceduto tutti e sei i ricordi senza aver pregato: trenta tentativi, zero premi.** Se quel 20% esistesse, un risultato del genere avrebbe probabilità **~0,1%**.
+>
+> ✅ **La regola vera: finché la preghiera non è superata, lo Specchio non dà NIENTE** — né il +2 né il +1 Carisma. Cedere ricordi prima di pregare è **perdita secca**: testo narrativo, **−2 temporanei**, e i gettoni **non tornano più**.
+
+**Religione CD 25** — *offrire una preghiera allo Specchio*. È la prima cosa da fare, **prima di cedere qualunque ricordo**.
+
+- ⛔ **Un solo tentativo per personaggio.** **Salva prima.**
+- 💡 **Vantaggio** se hai completato la *Mappatura del Cuore*.
+- ⚠️ **Svantaggio** ai personaggi **seluniti**, a meno che non siano **camuffati**. Cuorescuro che ha risparmiato il Canto Notturno rientra qui.
+
+#### Passo 3 — Chi può passarla davvero (spoiler: quasi nessuno)
+
+⚠️ **Religione è una prova di INTELLIGENZA**, non di Saggezza — il gioco te la mostra come "INT CD 25". Per passarla **a numeri** serve modificatore **+6 o più**.
+
+| Personaggio | Realtà |
+|---|---|
+| **Gale** (INT 20 + competenza = **+9**) | Gli basta un **16**. È lui che deve pregare |
+| Un altro INT alta con competenza in Religione | Fattibile |
+| **Tutti gli altri** (Karlach, Lae'zel, Astarion, Jaheira, Cuorescuro…) | ⛔ **Solo il 20 naturale** |
+
+💡 **Il 20 naturale è successo automatico** a qualsiasi CD: nessuno è escluso del tutto, ma per i secondi è un **5%**. Come si spreme:
+
+- **Astuzia della Volpe** (*Migliorare Caratteristica* su INT) → vantaggio, il 20 sale al **9,75%**;
+- **Guida** attiva → **+1d4** (decisiva per chi è vicino alla soglia, inutile per chi è lontano);
+- **Ispirazione**: se ne può spendere **più di una sulla stessa prova**. Arrivi con **4 punti** + vantaggio → cinque tiri, **~40%** di beccare il 20.
+
+Questo è il posto giusto in cui bruciare tutte le Ispirazioni accumulate.
+
+#### Passo 4 — Solo DOPO la preghiera: cedere il ricordo
+
+Ogni personaggio ha **6 gettoni**, uno per caratteristica — non sono oggetti, è solo il numero di tentativi: ogni caratteristica si può cedere **una volta sola**, poi quella voce sparisce dalla lista.
+
+Cedere un ricordo costa **−2 temporanei** a quella caratteristica (***Vigore Rubato***: via col riposo lungo o con *Rimuovi Maledizione*) e, **con la preghiera attiva**, ti fa vincere il **+2 permanente sulla stessa caratteristica che sacrifichi**:
+
+| Sacrifichi | Vinci |
+|---|---|
+| Forza | **Ricordo del Generale** → +2 FOR |
+| Destrezza | **Ricordo del Ladro** → +2 DES |
+| Costituzione | **Ricordo del Barbaro** → +2 COS |
+| Intelligenza | **Ricordo del Mago** → +2 INT |
+| Saggezza | **Ricordo della Madre Superiora** → +2 SAG |
+| Carisma | **Ricordo del Bardo** → +2 CAR |
+
+💡 Il premio è un **passivo in scheda**, non un oggetto in inventario: se cerchi qualcosa nello zaino non trovi niente.
+💡 Il +2 **si somma anche sopra il 20** (non è un aumento da talento): un 20 diventa 22.
+
+#### Passo 5 — L'ordine giusto e le trappole
+
+✅ **La sequenza corretta, per ogni personaggio:**
+
+1. **Salva.**
+2. **Prega** (Astuzia della Volpe + Guida + Ispirazioni pronte).
+3. Se **passa** → cedi **la caratteristica che ti interessa davvero** e incassa il +2.
+4. Se **fallisce** → ⛔ **non cedere niente.** Quel personaggio non otterrà nulla comunque: almeno si risparmia i −2. Passa al successivo.
+
+- ⛔ **Appena prendi un +2, quel personaggio è fuori**: non può cedere altri ricordi. **Uno solo a testa** — ma ogni membro del gruppo ha il suo, quindi in teoria esci con **sei +2 diversi**, uno per personaggio.
+- ⛔ **L'opzione Inganno CD 20** per non cedere il ricordo è **inutile in entrambi gli esiti**: se passi non ottieni niente, se fallisci **bruci il ricordo a vuoto**. Ignorala.
+- ⚠️ **Non usare la Costituzione come tentativo di scarto**: il −2 lì taglia anche i punti ferita fino al riposo lungo.
+- ℹ️ **Non c'è reset.** I ricordi ceduti non tornano, e **nemmeno il respec da Withers li restituisce**: è uno stato legato al personaggio. L'unica via è ricaricare un salvataggio.
+
+#### Passo 6 — 🥈 La scorciatoia che salta tutta la macchina
+
+Chi ha letto la *Necromanzia di Thay* può cedere il passivo **Conoscenza Proibita** invece di un ricordo: **+2 garantito, nessun tiro nascosto, nessuna CD 25, nessun Vigore Rubato**.
+
+> ⚠️ Il prezzo: se hai già imparato **Danza Macabra**, cedendo il passivo **perdi anche l'incantesimo** e il libro non si riapre più (vedi 36.4). Decidi quale delle due cose ti serve di più.
+
+#### Passo 7 — ⚠️ Cuorescuro: c'è una finestra, ed è stretta
+
+> ❌ **Correzione.** La versione precedente diceva che su Cuorescuro lo Specchio "semplicemente non funziona". È vero **solo dopo un certo momento**: se ha **rinnegato Shar**, lo Specchio le nega tutto dicendole che ha già ceduto quasi tutti i suoi ricordi.
+>
+> 🔑 **Ma il gioco la considera ancora fedele a Shar finché non parla con i genitori del loro destino.** Se le fai usare lo Specchio **prima di quella scena**, i benefici li prende — anche se subito dopo rinnega Shar.
+>
+> ✅ **Come sfruttarla nella tua run**: la Soglia si apre battendo Viconia (37.5) e la scena dei genitori viene **dopo** (37.7). In mezzo hai la finestra: **porta Cuorescuro allo Specchio subito dopo Viconia**, prima di entrare nella scena finale.
+>
+> ℹ️ Se ha risparmiato il Canto Notturno ha **svantaggio** alla prova di Religione: mettila in conto e tieni un'Ispirazione.
+
+✅ **Su tutti gli altri**: portali comunque allo Specchio, ma **uno alla volta e nell'ordine del Passo 5** — prima la preghiera, e i ricordi si cedono **solo se la preghiera passa**. Chi fallisce il CD 25 esce di lì senza cedere niente: non è una perdita, è l'unica mossa corretta.
 
 ### 37.7 — La scena finale: Shar e i genitori
 
@@ -1342,17 +1528,50 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 | **Tabernacolo di Rivatempestosa** | Città Bassa, quartiere **Eastway**, **proprio a fianco della Caserma della Porta del Basilisco** — la stessa dove hai parlato con Lora alla Tappa 34. È il tempio pan-divino della città |
 | **Il sotterraneo** | Si entra da una **botola esterna** vicino all'ingresso: **Rapidità di Mano CD 10**, oppure la **Chiave della Botola** che ha addosso il **Vicario Humbletoes** |
 
-### 39.2 — Offerte e benedizioni: una sola, scegli bene
+### 39.2 — 🥇 Offerte e benedizioni: falle, e la divinità non conta
 
-Puoi donare a una divinità e ricevere una benedizione. La cifra **scala col livello**: 400 mo al livello 1, **4.500 mo ai livelli 11-12**.
+> ❌ **Correzione — verificata su bg3.wiki.** La versione precedente diceva "scegli bene" e lasciava intendere che la divinità facesse differenza. **Non ne fa nessuna: tutti gli dei danno la stessa identica benedizione.** La scelta è **puro roleplay**.
 
-> ⚠️ **Una divinità per personaggio, per sempre.** Appena un personaggio riceve la benedizione di un dio, **non può più donare a nessun altro**. Non è reversibile: decidi prima di aprire il portafoglio.
+🥇 **Unto nello Splendore** (*Anointed in Splendour*): **+2 a TUTTI i tiri salvezza**, e — dalla **Patch 6** — **permanente**: sopravvive ai riposi lunghi. *(Prima era un buff giornaliero da rinnovare pregando; ora si paga una volta sola.)*
+
+✅ **Vale assolutamente la pena.** È tra i migliori bonus permanenti del gioco — più utile dei +2 dello Specchio della Perdita, perché copre stordimento, paralisi, dominazione e incantesimi: le cose che ti fanno perdere gli scontri dell'Atto 3 e la battaglia finale. **Fallo almeno sui 4 del gruppo attivo.**
+
+**Costo, per ogni personaggio separatamente:**
+
+| Livello | Standard | Stratega / Onore |
+|---|---|---|
+| 1 | 400 mo | — |
+| 10 | 4.000 mo | — |
+| **11-12** | **4.500 mo** | ⚠️ **5.000 mo** |
+
+💡 **Il trucco che abbatte il costo: gli oggetti contano come donazione**, valutati al **prezzo di vendita**. Non serve oro contante — svuota lo zaino del ciarpame. 🔁 **È qui che finiscono i due Diamanti Neri** (l'altare del chiostro di Viconia alla Tappa 37, e il nido sul tetto di Lady Jannath alla Tappa 35-bis): è il loro uso migliore.
+
+🎁 **Gale può averla gratis.** Se nell'udienza **chiede perdono a Mystra** e lei lo perdona, ottiene **Unto nello Splendore senza pagare**, per il resto della partita. ⚠️ Piccolo attrito con la via consigliata al 39.4 ("non devi nulla a Mystra"): non compromette il suo finale — la decisione vera sulla Corona resta alla **Tappa 50** — quindi è un baratto tra coerenza narrativa e 4.500 mo. **Controllagli le condizioni in scheda** prima di pagare.
+
+**Le divinità disponibili** — 4 statue dedicate più la **Statua degli Dei** centrale, che fa da conduttore per tutte le altre:
+
+| Gruppo | Divinità |
+|---|---|
+| **Statue dedicate** | **Helm** il Vigile · **Mystra**, Signora degli Incantesimi · **Selûne**, Signora d'Argento · **Tyr**, il Dio Cieco |
+| **Dei della Luce e della Giustizia** | Bahamut · Corellon Larethian · Eilistraee · Garl Glittergold · Ilmater · Lathander · Mielikki · Moradin · Yondalla |
+| **Dei dell'Equilibrio e dell'Ambiguità** | Kelemvor · Oghma · Tempus · Tymora |
+| **Dei dell'Avidità e dell'Oscurità** | Gruumsh · Laduguer · Lolth · Talos · Tiamat · **Shar** |
+
+> ℹ️ **Nota di completezza:** bg3.wiki dichiara **23 divinità** alla Statua degli Dei, ma l'elenco pubblicato ne riporta **19**. Le quattro mancanti non le ho verificate: in gioco potresti trovare qualche nome in più nelle tre categorie. Non cambia nulla — **l'effetto è identico per tutte**.
+
+💡 **Scelte a tema per la tua run:** **Selûne** per Cuorescuro dopo che ha rinnegato Shar (è *la* scelta narrativa della sua storia) · **Mystra** per Gale · **Ilmater** o **Lathander** per un protagonista eroico · **Tymora** (fortuna) per chi non ha legami particolari.
+
+> ⚠️ **Una divinità per personaggio, per sempre.** Appena un personaggio riceve la benedizione di un dio, **non può più donare a nessun altro**. Non è reversibile — ma visto che l'effetto è lo stesso ovunque, l'unica cosa che ti giochi è il colore narrativo.
+
+> ⚠️ **Nota sui nomi**: *Anointed in Splendour* lo rendo qui come **Unto nello Splendore**, ma **non ho la dicitura italiana ufficiale verificata**. Cercalo tra le condizioni attive del personaggio.
 
 ### 39.3 — ⚠️ Il sotterraneo: come non prendersi la maledizione
 
 Nel sotterraneo ci sono gli **sfiati trappolati** e i **forzieri delle offerte**.
 
 > ⛔ **Prendere gli oggetti direttamente dai forzieri applica la maledizione *Castigato dalla Divinità*.** Si evita in due modi: **rompi il forziere**, oppure **butta prima gli oggetti a terra** e raccoglili da lì. *(Unica eccezione nel gioco: Jaheira che indossa il Dono di Khalid.)*
+>
+> ⚠️ **Il prezzo della maledizione è più alto di quanto sembri:** il **Vicario Humbletoes si rifiuta per sempre di parlare** con un personaggio Castigato dalla Divinità. Ti bruci il mercante, non solo qualche punto di flavour.
 
 🎒 **Amuleto del Devoto** (*Amulet of the Devout*, molto raro) — nel **forziere delle offerte centrale**:
 - **+2 alla CD degli incantesimi** (⚠️ **tutti**, non solo quelli divini);
@@ -2088,7 +2307,8 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 | **Wyll** | **Stocco Infernale** (Atto 2) · **Mantello dello Spostamento** · oggetti +CD incantesimi |
 | **Lae'zel** | **Ammazzagiganti di Balduran** o **Spada d'Argento del Piano Astrale** · **Elmo di Balduran** se fa da tank |
 | **Minsc** | **Gontr Mael** (Tappa 42) |
-| **Chiunque** | **Specchio della Perdita**: +2 permanenti, una volta a testa (Tappa 37) |
+| **Chiunque** | **Specchio della Perdita**: **+2 permanenti** a una caratteristica, una volta a testa (Tappa 37) — ⚠️ arrivano **solo** se hai superato la preghiera **Religione CD 25** (prova di **Intelligenza**): senza quella lo Specchio non dà nulla, quindi **non cedere ricordi prima di aver pregato** |
+| **Chiunque** | 🥇 **Unto nello Splendore** (*Anointed in Splendour*): **+2 a tutti i tiri salvezza, permanente**, donando a una divinità qualsiasi al **Tabernacolo** (Tappa 39). **4.500 mo** a testa (5.000 in Stratega/Onore), pagabili **in oggetti**. La divinità scelta **non cambia l'effetto**. 🎁 Gratis per **Gale** se chiede perdono a Mystra |
 
 ---
 
@@ -2140,7 +2360,7 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 - [ ] **Fortezza Ambulante di Viconia** · **Prerogativa del Duellante** · *(Armatura Bhaalista: solo se hai scelto il ramo Assassino Nefando)*
 - [ ] **Malizia Cremisi** + **Sete di Sangue** + **Rapsodia**
 - [ ] **Guanti della Potenza Magica** (7 pezzi di Dribbles trovati)
-- [ ] **Specchio della Perdita** usato su tutti (tranne Cuorescuro)
+- [ ] **Specchio della Perdita** usato su tutti — ⚠️ **Cuorescuro inclusa, ma solo se la porti allo Specchio _prima_ della scena con i genitori** (vedi 37.6)
 - [ ] **Entrambe le Pietranether**
 - [ ] Pergamene di **Resurrezione** (almeno 3)
 

@@ -131,7 +131,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 **Nota sullo Smite (BG3):** Divine Smite consuma qualsiasi slot su un colpo in mischia a segno; danno radioso bonus = **2d8 (slot 1°), 3d8 (2°), 4d8 (3°), 5d8 (4°/5° — cap di BG3)**, **+1d8 contro Immondi e Non Morti**. Non va "imparato": è sempre disponibile dal Paladino liv. 2.
 
 **📊 Statistiche iniziali (creazione, 27 punti):** **FOR 16 · DES 8 · COS 14 · INT 8 · SAG 12 · CAR 16** — bonus razziali **+2 Forza**, **+1 Carisma**. La FOR ti fa colpire con Grande Maestro d'Armi; la CAR alimenta Arma Sacra (CAR al colpire), Aura di Protezione e gli incantesimi Stregone. L'armatura pesante rende la DES irrilevante (dumpala a 8).
-> ⚠️ **Il prezzo del 6/6**: hai **solo 2 talenti** (Grande Maestro d'Armi al liv.4, **+2 CAR** al liv.10), quindi la CAR non tocca 20 con i soli ASI. Percorso: parti da 16 → in Atto 2 sali a **18** con un potenziamento permanente (**capello di Auntie Ethel** o **Specchio della Perdita** nel Gauntlet di Shar) → il talento di liv.10 la porta a **20**. Se il capello di Ethel lo prende Astarion (variante arciere), qui usa lo Specchio della Perdita.
+> ⚠️ **Il prezzo del 6/6**: hai **solo 2 talenti** (Grande Maestro d'Armi al liv.4, **+2 CAR** al liv.10), quindi la CAR non tocca 20 con i soli ASI. Percorso: parti da 16 → in Atto 2 sali a **18** con il **capello di Auntie Ethel** → il talento di liv.10 la porta a **20**. ❌ **Correzione: lo Specchio della Perdita NON è un potenziamento dell'Atto 2.** Quello nel Guanto di Shar è **incrinato e inutilizzabile**; l'unico funzionante sta in **Atto 3**, nel Chiostro del Cupo Abbraccio sotto la Casa del Dolore (Tappa 37). Se il capello di Ethel lo prende Astarion (variante arciere), il +2 lo recuperi lì, ma un atto più tardi.
 
 ### Livello 1 — Paladino 1
 - **Percezione Divina** (senti i nemici vicini), **Imposizione delle Mani** (pool cura = 5 × livello Paladino, ricarica a riposo lungo). Nessun incantesimo ancora.
@@ -221,7 +221,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 **📊 Statistiche iniziali (creazione, 27 punti):** **FOR 15 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 15** → con i bonus razziali **+2 Forza / +1 Carisma** a schermo leggi **FOR 17 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 16**. La Forza dispari **non** è uno spreco: con **Arma Sacra** attiva sono i tiri per colpire a dipendere dal Carisma, la Forza serve solo al danno (e il **capello di Auntie Ethel**, +1, la porta a 18 se lo prendi tu). Armatura pesante → Destrezza irrilevante, dumpala a 8.
 
-**Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Se in Atto 2 usi lo **Specchio della Perdita** (+2 CAR, Gauntlet di Shar) arrivi a 20 in anticipo: in quel caso il talento del liv. 12 si **libera** per **Attaccante Selvaggio** (*Savage Attacker*, rilanci i dadi di danno dell'arma), **Sentinella** o **Resiliente: Costituzione**.
+**Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Se in **Atto 3** usi lo **Specchio della Perdita** (+2 CAR, **Chiostro del Cupo Abbraccio**, Tappa 37 — ❌ **non** nel Guanto di Shar in Atto 2: quello è incrinato e non funziona) arrivi a 20 in anticipo: in quel caso il talento del liv. 12 si **libera** per **Attaccante Selvaggio** (*Savage Attacker*, rilanci i dadi di danno dell'arma), **Sentinella** o **Resiliente: Costituzione**.
 
 **Competenze, razza, background:** identici alla build principale (Sezione 0 del roadmap): **Soldato** → Atletica + Intimidazione, più **Persuasione** + **Intuizione** dalla lista Paladino.
 
@@ -310,7 +310,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 > | **9** | Dominio: **Onda Distruttrice** + **Colpo di Fiamma** |
 >
 > - **Armatura:** perdi la competenza in **armatura pesante** → passi alla media, quindi sposta i punti su **DES 14 / COS 14** (vedi nota statistiche qui sotto).
-> - **Talento liv. 8:** qui conviene **Incantatore Bellico** (War Caster) al posto di +2 SAG, per blindare la concentrazione su Guardiani Spirituali mentre stai in mezzo ai nemici con meno CA. SAG arriva a 20 col talento del liv. 12 (o con lo **Specchio della Perdita** in Atto 2).
+> - **Talento liv. 8:** qui conviene **Incantatore Bellico** (War Caster) al posto di +2 SAG, per blindare la concentrazione su Guardiani Spirituali mentre stai in mezzo ai nemici con meno CA. SAG arriva a 20 col talento del liv. 12 (o con lo **Specchio della Perdita** in **Atto 3**, Tappa 37).
 > - **Arma endgame:** la **Mazza del Devoto** (*Devotee's Mace*, +3, 1d8 radioso extra) è la miglior arma per questa variante. ⚠️ **Correzione: non si trova in nessun baule** — si ottiene **solo** lanciando **Intervento Divino → Arma del Servo** (liv. 10, una tantum a personaggio). Se preferisci tenere Intervento Divino per la Resurrezione Sontuosa, resta sul **Sangue di Lathander**.
 > - **Quale scegliere:** Vita = gruppo più curato, Shadowheart in corazza pesante e Colpo Divino Radioso a ogni turno; Luce = molto più danno da sola (Palla di Fuoco + Splendore dell'Alba + trucchetti potenziati) e una reazione difensiva che vale per tutto il gruppo. Entrambe reggono a Tattico. La trama Shar/Selûne **non cambia in nessun caso**.
 
@@ -890,7 +890,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 **📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 17 · DES 8 · COS 16 · INT 8 · SAG 8 · CAR 16** — comprati FOR 15 / COS 15 / CAR 15, i due bonus liberi vanno **+2 Forza** e **+1 Costituzione**.
 > **La Saggezza a 8 non è un problema**: dal liv. 6 la sua **Aura di Protezione** aggiunge il **Carisma a tutti i suoi tiri salvezza** — con CAR 20 sono +5 su ogni TS mentale, molto più di quanto darebbe una Saggezza decente. L'armatura pesante rende la Destrezza irrilevante (dumpala a 8).
 >
-> **Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Due scorciatoie che **liberano il talento del liv. 12**: **Il Diritto di Nascita** (*Birthright*, +2 CAR fino a 22 — ~1025 mo alla Sorcerous Sundries, Atto 3: è un pezzo da Paladino, **su Gale è inutile**, quindi qui non lo contende nessuno) e lo **Specchio della Perdita** (+2 CAR, Guanto di Shar) — ⚠️ lo Specchio è raggiungibile **solo se recluti Minthara prima di chiudere il Guanto di Shar**, altrimenti l'Atto 2 si chiude e lo perdi.
+> **Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Due scorciatoie che **liberano il talento del liv. 12**: **Il Diritto di Nascita** (*Birthright*, +2 CAR fino a 22 — ~1025 mo alla Sorcerous Sundries, Atto 3: è un pezzo da Paladino, **su Gale è inutile**, quindi qui non lo contende nessuno) e lo **Specchio della Perdita** (+2 CAR) — ❌ **correzione**: lo Specchio **non** sta nel Guanto di Shar (quello è incrinato e inutilizzabile), sta nel **Chiostro del Cupo Abbraccio in Atto 3** (Tappa 37). Quindi non c'è nessuna scadenza legata alla chiusura dell'Atto 2: l'unica condizione è **averla reclutata**, così da poterla portare allo Specchio in Atto 3.
 
 > 🎒 **KIT D'INGRESSO (Atto 2, il giorno che entra)**
 > - **Migliore corazza pesante disponibile** — è competente, e con DES 8 la CA viene tutta da lì. Se Lae'zel e Karlach non la usano, la **Corazza Adamantina** (*Tappa 11*, niente critici subiti) è perfetta su di lei.
@@ -1220,7 +1220,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 - Testa: **Il Diritto di Nascita** (+2 CAR, max 22) — ~1025 mo alla **Sorcerous Sundries**, piano terra
 - Guanti: **Guanti dei Cieli Bellicosi** — Atto 1, Camere dell'Inquisitore alla Creche Y'llek (se non li prende Shadowheart)
 - Anelli: **Anello di Riverbero** + **Anello del Bagliore Impietoso**
-- Statistica permanente: **Specchio della Perdita** (+2 CAR) nel **Guanto di Shar** — ⚠️ solo se la recluti **prima** di chiudere l'Atto 2
+- Statistica permanente: **Specchio della Perdita** (+2 CAR) nel **Chiostro del Cupo Abbraccio**, Atto 3 (Tappa 37) — ❌ **non** nel Guanto di Shar in Atto 2. Serve solo che l'abbia reclutata e che sia in squadra quando ci vai
 
 ### Giro consigliato (Atto 3)
 1. Sorcerous Sundries + Torre di Ramazith (Gale)
