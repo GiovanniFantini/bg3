@@ -231,7 +231,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 | Come lo scrivo qui | Inglese | Perché è incerto |
 |---|---|---|
-| **Forgia dei Nove** | Forge of the Nine | Diverse fonti italiane danno **"Fucina dei Nove"**; `build_completa_livello_1-12.md` usa già "Fucina". Il file Atto 3 usa "Forgia": è un'incoerenza fra i due file, da sanare quando l'avrai visto a schermo |
+| **Forgia dei Nove** | Forge of the Nine | Diverse fonti italiane danno anche **"Fucina dei Nove"**. ✅ **Incoerenza sanata il 4 settembre 2026**: `build_completa_livello_1-12.md` diceva "Fucina", ora usa "Forgia" come questo file. La dicitura resta comunque **non verificata a schermo**: se la PS5 dice "Fucina", è quella giusta |
 | **Merci Flymm** | Flymm Cargo | NextGenTech scrive "**deposito di Flymm**" |
 | **Loggia della Genialità** | Society of Brilliance | Da NextGenTech; è il luogo dove trovi **Lady Esther** e (se le hai dato l'uovo githyanki) **Ptaris** |
 | **Magliorosso l'Inventore** | Redhammer the Deviser | Solo NextGenTech |
@@ -248,7 +248,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 **Cuorescuro (Shadowheart)** — *Casa del Dolore, Tappa 37.* Ha rinunciato a Shar: ora deve affrontare Viconia e ritrovare i genitori. Approva la compassione e la fermezza. **La scelta buona**: rifiuta Shar, **salva i genitori** (serve approvazione alta e i "ricordi" ritrovati), risparmia Viconia se te lo chiede Jaheira. Se la porti con te alla Tappa 39 (Mystra) e alla 46 avrai le sue battute migliori.
 
-**Astarion** — *Palazzo Szarr, Tappa 38.* È il bivio morale più duro dell'atto perché la scelta "cattiva" è quella che *lui* vuole. **La scelta buona**: convincerlo a **non ascendere** e a **liberare** i 7.000 spawn verso l'Underdark. Serve Persuasione alta e approvazione decente; se lo hai lasciato mordere te (🏆 *Solo un Morsino*) e non l'hai mai umiliato, la prova è gestibile. Dopo, è più fragile ma libero — ed è la sua fine migliore.
+**Astarion** — *Palazzo Szarr, Tappa 38.* È il bivio morale più duro dell'atto perché la scelta "cattiva" è quella che *lui* vuole. **La scelta buona**: convincerlo a **non ascendere** e a **liberare** i 7.000 spawn verso il Sottosuolo. Serve Persuasione alta e approvazione decente; se lo hai lasciato mordere te (🏆 *Solo un Morsino*) e non l'hai mai umiliato, la prova è gestibile. Dopo, è più fragile ma libero — ed è la sua fine migliore.
 
 **Gale** — *Tabernacolo di Rivatempestosa, Tappa 39.* Mystra gli offre il perdono in cambio della Corona di Karsus. **La scelta buona**: incoraggialo a **rifiutare il sacrificio** e a **restituire la Corona a Mystra** alla fine. Non fargli firmare il contratto di Raphael (se l'ha firmato, distruggilo alla Casa della Speranza). Sostienilo: "vali più di uno strumento di Mystra".
 
@@ -1207,7 +1207,7 @@ Sulle **banchine subito a est del punto di viaggio rapido Heapside Strand** — 
 | **Oskar Fevras liberato nell'Atto 1** | La villa si infesta **solo** se l'hai riscattato dagli Zhentarim. Senza di lui non c'è missione: trovi solo la **mostra d'arte** (vedi 35bis.6) | Nascondiglio Zhentarim, Atto 1 |
 | ***Torch of Revocation*** | È l'unico oggetto che libera lo spirito dal ritratto | **Tappa 35**: gratis se hai fatto *Trova il Servitore del Mistico Carcame*, altrimenti **3.000 mo** da Carcame o dal forziere dorato se lo uccidi |
 
-> ❌ **Correzione al file dell'Atto 1**: là è scritto "300–600 monete". Il prezzo di Brem è **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**. In alternativa lo si ottiene **senza pagare**, convincendo Brem che Oskar gli dà più problemi che guadagni.
+> ❌ **Correzione già applicata al file dell'Atto 1** (lì la riga è aggiornata): la vecchia versione diceva "300–600 monete". Il prezzo di Brem è **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**. In alternativa lo si ottiene **senza pagare**, convincendo Brem che Oskar gli dà più problemi che guadagni.
 
 ### 🗺️ 35bis.1 — Geografia e i quattro modi di entrare
 
@@ -1635,7 +1635,7 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 **La scelta buona (in due passaggi):**
 
 1. **Persuadilo a NON ascendere.** ("Non hai bisogno del suo potere per essere libero.")
-2. Quando decide degli spawn: ✅ **liberali verso l'Underdark**. (Le altre opzioni: ucciderli o lasciarli lì.)
+2. Quando decide degli spawn: ✅ **liberali verso il Sottosuolo**. (Le altre opzioni: ucciderli o lasciarli lì.)
    → Ottieni **Ulma e i Gur come alleati** per il finale.
 
 ### 38.6 — Bottino
@@ -1852,7 +1852,7 @@ Sconfitto Raphael: la casa è tua. **Non lasciare niente indietro.**
 | **Gowlan e Fleer** ai **Moli del Porto Grigio** | Hanno visto **qualcosa di grosso** muoversi sott'acqua, **in direzione di Merci Flymm** |
 | **Merci Flymm** | Porte di metallo (**Rapidità di Mano CD 20**), i **worg** da abbattere, poi la **botola** del seminterrato → il sommergibile |
 
-Il colpevole è **Magliorosso il Congegnatore** (*Redhammer the Deviser*), il nano che pilota il sommergibile per conto di **Gortash**: nelle sue immersioni ha travolto Holli, e il "sangue nero" è l'**inquinamento** che il mezzo scarica nel Porto Grigio. Non è un assassino premeditato — è uno che sapeva e ha continuato.
+Il colpevole è **Magliorosso l'Inventore** (*Redhammer the Deviser*), il nano che pilota il sommergibile per conto di **Gortash**: nelle sue immersioni ha travolto Holli, e il "sangue nero" è l'**inquinamento** che il mezzo scarica nel Porto Grigio. Non è un assassino premeditato — è uno che sapeva e ha continuato.
 
 ### ⛔ 40-bis.4 — La scelta (e come incastrarla col Trono di Ferro)
 

@@ -28,16 +28,16 @@
 - [Tappa 14 — Il convoglio, Kar'niss e la Lanterna Lunare](#tappa-14--il-convoglio-karniss-e-la-lanterna-lunare-liv-8)
 - [Tappa 15 — Locanda dell'Ultima Luce (quartier generale)](#tappa-15--locanda-dellultima-luce-quartier-generale-liv-8)
 - [Tappa 16 — ⏱️ Salvare Rolan](#tappa-16--️-salvare-rolan-liv-8-a-tempo)
-- [Tappa 17 — Reithwin: i tre figli Thorm](#tappa-17--reithwin-i-tre-figli-thorm-liv-89--2-trofei)
+- [Tappa 17 — Reithwin: i tre figli Thorm](#tappa-17--reithwin-i-tre-figli-thorm-liv-8-9--2-trofei)
 - [Tappa 18 — Risvegliare Art Cullagh e il portale di Halsin](#tappa-18--risvegliare-art-cullagh-e-il-portale-di-halsin-liv-9)
 - [Tappa 19 — Oliver, Thaniel e la maledizione spezzata](#tappa-19--oliver-thaniel-e-la-maledizione-spezzata-liv-9)
 - [Tappa 20 — Torri dell'Alba Lunare (superficie)](#tappa-20--torri-dellalba-lunare-superficie-liv-9)
 - [Tappa 21 — 🏆 Prigione delle Torri: "Sotto Chiave"](#tappa-21---prigione-delle-torri-sotto-chiave-liv-9)
-- [Tappa 22 — Gran Mausoleo e Guanto di Shar](#tappa-22--gran-mausoleo-e-guanto-di-shar-liv-910)
+- [Tappa 22 — Gran Mausoleo e Guanto di Shar](#tappa-22--gran-mausoleo-e-guanto-di-shar-liv-9-10)
 - [Tappa 23 — 🚩 PUNTO DI NON RITORNO: la Coltre Oscura](#tappa-23---punto-di-non-ritorno-la-coltre-oscura-liv-10)
 - [Tappa 24 — Assalto alle Torri dell'Alba Lunare](#tappa-24--assalto-alle-torri-dellalba-lunare-liv-10)
 - [Tappa 25 — Colonia dei Divoratori di Menti](#tappa-25--colonia-dei-divoratori-di-menti-liv-10--tappa-critica)
-- [Tappa 26 — 🏆 Apostolo di Myrkul e uscita verso l'Atto 3](#tappa-26---apostolo-di-myrkul-e-uscita-verso-latto-3-liv-1011)
+- [Tappa 26 — 🏆 Apostolo di Myrkul e uscita verso l'Atto 3](#tappa-26---apostolo-di-myrkul-e-uscita-verso-latto-3-liv-10-11)
 
 **Appendici**
 - [🛒 Cosa comprare nell'Atto 2 (mercante per mercante)](#-cosa-comprare-nellatto-2-mercante-per-mercante)
@@ -61,7 +61,7 @@ L'Atto 2 non è "l'Atto 1 con nemici più forti". Tre cose cambiano il modo in c
 2. **Quasi tutto è a tempo o condizionato.** Molti PNG muoiono se riposi nel momento sbagliato o se avanzi troppo nella storia principale. L'ordine di questa guida è pensato apposta per non perdere nessuno.
 3. **C'è un vero punto di non ritorno** dentro il Guanto di Shar (Tappa 23). Superata quella porta, **tutti i punti di viaggio rapido dell'Atto 1 spariscono** e ogni missione incompleta fallisce automaticamente.
 
-**Da dove sei arrivato:** seguendo l'Atto 1 sei passato dal **Passo di Montagna / Creche Y'llek**, quindi entri dal **Campo di Battaglia in Rovina** e incontrerai il **convoglio di Kar'niss**. (Chi arriva da Grymforge/Underdark incontra prima una pattuglia di **Arpisti** sulla strada: cambia solo l'ordine dei primi 20 minuti, tutto il resto è identico.)
+**Da dove sei arrivato:** seguendo l'Atto 1 sei passato dal **Passo di Montagna / Creche Y'llek**, quindi entri dal **Campo di Battaglia in Rovina** e incontrerai il **convoglio di Kar'niss**. (Chi arriva da Grymforge/Sottosuolo incontra prima una pattuglia di **Arpisti** sulla strada: cambia solo l'ordine dei primi 20 minuti, tutto il resto è identico.)
 
 **Stato della run che questa guida presuppone** (coerente con l'Atto 1):
 - Boschetto salvato, tutti i tiefling vivi → li ritrovi alla **Locanda dell'Ultima Luce** e in prigione alle Torri.
@@ -140,11 +140,15 @@ Ho recuperato la **lista trofei PSN italiana ufficiale**: alcuni nomi che avevo 
 | Shadowheart | **Cuorescuro** (nome italiano ufficiale; a schermo la trovi così) |
 | Scratch | **Graffio** |
 
+> ✅ **Applicate il 4 settembre 2026.** Tutte le correzioni di nome qui sopra sono state **riportate direttamente** nel file `roadmap_atto1_run_buona.md` e in `build_completa_livello_1-12.md`: quei due file ora usano già i nomi ufficiali (**Cuorescuro**, **Graffio**, **Torri dell'Alba Lunare** e le sette diciture dei trofei). Questa tabella resta come storico di cosa è cambiato.
+
 ⚠️ **Due segnalazioni su oggetti** (verificate, correggono `build_completa_livello_1-12.md`):
 - **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*) **NON** si comprano in Atto 2 da Talli: sono in **Atto 1**, nel **Baule Elegante** delle **Camere dell'Inquisitore** alla **Creche Y'llek**. Se hai svuotato quelle stanze come da checklist Atto 1, ce li hai già; altrimenti sono persi.
 - **Stivali del Clamore Tempestoso** (*Boots of Stormy Clamour*): **Atto 1**, venduti da **Omeluum** alla Colonia dei Miconidi. **Amuleto del Devoto**: è in **Atto 3** (sotterraneo del Tabernacolo di Stormshore), non in Atto 2.
 
-⚠️ **Trofeo dell'Atto 1 facile da aver mancato:** **Disinfestazione** — *"Uccidi la matriarca dei ragni prima che le sue uova si schiudano"* (Matriarca dei Ragni delle Fasi, **Profondità Sussurranti**, Tappa 5). Non era elencato nella guida Atto 1. Se non l'hai preso e hai ancora accesso all'Atto 1 (**cioè prima della Tappa 23**), tornaci: è l'ultima finestra utile.
+> ✅ **Anche queste due segnalazioni sono state applicate** in `build_completa_livello_1-12.md` il 4 settembre 2026 (i Guanti risultavano "Atto 2" in tre punti su quattro, e l'Amuleto del Devoto era dato in Atto 2 con +1 alla CD invece che in Atto 3 con **+2**).
+
+⚠️ **Trofeo dell'Atto 1 facile da aver mancato:** **Disinfestazione** — *"Uccidi la matriarca dei ragni prima che le sue uova si schiudano"* (Matriarca dei Ragni delle Fasi, **Profondità Sussurranti**, Tappa 5). ✅ **Ora è elencato** anche nella guida dell'Atto 1 (tabella dei trofei + strategia alla Tappa 5): la vecchia versione non lo aveva. Se non l'hai preso e hai ancora accesso all'Atto 1 (**cioè prima della Tappa 23**), tornaci: è l'ultima finestra utile.
 
 ---
 
@@ -269,6 +273,8 @@ Serve per orientarsi: l'Atto 2 è una mappa unica, ma si legge come sette blocch
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 2 (elenco e stato)
 
 Per controllare a colpo d'occhio di non aver dimenticato nulla.
+
+> ✅ **Verifica del 4 settembre 2026.** Questo elenco è stato ricontrollato contro la lista completa delle missioni dell'Atto 2 su **bg3.wiki** (pagina *Act Two* + le singole pagine di missione): **non manca nulla e l'ordine delle tappe 13 → 26 è corretto**. Tutte e quattordici le secondarie ufficiali sono qui sopra, comprese *Punire i Malvagi*, *Indagare sulla Resistenza Selunita* e *Decidere il Destino di Minthara*; *Salvare il Gran Duca* e *Trovare Mol* restano correttamente aperte per l'Atto 3.
 
 **Trama principale — *Infiltrarsi nelle Torri dell'Alba Lunare*** (contenitore di tutte le altre)
 | Missione | Esito nella run buona | Tappa |
@@ -428,8 +434,9 @@ L'Atto 2 punisce chi combatte come nell'Atto 1. Cinque regole che valgono ovunqu
 | **Botte da Orbi** | Uccidi un nemico a mani nude: qualsiasi shadow ferito |
 | **Giocatore di Ruolo** | 10 obiettivi di background: l'Atto 2 ne regala tantissimi (vedi i box "ispirazione" nelle tappe) |
 
+> ❌ **Correzione del 4 settembre 2026 — *Mente Sconvolgente* è compatibile con questa run.** Qui era scritto che richiedeva di usare massicciamente i girini, di accettare la trasformazione parziale in illithid e di **chiudere la romance con un compagno**: è falso. Servono **due sole cose**: aver **ripulito e osservato il vecchio nascondiglio dell'Imperatore** (cantina della Taverna del Canto Elfico, Atto 3) ed essere stato **cordiale con lui** nei dialoghi; poi la scena arriva a un riposo lungo dell'Atto 3. **Non richiede girini né ceremorfosi, e non rompe la romance in corso** (tre compagni sbirciano, ma nessuno te ne fa una colpa). → si prende, e infatti nel file dell'Atto 3 è alla **Tappa 47**.
+
 **Trofei NON compatibili con questa run (per scelta, non per errore):**
-- **Mente Sconvolgente** (corteggia l'Imperatore) — si sblocca in **Atto 3**, ma richiede di usare massicciamente i girini, accettare la trasformazione parziale in illithid a fine Atto 2 e **chiudere la romance con un compagno**. Incompatibile con la romance esclusiva con Cuorescuro e con lo spirito della run. → seconda partita.
 - **Il Potere Assoluto Corrompe / Le Colpe del Padre / Ceremorfosi** — finali malvagi o sacrificali. Il tuo finale è **Eroe dei Reami Dimenticati**.
 - **Abbraccia la Pulsione** — richiede il Dark Urge.
 

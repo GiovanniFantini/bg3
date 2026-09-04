@@ -6,16 +6,16 @@
 
 ## 📑 Indice
 - [🔎 **VERIFICA DELLE BUILD — la versione più forte di ciascuno**](#-verifica-delle-build--la-versione-più-forte-di-ciascuno-audit-agosto-2026) ⭐ *leggi questo per primo*
-- [🗡️ Protagonista — "Emberoath" (Paladino 6 / Stregone 6)](#-il-protagonista--emberoath-paladino-devozione-6--stregone-draconico-rosso-6)
-  - [🛡️ Variante affidabile — Paladino 12 puro](#-variante-affidabile--paladino-12-puro-devozione)
-- [🛡️ Shadowheart — Chierica (Vita)](#-shadowheart--chierica-dominio-della-vita)
+- [🗡️ Protagonista — "Emberoath" (Paladino 6 / Stregone 6)](#️-il-protagonista--emberoath-paladino-devozione-6--stregone-draconico-rosso-6)
+  - [🛡️ Variante affidabile — Paladino 12 puro](#️-variante-affidabile--paladino-12-puro-devozione)
+- [🛡️ Cuorescuro — Chierica (Vita)](#️-cuorescuro--chierica-dominio-della-vita)
   - 🔆 Variante Dominio della Luce (tabella livello per livello)
 - [💪 Karlach — Barbara (Berserker)](#-karlach--barbara-cammino-del-berserker)
   - ⚔️ Variante lanciatrice (Throwzerker) · 🪓 Variante protagonista Barbaro Mezzorco
 - [🔥 Gale — Mago (Evocazione)](#-gale--mago-scuola-di-evocazione)
 - [🩸 Astarion — Ladro (Furfante)](#-astarion--ladro-sottoclasse-furfante)
   - 🏹 Variante arciere assassino (Cacciatore Oscuro 5 / Assassino 4 / Guerriero 3)
-- [⚔️ Wyll — Warlock (l'Immondo)](#-wyll--warlock-patrono-limmondo)
+- [⚔️ Wyll — Warlock (l'Immondo)](#️-wyll--warlock-patrono-limmondo)
 - [🗲 Lae'zel — Guerriera (Maestro di Battaglia)](#-laezel--guerriera-maestro-di-battaglia)
 - [🌿 Jaheira — Druida (Circolo della Terra)](#-jaheira--druida-circolo-della-terra)
   - 🍄 Variante guerriera-druida (Circolo delle Spore)
@@ -23,9 +23,9 @@
   - 🛡️ Variante scudo · ☠️ Nota Spergiuro (fuori run buona)
 - [🐻 Halsin — Druido (Circolo della Luna)](#-halsin--druido-circolo-della-luna)
 - [🐹 Minsc — Ranger arciere (Atto 3)](#-minsc--ranger-cacciatore-oscuro-arciere)
-- [🛡️ Oggetti universali OP (vanno bene su chiunque)](#-oggetti-universali-op-vanno-bene-su-chiunque)
+- [🛡️ Oggetti universali OP (vanno bene su chiunque)](#️-oggetti-universali-op-vanno-bene-su-chiunque)
 - [📋 Riepilogo equip-chiave per personaggio](#-riepilogo-equip-chiave-per-personaggio)
-- [🗺️ Appendice — posizioni Atto 2-3 verificate](#-appendice--posizioni-atto-2-3-verificate-dalla-run-provata)
+- [🗺️ Appendice — posizioni Atto 2-3 verificate](#️-appendice--posizioni-atto-2-3-verificate-dalla-run-provata)
 - [🏆 Note trofei legati alle build](#-note-trofei-legati-alle-build-promemoria-rapido)
 
 > **Rapporto con l'altra guida**: `roadmap_atto1_run_buona.md` resta il documento operativo per l'Atto 1 (tappa per tappa, dove trovi ogni oggetto, trofei, missabili). Questo file è il **riferimento build/equip completo 1-12**: stessi personaggi, stesse sottoclassi, stesso protagonista "Emberoath". Qui ogni livello è trattato **singolarmente** (niente riepiloghi accorpati), con la scelta di build **e** l'equipaggiamento consigliato a quel punto della partita.
@@ -54,11 +54,11 @@
 | PG | Build in questa guida | Verdetto | La più forte verificata |
 |---|---|---|---|
 | **Protagonista** | Paladino 6 / Stregone 6 · variante Paladino 12 | ✅ **confermata** | Entrambe sono in cima alle liste dei frontliner carismatici. Nessun cambio |
-| **Shadowheart** | Chierica **Vita** (principale), Luce (variante) | 🔄 **invertire le due** | **Dominio della Luce** è la più forte (danno + Bagliore Protettivo + combo Orbo Radiante). La Vita resta la scelta "solida", non la più potente → [vedi sotto](#-shadowheart--passa-alla-luce-come-build-principale) |
+| **Cuorescuro** | Chierica **Vita** (principale), Luce (variante) | 🔄 **invertire le due** | **Dominio della Luce** è la più forte (danno + Bagliore Protettivo + combo Orbo Radiante). La Vita resta la scelta "solida", non la più potente → [vedi sotto](#-cuorescuro--passa-alla-luce-come-build-principale) |
 | **Karlach** | Barbara **Berserker** (mischia + Throwzerker) | 🔄 **upgrade Patch 8 possibile** | **Via del Gigante** raddoppia il bonus d'Ira sui **lanci**. Ma il Berserker mantiene il lancio come **azione bonus**: è un vero scambio, non un upgrade netto → [vedi sotto](#-karlach--berserker-o-via-del-gigante-il-confronto-onesto) |
 | **Gale** | Mago **Evocazione** 12 | ✅ **confermata** | L'Evocazione resta la sottoclasse da artiglieria. *Danza delle Lame* (A-tier Patch 8) è un mago **in mischia**: bella, ma non è Gale |
 | **Astarion** | Ladro **Furfante** (principale), arciere (variante) | 🔄 **invertire le due** | L'**arciere Cacciatore Oscuro 5 / Assassino 4 / Campione 3** è nettamente più forte. Il Furfante a pugnali è la versione "utility con 4 talenti" |
-| **Wyll** | Warlock l'Immondo, Deflagrazione Occulta | 🔄 **upgrade Patch 8 vero** | **Hexblade** è considerata la **sottoclasse più forte del gioco** dopo la Patch 8 → [vedi sotto](#-wyll--hexblade-lupgrade-più-grosso-della-patch-8) |
+| **Wyll** | Warlock l'Immondo, Deflagrazione Occulta | 🔄 **upgrade Patch 8 vero** | **Hexblade** è considerata la **sottoclasse più forte del gioco** dopo la Patch 8 → [vedi sotto](#️-wyll--hexblade-lupgrade-più-grosso-della-patch-8) |
 | **Lae'zel** | Guerriera **Maestro di Battaglia** 12 | ✅ **confermata** | 3 attacchi/azione al liv. 11 + manovre: nessuna sottoclasse Patch 8 la supera (*Cavaliere del Drago Purpureo* e *Arciere Arcano* sono sotto) |
 | **Jaheira** | Druida **Circolo della Terra** 12 | ✅ **confermata** | ⚠️ Il nuovo **Circolo delle Stelle** è classificato **D-tier**: ignoralo |
 | **Minthara** | Paladina **Giuramento di Vendetta** 12 | ✅ **confermata** | ⚠️ Il nuovo **Giuramento della Corona** è **C-tier**: non è un'alternativa |
@@ -67,7 +67,7 @@
 
 > **E i 12 mercenari di Withers?** Al campo puoi assoldare **assistenti** (100 mo l'uno), uno per ogni classe. Non hanno trama né dialoghi, ma **prendono qualsiasi build di questa guida**: se ti manca un ruolo (un secondo chierico, un bardo, un monaco) è la via più veloce. Le progressioni qui sotto valgono identiche su di loro.
 
-### 🔆 Shadowheart — passa alla **Luce** come build principale
+### 🔆 Cuorescuro — passa alla **Luce** come build principale
 
 La sezione della Luce c'è già più avanti, con la tabella livello per livello: **usala come principale** e tieni la Vita come ripiego. Perché la Luce vince:
 - **Bagliore Protettivo** (reazione) impone **svantaggio** a chi la attacca, e dal liv. 6 protegge **gli alleati**: è una riduzione del danno in arrivo che la Vita non ha.
@@ -108,9 +108,9 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 **Statistiche e talenti:** **identici alla sezione di Wyll** (FOR 8 · DES 14 · COS 16 · INT 8 · SAG 12 · CAR 16 → 20 con gli ASI di liv. 4 e 8). ⚠️ Con l'armatura media, valuta **DES 14** invariata: la CA arriva da armatura + scudo.
 
 **Oggetti (dove prenderli):**
-- **Arma del patto**: qualunque arma da guerra a una mano di buona qualità — con lo scudo. **Phalar Aluve** (Underdark, *Tappa 10*) è perfetta se il protagonista è passato a un due-mani leggendario.
+- **Arma del patto**: qualunque arma da guerra a una mano di buona qualità — con lo scudo. **Phalar Aluve** (Sottosuolo, *Tappa 10*) è perfetta se il protagonista è passato a un due-mani leggendario.
 - **Armatura media migliore che trovi** + **scudo** — è la novità: prima non poteva portarli.
-- **Guanti di Spellmight** (Atto 3) → sostituiscili con guanti da **arma** (es. **Eredità dei Maestri**, da Dammon alla Fucina dei Nove, +2 a colpire e al danno): la build ora picchia, non lancia.
+- **Guanti di Spellmight** (Atto 3) → sostituiscili con guanti da **arma** (es. **Eredità dei Maestri**, da Dammon alla Forgia dei Nove, +2 a colpire e al danno): la build ora picchia, non lancia.
 - **Anello del Fuoco** (Casa del Pedaggio, *Tappa 5*) e **Anello del Bagliore Impietoso** restano validi.
 - **Amuleto della Salute** (COS 23, Archivio Casa della Speranza) se libero.
 
@@ -139,7 +139,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 2 — Paladino 2
 - Stile di Combattimento → **Combattimento con Arma Grande** (rilanci gli 1 e 2 sui dadi danno dell'arma a due mani). Sbloccati 2 slot di 1° liv. + **Punizione Divina innata**. Prepara: **Punizione Incandescente**, **Punizione Tonante** (i due smite elementali "a incantesimo", con concentrazione, diversi dallo Smite innato), **Comando**, **Scudo della Fede**.
-- 🎒 Mantieni Lama Semprardente. Da Arron al Boschetto (*Tappa 3*) compra lo **Scudo Protettivo** (+1 a tutti i TS) **come oggetto da tenere in inventario**: torna utile su di te o Shadowheart nei momenti difensivi, anche se combatti a due mani.
+- 🎒 Mantieni Lama Semprardente. Da Arron al Boschetto (*Tappa 3*) compra lo **Scudo Protettivo** (+1 a tutti i TS) **come oggetto da tenere in inventario**: torna utile su di te o Cuorescuro nei momenti difensivi, anche se combatti a due mani.
 
 ### Livello 3 — Paladino 3
 - **Giuramento di Devozione** → Canale del Giuramento (1 carica): **Arma Sacra** (10 turni, aggiungi CAR ai tiri per colpire, l'arma diventa magica e luminosa) o **Scacciare gli Empi** (Turn the Unholy: costringe non-morti e immondi vicini a fuggire su TS Saggezza fallito). Usa Arma Sacra quasi sempre; Scacciare gli Empi solo contro ondate di non-morti/immondi (utile in Atto 2). Incantesimi di Giuramento sempre preparati (gratis): **Protezione dal Male e dal Bene**, **Santuario**. **Divine Health** (immune a malattie).
@@ -147,7 +147,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 4 — Paladino 4 · **Talento #1**
 - **Talento → Grande Maestro d'Armi** (l'unico talento "Paladino" della build): -5 al colpire / +10 al danno, e attacco bonus dopo un critico o un'uccisione. Con Arma Sacra (CAR al colpire) compensi il -5.
-- 🎒 Buon momento per **Phalar Aluve** (spada nell'Underdark, *Tappa 10*) o la **Spada della Giustizia** (Casa del Pedaggio, *Tappa 5*, dà Scudo di Fede gratis) come **upgrade dalla Lama Semprardente**. Phalar Aluve = aura "Canto" (buff/debuff sonoro) fantastica per tutto il gioco; la Spada della Giustizia = più difensiva. Scegli Phalar Aluve sul PG e lascia la Spada della Giustizia a Lae'zel.
+- 🎒 Buon momento per **Phalar Aluve** (spada nel Sottosuolo, *Tappa 10*) o la **Spada della Giustizia** (Casa del Pedaggio, *Tappa 5*, dà Scudo di Fede gratis) come **upgrade dalla Lama Semprardente**. Phalar Aluve = aura "Canto" (buff/debuff sonoro) fantastica per tutto il gioco; la Spada della Giustizia = più difensiva. Scegli Phalar Aluve sul PG e lascia la Spada della Giustizia a Lae'zel.
 
 ### Livello 5 — Paladino 5
 - **Attacco Extra** (2 attacchi per azione — il salto di danno più grande della build). Slot di 2° liv. sbloccati (Smite ora fino a 3d8). Incantesimi di Giuramento extra sempre preparati: **Restaurazione Inferiore**, **Silenzio**. Prepara anche **Punizione Marchiante** (toglie invisibilità) e **Aiuto** (PF temporanei al gruppo).
@@ -174,7 +174,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 - Trucchetti 4→**5** (restano 5: il 6° vuole Stregone-10). Aggiungi un trucchetto utility.
 - **Talento → +2 Carisma** (18→20): massimizza DC incantesimi, danno da Elemental Affinity, tiri per colpire con Arma Sacra, Aura di Protezione, dialoghi. È il secondo e ultimo talento.
 - 5° incantesimo noto: **Velocità** (Haste) — enorme su un due-mani con Attacco Extra: attacco in più, +2 CA, doppio movimento.
-- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, Atto 2) applicano **Riverbero** sui colpi radiosi/fulmine/tuono: con Arma Sacra (radioso) accumuli condizioni sui nemici. In alternativa, guanti che aumentino CA/TS. **Anello del Bagliore Impietoso** (*Callous Glow Ring*): +danno radioso quando il bersaglio è illuminato — sinergia con la tua arma luminosa.
+- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, ⚠️ **Atto 1**: baule elegante nelle **Camere dell'Inquisitore** alla Creche Y'llek) applicano **Riverbero** sui colpi radiosi/fulmine/tuono: con Arma Sacra (radioso) accumuli condizioni sui nemici. In alternativa, guanti che aumentino CA/TS. **Anello del Bagliore Impietoso** (*Callous Glow Ring*): +danno radioso quando il bersaglio è illuminato — sinergia con la tua arma luminosa.
 
 ### Livello 11 — Stregone 5 (ESL 8 → slot 4/3/3/2)
 - 6° incantesimo noto: **Palla di Fuoco** (grande nuke; dal prossimo livello beneficia di Elemental Affinity). Con Incantesimo Accorto non colpisce gli alleati.
@@ -214,7 +214,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 ⚠️ **Correzione valida per entrambe le varianti**: in BG3 l'**Aura di Protezione resta a 3 m per tutta la partita**. L'allargamento a 9 m è una feature di livello 18 del cartaceo, irraggiungibile col cap 12 — quindi tieni **sempre** il protagonista attaccato ai compagni fragili, non basta "stare nella stessa stanza".
 
 **Cosa perdi davvero, e come lo compensi:**
-- **Scudo** (reazione, +5 CA istantaneo) → la perdita più sentita. Compensi con la migliore corazza pesante disponibile, **Scudo della Fede** attivo a inizio scontro e il **Vincolo di Protezione** (Warding Bond) di Shadowheart lanciato su di te prima dei boss.
+- **Scudo** (reazione, +5 CA istantaneo) → la perdita più sentita. Compensi con la migliore corazza pesante disponibile, **Scudo della Fede** attivo a inizio scontro e il **Vincolo di Protezione** (Warding Bond) di Cuorescuro lanciato su di te prima dei boss.
 - **Velocità** autolanciata → la lancia **Gale**, oppure usi le **Pozioni di Velocità** (in Atto 2-3 se ne trovano parecchie).
 - **Passo Nebbioso** → in questa variante **l'Amuleto di Passo Nebbioso** (*Tappa 8-9*) e gli **Stivali di Velocità** (*Tappa 10*) vanno a **te**, non agli altri: sono la tua unica mobilità istantanea.
 - **Controincantesimo / Palla di Fuoco** → restano a Gale e Wyll, il gruppo li ha comunque.
@@ -239,7 +239,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 #### Livello 4 — Paladino 4 · **Talento #1**
 - **Talento → Grande Maestro d'Armi** (-5 al colpire / +10 al danno, attacco bonus dopo critico o uccisione). Il -5 lo compensa Arma Sacra.
-- 🎒 **Spada della Giustizia** (*Tappa 5*, Casa del Pedaggio) come upgrade immediato; **Phalar Aluve** (*Tappa 10*) appena entri nell'Underdark e diventa l'arma per gran parte della partita.
+- 🎒 **Spada della Giustizia** (*Tappa 5*, Casa del Pedaggio) come upgrade immediato; **Phalar Aluve** (*Tappa 10*) appena entri nel Sottosuolo e diventa l'arma per gran parte della partita.
 
 #### Livello 5 — Paladino 5
 - **Attacco Extra** (2 attacchi per azione). Slot di 2° liv. → Smite a 3d8. Oath sempre preparati: **Restaurazione Inferiore**, **Silenzio**. Prepara anche **Punizione Marchiante** e **Aiuto**.
@@ -247,7 +247,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 #### Livello 6 — Paladino 6
 - **Aura di Protezione** (3 m): ogni alleato vicino somma il **tuo modificatore di Carisma** a TUTTI i suoi tiri salvezza. Da qui in poi la tua posizione sul campo vale quanto il tuo danno.
-- 🎒 **Amuleto di Passo Nebbioso** (*Tappe 8-9*): in questa variante **tienilo tu**, non darlo a Shadowheart o Karlach — è la tua unica fuga/aggancio istantaneo.
+- 🎒 **Amuleto di Passo Nebbioso** (*Tappe 8-9*): in questa variante **tienilo tu**, non darlo a Cuorescuro o Karlach — è la tua unica fuga/aggancio istantaneo.
 
 #### Livello 7 — Paladino 7 ⭐ *(qui la variante si stacca dalla tabella del roadmap Atto 1)*
 - **Aura della Devozione**: tu e gli alleati entro 3 m **non potete essere Affascinati**. Contro arpie, driders, vampiri e i dominatori mentali dell'Atto 3 è un'immunità che salva partite intere — la build 6/6 non la vede mai.
@@ -259,7 +259,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 #### Livello 9 — Paladino 9
 - Slot di **3° livello** → **Smite fino a 4d8** (5d8 su Immondi/Non Morti). Oath sempre preparati: **Faro di Speranza** e **Dissolvi Magie** *(conferma le due voci a schermo)*.
-- Prepara **Rivitalizza** (Revivify): il protagonista diventa il **secondo rianimatore** del gruppo dopo Shadowheart — enorme in Atto 2-3. E **Manto del Crociato** (Crusader's Mantle): +1d4 radioso a **ogni** attacco di **tutti** gli alleati vicini.
+- Prepara **Rivitalizza** (Revivify): il protagonista diventa il **secondo rianimatore** del gruppo dopo Cuorescuro — enorme in Atto 2-3. E **Manto del Crociato** (Crusader's Mantle): +1d4 radioso a **ogni** attacco di **tutti** gli alleati vicini.
 - ⚠️ Manto del Crociato e Scudo della Fede sono entrambi a concentrazione: ne tieni attivo **uno solo**. Regola pratica: Manto negli scontri con tanti nemici deboli, Scudo della Fede contro i boss.
 - 🎒 **Atto 2 (Terre Maledette).** Procurati una **fonte di luce personale** (l'arma luminosa di Arma Sacra basta) per non subire svantaggio nell'Ombra Maledetta. L'**Amuleto della Salute** (COS 23) è ottimo su di te se non serve a Gale.
 
@@ -270,7 +270,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 #### Livello 11 — Paladino 11 ⭐ **il livello che giustifica tutta la variante**
 - **Punizione Divina Migliorata**: **+1d8 radioso su ogni attacco con arma da mischia**, senza consumare slot, per sempre.
 - Conto della serva, turno tipo con spadone + Arma Sacra + Grande Maestro d'Armi: `2d6 + 4 (FOR) + 10 (GWM) + 1d8` ≈ **25 danni a colpo × 2 attacchi ≈ 50 a turno**, tutti i turni, a costo zero. Se spendi uno slot di 3° aggiungi **4d8** (5d8 su Immondi/Non Morti) su un singolo colpo.
-- **Sinergia decisiva**: essendo tutti i tuoi colpi **radiosi**, fai scattare Riverbero (Guanti dei Cieli Bellicosi) e Orbo Radiante (Anello di Riverbero) **a ogni attacco** — i nemici attorno a te cadono proni e mancano i colpi. È la stessa macchina di controllo passivo di Shadowheart, ma su un frontliner che fa il triplo del danno.
+- **Sinergia decisiva**: essendo tutti i tuoi colpi **radiosi**, fai scattare Riverbero (Guanti dei Cieli Bellicosi) e Orbo Radiante (Anello di Riverbero) **a ogni attacco** — i nemici attorno a te cadono proni e mancano i colpi. È la stessa macchina di controllo passivo di Cuorescuro, ma su un frontliner che fa il triplo del danno.
 - 🎒 **Atto 3.** **Balduran's Giantslayer** (spadone leggendario, Città Bassa) se lo lasci a te invece che a Karlach/Lae'zel — coordinatevi, ce n'è uno solo. Altrimenti **Phalar Aluve** regge fino alla fine senza problemi.
 
 #### Livello 12 — Paladino 12 · **Talento #3**
@@ -292,7 +292,9 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ---
 
-## 🛡️ SHADOWHEART — Chierica, Dominio della Vita
+## 🛡️ CUORESCURO — Chierica, Dominio della Vita
+
+*(A schermo, in italiano, Shadowheart si chiama **Cuorescuro**: in questo file uso sempre il nome italiano, come nei tre file roadmap.)*
 
 **Ruolo:** cura + tank radioso. La build "forte" nasce dalla combo **Guardiani Spirituali + Colpo Divino Radioso + oggetti Riverbero/Orbo Radiante**: cammina in mezzo ai nemici e li logora ogni turno mentre cura il gruppo. Respec da Withers su **Dominio della Vita** (più cure, armatura pesante) — non tocca la sua trama Shar/Selûne.
 
@@ -312,7 +314,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 > - **Armatura:** perdi la competenza in **armatura pesante** → passi alla media, quindi sposta i punti su **DES 14 / COS 14** (vedi nota statistiche qui sotto).
 > - **Talento liv. 8:** qui conviene **Incantatore Bellico** (War Caster) al posto di +2 SAG, per blindare la concentrazione su Guardiani Spirituali mentre stai in mezzo ai nemici con meno CA. SAG arriva a 20 col talento del liv. 12 (o con lo **Specchio della Perdita** in **Atto 3**, Tappa 37).
 > - **Arma endgame:** la **Mazza del Devoto** (*Devotee's Mace*, +3, 1d8 radioso extra) è la miglior arma per questa variante. ⚠️ **Correzione: non si trova in nessun baule** — si ottiene **solo** lanciando **Intervento Divino → Arma del Servo** (liv. 10, una tantum a personaggio). Se preferisci tenere Intervento Divino per la Resurrezione Sontuosa, resta sul **Sangue di Lathander**.
-> - **Quale scegliere:** Vita = gruppo più curato, Shadowheart in corazza pesante e Colpo Divino Radioso a ogni turno; Luce = molto più danno da sola (Palla di Fuoco + Splendore dell'Alba + trucchetti potenziati) e una reazione difensiva che vale per tutto il gruppo. Entrambe reggono a Tattico. La trama Shar/Selûne **non cambia in nessun caso**.
+> - **Quale scegliere:** Vita = gruppo più curato, Cuorescuro in corazza pesante e Colpo Divino Radioso a ogni turno; Luce = molto più danno da sola (Palla di Fuoco + Splendore dell'Alba + trucchetti potenziati) e una reazione difensiva che vale per tutto il gruppo. Entrambe reggono a Tattico. La trama Shar/Selûne **non cambia in nessun caso**.
 
 **📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 14 · DES 8 · COS 16 · INT 8 · SAG 16 · CAR 12** — bonus razziali **+2 Saggezza**, **+1 Costituzione**. La SAG regge cure, DC di Guardiani Spirituali e Fiamma Sacra: parte da 16 e arriva a **20** con gli ASI di liv. **8** e **12**. COS 16 tiene su la concentrazione; l'armatura pesante (Vita) rende la DES irrilevante (dumpala). FOR 14 basta al Colpo Divino con la mazza.
 > 🔆 **Nella variante Luce**: stessa priorità (SAG 16 → 20), ma **perdi la competenza in armatura pesante** → sposta i punti su **DES 14 / COS 14** per reggere la CA con l'armatura media.
@@ -347,11 +349,11 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 8 — Chierico 8 · **ASI**
 - **ASI → +2 Saggezza** (alza DC incantesimi e potenza cure). **Colpo Divino: Radioso** (Divine Strike): 1 volta/turno il tuo colpo con arma infligge danno **radioso** bonus.
-- 🎒🏆 **Sangue di Lathander** (*Blood of Lathander*, legendary, dalla cripta col puzzle alla Creche — *Tappa 12*, richiede la Cresta dell'Alba per non far esplodere il monastero; dà anche il trofeo **"Prendere Sangue"**): mazza leggendaria **perfetta per lei** — Bless d'area, Sunbeam gratis, e riporta in vita gli alleati che cadono. Diventa la sua arma per il resto del gioco.
+- 🎒🏆 **Sangue di Lathander** (*Blood of Lathander*, legendary, dalla cripta col puzzle alla Creche — *Tappa 12*, richiede la Cresta dell'Alba per non far esplodere il monastero; dà anche il trofeo **"Esigere il Sangue"**): mazza leggendaria **perfetta per lei** — Bless d'area, Sunbeam gratis, e riporta in vita gli alleati che cadono. Diventa la sua arma per il resto del gioco.
 
 ### Livello 9 — Chierico 9 (slot 5° liv.)
 - Dominio sempre preparati: **Restaurazione Superiore** (Greater Restoration) + **Cura Ferite di Massa** (Mass Cure Wounds). Prepara anche **Colpo di Fiamma** (Flame Strike, misto fuoco/radioso) se vuoi più danno d'area oltre a Guardiani Spirituali.
-- 🎒 **Atto 2.** BiS in arrivo: **Amuleto del Devoto** (*Amulet of the Devout*, +1 DC incantesimi Chierico + una carica extra di Canale Divino) — cerca in Atto 2, è uno dei migliori amuleti da chierico del gioco. **Anello di Riverbero/Orbo Radiante** (*Coruscation Ring*: quando colpisci in luce, applichi Orbo Radiante = -accuratezza al nemico) → sinergia perfetta con Guardiani Spirituali (colpisce ogni turno).
+- 🎒 **Atto 2.** ⚠️ **Correzione:** l'**Amuleto del Devoto** (*Amulet of the Devout*, **+2 alla CD di tutti i tuoi incantesimi** + una carica extra di Canalizza Divinità) **non è in Atto 2**: sta nel **forziere delle offerte nel sotterraneo del Tabernacolo di Rivatempestosa**, in **Atto 3** (Tappa 39 di quel file). ⚠️ Non prenderlo a mano dal forziere: applica la maledizione *Castigato dalla Divinità* — rompi il forziere, o butta prima l'oggetto a terra. Resta il miglior amuleto da chierico del gioco, ma arriva dopo. **Anello di Riverbero/Orbo Radiante** (*Coruscation Ring*: quando colpisci in luce, applichi Orbo Radiante = -accuratezza al nemico) → sinergia perfetta con Guardiani Spirituali (colpisce ogni turno).
 
 ### Livello 10 — Chierico 10
 - Trucchetti 4→**5**.
@@ -360,7 +362,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
   - **Generosità Dorata** (Golden Generosity): cassa di pozioni/rifornimenti.
   - **Resurrezione Sontuosa** (Opulent Revival): resuscita i caduti al 50% PF + cura tutti gli alleati in 18 m come dopo un riposo lungo — il "salva-partita".
   - **Spezza l'Eretico** (Sunder the Heretical): 8d10 radioso AoE (15 m), TS Saggezza per dimezzare — il "nuke".
-- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, ⚠️ **Atto 1**: baule elegante nelle **Camere dell'Inquisitore** alla Creche Y'llek — *Tappa 12*): con Guardiani Spirituali + Colpo Divino Radioso applichi **Riverbero** a ogni tick → i nemici cadono proni. **Stivali del Clamore Tempestoso** (*Boots of Stormy Clamour*, ⚠️ **Atto 1**: da **Omeluum** alla Colonia dei Miconidi — *Tappa 10*): altra fonte di Riverbero. Questo trio (Coruscation + Guanti + Stivali) rende Shadowheart una **macchina da controllo passivo**: sta ferma nella mischia e ogni turno accieca/rallenta/atterra chi la circonda.
+- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, ⚠️ **Atto 1**: baule elegante nelle **Camere dell'Inquisitore** alla Creche Y'llek — *Tappa 12*): con Guardiani Spirituali + Colpo Divino Radioso applichi **Riverbero** a ogni tick → i nemici cadono proni. **Stivali del Clamore Tempestoso** (*Boots of Stormy Clamour*, ⚠️ **Atto 1**: da **Omeluum** alla Colonia dei Miconidi — *Tappa 10*): altra fonte di Riverbero. Questo trio (Coruscation + Guanti + Stivali) rende Cuorescuro una **macchina da controllo passivo**: sta ferma nella mischia e ogni turno accieca/rallenta/atterra chi la circonda.
 
 ### Livello 11 — Chierico 11 (slot 6° liv.)
 - Prepara **Guarigione** (Heal): 70 PF secchi + cura cecità/sordità/malattia — la miglior cura d'emergenza singola. Alternativa: **Alleato Planare** (Planar Ally) per un evocato.
@@ -430,7 +432,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 8 — Barbaro 8 · **Talento**
 - **Talento → Grande Maestro d'Armi** (NON un 3° +2 FOR: con la **Clava della Forza dei Giganti** che fissa FOR a 19, un punto naturale sarebbe sprecato — meglio il +10 danno). -5 al colpire / +10 danno; Attacco Temerario dà il vantaggio che compensa il -5. *(Variante lanciatrice: qui prendi invece **Rissaiolo da Taverna** — vedi box a inizio sezione.)*
-- 🎒 **Clava della Forza dei Giganti** (*Hill Giant Club*, FOR fissa **19**, Torre Arcana nell'Underdark — *Tappa 10*): arma-chiave. È **contundente** → è **l'arma perfetta contro Grym** (*Tappa 11*, trofeo "Un fato Grym": colpiscilo di contundente nella finestra di vulnerabilità). Da qui la sua FOR è 19 a prescindere dagli ASI.
+- 🎒 **Clava della Forza dei Giganti** (*Hill Giant Club*, FOR fissa **19**, Torre Arcana nel Sottosuolo — *Tappa 10*): arma-chiave. È **contundente** → è **l'arma perfetta contro Grym** (*Tappa 11*, trofeo "Un Gramo Destino": colpiscilo di contundente nella finestra di vulnerabilità). Da qui la sua FOR è 19 a prescindere dagli ASI.
 
 ### Livello 9 — Barbaro 9
 - **Critico Brutale**: un dado di danno extra sui critici. ⚠️ Nel cartaceo scala ai liv.13/17 — con cap 12 **resta 1 dado extra**.
@@ -438,7 +440,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 10 — Barbaro 10
 - **Presenza Intimidatoria** (finalmente qui): azione, raggio 9 m, TS Saggezza vs la tua DC. Fallito → Spaventato 2 turni (svantaggio, deve fuggire). "Mantieni Presenza Intimidatoria" la prolunga senza ritirare.
-- 🎒 **Guanti della Forza del Gigante del Fuoco/Colline** NON servono (FOR già 19 dalla Clava): usa lo slot guanti per danno/critici. **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, Atto 2) applicano Riverbero sui suoi tanti colpi (se contundente/tuono) → nemici proni.
+- 🎒 **Guanti della Forza del Gigante del Fuoco/Colline** NON servono (FOR già 19 dalla Clava): usa lo slot guanti per danno/critici. **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, ⚠️ **Atto 1**: baule elegante nelle **Camere dell'Inquisitore** alla Creche Y'llek) applicano Riverbero sui suoi tanti colpi (se contundente/tuono) → nemici proni.
 
 ### Livello 11 — Barbaro 11
 - **Ira Implacabile**: se scendi a 0 PF in Furia, resti a 1 PF invece di cadere. ⚠️ In BG3 è **automatico, nessun TS, nessuna CD** (1 volta a riposo breve) — è pura sopravvivenza da frontliner.
@@ -449,7 +451,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 ### Livello 12 — Barbaro 12 · **Talento**
 - **Talento**: se Forza non è 20 (con la Clava resta 19: non completabile per via naturale utile) → **Robusto** (+24 PF a fine gioco, ottimo su chi incassa) oppure **Sentinella** (blocchi i nemici che colpisci — controllo del campo in coppia con Lae'zel).
 - Bonus: cariche Furia al massimo, **5/riposo lungo**.
-- 🎒 **Set endgame**: arma leggendaria (Nyrulna se lanciatrice / Giantslayer se mischia) · migliore armatura media o pesante che regga il suo stile · **Guanti dei Cieli Bellicosi** · anelli/amuleto di danno o PF · **Stivali di Velocità** (*Boots of Speed*, Underdark *Tappa 10*) o **Passeggiatori Notturni Disintegranti** (*Grymforge Tappa 11*) per arrivare sempre a bersaglio.
+- 🎒 **Set endgame**: arma leggendaria (Nyrulna se lanciatrice / Giantslayer se mischia) · migliore armatura media o pesante che regga il suo stile · **Guanti dei Cieli Bellicosi** · anelli/amuleto di danno o PF · **Stivali di Velocità** (*Boots of Speed*, Sottosuolo *Tappa 10*) o **Passeggiatori Notturni Disintegranti** (*Grymforge Tappa 11*) per arrivare sempre a bersaglio.
 
 ### ⚖️ Pregi e difetti — Barbaro Berserker
 
@@ -490,7 +492,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 6 — Mago 6
 - **Trucchetto Potenziato** (Potent Cantrip: se il bersaglio supera il TS contro un tuo trucchetto, subisce comunque **metà danno** — rende Dardo Infuocato/Raggio di Gelo affidabili). 2 incantesimi nuovi (slot resta 3°): **Fulmine** (Lightning Bolt, 2ª nuke d'area di Evocazione) + **Dissolvi Magie**.
-- 🎒 **Bacchetta della Benedizione Arcana** + armatura leggera **Sparkswall** (Torre Arcana, Underdark — *Tappa 10*): entrambe **pensate per Gale**. Sparkswall dà PF temporanei/protezione fulmine; la bacchetta aggiunge utilità difensiva. Se preferisci più CA, resta sui Bracciali della Difesa e tieni Sparkswall come alternativa.
+- 🎒 **Bacchetta della Benedizione Arcana** + armatura leggera **Sparkswall** (Torre Arcana, Sottosuolo — *Tappa 10*): entrambe **pensate per Gale**. Sparkswall dà PF temporanei/protezione fulmine; la bacchetta aggiunge utilità difensiva. Se preferisci più CA, resta sui Bracciali della Difesa e tieni Sparkswall come alternativa.
 
 ### Livello 7 — Mago 7
 - Slot → **4° livello**. 2 incantesimi nuovi: **Tentacoli Neri di Evard** (controllo d'area) + **Invisibilità Superiore**.
@@ -581,7 +583,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 5 — Ladro 5
 - **Schivata Prodigiosa** (dimezza automaticamente il danno di un attacco subito/turno). Attacco Furtivo → **3d6**.
-- 🎒 Cerca pugnali con danno bonus (fuoco/veleno). **Stivali di Velocità** (*Underdark, Tappa 10*) sono ottimi su di lui per posizionarsi e uscire dalla mischia.
+- 🎒 Cerca pugnali con danno bonus (fuoco/veleno). **Stivali di Velocità** (*Sottosuolo, Tappa 10*) sono ottimi su di lui per posizionarsi e uscire dalla mischia.
 
 ### Livello 6 — Ladro 6
 - 2ª **Competenza Raddoppiata** → **Percezione** + **Inganno**. ⚠️ Non Persuasione (l'Expertise raddoppia solo competenze già possedute, e Persuasione non è tra le sue base).
@@ -742,7 +744,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 
 ### Livello 8 — Guerriero 8 · **Talento**
 - **Talento → Grande Maestro d'Armi** (a FOR 20 un altro ASI sarebbe sprecato: meglio +10 danno). Compensa il -5 con **Attacco di Precisione**.
-- 🎒🏆 **Armatura Adamantina + Elmo Grymskull** (Grymforge, *Tappa 11*): **niente critici subiti** + riflesso del danno — la rende la prima linea più solida del gioco. (L'Elmo Grymskull cade uccidendo Grym; l'Adamantina si forgia — vedi trofei "Forgiato nel Sangue e nel Fuoco" e "Un fato Grym".) **Deve essere in gruppo** alla Creche (*Tappa 12*): è gith, apre dialoghi esclusivi.
+- 🎒🏆 **Armatura Adamantina + Elmo Grymskull** (Grymforge, *Tappa 11*): **niente critici subiti** + riflesso del danno — la rende la prima linea più solida del gioco. (L'Elmo Grymskull cade uccidendo Grym; l'Adamantina si forgia — vedi trofei "Forgiato nel Sangue e nel Fuoco" e "Un Gramo Destino".) **Deve essere in gruppo** alla Creche (*Tappa 12*): è gith, apre dialoghi esclusivi.
 
 ### Livello 9 — Guerriero 9
 - **Indomito**: rilanci un TS fallito, 1×/riposo **lungo**. ⚠️ Con cap 12 **resta 1 uso**.
@@ -750,7 +752,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 
 ### Livello 10 — Guerriero 10
 - **2 manovre nuove** (7 totali) + Dadi Superiorità **d8 → d10** (restano 5 dadi). Consigliate tra quelle non prese: **Attacco di Sgambetto** (Trip Attack: +danno + Prono su TS Forza fallito → Vantaggio a tutti i colpi seguenti contro di lui) e **Attacco Ampio** (Sweeping Attack: colpisci anche un secondo nemico adiacente — ottimo coi molti attacchi/turno del liv.11).
-- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, Atto 2): con i suoi tanti colpi applica **Riverbero** in serie → nemici proni. **Passeggiatori Notturni Disintegranti** (*Grymforge Tappa 11*) come stivali per mobilità.
+- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, ⚠️ **Atto 1**: baule elegante nelle **Camere dell'Inquisitore** alla Creche Y'llek): con i suoi tanti colpi applica **Riverbero** in serie → nemici proni. **Passeggiatori Notturni Disintegranti** (*Grymforge Tappa 11*) come stivali per mobilità.
 
 ### Livello 11 — Guerriero 11
 - **Attacco Extra Migliorato**: **3 attacchi/azione**. ⚠️ Confermato: legato al livello di CLASSE Guerriero → raggiungibile solo mono-classe entro il cap 12. Con Impeto: fino a **6 attacchi/turno** (7 se critichi con Grande Maestro d'Armi, che regala un attacco bonus).
@@ -787,7 +789,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 > 🎒 **KIT D'INGRESSO (quello che le metti addosso il giorno che entra, Atto 2)**
 > - **Scimitarra Silvana** (*Sylvan Scimitar*, +1) — ce l'ha già addosso. ⚠️ **Non venderla mai**: aggiunge il **modificatore da incantatore (Saggezza) sia al tiro per colpire sia al danno**. È il motivo per cui Jaheira non ha bisogno di un solo punto in Forza o Destrezza per menare le mani, e resta ottima fino alla fine.
 > - **Armatura di Seta di Ragno** (*Spidersilk Armour*, leggera, CA 12+DES): **vantaggio ai TS di Costituzione** = concentrazione blindata, +1 Furtività. La indossa **Minthara nell'Atto 1** → se l'hai stordita al Boschetto, saccheggiala da svenuta e mettila da parte per Jaheira. *(⚠️ Se il gioco non ti lascia saccheggiarla, nessun dramma: usa la migliore armatura media che hai — il druido non può portare metallo pesante comunque.)*
-> - **La Promessa Sussurrante** (Volo, Boschetto, poche monete): cura un alleato → gli dai **+1d4 a colpire e ai TS**. Jaheira cura spesso: su di lei vale quanto su Shadowheart.
+> - **La Promessa Sussurrante** (Volo, Boschetto, poche monete): cura un alleato → gli dai **+1d4 a colpire e ai TS**. Jaheira cura spesso: su di lei vale quanto su Cuorescuro.
 > - **Anello di Protezione** (Mol) o **Mantello di Protezione** (Talli, Ultima Luce ~200 mo) se sono ancora liberi: +1 CA e +1 a **tutti** i TS = concentrazione più sicura.
 > - Scudo: sì, il druido può usarlo (purché non metallico). Con la Scimitarra Silvana a una mano, scudo + armatura leggera è la sua configurazione naturale.
 
@@ -825,7 +827,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 ### Livello 5 — Druida 5
 - Slot di **3° liv.** · **Circolo #2 → Artico**: **Tempesta di Nevischio** + **Velocità**.
 - Prepara **Richiama Fulmine** (*Call Lightning*): lo lanci **una volta**, poi ogni turno richiami un fulmine **senza consumare slot** — il miglior rapporto danno/risorse del gioco a 3° livello. E **Crescita Vegetale** (*Plant Growth*: dimezza il movimento in un'area enorme, **nessun TS**) → sovrapposta a **Crescita di Spine** i nemici arrivano addosso al gruppo con metà PF, o non arrivano affatto.
-- 🎒 **Stivali di Velocità** (Underdark, *Tappa 10*) se nessun altro li usa: le servono per **uscire** dalle sue stesse aree di controllo.
+- 🎒 **Stivali di Velocità** (Sottosuolo, *Tappa 10*) se nessun altro li usa: le servono per **uscire** dalle sue stesse aree di controllo.
 
 ### Livello 6 — Druida 6
 - **Passo Naturale** (*Land's Stride*): il terreno difficile non la rallenta, e **non subisce danno dalle superfici di rovi**. ⚠️ È **questa** la feature che chiude la build: Jaheira può stare **dentro** la propria Crescita di Spine, in mezzo alla zona che sta massacrando i nemici, e concentrarsi indisturbata.
@@ -940,7 +942,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 
 ### Livello 10 — Paladino 10
 - **Aura del Coraggio**: lei e gli alleati entro 3 m **non possono essere Spaventati**.
-- 🎒 **Prendi adesso il set radioso**, perché dal prossimo livello scatta a ogni colpo: **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, Riverbero sui colpi radiosi) + **Anello di Riverbero** (*Coruscation Ring*, Orbo Radiante) + **Anello del Bagliore Impietoso** (*Callous Glow*). ⚠️ I Guanti sono contesi con Shadowheart e Lae'zel: se ne trovi una copia sola, la priorità resta a Shadowheart (Guardiani Spirituali fa più "tick" al turno).
+- 🎒 **Prendi adesso il set radioso**, perché dal prossimo livello scatta a ogni colpo: **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*, Riverbero sui colpi radiosi) + **Anello di Riverbero** (*Coruscation Ring*, Orbo Radiante) + **Anello del Bagliore Impietoso** (*Callous Glow*). ⚠️ I Guanti sono contesi con Cuorescuro e Lae'zel: se ne trovi una copia sola, la priorità resta a Cuorescuro (Guardiani Spirituali fa più "tick" al turno).
 
 ### Livello 11 — Paladino 11 ⭐ **il livello che la rende la punta del gruppo**
 - **Punizione Divina Migliorata**: **+1d8 radioso su ogni attacco in mischia**, senza consumare slot, per sempre.
@@ -1037,7 +1039,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 
 ### Livello 12 — Druido 12 · **ASI**
 - **ASI → +2 Saggezza** (**SAG 20**): alza le DC degli incantesimi che lanci fuori forma e la potenza di Cura Lunare.
-- 🎒 **Set endgame**: **Amuleto della Salute** (se non lo prendono Gale/Jaheira/il PG) · **Anello di Protezione** + **Anello di Riverbero** · **Mantello di Protezione** · **Cappello del Mutaforma** · **Armatura del Bagno di Luna**. ⚠️ **Bastone di Markoheshkir** e **Fortezza Ambulante di Viconia** sono **contesi** con Gale e Shadowheart: su Halsin rendono poco, perché si spengono appena si trasforma. **Lasciaglieli**.
+- 🎒 **Set endgame**: **Amuleto della Salute** (se non lo prendono Gale/Jaheira/il PG) · **Anello di Protezione** + **Anello di Riverbero** · **Mantello di Protezione** · **Cappello del Mutaforma** · **Armatura del Bagno di Luna**. ⚠️ **Bastone di Markoheshkir** e **Fortezza Ambulante di Viconia** sono **contesi** con Gale e Cuorescuro: su Halsin rendono poco, perché si spengono appena si trasforma. **Lasciaglieli**.
 
 ### ⚖️ Pregi e difetti — Halsin
 
@@ -1094,7 +1096,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 | **Testa** | **Elmo di Balduran** | Atto 3, drop di **Ansur** (Via del Wyrm) | ⚠️ contesa con Lae'zel/Karlach |
 | **Mantello** | **Mantello dell'Ammazzaombre** (*Shade-Slayer Cloak*: +critici quando sei nascosto) | Atto 3, da **Dondo l'Appiccicoso** alla Gilda dei Ladri | Libero — è **il** mantello dell'assassino |
 | **Torso** | **Armatura del Cammino Elusivo** (*Armour of Agility*) | Atto 3, **Armeria di Stormshore** | ⚠️ contesa con Astarion |
-| **Guanti** | **Eredità dei Maestri** (*Legacy of the Masters*: +2 ai tiri per colpire e al danno con le armi) | Atto 3, da **Dammon** alla **Fucina dei Nove** | Libero — e su chi tira 6 frecce a turno vale doppio |
+| **Guanti** | **Eredità dei Maestri** (*Legacy of the Masters*: +2 ai tiri per colpire e al danno con le armi) | Atto 3, da **Dammon** alla **Forgia dei Nove** | Libero — e su chi tira 6 frecce a turno vale doppio |
 | **Stivali** | **Stivali dell'Anticrepuscolo** (*Helldusk Boots*) | Atto 3, **Roccia del Wyrm**, cassa di Gortash | Libero |
 | **Anelli** | **Anello di Protezione** + **Anello del Bagliore Impietoso** | Atto 1 (Mol) / Atto 3 | ⚠️ Callous Glow conteso |
 | **Amuleto** | Un amuleto qualunque con +CA/+TS — oppure **Amuleto della Salute** se avanza | — | ⚠️ contesa pesante |
@@ -1124,11 +1126,11 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 |---|---|---|---|
 | **Anello di Protezione** (Ring of Protection) | **+1 CA e +1 a TUTTI i TS** | Atto 1, Boschetto: ricompensa di **Mol** per la quest "**Ruba l'Idolo Sacro**" (rubalo di nascosto: Furtività / Rapidità di Mano) | Ce n'è **uno**: dallo al più fragile o a chi deve tenere la concentrazione |
 | **Mantello di Protezione** (Cloak of Protection) | **+1 CA e +1 a tutti i TS** | Atto 2, da **Quartiermastro Talli** all'**Ultima Luce** (~200 mo) | Compralo appena arrivi: Talli può diventare inaccessibile più avanti |
-| **La Promessa Sussurrante** (The Whispering Promise) | quando **curi** un alleato, gli dai **+1d4 a colpire e ai TS** per 2 turni (= Benedizione gratis) | Atto 1, Boschetto: da **Volo** (e altri mercanti), poche monete | Non stacca con l'incantesimo Benedizione. Enorme su Shadowheart, o con Vincolo di Protezione / autocure |
+| **La Promessa Sussurrante** (The Whispering Promise) | quando **curi** un alleato, gli dai **+1d4 a colpire e ai TS** per 2 turni (= Benedizione gratis) | Atto 1, Boschetto: da **Volo** (e altri mercanti), poche monete | Non stacca con l'incantesimo Benedizione. Enorme su Cuorescuro, o con Vincolo di Protezione / autocure |
 | **Amuleto della Salute Superiore** (Amulet of Greater Health) | **fissa COS 23** (+PF e concentrazione blindata) | Atto 3, Archivio Casa della Speranza | Uno solo: al più fragile o a chi regge concentrazioni chiave (vedi Appendice) |
-| **Stivali di Velocità** (Boots of Speed) | raddoppia il movimento (azione per attivare) | Atto 1, Underdark | Mobilità universale per arrivare in mischia o disimpegnarsi |
+| **Stivali di Velocità** (Boots of Speed) | raddoppia il movimento (azione per attivare) | Atto 1, Sottosuolo | Mobilità universale per arrivare in mischia o disimpegnarsi |
 
-**Regola pratica:** già entro la fine dell'Atto 1 hai **Anello di Protezione** (Mol), **La Promessa Sussurrante** (Volo) e **Stivali di Velocità** (Underdark); in Atto 2 aggiungi il **Mantello di Protezione** (Talli). Questi riempiono gli slot in cui un personaggio non ha ancora un BiS dedicato e alzano la sopravvivenza dell'intero gruppo più di quanto sembri. Altri "moltiplicatori" universali già citati nelle sezioni: **Phalar Aluve** (aura Canto, -TS ai nemici), gli oggetti **Riverbero** (Guanti dei Cieli Bellicosi, Stivali del Clamore Tempestoso) e **Orbo Radiante** (Anello Coruscation, Callous Glow).
+**Regola pratica:** già entro la fine dell'Atto 1 hai **Anello di Protezione** (Mol), **La Promessa Sussurrante** (Volo) e **Stivali di Velocità** (Sottosuolo); in Atto 2 aggiungi il **Mantello di Protezione** (Talli). Questi riempiono gli slot in cui un personaggio non ha ancora un BiS dedicato e alzano la sopravvivenza dell'intero gruppo più di quanto sembri. Altri "moltiplicatori" universali già citati nelle sezioni: **Phalar Aluve** (aura Canto, -TS ai nemici), gli oggetti **Riverbero** (Guanti dei Cieli Bellicosi, Stivali del Clamore Tempestoso) e **Orbo Radiante** (Anello Coruscation, Callous Glow).
 
 ---
 
@@ -1137,7 +1139,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 | PG | Atto 1 (verificato) | Atto 2-3 (BiS, da verificare in gioco) |
 |---|---|---|
 | **Protagonista** | Lama Semprardente → Phalar Aluve; Scudo Protettivo | Helldusk Armour; Amuleto della Salute; Guanti dei Cieli Bellicosi; Callous Glow; Mantello della Trama |
-| **Shadowheart** | Sangue di Lathander; armatura pesante | Amuleto del Devoto; Coruscation Ring; Guanti dei Cieli Bellicosi; Stivali del Clamore Tempestoso |
+| **Cuorescuro** | Sangue di Lathander; armatura pesante | Amuleto del Devoto; Coruscation Ring; Guanti dei Cieli Bellicosi; Stivali del Clamore Tempestoso |
 | **Karlach** | Clava della Forza dei Giganti (FOR 19) | Nyrulna (lanciatrice) o Balduran's Giantslayer; Guanti dei Cieli Bellicosi; Stivali di Velocità |
 | **Gale** | Bracciali della Difesa; Sparkswall + Bacchetta Benedizione Arcana | Bastone di Markoheshkir; Amuleto della Salute; Roba dell'Arcimago; Spellmight |
 | **Astarion** | Guanti di Destrezza (finché DES<20); Passeggiatori Notturni | Malizia Cremisi + Sete di Sangue; Armour of Agility; Mantello dello Spostamento |
@@ -1154,17 +1156,17 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 > - **Armatura di Seta di Ragno** (di Minthara): lei non la userà mai (va in corazza pesante) → **Jaheira** o **Gale**, per il vantaggio ai TS di Costituzione.
 > - **Armatura del Cammino Elusivo** (*Armour of Agility*): **Astarion** (build a pugnali) *oppure* **Minsc**. Uno solo.
 > - **Elmo di Balduran** (drop di Ansur): **Lae'zel**, **Karlach** o **Minsc** — di norma a chi sta in prima linea.
-> - **Bastone di Markoheshkir** e **Fortezza Ambulante di Viconia**: ⚠️ **non darli a Halsin**, si spengono in Forma Selvatica. Restano a **Gale** e **Shadowheart**.
+> - **Bastone di Markoheshkir** e **Fortezza Ambulante di Viconia**: ⚠️ **non darli a Halsin**, si spengono in Forma Selvatica. Restano a **Gale** e **Cuorescuro**.
 > - **Pezzi che non contende nessuno** (mettili senza pensarci): **Gontr Mael**, **Eredità dei Maestri**, **Mantello dell'Ammazzaombre**, **Stivali dell'Anticrepuscolo** → **Minsc** · **Il Diritto di Nascita** → **Minthara** · **Scimitarra Silvana** → **Jaheira**.
 > - **Balduran's Giantslayer**: **Karlach** (mischia) *oppure* **Lae'zel** *oppure* il **Protagonista** se punti STR. Lae'zel ha già la sua Spada d'Argento tematica, quindi di norma va a **Karlach**.
 > - **Bastone di Markoheshkir**: **Gale** ha la priorità (Evocazione Potenziata); Wyll come seconda scelta.
-> - **Guanti dei Cieli Bellicosi**: ottimi su qualunque colpitore radioso/tonante ad alta frequenza → **Shadowheart**, **Lae'zel** o **Karlach**. Prendine più copie se il gioco lo permette, altrimenti priorità a Shadowheart (Guardiani Spirituali fa più tick).
+> - **Guanti dei Cieli Bellicosi**: ottimi su qualunque colpitore radioso/tonante ad alta frequenza → **Cuorescuro**, **Lae'zel** o **Karlach**. Prendine più copie se il gioco lo permette, altrimenti priorità a Cuorescuro (Guardiani Spirituali fa più tick).
 
 ---
 
 ## 🗺️ APPENDICE — Posizioni Atto 2-3 verificate (dalla run provata)
 
-> Queste posizioni vengono da una run **completata** (party: barbaro protagonista, Astarion, Shadowheart, Lae'zel, Gale) e sono affidabili. Gli slot valgono per chiunque nel tuo gruppo occupi quel ruolo (es. "il barbaro" della run corrisponde a **Karlach** qui). I nomi oggetto sono verificati; per le build principali di questa guida (Astarion pugnali, Shadowheart Vita) vale l'equip già indicato nelle rispettive sezioni — questa appendice aggiunge **posizioni esatte** e i pezzi delle varianti.
+> Queste posizioni vengono da una run **completata** (party: barbaro protagonista, Astarion, Cuorescuro, Lae'zel, Gale) e sono affidabili. Gli slot valgono per chiunque nel tuo gruppo occupi quel ruolo (es. "il barbaro" della run corrisponde a **Karlach** qui). I nomi oggetto sono verificati; per le build principali di questa guida (Astarion pugnali, Cuorescuro Vita) vale l'equip già indicato nelle rispettive sezioni — questa appendice aggiunge **posizioni esatte** e i pezzi delle varianti.
 
 ### Hub principali (Atto 3, Baldur's Gate)
 - **Casa della Speranza** (House of Hope): si entra da **"The Devil's Fee"** (Città Bassa) parlando con **Helsik**. Boss: **Raphael** (durissimo — salva prima, porta pozioni di velocità). Sconfiggerlo dà l'**Armatura Infernale** (Helldusk) senza patti, coerente con la run buona.
@@ -1195,13 +1197,13 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 - Elmo: **Elmo dell'Anticrepuscolo** (niente critici subiti, +2 TS vs incantesimi, vedi nell'oscurità magica) — nella **Volta di Raphael**, di fronte all'ingresso del Boudoir, in un cumulo di tesori (servono due prove superate)
 - Guanti: **Guanti dell'Anticrepuscolo** — ⚠️ li **indossa Haarlep**: o lo sconfiggi, o glieli **borseggi**. Non compaiono in nessun baule (vedi sopra)
 - Arma: **Spada d'Argento del Piano Astrale** — da Voss (quest dell'Orfico)
-- Stivali: **Stivali della Persistenza** (Libertà di Movimento + Passo Lungo permanenti) — ⚠️ **non** da Danthelon: si comprano da **Dammon alla Fucina dei Nove**, Città Bassa (~1300 mo)
+- Stivali: **Stivali della Persistenza** (Libertà di Movimento + Passo Lungo permanenti) — ⚠️ **non** da Danthelon: si comprano da **Dammon alla Forgia dei Nove**, Città Bassa (~1300 mo)
 
-**Shadowheart:**
+**Cuorescuro:**
 - Scudo: **Fortezza Ambulante di Viconia** — drop di Viconia (quest "Casa del Dolore")
 - Arma: **Sangue di Lathander** (Dominio Vita) · **Mazza del Devoto** (Devotee's Mace, per la variante Luce) — ⚠️ **non si trova da nessuna parte**: si ottiene **solo** con **Intervento Divino → Arma del Servo** (Chierico liv. 10)
 - Guanti: **Guanti dei Cieli Bellicosi** — ⚠️ **Atto 1**, Creche Y'llek: baule elegante nelle **Camere dell'Inquisitore** (parete sud, lato ovest)
-- Stivali: **Stivali del Clamore Tempestoso** — ⚠️ **Atto 1**, da **Omeluum** alla Colonia dei Miconidi (Underdark)
+- Stivali: **Stivali del Clamore Tempestoso** — ⚠️ **Atto 1**, da **Omeluum** alla Colonia dei Miconidi (Sottosuolo)
 
 **Gale:**
 - Arma: **Markoheshkir** — cima della Torre di Ramazith (portale in Sorcerous Sundries, passaggio dietro le librerie)
@@ -1218,7 +1220,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 **Minthara:**
 - Armatura: migliore corazza pesante libera — **Corazza Adamantina** (Grymforge) o **Armatura Infernale** se non la usano PG/Lae'zel
 - Testa: **Il Diritto di Nascita** (+2 CAR, max 22) — ~1025 mo alla **Sorcerous Sundries**, piano terra
-- Guanti: **Guanti dei Cieli Bellicosi** — Atto 1, Camere dell'Inquisitore alla Creche Y'llek (se non li prende Shadowheart)
+- Guanti: **Guanti dei Cieli Bellicosi** — Atto 1, Camere dell'Inquisitore alla Creche Y'llek (se non li prende Cuorescuro)
 - Anelli: **Anello di Riverbero** + **Anello del Bagliore Impietoso**
 - Statistica permanente: **Specchio della Perdita** (+2 CAR) nel **Chiostro del Cupo Abbraccio**, Atto 3 (Tappa 37) — ❌ **non** nel Guanto di Shar in Atto 2. Serve solo che l'abbia reclutata e che sia in squadra quando ci vai
 
@@ -1226,16 +1228,16 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 1. Sorcerous Sundries + Torre di Ramazith (Gale)
 2. Casa della Speranza (Lae'zel + barbaro, quasi completi)
 3. Via del Wyrm (armi finali)
-4. Casa del Dolore (quest Shadowheart + scudo)
+4. Casa del Dolore (quest Cuorescuro + scudo)
 
 ---
 
 ## 🏆 NOTE TROFEI LEGATI ALLE BUILD (promemoria rapido)
 
-- **"Solo un morsetto"** (Astarion): al campo, lascialo mordere senza minacciarlo. Nessun impatto di build.
-- **"Un fato Grym"** (Karlach/Lae'zel): colpisci Grym con **contundente** (la Clava della Forza dei Giganti è perfetta) nella finestra di vulnerabilità — **non** schiacciarlo col maglio.
+- **"Solo un Morsino"** (Astarion): al campo, lascialo mordere senza minacciarlo. Nessun impatto di build.
+- **"Un Gramo Destino"** (Karlach/Lae'zel): colpisci Grym con **contundente** (la Clava della Forza dei Giganti è perfetta) nella finestra di vulnerabilità — **non** schiacciarlo col maglio.
 - **"Forgiato nel Sangue e nel Fuoco"**: forgia il primo oggetto Adamantino (Lae'zel/Karlach ne beneficiano).
-- **"Prendere Sangue"** (Shadowheart): stacca il **Sangue di Lathander** avendo la **Cresta dell'Alba** in tasca (niente autodistruzione).
+- **"Esigere il Sangue"** (Cuorescuro): stacca il **Sangue di Lathander** avendo la **Cresta dell'Alba** in tasca (niente autodistruzione).
 - **"Non C'è Gabbia Che Tenga!" / reclutamento di Minthara** (run buona): stordiscila al Boschetto con un **attacco in mischia non letale** (mai incantesimi o a distanza) → la trovi nella prigione delle **Torri dell'Alba Lunare** in Atto 2. Salvi il Boschetto **e** guadagni la paladina.
 - Dettagli operativi completi e posizioni: `roadmap_atto1_run_buona.md` (Atto 1), `roadmap_atto2_run_buona.md` (Atto 2).
 
