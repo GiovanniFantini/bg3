@@ -10,7 +10,7 @@
 - [0-BIS. Regole d'oro dell'Atto 2](#0-bis-regole-doro-dellatto-2)
 - [0-TER. ⛔ I 3 blocchi permanenti da evitare](#0-ter--i-3-blocchi-permanenti-da-evitare-il-cuore-di-questa-guida)
 - [0-QUATER. 📈 Progressione livelli 8 → 11](#0-quater--progressione-livelli-8--11-tutto-il-gruppo)
-- [0-QUINQUIES. 🧾 Correzioni ai file precedenti](#0-quinquies--correzioni-ai-file-precedenti-nomi-ufficiali-verificati)
+- [0-QUINQUIES. ⚠️ Ultimi recuperi dall'Atto 1](#0-quinquies-️-ultimi-recuperi-dallatto-1-finestra-aperta-fino-alla-tappa-23)
 - [0-SEXIES. 🔬 Studio approfondito — i compagni nell'Atto 2](#0-sexies--studio-approfondito--i-compagni-nellatto-2)
 - [🌑 La Maledizione dell'Ombra — come funziona davvero](#-la-maledizione-dellombra--come-funziona-davvero)
 - [🗺️ La mappa dell'Atto 2 in sette schermate](#️-la-mappa-dellatto-2-in-sette-schermate)
@@ -104,7 +104,7 @@ Tre errori banali cancellano per sempre una linea narrativa di un compagno. Segn
 
 Nell'Atto 2 si passa da **livello 8** a **livello 9-10**.
 
-⚠️ **Correzione:** una versione precedente di questa riga diceva che l'**11** si tocca "con Ketheric o pochi passi dopo". Non è così: **l'11 non arriva nell'Atto 2**. Anche facendo *tutto* (Atto 1 completo, Sottosuolo, Grymforge, Nursery, e qui Gran Mausoleo compreso) si entra nell'Atto 3 a **livello 9, al massimo 10**; l'11 arriva nelle prime missioni della Città Bassa. **Arrivare a Rivington a livello 9 è la curva normale del gioco, non un segno che hai saltato qualcosa.**
+⚠️ **L'11 non arriva nell'Atto 2.** Anche facendo *tutto* (Atto 1 completo, Sottosuolo, Grymforge, Nursery, e qui Gran Mausoleo compreso) si entra nell'Atto 3 a **livello 9, al massimo 10**; l'11 arriva nelle prime missioni della Città Bassa. **Arrivare a Rivington a livello 9 è la curva normale del gioco, non un segno che hai saltato qualcosa.**
 
 La tabella qui sotto copre comunque anche il livello 11, così la trovi già pronta quando ci arrivi in Atto 3. Dettagli completi in `build_completa_livello_1-12.md`.
 
@@ -123,32 +123,13 @@ La tabella qui sotto copre comunque anche il livello 11, così la trovi già pro
 
 ---
 
-## 0-QUINQUIES. 🧾 CORREZIONI AI FILE PRECEDENTI (nomi ufficiali verificati)
+## 0-QUINQUIES. ⚠️ ULTIMI RECUPERI DALL'ATTO 1 (finestra aperta fino alla Tappa 23)
 
-Ho recuperato la **lista trofei PSN italiana ufficiale**: alcuni nomi che avevo usato nell'Atto 1 erano traduzioni mie, non le diciture a schermo. Ecco le correzioni (il requisito non cambia, solo il nome):
+Finché non superi la **Tappa 23** puoi ancora tornare nelle mappe dell'Atto 1: è l'ultima occasione per queste tre cose, tutte facili da mancare.
 
-| Nel file Atto 1 (errato) | Nome ufficiale italiano |
-|---|---|
-| "La trama si infittisce" | **La Situazione si Complica** |
-| "Solo un morsetto" | **Solo un Morsino** |
-| "Gioco del Riporto" | **Obiettivo Riporto** |
-| "Un fato Grym" | **Un Gramo Destino** |
-| "Prendere Sangue" | **Esigere il Sangue** |
-| "Non lasciare nessuno indietro" | **Nessuno Rimane Indietro** |
-| "Non può essere ingabbiata!" | **Non C'è Gabbia Che Tenga!** |
-| "Torri di Moonrise" | **Torri dell'Alba Lunare** |
-| Shadowheart | **Cuorescuro** (nome italiano ufficiale; a schermo la trovi così) |
-| Scratch | **Graffio** |
-
-> ✅ **Applicate il 4 settembre 2026.** Tutte le correzioni di nome qui sopra sono state **riportate direttamente** nel file `roadmap_atto1_run_buona.md` e in `build_completa_livello_1-12.md`: quei due file ora usano già i nomi ufficiali (**Cuorescuro**, **Graffio**, **Torri dell'Alba Lunare** e le sette diciture dei trofei). Questa tabella resta come storico di cosa è cambiato.
-
-⚠️ **Due segnalazioni su oggetti** (verificate, correggono `build_completa_livello_1-12.md`):
-- **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*) **NON** si comprano in Atto 2 da Talli: sono in **Atto 1**, nel **Baule Elegante** delle **Camere dell'Inquisitore** alla **Creche Y'llek**. Se hai svuotato quelle stanze come da checklist Atto 1, ce li hai già; altrimenti sono persi.
-- **Stivali del Clamore Tempestoso** (*Boots of Stormy Clamour*): **Atto 1**, venduti da **Omeluum** alla Colonia dei Miconidi. **Amuleto del Devoto**: è in **Atto 3** (sotterraneo del Tabernacolo di Stormshore), non in Atto 2.
-
-> ✅ **Anche queste due segnalazioni sono state applicate** in `build_completa_livello_1-12.md` il 4 settembre 2026 (i Guanti risultavano "Atto 2" in tre punti su quattro, e l'Amuleto del Devoto era dato in Atto 2 con +1 alla CD invece che in Atto 3 con **+2**).
-
-⚠️ **Trofeo dell'Atto 1 facile da aver mancato:** **Disinfestazione** — *"Uccidi la matriarca dei ragni prima che le sue uova si schiudano"* (Matriarca dei Ragni delle Fasi, **Profondità Sussurranti**, Tappa 5). ✅ **Ora è elencato** anche nella guida dell'Atto 1 (tabella dei trofei + strategia alla Tappa 5): la vecchia versione non lo aveva. Se non l'hai preso e hai ancora accesso all'Atto 1 (**cioè prima della Tappa 23**), tornaci: è l'ultima finestra utile.
+- 🏆 **Disinfestazione** — *"Uccidi la matriarca dei ragni prima che le sue uova si schiudano"* (Matriarca dei Ragni delle Fasi, **Profondità Sussurranti**, Tappa 5 dell'Atto 1).
+- 🎒 **Guanti dei Cieli Bellicosi** (*Gloves of Belligerent Skies*) — **Baule Elegante** nelle **Camere dell'Inquisitore** alla **Creche Y'llek** (Tappa 12 dell'Atto 1). **Non** si comprano in Atto 2 da Talli: se hai svuotato quelle stanze ce li hai già, altrimenti sono lì.
+- 🎒 **Stivali del Clamore Tempestoso** (*Boots of Stormy Clamour*) — venduti da **Omeluum** alla **Colonia dei Miconidi** (Sottosuolo).
 
 ---
 
@@ -274,7 +255,7 @@ Serve per orientarsi: l'Atto 2 è una mappa unica, ma si legge come sette blocch
 
 Per controllare a colpo d'occhio di non aver dimenticato nulla.
 
-> ✅ **Verifica del 4 settembre 2026.** Questo elenco è stato ricontrollato contro la lista completa delle missioni dell'Atto 2 su **bg3.wiki** (pagina *Act Two* + le singole pagine di missione): **non manca nulla e l'ordine delle tappe 13 → 26 è corretto**. Tutte e quattordici le secondarie ufficiali sono qui sopra, comprese *Punire i Malvagi*, *Indagare sulla Resistenza Selunita* e *Decidere il Destino di Minthara*; *Salvare il Gran Duca* e *Trovare Mol* restano correttamente aperte per l'Atto 3.
+> ✅ **Elenco completo** (fonte: **bg3.wiki**, pagina *Act Two* + le singole pagine di missione). Ci sono tutte e quattordici le secondarie ufficiali, comprese *Punire i Malvagi*, *Indagare sulla Resistenza Selunita* e *Decidere il Destino di Minthara*; *Salvare il Gran Duca* e *Trovare Mol* restano correttamente aperte per l'Atto 3.
 
 **Trama principale — *Infiltrarsi nelle Torri dell'Alba Lunare*** (contenitore di tutte le altre)
 | Missione | Esito nella run buona | Tappa |
@@ -434,7 +415,7 @@ L'Atto 2 punisce chi combatte come nell'Atto 1. Cinque regole che valgono ovunqu
 | **Botte da Orbi** | Uccidi un nemico a mani nude: qualsiasi shadow ferito |
 | **Giocatore di Ruolo** | 10 obiettivi di background: l'Atto 2 ne regala tantissimi (vedi i box "ispirazione" nelle tappe) |
 
-> ❌ **Correzione del 4 settembre 2026 — *Mente Sconvolgente* è compatibile con questa run.** Qui era scritto che richiedeva di usare massicciamente i girini, di accettare la trasformazione parziale in illithid e di **chiudere la romance con un compagno**: è falso. Servono **due sole cose**: aver **ripulito e osservato il vecchio nascondiglio dell'Imperatore** (cantina della Taverna del Canto Elfico, Atto 3) ed essere stato **cordiale con lui** nei dialoghi; poi la scena arriva a un riposo lungo dell'Atto 3. **Non richiede girini né ceremorfosi, e non rompe la romance in corso** (tre compagni sbirciano, ma nessuno te ne fa una colpa). → si prende, e infatti nel file dell'Atto 3 è alla **Tappa 47**.
+> ✅ ***Mente Sconvolgente* è compatibile con questa run** — non richiede né di usare massicciamente i girini, né la trasformazione parziale in illithid, né di chiudere una romance. Servono **due sole cose**: aver **ripulito e osservato il vecchio nascondiglio dell'Imperatore** (cantina della Taverna del Canto Elfico, Atto 3) ed essere stato **cordiale con lui** nei dialoghi; poi la scena arriva a un riposo lungo dell'Atto 3. **Non richiede girini né ceremorfosi, e non rompe la romance in corso** (tre compagni sbirciano, ma nessuno te ne fa una colpa). → si prende, e infatti nel file dell'Atto 3 è alla **Tappa 47**.
 
 **Trofei NON compatibili con questa run (per scelta, non per errore):**
 - **Il Potere Assoluto Corrompe / Le Colpe del Padre / Ceremorfosi** — finali malvagi o sacrificali. Il tuo finale è **Eroe dei Reami Dimenticati**.
@@ -475,7 +456,7 @@ L'Atto 2 punisce chi combatte come nell'Atto 1. Cinque regole che valgono ovunqu
    - *La via alternativa (allearsi con Kar'niss e tradire gli Arpisti) è la scelta malvagia: peggiora il rapporto con Jaheira e i Arpisti. **Non farla.***
 3. Raccogli la **Lanterna Lunare** dal cadavere di Kar'niss, poi **ispezionala**: dentro c'è una pixie prigioniera, **Dolly Dolly Dolly**.
 
-> ✅ **VARIANTE FREQUENTE — "la lanterna se la sono presa gli Arpisti"** *(verificato agosto 2026)*
+> ✅ **VARIANTE FREQUENTE — "la lanterna se la sono presa gli Arpisti"**
 > Dopo l'imboscata capita spesso che sia un **Arpista** a raccogliere la Lanterna Lunare al posto tuo. **Non hai perso niente**: la portano alla **Locanda dell'Ultima Luce** e **te la consegna Isobel** (Tappa 15), **con Dolly Dolly Dolly ancora viva dentro**. La Benedizione della Pixie resta pienamente ottenibile — salti solo i punti 3-4 qui e li fai lì.
 > - ⚠️ Condizione: **non rendere Jaheira/gli Arpisti ostili** all'ingresso della Locanda, e **Isobel deve sopravvivere** all'assalto di Marcus. Se la Locanda cade, cade anche la lanterna.
 > - Nel frattempo, per arrivare alla Locanda ti bastano il trucchetto **Luce** / una torcia e la strada illuminata: il tratto è breve.
@@ -551,7 +532,7 @@ L'Atto 2 punisce chi combatte come nell'Atto 1. Cinque regole che valgono ovunqu
    - **Perché non usarla:** 5.000 monete sono una fortuna a livello 9, e in questa run ti servono per la spesa da Talli/Lann Tarv/Araj. E soprattutto **non risolve il trofeo meglio delle prove verbali**. Convincila e basta.
 
 🎒 Loot: **Colpo di Fortuna** (Twist of Fortune), **Scudo di Vite Ferrose**, **Guanti del Potere del Mago da Battaglia**, **Cuore di Fuoco** (Fireheart), **Moneta d'Anima**, **Visto Commerciale**.
-🔑 **Le tre chiavi — NON sono tutte sul suo corpo** *(verificato agosto 2026, correzione)*:
+🔑 **Le tre chiavi — NON sono tutte sul suo corpo**:
 
 | Chiave | Dove si trova | Bypass |
 |---|---|---|
@@ -589,7 +570,7 @@ Con un ladro decente (Astarion) puoi saltare entrambe le chiavi secondarie, ma *
 5. Parla con **Suor Lidwin** e **Sinda** prima: ci sono dialoghi e informazioni sul liuto/Art Cullagh.
 6. Esplora l'**OBITORIO** (*House of Healing – Morgue*). ⚠️ **Falla DOPO aver sistemato Malus a parole**: se parte il combattimento in sala operatoria, il trofeo è perso.
 
-   **📍 DOVE SI ENTRA — è la cosa più facile da non trovare di tutta Reithwin** *(verificato agosto 2026)*
+   **📍 DOVE SI ENTRA — è la cosa più facile da non trovare di tutta Reithwin**
    L'obitorio **non è dentro la Casa di Guarigione**: è una **mappa a sé sotto Reithwin** (quando entri cambia la minimappa e compare come località separata). Ha **due ingressi**.
 
    **✅ Ingresso ovest — quello consigliato:**
@@ -801,7 +782,7 @@ Ti servono **4 Gemme Umbratili** per raggiungere la Coltre Oscura: **3 dalle Pro
 
 **2️⃣ Prova dello Specchio** (*Self-Same Trial*) — combattimento
 - Compare una **copia d'ombra di OGNI personaggio attivo**, con le tue stesse statistiche, incantesimi e slot.
-- ⚠️⚠️ **LA REGOLA CHE CONTA: ognuno deve uccidere la PROPRIA copia.** La prova finisce quando tutti i riflessi sono caduti. *(Correzione: non esiste nessun "percorso dorato" qui — quello è il mosaico della Prova del Salto della Fede.)*
+- ⚠️⚠️ **LA REGOLA CHE CONTA: ognuno deve uccidere la PROPRIA copia.** La prova finisce quando tutti i riflessi sono caduti. *(Qui non esiste nessun "percorso dorato": quello è il mosaico della Prova del Salto della Fede.)*
 - 📏 **"Follia del Baro" (*Cheater's Folly*) — come funziona davvero:** scatta **solo se colpisci il riflesso di un altro con un TIRO PER COLPIRE**, e dà **-1 a TUTTE le caratteristiche** per ogni colpo sbagliato, **fino a 4 accumuli**. Due conseguenze pratiche:
   - ✅ **Gli incantesimi a tiro salvezza NON la fanno scattare**: Gale può lanciare **Palla di Fuoco / Tempesta di Ghiaccio / Dardo Incantato** su **qualsiasi** riflesso senza penalità (con Incantesimi Modellati i tuoi PG veri restano illesi). ❌ Invece **Dardo Infuocato, Raggio di Gelo, Raggio Rovente** sono tiri per colpire → solo sul proprio clone.
   - ✅ **Ucciso il proprio riflesso, quel personaggio è libero** di attaccare tutti gli altri senza penalità → abbatti prima i cloni fragili coi rispettivi originali, poi convergete sul resto.
@@ -815,7 +796,7 @@ Ti servono **4 Gemme Umbratili** per raggiungere la Coltre Oscura: **3 dalle Pro
 - ⭐ **Il percorso sicuro è DISEGNATO NEL MOSAICO DEL PAVIMENTO** della sala: guardalo prima di partire, è l'indizio ufficiale.
 - ✅ **Hai tre errori concessi**: sono le **tre luci blu**; al terzo passo falso muori (in Modalità Onore basta un errore). Quindi non è "cadere = morte" al primo sbaglio, ma non giocarci.
 - 🥇 **Il metodo più affidabile:** **lancia oggetti** in avanti (le **lanterne** della stanza sono perfette, ma va bene qualsiasi cianfrusaglia). Quelle che **atterrano** segnano una piastrella solida; quelle che cadono nel vuoto no. Costruisciti la mappa a colpi di oggetti e poi cammina **piastrella per piastrella**. Il percorso **serpeggia verso il centro della stanza** prima di puntare al piedistallo finale; sull'ultimo cerchio devi **saltare** per atterrare sul piedistallo.
-- ✅ **Correzione importante: si può bypassare del tutto, e non è barare.** **Volo**, **Passo Nebbioso** e **Porta Dimensionale** funzionano e **la prova risulta comunque superata**. Se hai un incantatore con Passo Nebbioso, usalo: ti risparmi il rischio.
+- ✅ **Si può bypassare del tutto, e non è barare.** **Volo**, **Passo Nebbioso** e **Porta Dimensionale** funzionano e **la prova risulta comunque superata**. Se hai un incantatore con Passo Nebbioso, usalo: ti risparmi il rischio.
 - **Manda avanti UN SOLO personaggio.** Non serve tutto il gruppo dall'altra parte: uno prende la gemma e basta.
 
 **4️⃣ La quarta gemma — Yurgir** → vedi 22.4.
@@ -952,7 +933,7 @@ Dentro la Coltre Oscura trovi il **Canto Notturno**: non è un artefatto, è **D
    - 🎒 Ricompensa: **Stocco Infernale** (*Infernal Rapier*) — **solo se Wyll è in gruppo**.
    - ❌ **"Annientarla"** o **ignorare il baccello** = **Mizora muore = Wyll trascinato all'Averno come lemure** (clausola Z § 13 del contratto), **perso per sempre.** Ignorare conta come uccidere.
 
-> ⚠️ **IL PATTO NON SI DECIDE QUI — rimando all'Atto 3** *(verificato agosto 2026)*
+> ⚠️ **IL PATTO NON SI DECIDE QUI — rimando all'Atto 3**
 > La negoziazione della Tappa 25 è solo una promessa. La scelta vera arriva in **Atto 3**: Mizora si presenta **al campo con arbitri infernali** e mette Wyll davanti a un ultimatum sul **Duca Ulder Ravengard**, suo padre.
 > - **Rompere il patto subito** → Wyll è libero, ma **sacrifica il padre**, e **perde i poteri infernali**.
 > - ✅ **Accettare il vincolo** → il padre si salva e Wyll resta la **Lama dell'Averno** (*Blade of Avernus*).
@@ -1171,9 +1152,9 @@ Scontro diretto nella grande sala. Se l'hai fatto pentire sul tetto con la lette
 
 ## 📚 FONTI
 
-Ricerca svolta ad agosto 2026. Fonti principali:
+Fonti principali:
 
-- **Correzioni e aggiunte verificate il 6 agosto 2026** (chiavi della Casa del Pedaggio · lanterna presa dagli Arpisti → Isobel · patto di Wyll in Atto 3 · ingressi dell'obitorio): [bg3.wiki — Reithwin Tollhouse](https://bg3.wiki/wiki/Reithwin_Tollhouse) · [bg3.wiki — Tollhouse Master's Office Key](https://bg3.wiki/wiki/Tollhouse_Master%27s_Office_Key) · [EIP Gaming — Reithwin Tollhouse](https://eip.gg/bg3/guides/reithwin-tollhouse/) · [bg3.wiki — Moonlantern](https://bg3.wiki/wiki/Moonlantern) · [bg3.wiki — Mizora](https://bg3.wiki/wiki/Mizora) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [GameRant — How to Break Wyll's Pact](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [bg3.wiki — House of Healing](https://bg3.wiki/wiki/House_of_Healing) · [Fextralife — Morgue](https://baldursgate3.wiki.fextralife.com/Morgue) · [TheGamer — House of Healing Morgue walkthrough](https://www.thegamer.com/baldurs-gate-3-bg3-house-of-healing-morgue-dungeon-walkthrough-guide/)
+- **Chiavi della Casa del Pedaggio · lanterna presa dagli Arpisti → Isobel · patto di Wyll in Atto 3 · ingressi dell'obitorio**: [bg3.wiki — Reithwin Tollhouse](https://bg3.wiki/wiki/Reithwin_Tollhouse) · [bg3.wiki — Tollhouse Master's Office Key](https://bg3.wiki/wiki/Tollhouse_Master%27s_Office_Key) · [EIP Gaming — Reithwin Tollhouse](https://eip.gg/bg3/guides/reithwin-tollhouse/) · [bg3.wiki — Moonlantern](https://bg3.wiki/wiki/Moonlantern) · [bg3.wiki — Mizora](https://bg3.wiki/wiki/Mizora) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [GameRant — How to Break Wyll's Pact](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [bg3.wiki — House of Healing](https://bg3.wiki/wiki/House_of_Healing) · [Fextralife — Morgue](https://baldursgate3.wiki.fextralife.com/Morgue) · [TheGamer — House of Healing Morgue walkthrough](https://www.thegamer.com/baldurs-gate-3-bg3-house-of-healing-morgue-dungeon-walkthrough-guide/)
 
 - [bg3.wiki — Act Two](https://bg3.wiki/wiki/Act_Two) · [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar) · [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers) · [Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison) · [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony) · [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) · [Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town) · [Ketheric Thorm](https://bg3.wiki/wiki/Ketheric_Thorm)
 - [bg3.wiki — Lift the Shadow Curse](https://bg3.wiki/wiki/Lift_the_Shadow_Curse) · [Break Yurgir's Contract](https://bg3.wiki/wiki/Break_Yurgir%27s_Contract) · [Punish the Wicked](https://bg3.wiki/wiki/Punish_the_Wicked) · [Find Rolan in the Shadows](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows) · [Decide Minthara's Fate](https://bg3.wiki/wiki/Decide_Minthara%27s_Fate)

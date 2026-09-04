@@ -1,7 +1,7 @@
 # BALDUR'S GATE 3 (PS5) — ROADMAP ATTO 1 "PARTITA BUONA"
 ### Eroe della Costa della Spada · solo scelte buone · trofei sotto controllo · Aggiornamento (Patch) 8
 
-*Guida aggiornata a Patch 8 — luglio 2026. Le ancore dell'indice seguono lo stile GitHub/VS Code: se un link non salta nel tuo visualizzatore, segnalamelo.*
+*Guida aggiornata a Patch 8 — luglio 2026.*
 
 ## 📑 Indice
 **Preparazione build**
@@ -41,8 +41,6 @@
 > **Come usare questa guida:** segui i passi in ordine. I punti marcati 🏆 sono legati a trofei, quelli marcati ⚠️ sono MISSABILI (se li salti, li perdi per sempre in questa partita). Salva manualmente prima di ogni ⚠️. In più trovi due tag nuovi: 📈 per i livelli/build dei personaggi e 🎒 per l'equipaggiamento consigliato, entrambi tappa per tappa.
 >
 > **Nota sui nomi:** i nomi di classi, talenti e incantesimi seguono la localizzazione italiana ufficiale del gioco.
->
-> ✅ **Passata di coerenza del 4 settembre 2026 (tutti e quattro i file).** Questo file usava diciture diverse da `roadmap_atto2`/`roadmap_atto3`: sono state uniformate ai **nomi italiani ufficiali**, verificati sulla lista trofei PSN italiana e sulle fonti di localizzazione. In pratica: **Shadowheart → Cuorescuro**, **Scratch → Graffio**, **Underdark → Sottosuolo**, **Zia Ethel → Zietta Ethel**, **Torri di Moonrise → Torri dell'Alba Lunare**, e sette nomi di trofeo (*La Situazione si Complica, Solo un Morsino, Obiettivo Riporto, Un Gramo Destino, Esigere il Sangue, Nessuno Rimane Indietro, Non C'è Gabbia Che Tenga!*). Dove il nome inglese serve a ritrovare la voce, resta tra parentesi. Dove non sono riuscito a verificare la dicitura esatta, ho messo tra parentesi il nome originale inglese solo come riferimento per trovare la voce a schermo.
 
 ---
 
@@ -268,7 +266,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 1 (E IN CHE TAPPA STANNO)
 
-> 🔎 **Controllo del 4 settembre 2026.** Elenco completo delle missioni dell'Atto 1 preso da **bg3.wiki** e incrociato riga per riga con questa guida. **L'ordine delle tappe 1 → 12 regge**: nessuna missione era al posto sbagliato. Mancavano **quattro contenuti**, ora aggiunti: *Trova i Tuoi Averi* (**Tappa 3**), *Restituisci il Medaglione* (**Tappa 3**), *Acceca l'Assoluta* (**Tappa 11**) e *Trova gli Stivali Mancanti* (**blocco 10.3**) — più *Aiuta il Monaco Maledetto*, aggiunta con l'Amuleto Senziente alla **Tappa 11**.
+> 🔎 Elenco completo delle missioni dell'Atto 1 (fonte: **bg3.wiki**), con la tappa in cui questa guida le affronta.
 
 **Legenda:** ⚠️ = missabile · ⏱️ = a tempo · ⛔ = via malvagia, in questa run non si fa.
 
@@ -336,7 +334,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 
 > ⚠️ **Due punti su cui si sbaglia spesso:** il trofeo che si ottiene uccidendo il Comandante Zhalk sul Nautiloid si chiama **"Il Diavolo È nei Dettagli"** — "First Blood" è un trofeo dell'Atto 3, legato a Orin. E il trofeo della Fucina si vince uccidendo Grym **SENZA** usare il maglio della fucina come arma contro di lui: è l'opposto di quello che l'ambiente suggerisce.
 >
-> ✅ **Nomi dei trofei, verificati il 4 settembre 2026.** Tutte le diciture italiane di questa tabella vengono ora dalla **lista trofei PSN italiana** (fonte: UAGNA), non da traduzioni di comodo. Le vecchie versioni di questo file usavano *"La trama si infittisce"*, *"Solo un morsetto"*, *"Gioco del Riporto"*, *"Un fato Grym"*, *"Prendere Sangue"*, *"Non lasciare nessuno indietro"* e *"Non può essere ingabbiata!"*: **erano tutte sbagliate** e sono state sostituite qui e nel file `build_completa_livello_1-12.md`.
+> ✅ **Nomi dei trofei:** tutte le diciture italiane di questa tabella vengono dalla **lista trofei PSN italiana** (fonte: UAGNA).
 
 | Trofeo | Come | Missabile? |
 |---|---|---|
@@ -476,7 +474,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 2. ⚠️ **Casa del Pedaggio**: affronta **Anders e i finti paladini di Tyr**: sono cacciatori infernali travestiti. Uccidili tutti (Anders in cima alle scale è pericoloso: Punizioni Divine su di lui). Bottino: **Spada della Giustizia** (Scudo di Fede gratis — 🎒 ottima su Lae'zel se non la usi tu), **Guanti dell'Eroismo**, Anello del Fuoco (🎒 per Wyll).
 3. **Scena Wyll vs Karlach** al campo/subito: **convinci Wyll a risparmiarla** (prova di dialogo: salva prima). Wyll resta nel gruppo (pagherà un prezzo estetico: non è colpa tua).
 4. ⚠️ **Riposo di Waukeen in fiamme**: corri all'edificio principale: sfonda la porta (FOR) e **salva la consigliera Florrick e il Granduca Ravengard**... Ravengard non c'è: Florrick ti incarica di ritrovarlo (pagherà nell'Atto 3). Fuori, **Benryn** è sotto le macerie del fienile: liberalo e (con Parlare coi Morti sulla moglie) ritrova la dote per lui.
-5. **Nascondiglio Zhentarim** (granaio a nord-ovest, parola d'ordine dai due all'ingresso o via botola): entra in pace. Dal venditore **Brem**: compra l'**Arco Titanstring** (usa Forza per il danno: adatto a un arciere di Forza, es. Wyll o il protagonista se cambi arma — meno indicato su Astarion che è in Destrezza) e **libera Oskar Fevras**, il pittore schiavo. ❌ **Correzione sul prezzo**: non sono "300–600 monete". Brem chiede **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**; in alternativa lo si ottiene **gratis** convincendolo che Oskar gli dà più problemi che guadagni. ⚠️ **Liberalo**: è il prerequisito di *Libera l'Artista* alla **Tenuta di Lady Jannath** in Atto 3 (Tappa 35-bis) — senza di lui quella missione non esiste.
+5. **Nascondiglio Zhentarim** (granaio a nord-ovest, parola d'ordine dai due all'ingresso o via botola): entra in pace. Dal venditore **Brem**: compra l'**Arco Titanstring** (usa Forza per il danno: adatto a un arciere di Forza, es. Wyll o il protagonista se cambi arma — meno indicato su Astarion che è in Destrezza) e **libera Oskar Fevras**, il pittore schiavo. 💰 **Prezzo:** Brem chiede **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**; in alternativa lo si ottiene **gratis** convincendolo che Oskar gli dà più problemi che guadagni. ⚠️ **Liberalo**: è il prerequisito di *Libera l'Artista* alla **Tenuta di Lady Jannath** in Atto 3 (Tappa 35-bis) — senza di lui quella missione non esiste.
 6. **Rugan e Olly** (quest *"Trova il Carico Mancante"* / Find the Missing Shipment) — grotta/caverna a fianco del nascondiglio, poco a est: i due Zhentarim sono assediati dai **gnoll**. Cosa fare nella run buona:
    - **Uccidi i gnoll** per salvarli entrambi (è lo scontro che dà accesso alla ricompensa).
    - ⚠️ **NON aprire la Cassa della Carovana** (Caravan Strongbox): se la apri (o ne estrai il contenuto) e provi comunque a consegnarla, **gli Zhentarim diventano ostili** e **perdi tutte le ricompense** + la questline (incluso Oskar Fevras del punto 5). Dentro c'è la **Fiaschetta di Ferro** (Iron Flask): aprirla scatena un **boss, uno Spettatore/beholder** — evita del tutto.

@@ -2,7 +2,7 @@
 
 ### Tutti gli 11 personaggi giocabili · scelte ottimizzate per **trofei + personaggi forti** · fonti verificate (bg3.wiki, Patch 8) · run "tutta buona"
 
-*Guida aggiornata a Patch 8 — luglio 2026. Le ancore dell'indice seguono lo stile GitHub/VS Code: se un link non salta nel tuo visualizzatore, segnalamelo.*
+*Guida aggiornata a Patch 8 — luglio 2026.*
 
 ## 📑 Indice
 - [🔎 **VERIFICA DELLE BUILD — la versione più forte di ciascuno**](#-verifica-delle-build--la-versione-più-forte-di-ciascuno-audit-agosto-2026) ⭐ *leggi questo per primo*
@@ -37,7 +37,7 @@
 >
 > **Nota sui nomi**: incantesimi/talenti in italiano dove verificati, altrimenti inglese tra parentesi. La UI italiana della PS5 può usare una dicitura leggermente diversa — se noti uno scarto, fidati dello schermo.
 >
-> ⚠️ **Nota sulle statistiche (correzione trasversale)**: in BG3 i bonus **+2 e +1** della creazione **non sono legati alla razza** — li assegni **liberamente tu** (verificato su bg3.wiki: *"Two bonuses are applied at the end, one +2 and another +1"*). Il punteggio comprato coi 27 punti va da 8 a **15**, quindi il massimo iniziale è **17** (15+2). Dove nel testo leggi "bonus razziali +2/+1", intendi "i due bonus liberi": i numeri delle build restano identici, cambia solo il perché.
+> ⚠️ **Nota sulle statistiche**: in BG3 i bonus **+2 e +1** della creazione **non sono legati alla razza** — li assegni **liberamente tu** (bg3.wiki: *"Two bonuses are applied at the end, one +2 and another +1"*). Il punteggio comprato coi 27 punti va da 8 a **15**, quindi il massimo iniziale è **17** (15+2). In tutte le build qui sotto "bonus di creazione +2/+1" indica questi due bonus liberi.
 >
 > ✅ **Ogni build ha in fondo un blocco "Pregi e difetti"**: leggilo prima di scegliere, è lì che si vede davvero la differenza fra una variante e l'altra.
 
@@ -130,8 +130,8 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 **Nota sullo Smite (BG3):** Divine Smite consuma qualsiasi slot su un colpo in mischia a segno; danno radioso bonus = **2d8 (slot 1°), 3d8 (2°), 4d8 (3°), 5d8 (4°/5° — cap di BG3)**, **+1d8 contro Immondi e Non Morti**. Non va "imparato": è sempre disponibile dal Paladino liv. 2.
 
-**📊 Statistiche iniziali (creazione, 27 punti):** **FOR 16 · DES 8 · COS 14 · INT 8 · SAG 12 · CAR 16** — bonus razziali **+2 Forza**, **+1 Carisma**. La FOR ti fa colpire con Grande Maestro d'Armi; la CAR alimenta Arma Sacra (CAR al colpire), Aura di Protezione e gli incantesimi Stregone. L'armatura pesante rende la DES irrilevante (dumpala a 8).
-> ⚠️ **Il prezzo del 6/6**: hai **solo 2 talenti** (Grande Maestro d'Armi al liv.4, **+2 CAR** al liv.10), quindi la CAR non tocca 20 con i soli ASI. Percorso: parti da 16 → in Atto 2 sali a **18** con il **capello di Auntie Ethel** → il talento di liv.10 la porta a **20**. ❌ **Correzione: lo Specchio della Perdita NON è un potenziamento dell'Atto 2.** Quello nel Guanto di Shar è **incrinato e inutilizzabile**; l'unico funzionante sta in **Atto 3**, nel Chiostro del Cupo Abbraccio sotto la Casa del Dolore (Tappa 37). Se il capello di Ethel lo prende Astarion (variante arciere), il +2 lo recuperi lì, ma un atto più tardi.
+**📊 Statistiche iniziali (creazione, 27 punti):** **FOR 16 · DES 8 · COS 14 · INT 8 · SAG 12 · CAR 16** — bonus di creazione **+2 Forza**, **+1 Carisma**. La FOR ti fa colpire con Grande Maestro d'Armi; la CAR alimenta Arma Sacra (CAR al colpire), Aura di Protezione e gli incantesimi Stregone. L'armatura pesante rende la DES irrilevante (dumpala a 8).
+> ⚠️ **Il prezzo del 6/6**: hai **solo 2 talenti** (Grande Maestro d'Armi al liv.4, **+2 CAR** al liv.10), quindi la CAR non tocca 20 con i soli ASI. Percorso: parti da 16 → in Atto 2 sali a **18** con il **capello di Auntie Ethel** → il talento di liv.10 la porta a **20**. ❌ **Lo Specchio della Perdita NON è un potenziamento dell'Atto 2**: quello nel Guanto di Shar è **incrinato e inutilizzabile**; l'unico funzionante sta in **Atto 3**, nel Chiostro del Cupo Abbraccio sotto la Casa del Dolore (Tappa 37). Se il capello di Ethel lo prende Astarion (variante arciere), il +2 lo recuperi lì, ma un atto più tardi.
 
 ### Livello 1 — Paladino 1
 - **Percezione Divina** (senti i nemici vicini), **Imposizione delle Mani** (pool cura = 5 × livello Paladino, ricarica a riposo lungo). Nessun incantesimo ancora.
@@ -211,7 +211,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 | Magia | Stregone: Scudo, Velocità, Passo Nebbioso, Controincantesimo, Palla di Fuoco | Paladino fino al 3° liv.: **Rivitalizza**, **Manto del Crociato**, Punizione Accecante |
 | Difficoltà di gioco | media (risorse da gestire ogni turno) | **bassa** (attiva Arma Sacra e picchia) |
 
-⚠️ **Correzione valida per entrambe le varianti**: in BG3 l'**Aura di Protezione resta a 3 m per tutta la partita**. L'allargamento a 9 m è una feature di livello 18 del cartaceo, irraggiungibile col cap 12 — quindi tieni **sempre** il protagonista attaccato ai compagni fragili, non basta "stare nella stessa stanza".
+⚠️ **Valido per entrambe le varianti**: in BG3 l'**Aura di Protezione resta a 3 m per tutta la partita**. L'allargamento a 9 m è una feature di livello 18 del cartaceo, irraggiungibile col cap 12 — quindi tieni **sempre** il protagonista attaccato ai compagni fragili, non basta "stare nella stessa stanza".
 
 **Cosa perdi davvero, e come lo compensi:**
 - **Scudo** (reazione, +5 CA istantaneo) → la perdita più sentita. Compensi con la migliore corazza pesante disponibile, **Scudo della Fede** attivo a inizio scontro e il **Vincolo di Protezione** (Warding Bond) di Cuorescuro lanciato su di te prima dei boss.
@@ -219,7 +219,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 - **Passo Nebbioso** → in questa variante **l'Amuleto di Passo Nebbioso** (*Tappa 8-9*) e gli **Stivali di Velocità** (*Tappa 10*) vanno a **te**, non agli altri: sono la tua unica mobilità istantanea.
 - **Controincantesimo / Palla di Fuoco** → restano a Gale e Wyll, il gruppo li ha comunque.
 
-**📊 Statistiche iniziali (creazione, 27 punti):** **FOR 15 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 15** → con i bonus razziali **+2 Forza / +1 Carisma** a schermo leggi **FOR 17 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 16**. La Forza dispari **non** è uno spreco: con **Arma Sacra** attiva sono i tiri per colpire a dipendere dal Carisma, la Forza serve solo al danno (e il **capello di Auntie Ethel**, +1, la porta a 18 se lo prendi tu). Armatura pesante → Destrezza irrilevante, dumpala a 8.
+**📊 Statistiche iniziali (creazione, 27 punti):** **FOR 15 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 15** → con i bonus di creazione **+2 Forza / +1 Carisma** a schermo leggi **FOR 17 · DES 8 · COS 14 · INT 8 · SAG 10 · CAR 16**. La Forza dispari **non** è uno spreco: con **Arma Sacra** attiva sono i tiri per colpire a dipendere dal Carisma, la Forza serve solo al danno (e il **capello di Auntie Ethel**, +1, la porta a 18 se lo prendi tu). Armatura pesante → Destrezza irrilevante, dumpala a 8.
 
 **Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Se in **Atto 3** usi lo **Specchio della Perdita** (+2 CAR, **Chiostro del Cupo Abbraccio**, Tappa 37 — ❌ **non** nel Guanto di Shar in Atto 2: quello è incrinato e non funziona) arrivi a 20 in anticipo: in quel caso il talento del liv. 12 si **libera** per **Attaccante Selvaggio** (*Savage Attacker*, rilanci i dadi di danno dell'arma), **Sentinella** o **Resiliente: Costituzione**.
 
@@ -313,10 +313,10 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 >
 > - **Armatura:** perdi la competenza in **armatura pesante** → passi alla media, quindi sposta i punti su **DES 14 / COS 14** (vedi nota statistiche qui sotto).
 > - **Talento liv. 8:** qui conviene **Incantatore Bellico** (War Caster) al posto di +2 SAG, per blindare la concentrazione su Guardiani Spirituali mentre stai in mezzo ai nemici con meno CA. SAG arriva a 20 col talento del liv. 12 (o con lo **Specchio della Perdita** in **Atto 3**, Tappa 37).
-> - **Arma endgame:** la **Mazza del Devoto** (*Devotee's Mace*, +3, 1d8 radioso extra) è la miglior arma per questa variante. ⚠️ **Correzione: non si trova in nessun baule** — si ottiene **solo** lanciando **Intervento Divino → Arma del Servo** (liv. 10, una tantum a personaggio). Se preferisci tenere Intervento Divino per la Resurrezione Sontuosa, resta sul **Sangue di Lathander**.
+> - **Arma endgame:** la **Mazza del Devoto** (*Devotee's Mace*, +3, 1d8 radioso extra) è la miglior arma per questa variante. ⚠️ **Non si trova in nessun baule**: si ottiene **solo** lanciando **Intervento Divino → Arma del Servo** (liv. 10, una tantum a personaggio). Se preferisci tenere Intervento Divino per la Resurrezione Sontuosa, resta sul **Sangue di Lathander**.
 > - **Quale scegliere:** Vita = gruppo più curato, Cuorescuro in corazza pesante e Colpo Divino Radioso a ogni turno; Luce = molto più danno da sola (Palla di Fuoco + Splendore dell'Alba + trucchetti potenziati) e una reazione difensiva che vale per tutto il gruppo. Entrambe reggono a Tattico. La trama Shar/Selûne **non cambia in nessun caso**.
 
-**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 14 · DES 8 · COS 16 · INT 8 · SAG 16 · CAR 12** — bonus razziali **+2 Saggezza**, **+1 Costituzione**. La SAG regge cure, DC di Guardiani Spirituali e Fiamma Sacra: parte da 16 e arriva a **20** con gli ASI di liv. **8** e **12**. COS 16 tiene su la concentrazione; l'armatura pesante (Vita) rende la DES irrilevante (dumpala). FOR 14 basta al Colpo Divino con la mazza.
+**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 14 · DES 8 · COS 16 · INT 8 · SAG 16 · CAR 12** — bonus di creazione **+2 Saggezza**, **+1 Costituzione**. La SAG regge cure, DC di Guardiani Spirituali e Fiamma Sacra: parte da 16 e arriva a **20** con gli ASI di liv. **8** e **12**. COS 16 tiene su la concentrazione; l'armatura pesante (Vita) rende la DES irrilevante (dumpala). FOR 14 basta al Colpo Divino con la mazza.
 > 🔆 **Nella variante Luce**: stessa priorità (SAG 16 → 20), ma **perdi la competenza in armatura pesante** → sposta i punti su **DES 14 / COS 14** per reggere la CA con l'armatura media.
 
 ### Livello 1 — Chierico 1
@@ -353,7 +353,8 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ### Livello 9 — Chierico 9 (slot 5° liv.)
 - Dominio sempre preparati: **Restaurazione Superiore** (Greater Restoration) + **Cura Ferite di Massa** (Mass Cure Wounds). Prepara anche **Colpo di Fiamma** (Flame Strike, misto fuoco/radioso) se vuoi più danno d'area oltre a Guardiani Spirituali.
-- 🎒 **Atto 2.** ⚠️ **Correzione:** l'**Amuleto del Devoto** (*Amulet of the Devout*, **+2 alla CD di tutti i tuoi incantesimi** + una carica extra di Canalizza Divinità) **non è in Atto 2**: sta nel **forziere delle offerte nel sotterraneo del Tabernacolo di Rivatempestosa**, in **Atto 3** (Tappa 39 di quel file). ⚠️ Non prenderlo a mano dal forziere: applica la maledizione *Castigato dalla Divinità* — rompi il forziere, o butta prima l'oggetto a terra. Resta il miglior amuleto da chierico del gioco, ma arriva dopo. **Anello di Riverbero/Orbo Radiante** (*Coruscation Ring*: quando colpisci in luce, applichi Orbo Radiante = -accuratezza al nemico) → sinergia perfetta con Guardiani Spirituali (colpisce ogni turno).
+- 🎒 **Atto 2.** **Anello di Riverbero/Orbo Radiante** (*Coruscation Ring*: quando colpisci in luce, applichi Orbo Radiante = -accuratezza al nemico) → sinergia perfetta con Guardiani Spirituali (colpisce ogni turno).
+- 🎒 **Da tenere d'occhio per l'Atto 3.** L'**Amuleto del Devoto** (*Amulet of the Devout*, **+2 alla CD di tutti i tuoi incantesimi** + una carica extra di Canalizza Divinità) è il miglior amuleto da chierico del gioco, ma arriva tardi: sta nel **forziere delle offerte nel sotterraneo del Tabernacolo di Rivatempestosa** (Tappa 39 dell'Atto 3). ⚠️ Non prenderlo a mano dal forziere: applica la maledizione *Castigato dalla Divinità* — rompi il forziere, o butta prima l'oggetto a terra.
 
 ### Livello 10 — Chierico 10
 - Trucchetti 4→**5**.
@@ -400,7 +401,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 > - **Statistiche identiche** a quelle qui sotto. ⚠️ Se sei il protagonista, ricordati che **i dialoghi importanti passano da te** con CAR 8: porta sempre in gruppo chi parla (Wyll/Astarion) o metti **Amici**/oggetti di CAR addosso.
 > - **Cosa perdi rispetto a Karlach:** nulla di meccanico — ma Karlach *è* già questa build, quindi con due barbari il gruppo si sbilancia. Se il PG è il barbaro, **Karlach può fare da lanciatrice** (box qui sopra) o passare a Guerriera per differenziare.
 
-**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 16 · DES 14 · COS 16 · INT 8 · SAG 12 · CAR 8** — bonus razziali **+2 Forza**, **+1 Costituzione**. FOR parte da 16 → **18** con l'ASI di liv. 4, poi la **Clava della Forza dei Giganti** (Tappa 10) la fissa a **19**: non serve portarla a 20 in modo naturale (per questo il liv.8 prende un talento, non +2 FOR). DES 14 + COS 16 danno una buona CA in "Difesa Senza Armatura". *La variante lanciatrice usa le stesse statistiche: la Forza pesa doppio con Rissaiolo da Taverna.*
+**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 16 · DES 14 · COS 16 · INT 8 · SAG 12 · CAR 8** — bonus di creazione **+2 Forza**, **+1 Costituzione**. FOR parte da 16 → **18** con l'ASI di liv. 4, poi la **Clava della Forza dei Giganti** (Tappa 10) la fissa a **19**: non serve portarla a 20 in modo naturale (per questo il liv.8 prende un talento, non +2 FOR). DES 14 + COS 16 danno una buona CA in "Difesa Senza Armatura". *La variante lanciatrice usa le stesse statistiche: la Forza pesa doppio con Rissaiolo da Taverna.*
 
 ### Livello 1 — Barbaro 1
 - **Furia** (azione bonus, 2 cariche/riposo lungo ai liv.1-2: +2 danni in mischia, resistenza ai danni fisici, vantaggio su prove/TS Forza; dura finché combatti). **Difesa Senza Armatura** (CA 10+DES+COS senza armatura — utile all'inizio, ma con buona armatura media la CA è spesso migliore: verifica in gioco).
@@ -468,7 +469,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 **Ruolo:** artigliere arcano. La build "forte" è **Palla di Fuoco/Fulmine/Catena di Fulmini protetti da Incantesimi Modellati + Evocazione Potenziata (INT al danno di ogni incantesimo di Evocazione)**. ⚠️ Il Mago impara **2 incantesimi nuovi per livello**: le coppie sotto vanno prese **entrambe**.
 
-**📊 Statistiche iniziali (creazione/respec, 27 punti):** **FOR 8 · DES 14 · COS 16 · INT 16 · SAG 10 · CAR 10** — bonus razziali **+2 Intelligenza**, **+1 Costituzione**. INT parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8** (DC, tiri per colpire e — dal liv.10 — danno di ogni Evocazione). COS 16 + DES 14 lo tengono vivo e con la concentrazione blindata. *(In alternativa indossa la **Fascia Deformata dell'Intelletto** — INT 17, Tappa Villaggio — e sposta i punti INT su DES/COS: vedi il "trucco oggetti-statistica" in fondo alla guida.)*
+**📊 Statistiche iniziali (creazione/respec, 27 punti):** **FOR 8 · DES 14 · COS 16 · INT 16 · SAG 10 · CAR 10** — bonus di creazione **+2 Intelligenza**, **+1 Costituzione**. INT parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8** (DC, tiri per colpire e — dal liv.10 — danno di ogni Evocazione). COS 16 + DES 14 lo tengono vivo e con la concentrazione blindata. *(In alternativa indossa la **Fascia Deformata dell'Intelletto** — INT 17, Tappa Villaggio — e sposta i punti INT su DES/COS: vedi il "trucco oggetti-statistica" in fondo alla guida.)*
 
 ### Livello 1 — Mago 1
 - 3 trucchetti: **Dardo Infuocato**, Mano Magica, **Raggio di Gelo**. Libro con 6 incantesimi di 1° liv. base (es. Dardo Incantato, Scudo, Armatura del Mago, Individuazione del Magico, Caduta Morbida, Onda Tonante) — copiane altri da pergamene (costa oro, si consuma la pergamena).
@@ -538,7 +539,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 > **🏹 VARIANTE "arciere assassino" — Cacciatore Oscuro 5 / Assassino 4 / Guerriero 3.** Apre i combattimenti uccidendo prima che i nemici possano reagire. Al posto dei due pugnali: arco lungo in Destrezza.
 >
-> **Ordine dei livelli (corretto e verificato su bg3.wiki):**
+> **Ordine dei livelli (verificato su bg3.wiki):**
 >
 > | Liv. PG | Classe | Cosa prendi |
 > |---|---|---|
@@ -563,7 +564,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 ⚠️ **Il Ladro ha un Talento/ASI EXTRA al livello 10** (oltre a 4/8/12) → **4 slot totali**. Con DES già 20 dal liv.8, questo slot è "libero" per un talento puro.
 
-**📊 Statistiche iniziali (build a pugnali — respec da Withers, 27 punti):** **FOR 8 · DES 16 · COS 14 · INT 12 · SAG 14 · CAR 12** — bonus razziali **+2 Destrezza**, **+1 Saggezza**. DES parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8** (danno, CA, iniziativa, furtività). SAG 14 alza la Percezione (trappole/agguati), dove è il migliore del gruppo. *(La variante arciere ha statistiche proprie, nel box qui sopra.)*
+**📊 Statistiche iniziali (build a pugnali — respec da Withers, 27 punti):** **FOR 8 · DES 16 · COS 14 · INT 12 · SAG 14 · CAR 12** — bonus di creazione **+2 Destrezza**, **+1 Saggezza**. DES parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8** (danno, CA, iniziativa, furtività). SAG 14 alza la Percezione (trappole/agguati), dove è il migliore del gruppo. *(La variante arciere ha statistiche proprie, nel box qui sopra.)*
 
 ### Livello 1 — Ladro 1
 - **Competenza Raddoppiata** su 2 abilità → **Rapidità di Mano** + **Furtività** (scasso/borseggio + stealth). **Attacco Furtivo 1d6** (scatta con Vantaggio, o entro 1,5 m senza Svantaggio, o con un alleato adiacente al bersaglio).
@@ -645,7 +646,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento gratis) se preferisci controllo d'area.
 
-**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 8 · DES 14 · COS 16 · INT 8 · SAG 12 · CAR 16** — bonus razziali **+2 Carisma**, **+1 Costituzione**. La CAR parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8**: è insieme il danno di **ogni** raggio (Richiamo Agonizzante + Veste Potentissima) e la DC dei tuoi controlli. COS 16 + DES 14 proteggono concentrazione e CA senza corazza.
+**📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 8 · DES 14 · COS 16 · INT 8 · SAG 12 · CAR 16** — bonus di creazione **+2 Carisma**, **+1 Costituzione**. La CAR parte da 16 e arriva a **20** con gli ASI di liv. **4** e **8**: è insieme il danno di **ogni** raggio (Richiamo Agonizzante + Veste Potentissima) e la DC dei tuoi controlli. COS 16 + DES 14 proteggono concentrazione e CA senza corazza.
 
 ### Livello 1 (Warlock 1)
 - 2 trucchetti: **Deflagrazione Occulta** (obbligatoria) + **Tocca la Morte** (Toll the Dead, miglior single-target di riserva). 2 incantesimi di 1° liv.: **Maledizione** (Hex: danno extra + svantaggio) e **Armatura di Agathys** (PF temporanei + contrattacco freddo).
@@ -712,7 +713,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 
 **Ruolo:** DPS marziale definitivo. La build "forte": **3 attacchi/azione al liv.11 + Impeto + Grande Maestro d'Armi + Adamantina (niente critici subiti)**. È il motivo per cui **non va multiclassata**: l'Attacco Extra Migliorato è legato al livello di CLASSE Guerriero.
 
-**📊 Statistiche iniziali (creazione/respec, 27 punti):** **FOR 16 · DES 12 · COS 16 · INT 8 · SAG 14 · CAR 8** — bonus razziali **+2 Forza**, **+1 Costituzione**. FOR parte da 16 e arriva a **20** già al liv. **6** (ASI di liv. 4 e 6), poi al liv.8 prende Grande Maestro d'Armi. L'armatura pesante rende quasi ininfluente la DES (12 solo per l'iniziativa); SAG 14 aiuta i TS mentali (i Gith sono spesso bersaglio di charme/paura).
+**📊 Statistiche iniziali (creazione/respec, 27 punti):** **FOR 16 · DES 12 · COS 16 · INT 8 · SAG 14 · CAR 8** — bonus di creazione **+2 Forza**, **+1 Costituzione**. FOR parte da 16 e arriva a **20** già al liv. **6** (ASI di liv. 4 e 6), poi al liv.8 prende Grande Maestro d'Armi. L'armatura pesante rende quasi ininfluente la DES (12 solo per l'iniziativa); SAG 14 aiuta i TS mentali (i Gith sono spesso bersaglio di charme/paura).
 
 ### Livello 1 — Guerriero 1
 - **Secondo Vento** (cura 1d10+livello, bonus, riposo breve). Stile di Combattimento → **Combattimento con Arma Grande** (rilanci 1 e 2 sui dadi danno).
@@ -892,7 +893,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 **📊 Statistiche iniziali (respec da Withers, 27 punti):** **FOR 17 · DES 8 · COS 16 · INT 8 · SAG 8 · CAR 16** — comprati FOR 15 / COS 15 / CAR 15, i due bonus liberi vanno **+2 Forza** e **+1 Costituzione**.
 > **La Saggezza a 8 non è un problema**: dal liv. 6 la sua **Aura di Protezione** aggiunge il **Carisma a tutti i suoi tiri salvezza** — con CAR 20 sono +5 su ogni TS mentale, molto più di quanto darebbe una Saggezza decente. L'armatura pesante rende la Destrezza irrilevante (dumpala a 8).
 >
-> **Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Due scorciatoie che **liberano il talento del liv. 12**: **Il Diritto di Nascita** (*Birthright*, +2 CAR fino a 22 — ~1025 mo alla Sorcerous Sundries, Atto 3: è un pezzo da Paladino, **su Gale è inutile**, quindi qui non lo contende nessuno) e lo **Specchio della Perdita** (+2 CAR) — ❌ **correzione**: lo Specchio **non** sta nel Guanto di Shar (quello è incrinato e inutilizzabile), sta nel **Chiostro del Cupo Abbraccio in Atto 3** (Tappa 37). Quindi non c'è nessuna scadenza legata alla chiusura dell'Atto 2: l'unica condizione è **averla reclutata**, così da poterla portare allo Specchio in Atto 3.
+> **Percorso Carisma:** 16 → **18** (talento liv. 8) → **20** (talento liv. 12). Due scorciatoie che **liberano il talento del liv. 12**: **Il Diritto di Nascita** (*Birthright*, +2 CAR fino a 22 — ~1025 mo alla Sorcerous Sundries, Atto 3: è un pezzo da Paladino, **su Gale è inutile**, quindi qui non lo contende nessuno) e lo **Specchio della Perdita** (+2 CAR) — ⚠️ lo Specchio **non** sta nel Guanto di Shar (quello è incrinato e inutilizzabile), ma nel **Chiostro del Cupo Abbraccio in Atto 3** (Tappa 37). Quindi non c'è nessuna scadenza legata alla chiusura dell'Atto 2: l'unica condizione è **averla reclutata**, così da poterla portare allo Specchio in Atto 3.
 
 > 🎒 **KIT D'INGRESSO (Atto 2, il giorno che entra)**
 > - **Migliore corazza pesante disponibile** — è competente, e con DES 8 la CA viene tutta da lì. Se Lae'zel e Karlach non la usano, la **Corazza Adamantina** (*Tappa 11*, niente critici subiti) è perfetta su di lei.
@@ -1170,7 +1171,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 
 ### Hub principali (Atto 3, Baldur's Gate)
 - **Casa della Speranza** (House of Hope): si entra da **"The Devil's Fee"** (Città Bassa) parlando con **Helsik**. Boss: **Raphael** (durissimo — salva prima, porta pozioni di velocità). Sconfiggerlo dà l'**Armatura Infernale** (Helldusk) senza patti, coerente con la run buona.
-- **Boudoir / Haarlep** (dentro la Casa della Speranza): è qui che si prendono i **Guanti dell'Anticrepuscolo**. Serve l'invito dall'**Archivio** (inganna o deruba l'Archivista) → entra nella cortina verde → trovi **Haarlep** (incubo con le sembianze di Raphael). Accetta le sue condizioni (ottieni anche la chiave della cassaforte di Raphael) **oppure** rifiuta e combatti. ⚠️ **Correzione:** i **Guanti dell'Anticrepuscolo** sono **indossati da Haarlep**, quindi o lo **uccidi** e li raccogli dal corpo, o glieli **borseggi** — se accetti le sue condizioni e lo lasci vivo senza borseggiarlo, li perdi. ⚠️ In combattimento, dopo un colpo diventa immune ai danni fino al suo turno e può ammaliare gli alleati.
+- **Boudoir / Haarlep** (dentro la Casa della Speranza): è qui che si prendono i **Guanti dell'Anticrepuscolo**. Serve l'invito dall'**Archivio** (inganna o deruba l'Archivista) → entra nella cortina verde → trovi **Haarlep** (incubo con le sembianze di Raphael). Accetta le sue condizioni (ottieni anche la chiave della cassaforte di Raphael) **oppure** rifiuta e combatti. ⚠️ I **Guanti dell'Anticrepuscolo** sono **indossati da Haarlep**, quindi o lo **uccidi** e li raccogli dal corpo, o glieli **borseggi** — se accetti le sue condizioni e lo lasci vivo senza borseggiarlo, li perdi. ⚠️ In combattimento, dopo un colpo diventa immune ai danni fino al suo turno e può ammaliare gli alleati.
 - **Via del Wyrm** (Wyrmway): dungeon sotto la Roccia del Wyrm, ingresso dalle segrete della prigione (muro/torce nascoste). Boss: **Ansur**, drago non morto → droppa **Ammazzagiganti di Balduran** ed **Elmo di Balduran**.
 - **Sorcerous Sundries / Torre di Ramazith** (Città Bassa): equip da incantatore — **Markoheshkir** (cima della Torre, oltre il portale), **Veste della Trama** (nel Globo di Invulnerabilità), **Guanti dell'Incantesimo Rapido** e **Il Diritto di Nascita** (entrambi **in vendita** al piano terra, non drop).
 

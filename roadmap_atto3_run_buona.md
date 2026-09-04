@@ -13,7 +13,7 @@
 - [0-QUATER. ⏱️ I quattro orologi dell'Atto 3](#0-quater-️-i-quattro-orologi-dellatto-3)
 - [0-QUINQUIES. 🔗 L'ordine obbligato in una riga](#0-quinquies--lordine-obbligato-in-una-riga)
 - [0-SEXIES. 📈 Progressione livelli 9/10 → 12](#0-sexies--progressione-livelli-910--12)
-- [0-SEPTIES. 🧾 Correzioni ai file precedenti e a questo](#0-septies--correzioni-ai-file-precedenti-e-a-questo)
+- [0-SEPTIES. 🧾 Glossario dei nomi dell'Atto 3](#0-septies--glossario-dei-nomi-dellatto-3)
 - [0-OCTIES. 🔬 Studio approfondito — i compagni nell'Atto 3](#0-octies--studio-approfondito--i-compagni-nellatto-3)
 - [🗺️ Atlante dell'Atto 3 — tutte le location e tutte le interazioni](#️-atlante-dellatto-3--tutte-le-location-e-tutte-le-interazioni)
 - [📋 Tutte le missioni dell'Atto 3 e in che tappa stanno](#-tutte-le-missioni-dellatto-3-e-in-che-tappa-stanno)
@@ -163,33 +163,9 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 
 ---
 
-## 0-SEPTIES. 🧾 CORREZIONI AI FILE PRECEDENTI E A QUESTO
+## 0-SEPTIES. 🧾 GLOSSARIO DEI NOMI DELL'ATTO 3
 
-> 🔎 **Revisione del 31 agosto 2026.** Tutte le location dell'Atto 3 sono state ricontrollate una per una sulle pagine di zona, di luogo e di missione di **bg3.wiki**, e i nomi italiani sono stati riverificati su fonti italiane (lista trofei PSN, guide e let's play in italiano). L'elenco completo dei luoghi con tutte le loro interazioni è nel nuovo **[🗺️ Atlante dell'Atto 3](#️-atlante-dellatto-3--tutte-le-location-e-tutte-le-interazioni)**.
-
-> ➕ **Aggiunta del 4 settembre 2026 — due contenuti che l'atlante nominava ma che non avevano una tappa.** Stanno tutti e due sull'acqua, e seguendo il percorso com'era scritto si perdevano:
-> 1. **La linea del mare ai moli** — il tempio di Umberlee e la missione *Vendica gli Annegati*: ora è la **[Tappa 40-bis](#tappa-40-bis--casa-della-regina-delle-acque-vendica-gli-annegati-liv-12--️-scade-col-trono-di-ferro)**. ⚠️ **È missabile: si avvia solo prima di risolvere il Trono di Ferro.**
-> 2. **L'assalto dei sahuagin alle banchine di Heapside Strand** — ora è il punto **35.1-ter**.
->
-> Verificati su bg3.wiki: *Avenge the Drowned*, *Water Queen's House*, *Redhammer*, *Sahuagin Champion*.
-
-### Nomi corretti in questa revisione
-
-| Come era scritto qui | Dicitura corretta | Come l'ho verificata |
-|---|---|---|
-| "Sirena Arrossita" | **Sirena Timida** (*The Blushing Mermaid*) | let's play italiani + guida NextGenTech |
-| "Tribunale degli Omicidi" | **Tribunale dell'Omicidio** (*Murder Tribunal*) | let's play italiani + NextGenTech |
-| "Rovine della Sottocittà" | **Rovine della Città Sotterranea** (*Undercity Ruins*) — è anche il nome del **punto di viaggio rapido** | guide italiane |
-| "Wyrmway" | **Via del Dragone** | ⭐ **ufficiale**: compare nel testo del trofeo PSN italiano *Atterraggio Forzato* |
-| "Roccia del Wyrm" | **Roccia del Dragone** (*Wyrm's Rock*) | NextGenTech + let's play italiani |
-| "Attraversamento del Wyrm" | **Ponte del Dragone** (*Wyrm's Crossing*) | let's play italiani |
-| "Sacrario del Drago" | **Santuario del Drago** (*Dragon's Sanctum*) | let's play italiani |
-| "Veleno della Megera" | **Anatema delle Megere** (*Hag's Bane*) | NextGenTech |
-| "Massacratrice" (la forma di Orin) | **Carnefice** (*Slayer*) | ⭐ ufficiale: testo del trofeo *Abbraccia la Pulsione* |
-| "modalità Tattica / Esploratrice / Equilibrata" | **Stratega / Esploratore / Equilibrato** — in italiano la difficoltà si chiama **Stile del DM** | ⭐ ufficiale: testo del trofeo *Colpo Critico* |
-| *Fancy Footwork*, *Crash Landing*, *First Blood*, *Murder in Baldur's Gate* lasciati in inglese "perché non verificati" | **Passo Leggiadro**, **Atterraggio Forzato**, **Primo Sangue**, **Omicidio a Baldur's Gate** | ⭐ ufficiale: **esistono tutti** nella lista trofei PSN italiana |
-
-> ❌ **Errore di metodo corretto:** la versione precedente dava per "non verificabili" quattro nomi di trofeo che invece sono nella lista PSN italiana, e in un caso (*Passo Leggiadro*) diceva esplicitamente che era "una traduzione di comodo". Non lo era: è la dicitura reale.
+> 🔎 Le location dell'Atto 3 seguono le pagine di zona, di luogo e di missione di **bg3.wiki**; i nomi italiani vengono dalla lista trofei PSN, dalle guide e dai let's play in italiano. L'elenco completo dei luoghi con tutte le loro interazioni è nell'**[🗺️ Atlante dell'Atto 3](#️-atlante-dellatto-3--tutte-le-location-e-tutte-le-interazioni)**.
 
 ### Nomi italiani dell'Atto 3 verificati (usali per orientarti a schermo)
 
@@ -231,7 +207,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 | Come lo scrivo qui | Inglese | Perché è incerto |
 |---|---|---|
-| **Forgia dei Nove** | Forge of the Nine | Diverse fonti italiane danno anche **"Fucina dei Nove"**. ✅ **Incoerenza sanata il 4 settembre 2026**: `build_completa_livello_1-12.md` diceva "Fucina", ora usa "Forgia" come questo file. La dicitura resta comunque **non verificata a schermo**: se la PS5 dice "Fucina", è quella giusta |
+| **Forgia dei Nove** | Forge of the Nine | Diverse fonti italiane danno anche **"Fucina dei Nove"**: la dicitura non è verificata a schermo, quindi se la PS5 dice "Fucina" è quella giusta |
 | **Merci Flymm** | Flymm Cargo | NextGenTech scrive "**deposito di Flymm**" |
 | **Loggia della Genialità** | Society of Brilliance | Da NextGenTech; è il luogo dove trovi **Lady Esther** e (se le hai dato l'uovo githyanki) **Ptaris** |
 | **Magliorosso l'Inventore** | Redhammer the Deviser | Solo NextGenTech |
@@ -305,7 +281,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 ### 2) PONTE DEL DRAGONE (*Wyrm's Crossing*) — Tappe 29-32
 
-> ⚠️ **È una zona a sé: non fa parte né di Rivington né della Città Bassa.** È il doppio ponte fra le due, e ci arrivi **subito**, appena passato il posto di blocco. Qui dentro ci sono cose che la versione precedente di questa guida rimandava (sbagliando) alla Città Bassa.
+> ⚠️ **È una zona a sé: non fa parte né di Rivington né della Città Bassa.** È il doppio ponte fra le due, e ci arrivi **subito**, appena passato il posto di blocco.
 
 | Luogo | Interazioni | Tappa |
 |---|---|---|
@@ -432,7 +408,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 3 (E IN CHE TAPPA STANNO)
 
-> 🔎 **Controllo del 4 settembre 2026.** Ho preso l'elenco completo delle missioni dell'Atto 3 da **bg3.wiki** (pagine *Quests* e *Act Three*, più le singole pagine di missione) e l'ho incrociato riga per riga con questo file. **Il percorso 27 → 50 regge**: nessuna tappa era nell'ordine sbagliato. Mancavano invece **cinque contenuti**, ora aggiunti: *Vendica gli Annegati* (**40-bis**), l'assalto dei sahuagin (**35.1-ter**), *Aiuta il Monaco Maledetto* (**29.4**), *Restituisci l'Oro di Rakath* (**32.6-bis**) e *Il Magazzino di Roveer* (**31.1**).
+> 🔎 Elenco completo delle missioni dell'Atto 3 (fonte: **bg3.wiki**, pagine *Quests* e *Act Three* più le singole pagine di missione), con la tappa in cui questa guida le affronta.
 
 **Legenda:** ⚠️ = missabile o con un prerequisito che si perde · ⏱️ = ha una scadenza interna · ⛔ = via malvagia, in questa run non si fa.
 
@@ -510,11 +486,11 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 2. Fai la scelta "sbagliata" → **aspetta che il trofeo compaia a schermo**.
 3. **Ricarica** il salvataggio → rifai la scelta buona.
 
-Lo useremo **quattro volte**: **Scappatoia** (Tappa 30), **Omicidio a Baldur's Gate** (Tappa 45), **Il Potere Assoluto Corrompe** e **Ceremorfosi** (Tappa 50). ❌ *(La versione precedente ne contava tre: mancava il Tribunale dell'Omicidio, dove il trofeo richiede di uccidere Valeria.)*
+Lo useremo **quattro volte**: **Scappatoia** (Tappa 30), **Omicidio a Baldur's Gate** (Tappa 45), **Il Potere Assoluto Corrompe** e **Ceremorfosi** (Tappa 50).
 
 ### Trofei ottenibili nell'Atto 3
 
-> ✅ **Tutti i nomi qui sotto sono quelli della lista trofei PSN italiana ufficiale**, descrizione compresa. La versione precedente di questa guida lasciava quattro nomi in inglese dicendo che non erano verificabili: erano tutti nella lista.
+> ✅ **Tutti i nomi qui sotto sono quelli della lista trofei PSN italiana ufficiale**, descrizione compresa.
 
 | Trofeo (nome PSN italiano) | Descrizione ufficiale | Dove | Compatibile con la run buona? |
 |---|---|---|---|
@@ -534,7 +510,7 @@ Lo useremo **quattro volte**: **Scappatoia** (Tappa 30), **Omicidio a Baldur's G
 | 🏆 **Il Potere Assoluto Corrompe** *(nascosto)* | *Domina il cervello netherese, piega il mondo alla tua volontà e regna nel terrore.* | Tappa 50 | ⚠️ **Solo in 🔁 salva/ricarica** |
 | 🏆 **Ceremorfosi** *(nascosto)* | *Diventa un mindflayer, sconfiggi il cervello netherese e compi l'ultimo sacrificio.* | Tappa 50 | ⚠️ **Solo in 🔁 salva/ricarica** |
 
-> ⚠️ **Correzione importante — *Omicidio a Baldur's Gate* NON è compatibile con la run buona in una sola linea temporale.** Per entrare nei ranghi degli Assassini Nefandi devi **uccidere l'investigatrice Valeria** nel Mattatoio: è l'ultimo passo del rito, e senza quello Sarevok ti attacca. Quindi le occasioni di 🔁 salva/ricarica diventano **quattro**, non tre: *Scappatoia* (Tappa 30), ***Omicidio a Baldur's Gate*** (Tappa 45), *Il Potere Assoluto Corrompe* e *Ceremorfosi* (Tappa 50). Dettagli operativi alla Tappa 45.
+> ⚠️ ***Omicidio a Baldur's Gate* NON è compatibile con la run buona in una sola linea temporale.** Per entrare nei ranghi degli Assassini Nefandi devi **uccidere l'investigatrice Valeria** nel Mattatoio: è l'ultimo passo del rito, e senza quello Sarevok ti attacca. Quindi le occasioni di 🔁 salva/ricarica diventano **quattro**, non tre: *Scappatoia* (Tappa 30), ***Omicidio a Baldur's Gate*** (Tappa 45), *Il Potere Assoluto Corrompe* e *Ceremorfosi* (Tappa 50). Dettagli operativi alla Tappa 45.
 
 ### Trofei che questa run **non** può prendere
 
@@ -542,7 +518,7 @@ Lo useremo **quattro volte**: **Scappatoia** (Tappa 30), **Omicidio a Baldur's G
 |---|---|---|---|
 | 🏆 **Abbraccia la Pulsione** | *Diventa l'arma suprema di Bhaal: diventa il suo **Carnefice**.* | Richiede l'origine **Pulsione Oscura** | Seconda partita |
 | 🏆 **Le Colpe del Padre** | *Domina il cervello netherese per Bhaal, spezza il mondo e rivendica il trono di sangue.* | Richiede l'origine **Pulsione Oscura** | Seconda partita |
-| 🏆 **Colpo Critico** | *Completa il gioco con lo stile del DM più difficile.* | ❌ **Correzione: NON serve la modalità Onore.** Lo "stile del DM" richiesto è **Stratega** (*Tactician*) — Onore lo sblocca lo stesso, ma non è obbligatorio | Una run in **Stratega**: molto meno punitiva di Onore, perché puoi salvare e ricaricare |
+| 🏆 **Colpo Critico** | *Completa il gioco con lo stile del DM più difficile.* | ⚠️ **NON serve la modalità Onore**: lo "stile del DM" richiesto è **Stratega** (*Tactician*) — Onore lo sblocca lo stesso, ma non è obbligatorio | Una run in **Stratega**: molto meno punitiva di Onore, perché puoi salvare e ricaricare |
 
 ---
 
@@ -562,7 +538,7 @@ Se ne hai qualcuno ancora aperto, **l'Atto 3 è l'ultima occasione**. Falli entr
 | 🏆 **Giocatore di Ruolo** | *Completa 10 obiettivi di background.* | L'Atto 3 ne offre a decine (Vanra, Circo, Gilda, Tribunale…): tieni d'occhio le notifiche "Ispirazione" |
 | 🏆 **Alchimista Amatoriale** | *Crea 3 soluzioni alchemiche uniche.* | Estratti dalle erbe raccolte: bastano tre ricette diverse |
 | 🏆 **Non Servono Monete** | *Usa Individuazione dei Pensieri con successo.* | Opzione col girino nei dialoghi (sfondo azzurro). A Rivington ce ne sono molte |
-| 🏆 **Due Piccioni con uno Gnomo** | *Usa un nemico come arma improvvisata contro un altro avversario.* | ❌ **Correzione: l'azione *Lancia* NON conta.** Devi usare **Arma Improvvisata da Mischia** (o la sua versione ad azione bonus) impugnando un nemico piccolo. Karlach in Ira sugli gnomi di Rivington o sugli imp della Casa della Speranza |
+| 🏆 **Due Piccioni con uno Gnomo** | *Usa un nemico come arma improvvisata contro un altro avversario.* | ⚠️ **L'azione *Lancia* NON conta**: devi usare **Arma Improvvisata da Mischia** (o la sua versione ad azione bonus) impugnando un nemico piccolo. Karlach in Ira sugli gnomi di Rivington o sugli imp della Casa della Speranza |
 | 🏆 **Azione Impetuosa** | *Esegui 5 attacchi in un turno.* | Lae'zel 12: Velocità (da Gale) + **Impeto** = 6 attacchi |
 | 🏆 **Botte da Orbi** | *Uccidi un personaggio con un colpo senz'armi.* | Finisci un nemico quasi morto disarmando il personaggio. Vale anche se lo fa un evocato |
 | 🏆 **Pussa Via** | *Uccidi una creatura infliggendole danni da caduta.* | Spinta dalle passerelle della Fonderia o dai tetti del Palazzo Szarr |
@@ -630,7 +606,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 
 **Dove sei e cosa stai facendo.** Uscito dalla colonia illithid sbuchi a **Rivington**, il sobborgo agricolo **a sud** di Baldur's Gate. Qui non si combatte quasi: è la tappa in cui **si apre il campo nuovo**, si smaltiscono le **scene arretrate** dei compagni e si prende la mano con la mappa.
 
-❌ **Correzione: la città non è chiusa da un solo lasciapassare, e i blocchi sono DUE, in due punti diversi.**
+⚠️ **La città non è chiusa da un solo lasciapassare: i blocchi sono DUE, in due punti diversi.**
 
 **Blocco 1 — Posto di Blocco della Campata Sud** (Rivington → **Ponte del Dragone**). Lo passi **subito**: **Gauntlet Edwynna** vuole **200 mo**, poi la **Sentinella d'Acciaio** ti scansiona. Cosa succede dipende dagli atti precedenti:
 - se **Wulbren e gli gnomi Manoferrea sono vivi** (la tua run), arrivano **Nimble** e **Laridda**, accecano l'automa con una bomba e passi — e da quel momento la Sentinella è fusa e non scansiona più nessuno;
@@ -647,7 +623,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 | **Corruzione di Blaze Elin** | Persuasione CD 25 **e** 20.000 mo (assurdo) |
 | **Wyll parla per il gruppo** | Persuasione CD 30, e solo se non è diventato un diavolo |
 
-> 📌 **Conseguenza pratica sull'ordine delle tappe:** **La Carezza di Sharess, l'Ascia Danzante di Danthelon e la Pensione Fraygo NON sono in Città Bassa**: sono al **Ponte del Dragone**, cioè **prima** della Roccia del Dragone. Ci arrivi già alla Tappa 29. La versione precedente di questa guida li metteva in Città Bassa e rimandava **Voss** e **Arfur** alla Tappa 31: non serve aspettare.
+> 📌 **Conseguenza pratica sull'ordine delle tappe:** **La Carezza di Sharess, l'Ascia Danzante di Danthelon e la Pensione Fraygo NON sono in Città Bassa**: sono al **Ponte del Dragone**, cioè **prima** della Roccia del Dragone. Ci arrivi già alla Tappa 29, e non serve aspettare la Tappa 31 per **Voss** e **Arfur**.
 
 **L'ordine giusto della zona:** Tappa 27 (campo e giro di Rivington) → Tappa 28 (Circo) → Tappa 29 (indagine e secondarie) → Tappa 30 (Incoronazione).
 
@@ -716,7 +692,7 @@ Fai un giro completo **a piedi** prima di lanciarti nelle missioni: sblocchi tut
 
 - **Arfur Gregorio** — davanti alla sua villa ha assoldato **bravacci della Gilda** per **sfrattare i profughi** accampati in casa sua. ✅ **Schierati coi profughi** (Persuasione/Intimidazione): restano, nessuno combatte, prendi **ispirazione**. Poi scendi nel **seminterrato** → la lettera di ricatto avvia *Indaga sui Giocattoli Sospetti*. **Catena completa alla Tappa 29.3.**
 - **Il Bue Strano** (*Strange Ox*) — missione *Aiuta il Bue Diabolico*. ⚠️ **Non basta "non attaccarlo": va fatta una cosa precisa, ed è facilissimo perderla.** Parlagli e scegli **«*Immagino di sì. Che forma prenderai?*»**: si trasforma in una **Strana Mela** che **cade a terra** e che devi **raccogliere**. Se entri in Città Bassa senza la mela in inventario **la missione fallisce per sempre** (tornare a prenderla dopo non serve). Portata dentro, il Bue ti saluta, lascia l'**Anello del Dono del Mutaforma** e diventa **alleato per il finale**. ⚠️ Fallo **presto**: entrare in Città Bassa o far avanzare troppo la trama principale chiude la missione. *(Ucciderlo dà il **Cappello dell'Acume del Fuoco**, ma perdi l'alleato: non farlo.)*
-- ⛔ **"Tratta con gli Gnomi"** (*Deal with the Gnomes*) — ❌ **correzione: NON è una missione in cui aiuti gli gnomi.** Te la dà **Manip Falcão** al posto di blocco della Campata Sud e ti chiede di **stanare e uccidere Wulbren** nella **Cantina di Angleiron**, portandogli la sua testa. In una run buona **si rifiuta e basta**: uccidere Wulbren ti costa Barcus, gli Manoferrea, la **Bomba di Polvere Runica** della Tappa 42 e due alleati per il finale.
+- ⛔ **"Tratta con gli Gnomi"** (*Deal with the Gnomes*) — ⚠️ **non è una missione in cui aiuti gli gnomi.** Te la dà **Manip Falcão** al posto di blocco della Campata Sud e ti chiede di **stanare e uccidere Wulbren** nella **Cantina di Angleiron**, portandogli la sua testa. In una run buona **si rifiuta e basta**: uccidere Wulbren ti costa Barcus, gli Manoferrea, la **Bomba di Polvere Runica** della Tappa 42 e due alleati per il finale.
 - **Sfama il Mindflayer** (*Feed the Mind Flayer*) — **mulino abbandonato** di Rivington: scassina la porta e scendi in cantina, c'è un **illithid appena nato** che dorme. Parlarci apre la missione. ⚠️ Non è **Omeluum** (quello è al Trono di Ferro, Tappa 41). **Come si risolve → 27.4-bis qui sotto.**
 
 ---
@@ -736,7 +712,7 @@ L'illithid appena nato chiede **un cervello fresco**. Le opzioni sono tre e **ne
 **B) Convincerlo a cacciarsi il pasto da solo** (**Persuasione CD 15**) — sembra la via furba, ma è la peggiore: **va a caccia di gente viva**, muoiono degli NPC e **non prendi nulla**.
 
 **C) ✅ Ucciderlo** — è la scelta coerente con una run buona: è un predatore appena nato che, in ogni scenario in cui vive, **mangia qualcuno**. Attaccalo subito (dorme: apri con un attacco furtivo dal vantaggio). Lascia **ispirazione**, l'**Anello della Sincerità** (*Ring of Truthfulness*) e un **cervello di mindflayer**.
-   > ✅ **Correzione importante**: il cervello, **se lo consumi, vale un punto potere illithid**. Quindi **l'opzione C ti dà lo stesso punto dell'opzione A**, senza far morire nessuno.
+   > ✅ **Importante**: il cervello, **se lo consumi, vale un punto potere illithid**. Quindi **l'opzione C ti dà lo stesso punto dell'opzione A**, senza far morire nessuno.
 
 > 📌 **In sintesi: opzione C, e basta.** Il punto potere illithid lo prendi comunque (consumando il cervello), l'anello pure, e nessuno muore. L'opzione A costa la **famiglia Armbrust** e **rompe il giuramento del Paladino** per lo stesso identico bottino. L'opzione B (**Persuasione CD 15**) è la peggiore in assoluto: l'illithid va a caccia da solo, **Sloncha Owena muore**, **Bogdan Vortleson sparisce**, e **non prendi niente**.
 
@@ -789,7 +765,7 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
    | **Torso** | Sul cadavere di **Penela Lumpensicks**, nella grotta **sotto il Tempio della Mano Aperta** |
    | **Braccio** | Sul cadavere di **Coraggiosa Piccola Kimmabeth**, nel **seminterrato di Peartree House** |
    | **Gamba** | Sul cadavere di **Incontinentia Figgin**, nel **seminterrato della casa di Lavernica** |
-   | **Piede** | ❌ *(correzione)* Sul cadavere di **Winslow Reginol** nel **seminterrato della Casa di Rainforest**, in **Città Bassa** — fra Beehive General Goods e The Bibliophile, a sud-est della Sirena Timida. **Non** è nelle Rovine |
+   | **Piede** | Sul cadavere di **Winslow Reginol** nel **seminterrato della Casa di Rainforest**, in **Città Bassa** — fra Beehive General Goods e The Bibliophile, a sud-est della Sirena Timida. **Non** è nelle Rovine |
    | **Bacino** | Sul cadavere di **Gohumberry Tresp**, in un **edificio vuoto della Città Bassa** |
    | **Testa** | Sul cadavere di **Wilting Alex**, nelle **Rovine della Città Sotterranea** |
 
@@ -853,7 +829,7 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 **Bottino:** ispirazione (varia col background), **Pugnale +1** e il **Lasciapassare per l'Incoronazione Arciducale**.
 
-> ❌ **Correzione sull'ordine.** Arfur scappa a **La Carezza di Sharess**, che sta al **Ponte del Dragone**: ci arrivi **prima** dell'incoronazione, non dopo. E soprattutto: un **Lasciapassare per l'Incoronazione Arciducale** sta già lì dentro, **nella Grotta della Ninfa**, gratis — non serve né borseggiare Arfur né metterlo alle strette per entrare alla Roccia del Dragone. I **Fuochi d'Artificio di Felogyr** (Passo 5) sono invece davvero in Città Bassa.
+> 📌 **Ordine giusto.** Arfur scappa a **La Carezza di Sharess**, che sta al **Ponte del Dragone**: ci arrivi **prima** dell'incoronazione, non dopo. E soprattutto: un **Lasciapassare per l'Incoronazione Arciducale** sta già lì dentro, **nella Grotta della Ninfa**, gratis — non serve né borseggiare Arfur né metterlo alle strette per entrare alla Roccia del Dragone. I **Fuochi d'Artificio di Felogyr** (Passo 5) sono invece davvero in Città Bassa.
 
 ---
 
@@ -951,8 +927,7 @@ Con il lasciapassare entri in **Città Bassa**. Prima di tutto **cammina** lungo
    > 🥇 **AL TABERNACOLO CI VAI ADESSO, non alla Tappa 39.** Quella tappa sta in fondo **solo** per l'udienza di Gale, che è bloccata dietro gli Annali di Karsus (Tappa 36). **Queste due cose invece sono disponibili subito** e valgono per tutto l'atto:
    > - 🥇 **La benedizione** (*Unto nello Splendore*, **+2 permanente a tutti i tiri salvezza**): è permanente, quindi ogni scontro che fai senza è valore buttato — **Cazador compreso**. Costa 4.500 mo a testa **pagabili in oggetti**, quindi non aspettare di "avere l'oro". Dettagli completi alla **39.2**.
    > - 🎒 **Amuleto del Devoto** nel sotterraneo (**+2 alla CD di tutti gli incantesimi** di Cuorescuro): ⚠️ **non prenderlo a mano dal forziere**, rompilo o butta l'oggetto a terra. Dettagli alla **39.3**.
-   >
-   > ❌ **Correzione di struttura:** la vecchia versione di questo file lasciava entrambe le cose dentro la Tappa 39, facendole sembrare tardive. Non lo sono.
+
 3-bis. ⚠️ **Caserma della Porta del Basilisco: parla con Lora** (la madre di Vanra) appena entri. Apre *Salvare Vanra* ed è l'unico modo di avere le due ricompense della Tappa 34.
 4. ❌ **La Carezza di Sharess non è in Città Bassa: è al Ponte del Dragone** — quindi tutto quello che c'è dentro (**Valeria** e il lasciapassare, **Kith'rak Voss** per 🏆 *L'Ira della Regina-Lich*, **Arfur Gregorio**, il **Lasciapassare per l'Incoronazione** nella Grotta della Ninfa, **Naoise Nallinto** da salvare) lo fai già **alla Tappa 29**, prima dell'incoronazione. Se sei qui e non ci sei ancora passato, torna indietro: sono cinque minuti.
 5. ⚠️ **Volo.** Vicino alla Fonderia una folla vuole linciarlo: **salvalo**. È un alleato per il finale e conta per la coerenza della run.
@@ -1207,7 +1182,7 @@ Sulle **banchine subito a est del punto di viaggio rapido Heapside Strand** — 
 | **Oskar Fevras liberato nell'Atto 1** | La villa si infesta **solo** se l'hai riscattato dagli Zhentarim. Senza di lui non c'è missione: trovi solo la **mostra d'arte** (vedi 35bis.6) | Nascondiglio Zhentarim, Atto 1 |
 | ***Torch of Revocation*** | È l'unico oggetto che libera lo spirito dal ritratto | **Tappa 35**: gratis se hai fatto *Trova il Servitore del Mistico Carcame*, altrimenti **3.000 mo** da Carcame o dal forziere dorato se lo uccidi |
 
-> ❌ **Correzione già applicata al file dell'Atto 1** (lì la riga è aggiornata): la vecchia versione diceva "300–600 monete". Il prezzo di Brem è **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**. In alternativa lo si ottiene **senza pagare**, convincendo Brem che Oskar gli dà più problemi che guadagni.
+> 💰 **Prezzo dell'Arco Titanstring:** Brem chiede **1.000 mo**, che scendono a **600** superando **Persuasione CD 15** o **Intimidazione CD 20**. In alternativa lo si ottiene **senza pagare**, convincendo Brem che Oskar gli dà più problemi che guadagni.
 
 ### 🗺️ 35bis.1 — Geografia e i quattro modi di entrare
 
@@ -1346,9 +1321,9 @@ Il libro **non si "apre in sicurezza al terzo piano" di Curiosità Stregonesche*
   - **tutte e tre le pagine** → passivo **Conoscenza Proibita** (*Forbidden Knowledge*): **+1 ai tiri salvezza e alle prove di Saggezza**.
 - ✅ **Il passivo lo prendi comunque, anche fallendo tutti i tiri salvezza.** Le maledizioni si curano, il +1 resta: **girale tutte e tre**.
 
-> 📌 **Quello che mancava: il libro non finisce lì.** Girate le tre pagine, la *Necromanzia di Thay* **si richiude e non si riapre per nessuno**… finché il lettore non legge il **Codex Tharchiate** nella Volta Stregonesca (36.3). Fatto quello, il libro si riapre e l'ultima lettura sblocca l'incantesimo **Danza Macabra** (*Danse Macabre*). È la vera ricompensa della catena, e la versione precedente di questa guida non la nominava: **Volta Stregonesca → Codex Tharchiate → Necromanzia di Thay** sono un unico filo.
+> 📌 **Quello che mancava: il libro non finisce lì.** Girate le tre pagine, la *Necromanzia di Thay* **si richiude e non si riapre per nessuno**… finché il lettore non legge il **Codex Tharchiate** nella Volta Stregonesca (36.3). Fatto quello, il libro si riapre e l'ultima lettura sblocca l'incantesimo **Danza Macabra** (*Danse Macabre*). È la vera ricompensa della catena: **Volta Stregonesca → Codex Tharchiate → Necromanzia di Thay** sono un unico filo.
 
-> ❌ **Correzione su chi deve leggerlo.** Non è Gale il lettore ideale. Le prove alternative sono:
+> ⚠️ **Chi deve leggerlo:** non è Gale il lettore ideale. Le prove alternative sono:
 > - **Stregone → Carisma CD 5 / 10 / 15 su tutte e tre le pagine** → 🥇 **è il tuo protagonista** (Paladino/Stregone): è di gran lunga la strada più sicura;
 > - **Bardo** → Intrattenere 5/10/15 (stessa cosa);
 > - **Mago** (Gale) e **Warlock** (Wyll) → CD 5 **solo sulla prima pagina**, poi tornano i TS di Saggezza normali;
@@ -1360,7 +1335,7 @@ Il libro **non si "apre in sicurezza al terzo piano" di Curiosità Stregonesche*
 
 ### 36.5 — Torre di Ramazith
 
-> ⚠️ **Correzione importante**: **non** si sale "seguendo l'ordine dei simboli". La **Proiezione di Lorroakan**, al primo piano, apre **quattro portali** con altrettante targhe che descrivono il Canto Notturno. **Solo il portale azzurro pallido** — quello con la descrizione corretta — ti porta dentro. **Gli altri tre ti sbattono a terra e ti buttano fuori dall'edificio.**
+> ⚠️ **Importante**: **non** si sale "seguendo l'ordine dei simboli". La **Proiezione di Lorroakan**, al primo piano, apre **quattro portali** con altrettante targhe che descrivono il Canto Notturno. **Solo il portale azzurro pallido** — quello con la descrizione corretta — ti porta dentro. **Gli altri tre ti sbattono a terra e ti buttano fuori dall'edificio.**
 
 Dentro, sul **piano intermedio**, ci sono cinque **Pulsanti della Trama** su colonne:
 
@@ -1381,7 +1356,7 @@ Dentro, sul **piano intermedio**, ci sono cinque **Pulsanti della Trama** su col
 
 Altro bottino nella torre: **Cappello di Pelle di Serpente** (piano intermedio), **Pozione di Guarigione Suprema** (in cima), **Pergamena di Cerchio della Morte**, lingotto d'oro, **chiave Alta Sicurezza nº1**.
 
-> ❌ **Correzione**: il **Mantello dello Spostamento** *non* sta nella torre. Si **compra da Entharl Danthelon** all'**Ascia Danzante di Danthelon** (Ponte del Dragone) per circa **190 mo**. Se non l'hai già preso passando di lì, torna a comprarlo: costa niente.
+> ⚠️ Il **Mantello dello Spostamento** *non* sta nella torre. Si **compra da Entharl Danthelon** all'**Ascia Danzante di Danthelon** (Ponte del Dragone) per circa **190 mo**. Se non l'hai già preso passando di lì, torna a comprarlo: costa niente.
 
 ### 36.6 — ⚠️ Lorroakan e Dama Aylin — *Trova il Canto Notturno*
 
@@ -1467,7 +1442,7 @@ La porta che chiude la Camera della Perdita **non si apre da sola**. Quattro mod
 
 Sta all'**estremità ovest della Camera della Perdita**. Una volta aperta la Soglia **è usabile quando vuoi**: non serve aver già ucciso Viconia.
 
-> ❌ **Correzione — non funziona come "passi una prova e scegli il +2".** Sono **due prove distinte e in quest'ordine**: prima **Religione CD 20** per capire cos'è lo Specchio (Passo 1), poi **Religione CD 25** per pregare (Passo 2). ⚠️ **La preghiera non è un'ottimizzazione: è l'interruttore.** Finché non la superi, cedere ricordi non produce **nulla** — vedi la correzione al Passo 2.
+> ⚠️ **Non funziona come "passi una prova e scegli il +2".** Sono **due prove distinte e in quest'ordine**: prima **Religione CD 20** per capire cos'è lo Specchio (Passo 1), poi **Religione CD 25** per pregare (Passo 2). ⚠️ **La preghiera non è un'ottimizzazione: è l'interruttore.** Finché non la superi, cedere ricordi non produce **nulla** — vedi il Passo 2.
 
 #### Passo 1 — Sbloccarlo (una volta sola, per tutto il gruppo)
 
@@ -1483,9 +1458,9 @@ Un membro del gruppo deve riconoscere cos'è lo Specchio:
 
 #### Passo 2 — 🔑 La preghiera non è un bonus: è l'interruttore
 
-> ❌ **Correzione verificata sul campo.** La versione precedente di questo file diceva che, anche senza pregare, restava un **20% a tentativo** di pescare il *Ricordo del Patriar* (+1 Carisma). **È falso.** Nella run reale **cinque personaggi hanno ceduto tutti e sei i ricordi senza aver pregato: trenta tentativi, zero premi.** Se quel 20% esistesse, un risultato del genere avrebbe probabilità **~0,1%**.
+> ❌ **Senza la preghiera lo Specchio non dà nessuna probabilità residua di pescare il *Ricordo del Patriar* (+1 Carisma).** Verificato sul campo: **cinque personaggi hanno ceduto tutti e sei i ricordi senza aver pregato — trenta tentativi, zero premi.**
 >
-> ✅ **La regola vera: finché la preghiera non è superata, lo Specchio non dà NIENTE** — né il +2 né il +1 Carisma. Cedere ricordi prima di pregare è **perdita secca**: testo narrativo, **−2 temporanei**, e i gettoni **non tornano più**.
+> ✅ **La regola: finché la preghiera non è superata, lo Specchio non dà NIENTE** — né il +2 né il +1 Carisma. Cedere ricordi prima di pregare è **perdita secca**: testo narrativo, **−2 temporanei**, e i gettoni **non tornano più**.
 
 **Religione CD 25** — *offrire una preghiera allo Specchio*. È la prima cosa da fare, **prima di cedere qualunque ricordo**.
 
@@ -1551,7 +1526,7 @@ Chi ha letto la *Necromanzia di Thay* può cedere il passivo **Conoscenza Proibi
 
 #### Passo 7 — ⚠️ Cuorescuro: c'è una finestra, ed è stretta
 
-> ❌ **Correzione.** La versione precedente diceva che su Cuorescuro lo Specchio "semplicemente non funziona". È vero **solo dopo un certo momento**: se ha **rinnegato Shar**, lo Specchio le nega tutto dicendole che ha già ceduto quasi tutti i suoi ricordi.
+> ⚠️ **Su Cuorescuro lo Specchio smette di funzionare, ma solo da un certo momento in poi**: se ha **rinnegato Shar**, lo Specchio le nega tutto dicendole che ha già ceduto quasi tutti i suoi ricordi.
 >
 > 🔑 **Ma il gioco la considera ancora fedele a Shar finché non parla con i genitori del loro destino.** Se le fai usare lo Specchio **prima di quella scena**, i benefici li prende — anche se subito dopo rinnega Shar.
 >
@@ -1566,7 +1541,7 @@ Chi ha letto la *Necromanzia di Thay* può cedere il passivo **Conoscenza Proibi
 Oltre la Soglia, nella Camera della Perdita, ci sono i genitori **Arnell** ed **Emmeline Fogliasacra** (*Hallowleaf*). **Shar appare e chiede a Cuorescuro di ucciderli.**
 
 - ✅ **Rifiuta Shar.** Con **2 ricordi + approvazione 50+ + la conversazione sugli odori** già fatti, Cuorescuro **li salva senza dover passare prove disperate**: si riprendono al campo e la famiglia si riunisce.
-- ⚠️ **Nota di correzione**: la **Lancia della Notte di Selûne** **non è una ricompensa di questa tappa** — è la trasformazione della *Lancia della Notte* del **Guanto di Shar (Atto 2)**, decisa da come hai chiuso *Il Prescelto di Shar*. Qui la ricompensa vera è **la sua fine migliore**, più lo scudo di Viconia.
+- ⚠️ **Nota**: la **Lancia della Notte di Selûne** **non è una ricompensa di questa tappa** — è la trasformazione della *Lancia della Notte* del **Guanto di Shar (Atto 2)**, decisa da come hai chiuso *Il Prescelto di Shar*. Qui la ricompensa vera è **la sua fine migliore**, più lo scudo di Viconia.
 
 ---
 
@@ -1668,7 +1643,7 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 
 ### 39.2 — 🥇 Offerte e benedizioni: falle, e la divinità non conta
 
-> ❌ **Correzione — verificata su bg3.wiki.** La versione precedente diceva "scegli bene" e lasciava intendere che la divinità facesse differenza. **Non ne fa nessuna: tutti gli dei danno la stessa identica benedizione.** La scelta è **puro roleplay**.
+> ⚠️ **La divinità che scegli non fa nessuna differenza** (verificato su bg3.wiki): **tutti gli dei danno la stessa identica benedizione.** La scelta è **puro roleplay**.
 
 🥇 **Unto nello Splendore** (*Anointed in Splendour*): **+2 a TUTTI i tiri salvezza**, e — dalla **Patch 6** — **permanente**: sopravvive ai riposi lunghi. *(Prima era un buff giornaliero da rinnovare pregando; ora si paga una volta sola.)*
 
@@ -1727,7 +1702,7 @@ Nel sotterraneo ci sono gli **sfiati trappolati** e i **forzieri delle offerte**
    - ✅ **La scelta buona**: sostienilo, ma **digli che non deve nulla a Mystra** e soprattutto **che non deve sacrificarsi**. La decisione sulla Corona si prende alla fine (Tappa 50): lì gli consiglierai di **restituirla**.
    - ⚠️ Se Gale ha firmato il contratto con **Raphael** per l'orbo, **distruggilo alla Casa della Speranza** (Tappa 40): senza quello non è davvero libero di scegliere.
 
-> ❌ **Correzione**: **Aelis Siryasius non sta al Tabernacolo.** È uno **stregone mezzo-drow** che si è barricato in una sezione delle **Fogne della Città Bassa** (zona della Tappa 32), legato all'enigma dello **scheletro di Sarin**. Il PNG del Tabernacolo è il **Vicario Humbletoes**, che fa anche da mercante.
+> ⚠️ **Aelis Siryasius non sta al Tabernacolo.** È uno **stregone mezzo-drow** che si è barricato in una sezione delle **Fogne della Città Bassa** (zona della Tappa 32), legato all'enigma dello **scheletro di Sarin**. Il PNG del Tabernacolo è il **Vicario Humbletoes**, che fa anche da mercante.
 
 ---
 
@@ -1973,7 +1948,7 @@ Chi non è tornato al sommergibile allo scadere **muore all'istante**.
 - **Le leve**: tirarle **a mano non costa un'azione**. Da lontano si attivano **con attacchi a distanza** — un *Dardo Incantato* o un *Raggio Rovente* può farne **scattare più di una nello stesso turno**.
 - ✅ **I Gondiani liberati corrono da soli alla scaletta**: non devi scortarli, sanno la strada. Sono però disarmati, quindi coprili se puoi.
 - ⚠️ **Ravengard e Omeluum diventano seguaci controllabili** — ma **si agganciano al capogruppo, non a chi li libera**: tienilo presente quando dividi la squadra. **PF di Ravengard: 35 in Esploratore, 29 in Equilibrato, 21 in Stratega/Onore.** È di vetro: non lasciarlo in mezzo ai sahuagin.
-- **Omeluum** può **teletrasportare sé stesso e un alleato al sommergibile una volta per round**: è il tuo jolly. ❌ **Correzione sulla condizione**: non basta «averlo salvato nell'Atto 1» — Omeluum è prigioniero qui **solo se NON hai consegnato l'uovo githyanki a Lady Esther** nell'Atto 1 (e se non l'hai ucciso). Se l'uovo l'hai dato a Lady Esther, Omeluum non c'è: è alla **Loggia della Genialità** e al suo posto trovi **Ptaris**.
+- **Omeluum** può **teletrasportare sé stesso e un alleato al sommergibile una volta per round**: è il tuo jolly. ⚠️ **Attenzione alla condizione**: non basta averlo salvato nell'Atto 1 — Omeluum è prigioniero qui **solo se NON hai consegnato l'uovo githyanki a Lady Esther** nell'Atto 1 (e se non l'hai ucciso). Se l'uovo l'hai dato a Lady Esther, Omeluum non c'è: è alla **Loggia della Genialità** e al suo posto trovi **Ptaris**.
 - **Chiudi le porte dei tunnel** dietro di te e usa i **rilevatori di calore** per sigillare i sahuagin.
 - **Priorità**: **1) Ravengard → 2) Omeluum → 3) più Gondiani possibile.**
 
@@ -2062,7 +2037,7 @@ Nel Centro di Controllo, **nascosto sotto una piattaforma mobile**: **Titano di 
 
 ⚠️ **Salvataggio manuale prima.**
 
-> ✅ **Nome del trofeo, verificato:** in italiano è **Passo Leggiadro** (*Fancy Footwork*) — *«Sconfiggi Gortash senza far scattare neanche una trappola: più facile a dirsi che a farsi.»* ❌ La versione precedente di questa guida diceva che "Passo Leggiadro" era una traduzione di comodo: è invece la **dicitura ufficiale della lista PSN italiana**.
+> ✅ **Nome del trofeo, verificato:** in italiano è **Passo Leggiadro** (*Fancy Footwork*) — *«Sconfiggi Gortash senza far scattare neanche una trappola: più facile a dirsi che a farsi.»*
 
 ### 🗺️ 43.1 — La sala del trono, pezzo per pezzo
 
@@ -2116,7 +2091,7 @@ Gortash è un **boss di livello 9**: da solo non è un problema, **si appoggia a
 
 > 🎭 **Squadra ideale:** Tu + **Wyll** + **Gale** + **Karlach** — è la tappa con più aiuti in dialogo: **Wyll** suggerisce la sentenza giusta nella prova di *Giustizia*, **Gale** risolve la scacchiera nella prova di *Strategia* (e ci guadagna **+1 approvazione**). Karlach serve per il burst su Ansur nel turno in cui vola (il trofeo si prende solo così).
 
-❌ **Correzione: non serve aver salvato Ravengard.** È vero che di solito è lui a parlarti di Ansur, ma la stessa informazione te la danno anche la **Consigliera Florrick** e **Cordula Eltan** — e in ogni caso **la Via del Dragone si può aprire ed esplorare da subito**, appena hai accesso alla Roccia del Dragone. Resta comodissimo farla **dopo la morte di Gortash**, con la fortezza sgombra.
+⚠️ **Non serve aver salvato Ravengard.** È vero che di solito è lui a parlarti di Ansur, ma la stessa informazione te la danno anche la **Consigliera Florrick** e **Cordula Eltan** — e in ogni caso **la Via del Dragone si può aprire ed esplorare da subito**, appena hai accesso alla Roccia del Dragone. Resta comodissimo farla **dopo la morte di Gortash**, con la fortezza sgombra.
 
 > ✅ **Nome del trofeo, verificato:** in italiano è **Atterraggio Forzato** (*Crash Landing*) — *«Nella **Via del Dragone**, aspetta che il drago sia a mezz'aria e buttalo giù: BADABOOM!»* È anche la conferma che **"Wyrmway" in italiano si chiama Via del Dragone**.
 
@@ -2154,7 +2129,7 @@ Le prove portano al **Santuario del Drago** (*The Dragon's Sanctum*), dove ripos
 - ⚠️ **Quando scende a circa metà PF comincia a caricare la *Nova Cuoredi Tempesta***: quando la scarica sono **18d10 da fulmine su tutta l'arena**.
 - **Fase 2**: dopo la nova evoca **cinque scariche di fulmine a turno**. Ai livelli di difficoltà alti piove: il gruppo diventa **Bagnato** e quindi **più vulnerabile al fulmine**.
 
-> 🏆 **Per il trofeo devi buttarlo giù mentre è a mezz'aria.** Correzione importante rispetto a prima: **non è un turno casuale** — è la **soglia di metà PF** a farlo alzare in volo per caricare la nova. Quindi il piano è:
+> 🏆 **Per il trofeo devi buttarlo giù mentre è a mezz'aria.** **Non è un turno casuale** — è la **soglia di metà PF** a farlo alzare in volo per caricare la nova. Quindi il piano è:
 > 1. Portalo **appena sopra il 50%** e fermati lì.
 > 2. **Prepara tutto**: Karlach in Ira con Attacco Furioso, **Azione Impetuosa**, **Velocità**, Elisir di Forza del Gigante, Gale con Disintegrazione, il protagonista con Punizione Divina massimizzata.
 > 3. **Sfonda la soglia** e, nel turno in cui si alza, **scarica tutto insieme**.
@@ -2167,7 +2142,7 @@ Le prove portano al **Santuario del Drago** (*The Dragon's Sanctum*), dove ripos
 
 - **Ammazzagiganti di Balduran** (*Balduran's Giantslayer*) — spadone leggendario, **da Ansur** → Karlach o Lae'zel.
 - **Elmo di Balduran** (*Helm of Balduran*) — ⚠️ **non è un drop**: sta **sull'altare di pietra accanto ad Ansur**, prendilo a mano. È **il miglior elmo del gioco**:
-  - **+1 alla CA e a tutti i tiri salvezza** *(correzione: non +2 CA come diceva prima questa guida)*;
+  - **+1 alla CA e a tutti i tiri salvezza** *(non +2 CA)*;
   - **cura 2 PF all'inizio di ogni tuo turno** in combattimento;
   - **immunità ai colpi critici** e **immunità a Stordito**.
   → Sul tank.
@@ -2205,9 +2180,9 @@ All'ingresso **Ciò Che Sorveglia** ti sbarra la strada: *"Presentami bene un do
 
 Superata la prova, Sarevok ti porta nel **Mattatoio** e ti mette davanti l'ultimo passo del rito.
 
-### 45.4 — ❌ LA CORREZIONE PIÙ IMPORTANTE DELLA TAPPA: Valeria e il trofeo si escludono
+### 45.4 — ⚠️ IL BIVIO PIÙ IMPORTANTE DELLA TAPPA: Valeria e il trofeo si escludono
 
-Nel Mattatoio c'è **Valeria**, l'**investigatrice hollyphant**, incatenata. La versione precedente di questa guida diceva che potevi passare la prova, prendere il trofeo **e** risparmiarla: **non è possibile**.
+Nel Mattatoio c'è **Valeria**, l'**investigatrice hollyphant**, incatenata. **Non esiste un modo di prendere il trofeo e risparmiarla**: o l'una, o l'altro.
 
 | Cosa fai | Cosa ottieni | Cosa perdi |
 |---|---|---|
@@ -2260,7 +2235,7 @@ Il **Tempio di Bhaal** sta **in fondo al settore nord-est delle Rovine della Cit
 
 ### 46.2 — ⚠️ Il passaggio che cambia tutto lo scontro
 
-❌ **Correzione doppia.** Non è vero che basta "passare una Persuasione CD 25" a caso; ma **non è nemmeno vero che puoi evitare la trasformazione**: in una run che non sia Pulsione Oscura, **Orin invoca Bhaal e diventa il Carnefice comunque**. Quello che le rivelazioni ti fanno davvero ottenere è **salvare l'ostaggio** — che non è poco, perché **se l'ostaggio è un compagno e muore qui, non lo resuscita più nessuno, nemmeno Withers**.
+⚠️ **Due cose da chiarire.** Non basta "passare una Persuasione CD 25" a caso, e **non puoi evitare la trasformazione**: in una run che non sia Pulsione Oscura, **Orin invoca Bhaal e diventa il Carnefice comunque**. Quello che le rivelazioni ti fanno davvero ottenere è **salvare l'ostaggio** — che non è poco, perché **se l'ostaggio è un compagno e muore qui, non lo resuscita più nessuno, nemmeno Withers**.
 
 Ci sono **due** modi di salvarlo, e conviene arrivare all'altare potendoli usare entrambi:
 
@@ -2278,7 +2253,7 @@ Ci sono **due** modi di salvarlo, e conviene arrivare all'altare potendoli usare
 
 ### 46.3 — Lo scontro
 
-> ❌ **Correzione**: **non è un duello uno-contro-uno.** Il duello con i compagni esclusi è **solo per l'origine Impulso Oscuro**. Nella tua run è un normale **scontro di gruppo**, con il seguito di Orin: **Teschio della Morte**, **Invocatori** e **Mietitori di Bhaal**.
+> ⚠️ **Non è un duello uno-contro-uno.** Il duello con i compagni esclusi è **solo per l'origine Impulso Oscuro**. Nella tua run è un normale **scontro di gruppo**, con il seguito di Orin: **Teschio della Morte**, **Invocatori** e **Mietitori di Bhaal**.
 
 🏆 **Per il trofeo devi uccidere Orin mentre i cultisti stanno ancora salmodiando.** Quindi:
 
@@ -2347,7 +2322,7 @@ Ogni riga è un alleato in più alla battaglia finale. ⚠️ **Le righe segnate
 | **Orsogufo Corazzato** | Cucciolo liberato + reclutato come seguace del campo negli Atti 1-2 + **Dammon vivo** ✅ |
 | **Volo** | Liberato nell'Atto 1 + **salvato dalla folla** vicino alla Fonderia (Tappa 31) |
 | **Barcus Wroot** | Salvato 3 volte + Fonderia distrutta + **nuovo capo del Clan Manoferrea** (Tappa 42). *Si esclude con Wulbren* |
-| 📌 **I Gondiani** | Basta **salvarne una parte** al Trono di Ferro + schierarsi con loro o mettere Barcus al posto di Wulbren. ❌ *Correzione: non serve salvarli tutti e 13 per avere i Gondiani come alleati* |
+| 📌 **I Gondiani** | Basta **salvarne una parte** al Trono di Ferro + schierarsi con loro o mettere Barcus al posto di Wulbren. ⚠️ *Non serve salvarli tutti e 13 per avere i Gondiani come alleati* |
 | 📌 **Zanner Toobin** (evocazione a sé: una Sentinella d'Acciaio ricalibrata) | ⚠️ **Questo sì** richiede di aver salvato **tutti e 13** i Gondiani al Trono di Ferro. È il vero motivo per cui la corsa della Tappa 41 va fatta bene (e dà anche l'ispirazione *Contro Ogni Previsione*) |
 | **Yurgir** | Contratto spezzato (Atto 2) + **combattuto con te contro Raphael** alla Casa della Speranza (Tappa 40) |
 | **Ulma e i Gur** | Cazador sconfitto **senza** che Astarion ascenda (Tappa 38). *Si esclude con l'Astarion Asceso* |
@@ -2415,7 +2390,7 @@ Le Pietranether può impugnarle **solo un illithid**: qualcuno deve trasformarsi
 | **Il protagonista** | Diventi mindflayer per sempre → è la strada per 🏆 **Ceremorfosi** (da fare in 🔁 salva/ricarica). Orpheus resta sé stesso e **guida la rivolta githyanki contro Vlaakith**, arrivando in volo sui draghi rossi |
 | **Karlach** | Si sacrifica lei: resta a Faerûn ma **perdi la sua fine nell'Averno**. Anche qui Orpheus resta integro e guida la rivolta |
 
-> ⚠️ **Questa è la correzione più importante della tappa.** Il file prima presentava "si offre Orpheus" come una scelta indolore: **non lo è**. Va benissimo lasciarlo fare — è comunque l'opzione che non costa nulla al tuo gruppo — ma **tieni pronta un'Ispirazione per la Persuasione CD 20** sulle banchine, altrimenti il principe che hai appena liberato si toglie la vita davanti a te.
+> ⚠️ **Il punto più importante della tappa: "si offre Orpheus" NON è una scelta indolore.** Va benissimo lasciarlo fare — è comunque l'opzione che non costa nulla al tuo gruppo — ma **tieni pronta un'Ispirazione per la Persuasione CD 20** sulle banchine, altrimenti il principe che hai appena liberato si toglie la vita davanti a te.
 
 💾 **Salvataggio manuale "PRIMA DEL GIRINO"**: da qui prenderai poi 🏆 *Ceremorfosi*.
 
@@ -2631,13 +2606,13 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 
 ## 🧭 COSA RESTA FUORI DA QUESTA PARTITA (e come prenderlo)
 
-La lista PSN italiana ha **54 trofei**: 53 più il platino **Orgoglio di Baldur's Gate**. Con questa run buona — usando le **quattro** occasioni di 🔁 salva/ricarica — arrivi a **50 trofei su 53**. ❌ *(La versione precedente diceva "51 su 54": conteggio sbagliato, perché sommava anche il platino, che con tre trofei mancanti non può scattare.)* Restano tre trofei **non ottenibili** qui:
+La lista PSN italiana ha **54 trofei**: 53 più il platino **Orgoglio di Baldur's Gate**. Con questa run buona — usando le **quattro** occasioni di 🔁 salva/ricarica — arrivi a **50 trofei su 53**. Restano tre trofei **non ottenibili** qui:
 
 | Trofeo | Requisito | Come prenderlo |
 |---|---|---|
 | 🏆 **Abbraccia la Pulsione** | Diventare l'arma suprema di Bhaal — **solo Pulsione Oscura** | Seconda partita con origine **Pulsione Oscura** |
 | 🏆 **Le Colpe del Padre** | Dominare il Cervello per Bhaal — **solo Pulsione Oscura** | Stessa partita di sopra: salva prima del finale e prendi entrambi |
-| 🏆 **Colpo Critico** | ❌ **Correzione: NON serve la modalità Onore.** La descrizione italiana dice *«completa il gioco con lo stile del DM più difficile»* e si riferisce a **Stratega** (*Tactician*); Onore lo sblocca lo stesso, ma non è richiesto | Una run in **Stratega** — dove **puoi salvare e ricaricare**, quindi molto più gestibile di Onore |
+| 🏆 **Colpo Critico** | ⚠️ **NON serve la modalità Onore.** La descrizione italiana dice *«completa il gioco con lo stile del DM più difficile»* e si riferisce a **Stratega** (*Tactician*); Onore lo sblocca lo stesso, ma non è richiesto | Una run in **Stratega** — dove **puoi salvare e ricaricare**, quindi molto più gestibile di Onore |
 
 > 💡 **Piano platino consigliato (aggiornato):** questa run buona (50/53) → poi **una sola seconda partita: Pulsione Oscura in Stratega**. Chiude tutti e tre i trofei mancanti in un colpo solo — *Abbraccia la Pulsione*, *Le Colpe del Padre* e *Colpo Critico* — e in Stratega **puoi salvare e ricaricare**, quindi i due finali della Pulsione Oscura li prendi con la stessa tecnica che usi qui. Non serve affrontare la modalità Onore.
 
@@ -2657,7 +2632,7 @@ Ricerca svolta ad agosto 2026. Fonti principali:
 - **Secondarie**: [bg3.wiki — Avenge the Drowned](https://bg3.wiki/wiki/Avenge_the_Drowned) · [bg3.wiki — Water Queen's House](https://bg3.wiki/wiki/Water_Queen%27s_House) · [bg3.wiki — Redhammer](https://bg3.wiki/wiki/Redhammer) · [bg3.wiki — Wavemother's Robe](https://bg3.wiki/wiki/Wavemother%27s_Robe) · [bg3.wiki — Sahuagin Champion](https://bg3.wiki/wiki/Sahuagin_Champion) · [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Find Dribbles the Clown](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) · [bg3.wiki — Investigate the Murders](https://bg3.wiki/wiki/Investigate_the_Murders) · [bg3.wiki — Feed the Mind Flayer](https://bg3.wiki/wiki/Feed_the_Mind_Flayer) · [bg3.wiki — Investigate the Suspicious Toys](https://bg3.wiki/wiki/Investigate_the_Suspicious_Toys) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
 - **Finali e alleati**: [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Endings](https://bg3.wiki/wiki/Endings) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies)
 - **Trofei**: **Lista trofei PSN italiana** — [UAGNA — Lista Trofei Baldur's Gate 3](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538) · [bg3.wiki — Guida "Fancy Footwork"](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)) · [Tigore's Tips — Fancy Footwork](https://tigorestips.com/dnd/bg3-gortashs-fancy-footwork-achievement-guide/) · [Tigore's Tips — Crash Landing (Ansur)](https://tigorestips.com/dnd/bg3-wyrmway-crash-landing-achievement-guide/) · [SegmentNext — Crash Landing](https://segmentnext.com/baldurs-gate-3-crash-landing/) · [PlayStationTrophies — Interfectorem Draconis](https://www.playstationtrophies.org/game/baldurs-gate-iii/trophy/interfectorem-draconis.html) · [dotesports — Mind Blown](https://dotesports.com/baldurs-gate/news/baldurs-gate-3-how-to-complete-the-mind-blown-achievement-in-bg3) · [TheGamer — Come corteggiare l'Imperatore](https://www.thegamer.com/baldurs-gate-3-bg3-the-emperor-romance-guide/) · [bg3.wiki — Leave No One Behind](https://bg3.wiki/wiki/Leave_No_One_Behind) · [GameRant — Trovare ogni tiefling](https://gamerant.com/baldurs-gate-3-bg3-find-every-missing-tiefling-leave-no-one-behind/) · [XboxAchievements — The Lich-Queen's Wrath](https://www.xboxachievements.com/game/baldurs-gate-3/achievement/the-lich-queens-wrath.html)
-- **Revisione del 31 agosto 2026 — verifica location e nomi**: pagine di zona e di luogo su bg3.wiki ([Rivington](https://bg3.wiki/wiki/Rivington) · [Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing) · [South Span Checkpoint](https://bg3.wiki/wiki/South_Span_Checkpoint) · [Sharess' Caress](https://bg3.wiki/wiki/Sharess%27_Caress) · [Fraygo's Flophouse](https://bg3.wiki/wiki/Fraygo%27s_Flophouse) · [Lower City](https://bg3.wiki/wiki/Lower_City) · [Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers) · [Undercity Ruins](https://bg3.wiki/wiki/Undercity_Ruins) · [Upper City](https://bg3.wiki/wiki/Upper_City) · [The Wyrmway](https://bg3.wiki/wiki/The_Wyrmway) · [Old Garlow's Place](https://bg3.wiki/wiki/Old_Garlow%27s_Place) · [The Counting House](https://bg3.wiki/wiki/The_Counting_House) · [Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal) · [Society of Brilliance](https://bg3.wiki/wiki/Society_of_Brilliance)) · [bg3.wiki — Lista completa degli achievement](https://bg3.wiki/wiki/Achievements) · **[UAGNA — Lista trofei PSN italiana completa](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538)** (fonte dei nomi *Passo Leggiadro*, *Primo Sangue*, *Atterraggio Forzato*, *Omicidio a Baldur's Gate*, *Via del Dragone*, *Carnefice*, *stile del DM*)
+- **Verifica di location e nomi**: pagine di zona e di luogo su bg3.wiki ([Rivington](https://bg3.wiki/wiki/Rivington) · [Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing) · [South Span Checkpoint](https://bg3.wiki/wiki/South_Span_Checkpoint) · [Sharess' Caress](https://bg3.wiki/wiki/Sharess%27_Caress) · [Fraygo's Flophouse](https://bg3.wiki/wiki/Fraygo%27s_Flophouse) · [Lower City](https://bg3.wiki/wiki/Lower_City) · [Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers) · [Undercity Ruins](https://bg3.wiki/wiki/Undercity_Ruins) · [Upper City](https://bg3.wiki/wiki/Upper_City) · [The Wyrmway](https://bg3.wiki/wiki/The_Wyrmway) · [Old Garlow's Place](https://bg3.wiki/wiki/Old_Garlow%27s_Place) · [The Counting House](https://bg3.wiki/wiki/The_Counting_House) · [Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal) · [Society of Brilliance](https://bg3.wiki/wiki/Society_of_Brilliance)) · [bg3.wiki — Lista completa degli achievement](https://bg3.wiki/wiki/Achievements) · **[UAGNA — Lista trofei PSN italiana completa](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538)** (fonte dei nomi *Passo Leggiadro*, *Primo Sangue*, *Atterraggio Forzato*, *Omicidio a Baldur's Gate*, *Via del Dragone*, *Carnefice*, *stile del DM*)
 - **Nomi italiani di luoghi, PNG e oggetti**: [NextGenTech.it — Guida strategica Atto 3](https://www.nextgentech.it/gaming/guida-strategica/baldurs-gate-3-guida-strategica-atto-3/) · [Bazaverse — Rivington](https://bazaverse.com/2024/04/22/baldurs-gate-3-rivington/) · [Bazaverse — La Guida Completa](https://bazaverse.com/2024/04/17/baldurs-gate-3-la-guida-completa/)
 
 ---
