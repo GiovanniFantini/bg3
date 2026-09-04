@@ -16,6 +16,7 @@
 - [0-SEPTIES. 🧾 Correzioni ai file precedenti e a questo](#0-septies--correzioni-ai-file-precedenti-e-a-questo)
 - [0-OCTIES. 🔬 Studio approfondito — i compagni nell'Atto 3](#0-octies--studio-approfondito--i-compagni-nellatto-3)
 - [🗺️ Atlante dell'Atto 3 — tutte le location e tutte le interazioni](#️-atlante-dellatto-3--tutte-le-location-e-tutte-le-interazioni)
+- [📋 Tutte le missioni dell'Atto 3 e in che tappa stanno](#-tutte-le-missioni-dellatto-3-e-in-che-tappa-stanno)
 - [🏆 Tutti i trofei dell'Atto 3 (+ la tecnica salva/ricarica)](#-tutti-i-trofei-dellatto-3--la-tecnica-salvaricarica)
 - [🎯 I trofei "sparsi" da chiudere qui](#-i-trofei-sparsi-da-chiudere-qui-non-legati-a-una-tappa)
 - [🎭 Chi portare, tappa per tappa](#-chi-portare-tappa-per-tappa)
@@ -36,6 +37,7 @@
 - [Tappa 38 — Palazzo Szarr e Cazador (Astarion)](#tappa-38--palazzo-szarr-e-cazador-astarion-liv-12)
 - [Tappa 39 — Tabernacolo di Rivatempestosa (Gale e Mystra)](#tappa-39--tabernacolo-di-rivatempestosa-gale-e-mystra-liv-12)
 - [Tappa 40 — Casa della Speranza: Raphael, Speranza, Martello Orfico](#tappa-40--casa-della-speranza-raphael-speranza-martello-orfico-liv-12)
+- [Tappa 40-bis — Casa della Regina delle Acque: Vendica gli Annegati](#tappa-40-bis--casa-della-regina-delle-acque-vendica-gli-annegati-liv-12--️-scade-col-trono-di-ferro)
 - [Tappa 41 — ⏱️ Trono di Ferro](#tappa-41--️-trono-di-ferro-liv-12--la-tappa-più-difficile-dellatto)
 - [Tappa 42 — Fonderia delle Sentinelle d'Acciaio](#tappa-42--fonderia-delle-sentinelle-dacciaio-liv-12)
 - [Tappa 43 — 🏆 Gortash](#tappa-43---gortash-liv-12--trofeo-passo-leggiadro)
@@ -121,9 +123,9 @@ L'Atto 3 è il più grande, il più libero e **il più facile da rovinare**. Tre
 
 ## 0-QUINQUIES. 🔗 L'ORDINE OBBLIGATO IN UNA RIGA
 
-> Rivington e circo → **Ponte del Dragone** (Valeria, il lasciapassare, Voss, Danthelon) → **Incoronazione (senza combattere)** → Florrick → Città Bassa e mercanti → **Jaheira/Minsc** → tutte le secondarie e le missioni dei compagni → **Fermare le Rotative** → **Casa della Speranza** → **⏱️ Trono di Ferro** → **Fonderia** → **🏆 Gortash** → **Via del Dragone/Ansur** → **🏆 Tribunale** → **🏆 Orin** → riposi, romance, alleati → **🚩 Pozza Morfica** → finale.
+> Rivington e circo → **Ponte del Dragone** (Valeria, il lasciapassare, Voss, Danthelon) → **Incoronazione (senza combattere)** → Florrick → Città Bassa e mercanti → **Jaheira/Minsc** → tutte le secondarie e le missioni dei compagni → **Fermare le Rotative** → **Casa della Speranza** → **⚠️ Vendica gli Annegati (tempio di Umberlee)** → **⏱️ Trono di Ferro** → **Fonderia** → **🏆 Gortash** → **Via del Dragone/Ansur** → **🏆 Tribunale** → **🏆 Orin** → riposi, romance, alleati → **🚩 Pozza Morfica** → finale.
 
-Tutto ciò che sta fra "Città Bassa" e "Fermare le Rotative" puoi farlo nell'ordine che preferisci: le Tappe 34-40 sono indipendenti fra loro. Le ho messe in ordine di comodità geografica e di potenziamento (le ricompense migliori arrivano prima del Trono di Ferro, che è lo scontro più duro dell'atto).
+Tutto ciò che sta fra "Città Bassa" e "Fermare le Rotative" puoi farlo nell'ordine che preferisci: le Tappe 34-40 sono indipendenti fra loro. **Una sola eccezione: la Tappa 40-bis (*Vendica gli Annegati*) va avviata prima del Trono di Ferro**, altrimenti si perde. Le ho messe in ordine di comodità geografica e di potenziamento (le ricompense migliori arrivano prima del Trono di Ferro, che è lo scontro più duro dell'atto).
 
 ---
 
@@ -164,6 +166,12 @@ Da lì in poi l'unica progressione è **l'equipaggiamento**.
 ## 0-SEPTIES. 🧾 CORREZIONI AI FILE PRECEDENTI E A QUESTO
 
 > 🔎 **Revisione del 31 agosto 2026.** Tutte le location dell'Atto 3 sono state ricontrollate una per una sulle pagine di zona, di luogo e di missione di **bg3.wiki**, e i nomi italiani sono stati riverificati su fonti italiane (lista trofei PSN, guide e let's play in italiano). L'elenco completo dei luoghi con tutte le loro interazioni è nel nuovo **[🗺️ Atlante dell'Atto 3](#️-atlante-dellatto-3--tutte-le-location-e-tutte-le-interazioni)**.
+
+> ➕ **Aggiunta del 4 settembre 2026 — due contenuti che l'atlante nominava ma che non avevano una tappa.** Stanno tutti e due sull'acqua, e seguendo il percorso com'era scritto si perdevano:
+> 1. **La linea del mare ai moli** — il tempio di Umberlee e la missione *Vendica gli Annegati*: ora è la **[Tappa 40-bis](#tappa-40-bis--casa-della-regina-delle-acque-vendica-gli-annegati-liv-12--️-scade-col-trono-di-ferro)**. ⚠️ **È missabile: si avvia solo prima di risolvere il Trono di Ferro.**
+> 2. **L'assalto dei sahuagin alle banchine di Heapside Strand** — ora è il punto **35.1-ter**.
+>
+> Verificati su bg3.wiki: *Avenge the Drowned*, *Water Queen's House*, *Redhammer*, *Sahuagin Champion*.
 
 ### Nomi corretti in questa revisione
 
@@ -279,7 +287,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 | **Emporio di Rivington** (*Rivington General*) | Mercante generico · **Catena Elfica** · sotto c'è la **Cantina di Angleiron** | 27 |
 | ↳ **Cantina di Angleiron** (*Angleiron's Cellar*) | **Gyldro Angleiron** · è il **nascondiglio degli gnomi Manoferrea** (Wulbren, Nimble, Laridda: ci si rifugiano dopo aver disattivato la Sentinella al posto di blocco). ⛔ **È il posto che Manip Falcäo ti chiede di sterminare: non farlo** | 27 |
 | **Corrieri della Costa della Spada** (*Sword Coast Couriers*) | *Trova le Lettere Mancanti* · canile dei cani messaggeri · 📌 **Rapporto Urgente per il Duca Ravengard**: è uno dei lasciapassare validi per entrare alla Roccia del Dragone · lì vicino, il **profugo assassinato nel pozzo** | 27 / 30 |
-| **Tempio della Mano Aperta** (*Open Hand Temple*) | L'indagine sugli **omicidi** (Sorella Yannis, Sorella Rose, Fratello Donnick, Padre Lorgan, Brilgor) · *Parlare con i Morti* sui due cadaveri · **botola in cucina** → grotta sotto il tempio · cimitero del tempio · tetto | 29 |
+| **Tempio della Mano Aperta** (*Open Hand Temple*) | L'indagine sugli **omicidi** (Sorella Yannis, Sorella Rose, Fratello Donnick, Padre Lorgan, Brilgor) · *Parlare con i Morti* sui due cadaveri · **botola in cucina** → grotta sotto il tempio (mutaforma) e, proseguendo **a sud e poi a ovest**, la **cripta dei chierici** col sarcofago di **Shirra Clarwen** → ⚠️ *Aiuta il Monaco Maledetto* (**29.4**, serve l'**Amuleto Senziente** preso a Grymforge nell'Atto 1) · cimitero del tempio · tetto | 29 |
 | ↳ **Grotta sotto il Tempio** | I tre mutaforma **Muzz, Rudd, Zomm** · il nome dell'assassino (**Dolor**) e la **chiave a fiori** · cadavere di **Penela Lumpensicks** con il **torso di Dribbles** e *Illasera, la Prima* | 28 / 29 |
 | **Circo degli Ultimi Giorni** (*Circus of the Last Days*) | **Klaus e Benji** all'ingresso · **Zethino** (test dell'amore, 100 mo) · **Akabi** e la Ruota della Fortuna (→ **Giungla**) · **Dribbles** e lo scontro · **Lucretious** dà *Trova Dribbles il Clown* · **Popper** ha la **mano** di Dribbles · mercanti e stand · ⚠️ **a missione chiusa il circo smonta al riposo lungo successivo**: compra prima | 28 |
 | ↳ **Giungla** (*Jungle*) | Ci arrivi **solo vincendo il jackpot** di Akabi: **Nyrulna** (tridente leggendario) + **Fascia del Furfante Mistico** | 28 |
@@ -334,7 +342,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 
 | Luogo | Interazioni | Tappa |
 |---|---|---|
-| **Taverna del Canto Elfico** (*Elfsong Tavern*) | La tua base in città (ci puoi **spostare il campo**) · **Alfira e Lakrissa** al piano di sopra · la gara di battute **Laff Riot** con **Harvard Willoughby** · in cantina il **Nascondiglio dei Cavalieri dello Scudo** = il **vecchio nascondiglio dell'Imperatore** (githyanki ostili; ⚠️ prerequisito di 🏆 *Mente Sconvolgente*) · botola verso le fogne · 🏆 *In Alto i Calici* e *Risse da Taverna* · il problema dei parassiti in cucina | 31 / 47 |
+| **Taverna del Canto Elfico** (*Elfsong Tavern*) | La tua base in città (ci puoi **spostare il campo**) · **Alfira e Lakrissa** al piano di sopra · la gara di battute **Laff Riot** con **Harvard Willoughby** · in cantina il **Nascondiglio dei Cavalieri dello Scudo** = il **vecchio nascondiglio dell'Imperatore** (githyanki ostili; ⚠️ prerequisito di 🏆 *Mente Sconvolgente*) · botola verso le fogne · 🏆 *In Alto i Calici* e *Risse da Taverna* · il **cuoco Roveer** e i ratti in cantina (*Il Magazzino di Roveer*, 347 mo) | 31 / 47 |
 | **Forgia dei Nove** (*Forge of the Nine*) | **Dammon**: ⚠️ **secondo potenziamento del motore di Karlach** (serve un altro **Ferro Infernale**) · armi e armature pesanti · **Stivali di Persistenza** | 31 |
 | **Tabernacolo di Rivatempestosa** (*Stormshore Tabernacle*) | **Vicario Humbletoes** (mercante, e ha la chiave della botola) · **statua degli dei**: **Unto nello Splendore**, +2 permanente a tutti i TS — una sola divinità per personaggio, ma **l'effetto è identico per tutte** (4.500 mo, pagabili in oggetti) · **sotterraneo** con i forzieri delle offerte e l'**Amuleto del Devoto** (⚠️ non prenderli a mano dal forziere) · la **statua di Mystra** è il varco per l'udienza di **Gale** | 39 |
 | **Curiosità Stregonesche** (*Sorcerous Sundries*) | **Rolan** al banco · **Tolna Tomo-Mercante** (pergamene di 5°-6°) · quattro **Armature Animate** · *The Path to Karsus* e *The Path to Elminster* · il **Libro con Fermaglio** → Volta · il portale → Torre · 🏆 *Topo da Biblioteca* | 36 |
@@ -346,19 +354,19 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 | **Old Garlow's Place** | **Mayrina** trasformata in pecora (rompi la bambola vudù **in un colpo solo**) · il **Gruppo di Supporto Anti-Megera** · nella **cassaforte al piano terra**: *Guida del Cacciatore alle Megere*, **Ceneri di Fiore Fatato Essiccato** e il diario con la **ricetta dell'Anatema delle Megere** · i "Dead Eyes" | 34 |
 | **Casa di Lora** | Dove **ritiri le ricompense** di *Salvare Vanra*: **Amuleto del Cavalcavento** e **Prerogativa del Duellante** | 34 |
 | **Villa Philgrave** (*Philgrave's Mansion*) | **Mistico Carcame** (mercante finché non rompi con lui) · bare che sputano non-morti · il **ritratto** al piano alto (Arcano CD 15) · il covo sotto la villa con *Memorie di una Mummia* · **Torcia della Revoca** · **Ametista Scura** | 35 |
-| ↳ **Heapside Strand** (la spiaggia a est) | **Thrumbo** nascosto in un armadio · l'assalto dei **sahuagin** · tesoro sepolto | 35 |
+| ↳ **Heapside Strand** (la spiaggia a est) | **Thrumbo** nascosto in un armadio · l'**assalto dei sahuagin alle banchine** (⚔️ punto **35.1-ter**: **Rossina** e **Grout**, **Hucinda**, **Flaheerta** e i civili del mercato del pesce) · tesoro sepolto | 35 |
 | **Cimitero della Città Bassa** (*Graveyard*) | Mausolei **Hhune** (enigma della mattonella a peso), **Gorion**, **Durinbold**, Grande Mausoleo · la **lapide di Allister Marnley** (1° ricordo di Cuorescuro) · forzieri sepolti | 35 / 37 |
 | ↳ **Obitorio** (*Mortuary*) | Botola accanto ai gradini del portico (Rapidità di Mano CD 10, o la chiave di **Valmorba**) · nel seminterrato i **polmoni** del Mistico Carcame | 35 |
 | **Lapidi di Candulhallow** (*Candulhallow's Tombstones*) | Nell'ufficio, il quadro **Farfalla su teschio** nasconde il pulsante (o lo trovi con Percezione) → passaggio per il **Tribunale dell'Omicidio**; serve la parola d'ordine **"Sicarius"** | 45 |
 | ↳ **Tribunale dell'Omicidio** (*Murder Tribunal*) | I tre Cavalieri della Morte e l'enigma · **Sarevok Anchev** e le Eco di Amelyssan, Illasera e Sendai · il **Mattatoio** dietro il muro mobile (**Valeria** incatenata) · **Eco di Abazigal** mercante (solo se diventi Assassino Nefando) · nell'ufficio di Sarevok, **una pagina dal suo libro** (l'ascendenza di Orin) | 45 |
 | **Merci Flymm** (*Flymm Cargo*) | **Dravo e Sally Flymm** · worg · nel seminterrato la botola per le **fogne** · ai moli il **sommergibile** di **Magliorosso**: unico ingresso e unica uscita del **Trono di Ferro** | 41 |
 | **Fonderia delle Sentinelle d'Acciaio** (*Steel Watch Foundry*) | Quattro ingressi · **Gasper Throaks** e il Console di Ferro **Chadd** · i **Gondiani** coi collari esplosivi e **Tamia Holzt** · l'ufficio della sicurezza con **Zanner Toobin** · il livello laboratorio e l'altare di Bane · il **Centro di Controllo** con il **Titano** e il **Neurocitore** | 42 |
-| **Casa dei Contabili** (*The Counting House*) | **Capo Impiegato Meadhoney** e il **pass bancario** · le macchine d'allarme · le piastre di marmo trappolate · **casseforti** e **volte ad alta sicurezza** (codice a piastre **1-3-5-6**) · l'imboscata della Gilda e la pista di **Minsc** · i moli | 32 |
+| **Casa dei Contabili** (*The Counting House*) | **Capo Impiegato Meadhoney** e il **pass bancario** · le macchine d'allarme · le piastre di marmo trappolate · **casseforti** e **volte ad alta sicurezza** (codice a piastre **1-3-5-6**) · **Rakath Barbascintillante** nelle volte → *Restituisci l'Oro di Rakath* · l'imboscata della Gilda e la pista di **Minsc** · i moli | 32 |
 | **Tributo del Diavolo** (*Devil's Fee*) | **Helsik** (mercante infernale) e il **Grimorio** con le istruzioni · al piano di sopra il **cerchio rituale a sette punte** → **Casa della Speranza** · **Tara** · dal **tetto** si salta verso il **Palazzo Szarr** | 38 / 40 |
 | **Palazzo Szarr** (*Szarr Palace*) | Si entra dalla **Torre Sud** camminando sul Muro Centrale · servitori ammaliati **Jaryd, Reklan, Merony** · **Godey** nel canile dietro i muri illusori (**Anello della Famiglia Szarr**) · il cadavere maledetto di **Victoria** + **Dizionario Kozakuriano** + **Elmo della Grinta** · la **Porta Sinistra** → sala da ballo (lupi mannari) · soffitta · l'area segreta delle quattro piastre · ascensore → sotterranei | 38 |
 | ↳ **Sotterranei di Cazador** | Gli **spawn vampiro** e i **bambini Gur** · la **Lama Pelorsun** sotto un cumulo di terra · il **cerchio rituale** e **Cazador** · la **Discesa Cupa** verso le fogne | 38 |
 | **Gazzetta della Bocca di Baldur** (*Baldur's Mouth*) | **Ettvard Needle** · **Estra Stir** · il seminterrato con la **stampa** e **Jelliwig** · i **blocchi tipografici** (positivi, neutri, negativi) · **Tusgront**, poco a sud, apre l'ingresso di superficie della **Gilda** | 32 / 33 |
-| **Casa della Regina delle Acque** (*Water Queen's House*) | Il tempio di Umberlee · **Alta Marea Allandra Grey** · la missione *Vendica gli Annegati* · la **Cantina della Regina delle Acque** → stanza del tesoro e **caverna nascosta** che si apre dalla spiaggia | 41 / 42 |
+| **Casa della Regina delle Acque** (*Water Queen's House*) | Il tempio di Umberlee ai moli · **Alta Marea Allandra Grey** e il funerale di **Holli Dylford** → ⚠️ missione *Vendica gli Annegati* · la **Cassa delle Offerte** nel portico (**Star Stolitti**): dona qualunque cosa → **benedizione di Umberlee** — ⛔ non rubarci dentro · la **Cantina della Regina delle Acque**, che si apre **dalla spiaggia rocciosa**: stanza del tesoro **trappolata** e **caverna nascosta** (Percezione CD 15) · **tesoro sepolto** sulla spiaggia (Sopravvivenza CD 20) · nell'ufficio di Allandra il **Wavemother's Cloak** (⚠️ prenderlo è un furto) | **40-bis** |
 | **Fuochi d'Artificio di Felogyr** (*Felogyr's Fireworks*) | Parola d'ordine **«Mi manda zio Felogyr»** → piani superiori · i **cultisti di Bane** che assemblano gli ordigni · **Avery Sonshal** e la commessa **Tamara** (granate, fuochi, tinture) · la polvere pirica | 29.3 |
 | **Tenuta di Lady Jannath** (*Lady Jannath's Estate*) | *Libera l'Artista*: **Oskar Fevras** posseduto · la villa infestata su quattro piani + tetto · i **18 poltergeist invisibili**, i **teschi maledetti**, l'enigma dei ritratti nell'atelier · si risolve con la **Torch of Revocation** presa alla Tappa 35 | **35-bis** |
 | **Erboristeria di Bonecloak** (*Bonecloak's Apothecary*) | **Derryth Bonecloak** · reagenti alchemici · seminterrato | 31 |
@@ -378,7 +386,7 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 | **Beehive General Goods · Bruc and Pishe's Emporium · The Bibliophile · Chromatic Scale · The Glitter Gala · Flymm's Cobblers · Stormshore Armoury** | Mercanti minori |
 | **Golbraith's Cellar · Barren's Coop · Armbrust's Home · Nortale's Hostel · Old Jol's · Elerrathin's Home · Highberry's Home** | Case e cantine: bottino e scene. ⚠️ **Armbrust's Home** è dove va a finire il mindflayer del mulino se lo sfami |
 | **Parco Bloomridge** (*Bloomridge Park*) | Imboscata dei bhaalisti · **incenso** sotto la statua centrale (serve al rituale di Helsik) · tesoro nascosto |
-| **Moli del Porto Grigio** (*Grey Harbour Docks*) | ⚠️ **Volo** che sta per saltare in aria · la nave in quarantena **Lustrous Lass** |
+| **Moli del Porto Grigio** (*Grey Harbour Docks*) | ⚠️ **Volo** che sta per saltare in aria · la nave in quarantena **Lustrous Lass** · i pescatori **Gowlan** e **Fleer**, i testimoni di *Vendica gli Annegati* (Tappa 40-bis) |
 | **The Lodge · The Singing Lute · Prigione di Heapside** | Ambiente; dalla Prigione di Heapside parte un tombino per le fogne |
 | **Loggia della Genialità** (*Society of Brilliance*) | **Lady Esther**, **Blurg** — e, se nell'Atto 1 hai dato l'uovo githyanki a Lady Esther, il portale con **Ptaris**. ⚠️ **Se hai consegnato l'uovo, Omeluum NON è prigioniero al Trono di Ferro** |
 
@@ -419,6 +427,76 @@ Queste le trovi scritte così in questo file per coerenza interna, ma **non ho u
 | **Città Alta** (*Upper City*) | **Cittadella della Guardia** · **Cortile della Sala Alta** · **Fogne della Città Alta** · **Sala Alta** · Torre in Rovina · **Koll il Rosso** (ultimo mercante del gioco) · il **Drago Rosso Dominato** · il tronco cerebrale del **Cervello Netherese** | 49 |
 | **Casa della Speranza** (*House of Hope*, Averno) | Atrio · Sala del Banchetto · Corridoio Principale · Camera dell'Uscita · **Boudoir** (Haarlep, la vasca ristoratrice) · **Volta di Raphael** · **Archivio** (Martello Orfico + i due piedistalli trappolati) · **Prigione di Speranza** · balconate est e ovest | 40 |
 | **Trono di Ferro** (*Iron Throne*) | Camera di equilibrio · area centrale · quattro ali (est, ovest, sud/laboratorio, nord) · nove celle · rilevatori di calore e porte a saracinesca · **Ravengard**, **Omeluum**, 13 Gondiani | 41 |
+
+---
+
+## 📋 TUTTE LE MISSIONI DELL'ATTO 3 (E IN CHE TAPPA STANNO)
+
+> 🔎 **Controllo del 4 settembre 2026.** Ho preso l'elenco completo delle missioni dell'Atto 3 da **bg3.wiki** (pagine *Quests* e *Act Three*, più le singole pagine di missione) e l'ho incrociato riga per riga con questo file. **Il percorso 27 → 50 regge**: nessuna tappa era nell'ordine sbagliato. Mancavano invece **cinque contenuti**, ora aggiunti: *Vendica gli Annegati* (**40-bis**), l'assalto dei sahuagin (**35.1-ter**), *Aiuta il Monaco Maledetto* (**29.4**), *Restituisci l'Oro di Rakath* (**32.6-bis**) e *Il Magazzino di Roveer* (**31.1**).
+
+**Legenda:** ⚠️ = missabile o con un prerequisito che si perde · ⏱️ = ha una scadenza interna · ⛔ = via malvagia, in questa run non si fa.
+
+### Missioni principali e del finale
+
+| Missione (IT) | Titolo originale | Tappa | Vincolo d'ordine |
+|---|---|---|---|
+| Considera l'offerta di Gortash | *Consider Gortash's Bargain* | **30.1** | Ascoltala, non attaccare: apre *Disattiva le Sentinelle d'Acciaio* |
+| ⚠️ Salva il Gran Duca | *Rescue the Grand Duke* | **41** | Serve l'incoronazione vista **+** la scena di Mizora con Wyll **+** un riposo lungo |
+| Recupera Omeluum | *Retrieve Omeluum* | **41** | Solo se nell'Atto 1 **non** hai dato l'uovo githyanki a Lady Esther |
+| Salva i Gondiani · Disattiva le Sentinelle d'Acciaio | *Save the Gondians* · *Disable the Steel Watch* | **42** | ⛔ **Mai prima del Trono di Ferro** (i Gondiani bruciano) |
+| 🏆 La Pietranether di Gortash | *Get Gortash's Netherstone* | **43** | Dopo Rotative (33), Trono di Ferro (41) e Fonderia (42) |
+| 🏆 La Pietranether di Orin · Salva la vittima di Orin | *Get Orin's Netherstone* · *Rescue Orin's Victim* | **46** | Serve l'**Amuleto di Bhaal** dal Tribunale (45) |
+| Raduna i tuoi Alleati | *Gather Your Allies* | **47** | Ultima cosa prima della Pozza Morfica |
+| Libera Orpheus | *Free Orpheus* | **48** | Serve il **Martello Orfico** (40) |
+| Affronta / Controlla / Distruggi il Cervello Netherese | *Confront / Control / Destroy the Elder Brain* | **48-50** | 🚩 Punto di non ritorno |
+
+### Missioni dei compagni e personali
+
+| Missione (IT) | Titolo originale | Tappa | Note |
+|---|---|---|---|
+| Aiuta il Tuo Protettore | *Help Your Protector* | **fine Atto 2** | La rivelazione dell'Imperatore: sta nel file dell'Atto 2 |
+| ⚠️ La Lama delle Frontiere (Wyll) · Patto col Diavolo | *The Blade of Frontiers* · *Deal with the Devil* | **30.3 / 40** | Il bivio di Mizora **prima** del Trono di Ferro |
+| ⚠️ Il Nostro Amico Infuocato (Karlach) | *Our Fiery Friend* | **31** | Karlach in squadra da Dammon, o niente Averno nell'epilogo |
+| L'Alto Arpista (Jaheira e Minsc) | *The High Harper* | **32** | Attacchi non letali su Minsc |
+| Indaga sul Palazzo di Cazador · L'Elfo Pallido | *Investigate Cazador's Palace* · *The Pale Elf* | **38** | Astarion in squadra |
+| Indaga sulla Casa del Dolore · Figlia dell'Oscurità | *Investigate the House of Grief* · *Daughter of Darkness* | **37** | Cuorescuro in squadra; Specchio della Perdita **prima** della scena coi genitori |
+| Il Mago di Waterdeep (Gale) | *The Wizard of Waterdeep* | **39** | Bloccata dietro gli **Annali di Karsus** (36) |
+| La Guerriera Githyanki (Lae'zel) · Aiuta Kith'rak Voss | *The Githyanki Warrior* · *Help Kith'rak Voss* | **29 / 47** | Voss sta a **La Carezza di Sharess**, già alla 29 |
+| ⛔ Consegna Cuorescuro a Viconia | *Surrender Shadowheart to Viconia* | — | Via malvagia: non si fa |
+| — Abbraccia il Tuo Potenziale | *Embrace Your Potential* | — | Esclusiva **Impulso Oscuro**: in questa run non esiste |
+
+### Secondarie, in ordine di percorso
+
+| Missione (IT) | Titolo originale | Tappa | Vincolo d'ordine |
+|---|---|---|---|
+| ⚠️ Aiuta il Bue Diabolico | *Help the Devilish Ox* | **27.4** | La "mela" va raccolta **prima** di entrare in Città Bassa |
+| ⛔ Tratta con gli Gnomi | *Deal with the Gnomes* | **27** | Rifiuta: è la richiesta di uccidere Wulbren |
+| Trova le Lettere Mancanti | *Find the Missing Letters* | **27** | — |
+| Sfama il Mind Flayer | *Feed the Mind Flayer* | **27.4-bis** | — |
+| Trova Dribbles il Clown | *Find Dribbles the Clown* | **28** | 7 pezzi sparsi: si chiude solo verso la 46 |
+| Risolvi gli Omicidi del Tempio della Mano Aperta · Trova Ffion | *Solve the Open Hand Temple Murders* · *Find the 'Stern Librarian' Ffion* | **29.1** | È il lasciapassare per la Città Bassa |
+| Indaga sui Giocattoli Sospetti | *Investigate the Suspicious Toys* | **29.3** | Arfur **non** va consegnato ai Pugni Fiammanti |
+| ⚠️ Aiuta il Monaco Maledetto | *Help the Cursed Monk* | **29.4** | Serve l'**Amuleto Senziente** raccolto a **Grymforge nell'Atto 1** |
+| Trova un modo per entrare nella Roccia del Dragone | *Find a Way into Wyrm's Rock Fortress* | **29 / 30** | Il lasciapassare gratis è nella Grotta della Ninfa |
+| ⏱️ Libera la Consigliera Florrick | *Free Counsellor Florrick* | **30.2** | **5 riposi lunghi** da quando leggi il manifesto |
+| Visita il Vecchio Nascondiglio dell'Imperatore | *Visit the Emperor's Old Hideout* | **31.1** | Prerequisito di 🏆 *Mente Sconvolgente* |
+| Il Magazzino di Roveer | *Roveer's Storehouse* | **31.1** | Torna da Roveer a ratti finiti, o niente paga |
+| Restituisci l'Oro di Rakath | *Return Rakath's Gold* | **32.6-bis** | L'oro ce l'ha lo Zhentarim che scappa alla Sede della Gilda |
+| Trova Mol | *Find Mol* | **32** | Il contratto si recupera alla Casa della Speranza (40) |
+| Aiuta il Sottoduca | *Aid the Underduke* | **32.7** | Schierati con la Gilda, non con gli Zhentarim |
+| ⏱️ Ferma le Rotative | *Stop the Presses* | **33** | ⛔ **Scade quando uccidi Gortash** |
+| ⚠️ Aiuta i Sopravvissuti alle Megere | *Help the Hag Survivors* | **34.1-bis** | ⛔ **Prima di uccidere Ethel**, o perdi il Bastone dell'Interruzione |
+| Vendica i Sopravvissuti alle Megere | *Avenge the Hag Survivors* | **34.3-34.5** | È il seguito: è lo scontro con Ethel |
+| ⚠️ Salva Vanra | *Save Vanra* | **34** | **Parla con Lora alla caserma prima** di liberare Vanra |
+| Trova il Servitore del Mistico Carcame · Poni fine alla sua immortalità | *Find Mystic Carrion's Servant* · *End Mystic Carrion's Immortality* | **35** | Non consegnare Thrumbo; niente riposo lungo a metà linea |
+| ⚠️ Libera l'Artista | *Free the Artist* | **35-bis** | Solo se nell'Atto 1 hai riscattato **Oskar**; serve la **Torcia della Revoca** (35) |
+| Trova la Canto Notturno | *Find the Nightsong* | **36** | Aylin **non** va consegnata a Lorroakan |
+| Procura i Guanti per Helsik · Salva Speranza | *Acquire the Gauntlets for Helsik* · *Save Hope* | **40** | Saccheggia **prima** di liberare Speranza |
+| ⚠⏱️ Vendica gli Annegati | *Avenge the Drowned* | **40-bis** | ⛔ **Si avvia solo prima di risolvere il Trono di Ferro** |
+| Vendica gli Manoferrea | *Avenge the Ironhands* | **42.5** | Metti **Barcus** al posto di Wulbren |
+| Indaga sugli Omicidi · Impressiona il Tribunale dell'Omicidio | *Investigate the Murders* · *Impress the Murder Tribunal* | **29.1 → 45** | Serve la **Pergamena Insanguinata** della 29.1 |
+
+> 🧭 **Le uniche cose davvero rigide** restano quelle già scritte nella [riga dell'ordine obbligato](#0-quinquies--lordine-obbligato-in-una-riga): Rotative e Sentinelle **prima di Gortash**, Trono di Ferro **prima della Fonderia**, Tribunale **prima di Orin**, *Vendica gli Annegati* **prima del Trono di Ferro**, *Aiuta i Sopravvissuti* **prima di Ethel**. Tutto il resto è geografia e comodità.
 
 ---
 
@@ -529,6 +607,7 @@ Nell'Atto 3 **ogni compagno ha la sua resa dei conti**, e se non è in uno dei q
 | **38 Palazzo Szarr** | ⚠️ **Astarion** + Karlach | il rituale di Cazador |
 | **39 Rivatempestosa** | ⚠️ **Gale** | l'udienza con Mystra |
 | 40 Casa della Speranza | Wyll | Warlock → **Persuasione CD 25** invece di Intimidazione da Helsik: sconto a 10.000 |
+| 40-bis Vendica gli Annegati | libero (Karlach) | l'indagine gira su *Parlare con i Morti* (Cuorescuro, slot fisso) e su una serratura CD 20 (Astarion) |
 | **41 Trono di Ferro** | Wyll + **squadra mobile** | 6 turni: servono velocità e teletrasporti, non cure |
 | 42 Fonderia | Karlach | il Titano delle Sentinelle d'Acciaio |
 | **43 Gortash** | Gale (**tutti a distanza**) | il trofeo salta appena scatta una trappola |
@@ -778,6 +857,33 @@ Il circo è a Rivington, subito a nord del campo. È divertente, dà ispirazioni
 
 ---
 
+### 🔁 29.4 — Aiuta il Monaco Maledetto (l'Amuleto Senziente)
+
+⚠️ **Si può fare solo se hai raccolto l'Amuleto Senziente nell'Atto 1**, a **Grymforge**: sta in un **forziere adamantino chiuso** sull'isolotto con la struttura diroccata **vicino all'Elementale di Lava** (X: −624 · Y: 224), **Rapidità di Mano CD 20** o chiave adamantina. Raccoglierlo avvia ***Aiuta il Monaco Maledetto*** (*Help the Cursed Monk*): lo spirito che ci vive dentro commenta il viaggio e ti chiede di portare l'amuleto a sua nipote, **Shirra Clarwen**, al Tempio della Mano Aperta. Se hai lasciato l'Atto 1 senza l'amuleto, **questa missione non è più recuperabile**.
+
+**Dov'è la cripta.** Stessa **botola in cucina** dell'indagine sugli omicidi (29.1): scendi, prosegui **a sud** attraverso la sala di preghiera e poi **a ovest**, fino al luogo di riposo dei chierici. Il sarcofago di **Shirra Clarwen** è **nell'angolo in fondo a sinistra**, quello illuminato dalla luce. Leggi la targa e **apri il coperchio**: parte la scena.
+
+**Il problema.** Shirra è morta **l'anno prima**. Lo spirito del monaco possiede il suo cadavere e chiede a **te** di prenderti la sua maledizione, perché non ha più nessuno a cui lasciarla.
+
+💡 Prima di decidere puoi capire con cosa hai a che fare: **[Arcano] CD 15**.
+
+| Scelta | Cosa comporta | Verdetto |
+|---|---|---|
+| ✅ **Accetta la maledizione e resisti** — «*Se ti darà pace, porterò io la follia*» | Due prove **CD 15** di fila, ciascuna a scelta fra **Saggezza** e **Costituzione**. **Superandole entrambe**: nessuno scontro, lo spirito trova pace, sblocchi ***Risata Isterica di Tasha* una volta per riposo lungo** e — la parte grossa — **+3 di approvazione da TUTTI i compagni**, l'intero roster | 🥇 **La via di questa run.** Nessuno muore e prendi lo swing di approvazione più grande dell'atto |
+| ⚠️ Accetta ma **fallisci** le prove | **Follia del Monaco**: **−1 Saggezza** (−2 se sbagli anche la seconda), **permanente** | 🔁 **Salva prima**: è esattamente il caso da salva/ricarica |
+| ⚔️ **Rifiuta** — «*Dèi, no*» | Il cadavere posseduto ti attacca con **tre Zombie Maggiori** (Flinster Sunseeker, Raloric Windbane, Suttida Attana). Vincendo, l'amuleto **si potenzia a molto raro** | Legittima, ma è una rissa dentro una cripta per un oggetto che al tuo gruppo serve poco |
+
+**L'amuleto, nelle due versioni:**
+
+| Versione | Cosa fa |
+|---|---|
+| **Amuleto Senziente** (raro, quello dell'Atto 1) | ***Frantumare*** di 2° livello (ricarica col riposo breve) e **2 Punti Ki** (riposo lungo). ⚠️ Ogni volta che usi *Frantumare* fai un **TS su Saggezza** o diventi **Isterico** un turno — e la CD **sale da 10 a 15 a 20** man mano che la storia avanza |
+| **Amuleto Senziente** (molto raro, solo rifiutando e combattendo) | ***Frantumare*** di 3° livello, **4d8 tuono, senza tiro salvezza**, + Ki Maggiore — ma ricarica solo col **riposo lungo** |
+
+> 💰 **200 PE in tutto** (80 solo per aver trovato l'amuleto). Il resto del valore è nell'approvazione: **+3 su dieci compagni** in una scena sola non lo dà nient'altro nell'atto.
+
+---
+
 ## TAPPA 30 — ROCCIA DEL DRAGONE: INCORONAZIONE DI GORTASH E FLORRICK (liv. 10) — ⏱️ OROLOGIO
 
 > 🎭 **Squadra ideale:** Tu + **Cuorescuro** + **Astarion** + ⚠️ **WYLL, obbligatorio** — senza Wyll in squadra non parte il bivio di Mizora, che è la scelta più delicata del gioco. Astarion serve per la cella di Florrick (Furtività + Rapidità di Mano) se Gortash non te la libera a parole.
@@ -837,10 +943,16 @@ Con il lasciapassare entri in **Città Bassa**. Prima di tutto **cammina** lungo
 1. **Taverna del Canto Elfico** — è la tua base in città.
    - Al piano di sopra: **Alfira e Lakrissa**. ⚠️ **Parlaci**: contano per 🏆 *Nessuno Rimane Indietro*.
    - **Nella cantina**: il vecchio **nascondiglio dell'Imperatore** (missione *Visita il Vecchio Nascondiglio dell'Imperatore*). Ci sono githyanki ostili: puliscila, poi **osserva tutti i suoi oggetti personali**. ⚠️ **È il prerequisito di 🏆 Mente Sconvolgente** (Tappa 47). Non saltarla.
+   - **In cucina c'è il cuoco Roveer**: gli sono entrati i ratti in cantina. È la missione ***Il Magazzino di Roveer*** (*Roveer's Storehouse*): scendi, fai fuori i **36 ratti** (hanno 1-2 PF l'uno — un incantesimo ad area li spazza via in un turno) e **torna a parlargli** per farti pagare **347 mo**. ⚠️ Se non torni da lui, la missione resta appesa e lui può andarsene.
    - Ottimo posto per 🏆 *In Alto i Calici* e 🏆 *Risse da Taverna*.
 2. **Forgia dei Nove** (*Forge of the Nine*) — **Dammon**. ⚠️ **Porta Karlach**: secondo potenziamento del motore infernale. Serve un altro **Ferro Infernale**: uno lo vende Dammon stesso, uno è nelle rovine della Sottocittà. Dopo l'upgrade parte una scena bellissima al campo (e sblocca 🏆 *Appuntamento Caliente* se non l'hai preso).
    - Vicino c'è **Fytz il Petardo**: porta Karlach anche lì per la scena dedicata.
 3. **Mercanti da visitare subito**: Curiosità Stregonesche (Tappa 36), **Tributo del Diavolo** (Helsik), **Boutique dei Facemaker**, **Erboristeria di Bonecloak**, **Tabernacolo di Rivatempestosa** (Vicario Humbletoes).
+   > 🥇 **AL TABERNACOLO CI VAI ADESSO, non alla Tappa 39.** Quella tappa sta in fondo **solo** per l'udienza di Gale, che è bloccata dietro gli Annali di Karsus (Tappa 36). **Queste due cose invece sono disponibili subito** e valgono per tutto l'atto:
+   > - 🥇 **La benedizione** (*Unto nello Splendore*, **+2 permanente a tutti i tiri salvezza**): è permanente, quindi ogni scontro che fai senza è valore buttato — **Cazador compreso**. Costa 4.500 mo a testa **pagabili in oggetti**, quindi non aspettare di "avere l'oro". Dettagli completi alla **39.2**.
+   > - 🎒 **Amuleto del Devoto** nel sotterraneo (**+2 alla CD di tutti gli incantesimi** di Cuorescuro): ⚠️ **non prenderlo a mano dal forziere**, rompilo o butta l'oggetto a terra. Dettagli alla **39.3**.
+   >
+   > ❌ **Correzione di struttura:** la vecchia versione di questo file lasciava entrambe le cose dentro la Tappa 39, facendole sembrare tardive. Non lo sono.
 3-bis. ⚠️ **Caserma della Porta del Basilisco: parla con Lora** (la madre di Vanra) appena entri. Apre *Salvare Vanra* ed è l'unico modo di avere le due ricompense della Tappa 34.
 4. ❌ **La Carezza di Sharess non è in Città Bassa: è al Ponte del Dragone** — quindi tutto quello che c'è dentro (**Valeria** e il lasciapassare, **Kith'rak Voss** per 🏆 *L'Ira della Regina-Lich*, **Arfur Gregorio**, il **Lasciapassare per l'Incoronazione** nella Grotta della Ninfa, **Naoise Nallinto** da salvare) lo fai già **alla Tappa 29**, prima dell'incoronazione. Se sei qui e non ci sei ancora passato, torna indietro: sono cinque minuti.
 5. ⚠️ **Volo.** Vicino alla Fonderia una folla vuole linciarlo: **salvalo**. È un alleato per il finale e conta per la coerenza della run.
@@ -871,13 +983,16 @@ Falla **presto**: è la catena meglio scritta dell'atto e ti dà **due compagni*
    - 🧩 **Le Volte ad Alta Sicurezza sono un enigma a piastrelle**: nove piastre con numeri **nanici (Dethek)** da 1 a 9, disposte in griglia 3×3. Il codice è **1 → 3 → 5 → 6**, cioè **in alto a sinistra → in alto a destra → centro → centro-destra**. Lo trovi scritto in ***Storia Nanica Abbreviata di Flintdigger***, nell'ufficio del Capo Banchiere. *(In alternativa: elettrifica una pozza d'acqua davanti alla porta per cortocircuitare la serratura — la porta è a **Rapidità di Mano 99**, cioè non scassinabile se non con un critico.)*
    - ⚠️ Fra i due cancelli della zona di carico ci sono **quattro piastre di marmo** trappolate (Percezione CD 18): calpestarne una chiude entrambi i cancelli e riempie di gas velenoso. Il pulsante che le disattiva è **dietro il bancone**.
    - Dentro: casseforti (le chiavi sono sparse per la città), parecchio oro e la pista di Minsc.
+   - 💰 **Rakath Barbascintillante** (*Rakath Glitterbeard*), nelle volte: se sopravvive allo scontro coi cultisti bhaaliti ti confessa di essere stato lui, su ordine di **Nove-Dita Keene**, ad attirare il Signore di Pietra nelle volte con la trappola del mimic — e ti chiede indietro le **10.000 monete** che gli hanno rubato. Parte ***Restituisci l'Oro di Rakath*** (*Return Rakath's Gold*): vedi il punto **6-bis**.
 4. **Fogne → Cisterna Abbandonata**: Minsc scappa dalla Casa dei Contabili e lo insegui di sotto. **Due percorsi**: quello **sotterraneo**, fra acque caustiche e valvole delle chiuse da azionare col tempismo giusto, e quello **in superficie**, con le piastre a pressione nel giardino "Vietato l'accesso" a **nord della Fonderia delle Sentinelle**.
 5. ⚠️⚠️ **LO SCONTRO CON MINSC.**
    - **ATTIVA GLI ATTACCHI NON LETALI** su tutto il gruppo (menu Reazioni/Passive) **prima** di iniziare.
    - Vale solo per i **danni da mischia**: attenzione agli incantatori, un *Dardo Incantato* lo uccide comunque.
    - Se muore: **Jaheira lascia il gruppo per sempre** e perdi due alleati.
    - Portare **Jaheira** in squadra (o mostrargli la prova che è viva) aiuta a liberarlo dal controllo dell'Assoluta: l'Imperatore estende la sua protezione e **Minsc si unisce a te, con Boo**.
-6. **Aiuta il Sottoduca** (*Aid the Underduke*): dopo lo scontro, Gilda e Zhentarim si affrontano. **Schierati con Nove-Dita Keene e la Gilda**: è la scelta meno sporca (gli Zhentarim sono schiavisti e trafficanti) e ti dà **Nove-Dita Keene** come alleata + gli "Aggiustatori della Gilda" per la battaglia finale.
+6-bis. 💰 **Chiudi *Restituisci l'Oro di Rakath*.** L'oro rubato ce l'ha un agente **Zhentarim** (**Roah Moonglow** o **Friol**) che incroci inseguendo Minsc e che poi **si rifugia alla Sede della Gilda**: recuperalo lì e riportalo a Rakath. **Ricompensa: 400 PE, ~2.635 mo e la chiave della Volta ad Alta Sicurezza n°9** (dentro c'è l'**Elegant Studded Leather**). 💡 Con una prova di dialogo convinci Rakath che **metà** debba metterla la Gilda. ❌ *L'alternativa pigra è pagarlo di tasca tua — 10.000 mo, o 5.000 con Persuasione: ci rimetti e basta.*
+6-ter. ✅ **Qui si chiude anche *Trova Mol***, la missione aperta nell'Atto 2 quando i Cavalieri Alati la rapirono da Luce Ultima: **Mol lavora per la Gilda**, viva e vegeta. Parlale. ⚠️ Il suo **contratto infernale** si recupera alla **Casa della Speranza** (Tappa 40) e **va restituito a lei**: è così che diventa alleata per il finale.
+7. **Aiuta il Sottoduca** (*Aid the Underduke*): dopo lo scontro, Gilda e Zhentarim si affrontano. **Schierati con Nove-Dita Keene e la Gilda**: è la scelta meno sporca (gli Zhentarim sono schiavisti e trafficanti) e ti dà **Nove-Dita Keene** come alleata + gli "Aggiustatori della Gilda" per la battaglia finale.
 
 > 🎒 Minsc arriva a livello 12 come Ranger. Dagli un arco decente e lascialo fare.
 
@@ -926,6 +1041,11 @@ Disponibile solo se nell'Atto 1 hai completato *Salvare Mayrina*. Nella tua run 
 
 1. Vai a **Old Garlow's Place** (Heapside, sulla rupe sopra il fiume). Porta d'ingresso chiusa: **Rapidità di Mano CD 15**.
 1-bis. ✅ **Prima di tutto: libera Mayrina.** È dentro, trasformata in **pecora**: la salvi **distruggendo la bambola vudù con un solo colpo** (spezzarla in due colpi la uccide). Riportata umana, ti apre *Aiuta i Sopravvissuti alle Megere* e **ti dice dov'è la cassaforte e come si usa la ricetta**.
+1-ter. ⚠️ **Subito dopo, Jatlo si smaschera.** Uno dei "sopravvissuti" è in realtà un **redcap al servizio di Ethel**: appena Mayrina torna umana **attacca**. Abbattilo — è lui a chiudere l'incontro. Con **Adrielle** e gli altri le prove sono **Persuasione CD 15**: passandole non si combatte contro nessun altro.
+   - 🎒 **Ricompensa della missione: Bastone dell'Interruzione** (*Staff of Interruption*) + la **ricetta dell'Anatema delle Megere**.
+   - ⛔ **ORDINE OBBLIGATO: questa va fatta PRIMA di uccidere Ethel** (cioè prima di chiudere *Salvare Vanra*). Se Ethel è già morta, la missione si svolge in modo diverso e **il Bastone dell'Interruzione non te lo danno più**.
+   - 💡 La missione si può anche avviare da fuori: uno dei **manifesti del Gruppo di Supporto Anti-Megera** in Città Bassa (ce n'è uno vicino allo strillone **Luan**) ti manda prima a **Barren's Coop** e da lì a Old Garlow's Place.
+   - 🔗 Chiusa questa, Mayrina apre il seguito ***Vendica i Sopravvissuti alle Megere*** (*Avenge the Hag Survivors*), che è esattamente quello che fai alla **34.3-34.5**: smascherare il Capitano Grisly, distruggere i **funghi perlacei** (le "campane" che la farebbero risorgere) e chiudere il conto.
 2. Nella **cassaforte** ci sono le **Ceneri di Fiore Fatato Essiccato** (*Ashes of Dried Fey Flower*), la *Guida del Cacciatore alle Megere* e il **diario con la ricetta**.
 3. **Craftale subito** in Alchimia: Ceneri + una qualsiasi **Essenza** (si ottiene da 3 × Pietra Silvana, Spore di Timmask, Lente Cristallina o altro materiale da essenza).
    - ⚠️ **Le ceneri sono un oggetto unico nel gioco e NON sono marcate come oggetto di trama**: se le lasci in borsa, un'estrazione alchemica automatica può consumarle per un'altra ricetta. Crea la granata **nello stesso momento in cui le raccogli**.
@@ -1013,6 +1133,22 @@ Succede proprio qui: i Tunnel Orientali e le Rovine sono zona di Orin, e prima o
 4. 🎭 **Il rapito esce dal roster fino alla Tappa 46**: rifai le squadre consigliate delle tappe intermedie senza di lui, e ⚠️ **controlla la squadra della Tappa 46** — se l'ostaggio è proprio uno di quelli che avevi previsto lì, va sostituito.
 
 > ⛔ **Non ti puoi "schierare con Orin", e non c'è nessun doppio gioco.** A differenza di Gortash, **non esiste un ramo di alleanza**: non le prometti mai nulla, non c'è una finta adesione da tradire dopo, e la sua Pietranether si prende **solo dal cadavere**. Le battute «Fa' pure, non ti fermerò» / «Il suo destino non mi interessa» non sono un patto: **la combatti comunque**, hai solo perso l'ostaggio. E la prova di **Inganno** della 46.2 **non è fingersi sua alleata** — è manipolazione psicologica (Sarevok è suo padre, ha fatto sacrificare Helena) per distrarla dall'ostaggio: Persuasione, Intimidazione e Religione fanno la stessa cosa con un tono diverso, usa quella col bonus più alto. Il ramo bhaalita vero (sacrificare l'ostaggio, diventare Prescelto, il Carnefice) è **esclusivo dell'origine Impulso Oscuro**: in questa run non ti verrà nemmeno offerto.
+
+### ⚔️ 35.1-ter — L'assalto dei sahuagin alle banchine (Heapside Strand)
+
+Sulle **banchine subito a est del punto di viaggio rapido Heapside Strand** — cioè sulla strada che devi fare comunque per arrivare a **Thrumbo** (35.3) — una **squadra d'incursione di sahuagin** (i "diavoli del mare") sbuca dall'acqua e assalta i civili del mercato del pesce: ci sono gli gnomi **Rossina** e **Grout**, in gita romantica, e le popolane **Hucinda** e **Flaheerta**.
+
+✅ **Intervieni.** Non è una deviazione: è lo stesso molo della casa sulla spiaggia di Thrumbo.
+
+| Cosa sapere | Dettaglio |
+|---|---|
+| **Chi comanda** | Un **Campione Sahuagin** (*Sahuagin Champion*): **liv. 7**, **CA 18**, **71 PF** in Equilibrato (49 in Esploratore, 92 in Stratega), **Attacco Extra** |
+| **Il tratto da temere** | *Scenting Blood*: hanno **vantaggio in mischia contro chi è già ferito**. Non lasciare un personaggio a mezza vita in mezzo a loro, e non usare i civili come esca |
+| **Il terreno** | Sei su un molo con l'acqua ai lati: gli effetti che **spingono** risolvono metà scontro (i sahuagin ributtati in acqua devono risalire). ⚠️ Occhio a non spingerci dentro i civili |
+| **Bottino** | Sul campione una **Borsa Puzzolente** (*Smelly Bag*), più **perle** e **lance sahuagin** sul resto del gruppo |
+| **Se i civili sopravvivono** | Il superstite più vicino ti **ringrazia con dell'oro**, e Rossina e Grout hanno una scenetta dedicata (per lei l'appuntamento non è stato male, per lui sì) |
+
+> 💡 **È un'imboscata ambientale, non una missione con marcatore:** non compare nel diario e non c'è niente che "scada". Ma se passi di lì e resti a guardare, i civili muoiono — e con loro spariscono i dialoghi e la mancia.
 
 ### 35.2 — Chi è il Mistico Carcame
 
@@ -1519,6 +1655,8 @@ Cazador intrappola Astarion nel cerchio rituale. Quattro esiti:
 
 > 🎭 **Squadra ideale:** Tu + ⚠️ **GALE, obbligatorio** + **Cuorescuro** + un quarto libero — Gale per l'udienza con Mystra, Cuorescuro perché l'**Amuleto del Devoto** nel sotterraneo è roba sua.
 
+> ⏰ **Questa tappa è numerata 39 solo per Gale.** L'udienza con Mystra richiede gli **Annali di Karsus** (Tappa 36) e quindi non si può anticipare. **La benedizione (39.2) e il sotterraneo (39.3) invece si fanno appena arrivi in Città Bassa, alla Tappa 31**: la benedizione è permanente e l'Amuleto del Devoto è il miglior amuleto di Cuorescuro. Aspettare fin qui significa aver combattuto tutta la Città Bassa, **Cazador incluso**, senza né l'uno né l'altro.
+
 ⚠️ **Gale in squadra.**
 
 ### 🗺️ 39.1 — Geografia della tappa
@@ -1683,6 +1821,94 @@ Sconfitto Raphael: la casa è tua. **Non lasciare niente indietro.**
 
 ---
 
+## TAPPA 40-BIS — CASA DELLA REGINA DELLE ACQUE: VENDICA GLI ANNEGATI (liv. 12) — ⏱️ SCADE COL TRONO DI FERRO
+
+> 🎭 **Squadra ideale:** Tu + **Cuorescuro** (*Parlare con i Morti* sul corpo di Holli) + **Astarion** (le porte di metallo di Merci Flymm, **Rapidità di Mano CD 20**) + il quarto che vuoi. Se lasci Cuorescuro al campo, porta **due pergamene di *Parlare con i Morti***.
+
+⚠️⚠️ **MISSABILE — è la tappa "del mare" che si perde più facilmente.** La missione si avvia **solo prima di aver risolto il Trono di Ferro**: se scendi col sommergibile e chiudi la Tappa 41 senza essere mai passato dal tempio di Umberlee, *Vendica gli Annegati* **non te la danno più**. Falla **adesso**, subito prima della 41.
+
+È la linea "del mare" della Città Bassa: il tempio di **Umberlee** ai moli, la sacerdotessa capo, un'annegata da vendicare — e in fondo all'indagine c'è **lo stesso sommergibile** che ti serve per il Trono di Ferro.
+
+### 🗺️ 40-bis.1 — Dove sta tutto
+
+| Luogo | Dove esattamente |
+|---|---|
+| **Casa della Regina delle Acque** (*Water Queen's House*) | Bordo **ovest** della Città Bassa, sulle **Banchine del Porto Grigio**, poco **a nord della Fonderia delle Sentinelle d'Acciaio**. Waypoint: **Moli del Porto Grigio** |
+| **Cantina della Regina delle Acque** | ⚠️ **Non si entra dal tempio**: il passaggio è **sulla spiaggia rocciosa** sotto l'edificio, scendendo dal lato dell'acqua |
+| **Moli del Porto Grigio** | I pescatori **Gowlan** e **Fleer**: sono i testimoni |
+| **Merci Flymm** (*Flymm Cargo*) | Il magazzino della Tappa 41: **botola nel seminterrato** → il **sommergibile** e **Magliorosso** (*Redhammer the Deviser*) |
+
+### 40-bis.2 — Il funerale (l'avvio)
+
+1. Entra nel tempio: è in corso il **funerale di Holli Dylford**, una sacerdotessa di Umberlee (*waveservant*) trovata annegata in porto.
+2. Parla con **Alta Marea Allandra Grey** (*Flood Tide Allandra Grey*) e **offriti di scoprire chi l'ha uccisa**: parte ***Vendica gli Annegati***.
+3. ✅ Prima di uscire, passa dalla **Cassa delle Offerte** nel portico: la **benedizione di Umberlee** è gratis e vale per tutto il gruppo (**40-bis.5**).
+
+### 40-bis.3 — L'indagine, in tre mosse
+
+| Mossa | Cosa ne esce |
+|---|---|
+| ***Parlare con i Morti* sul corpo di Holli**, lì nella navata | L'ha uccisa un **"mostro di metallo"**, e nell'acqua c'era **"sangue nero"** dappertutto |
+| **Gowlan e Fleer** ai **Moli del Porto Grigio** | Hanno visto **qualcosa di grosso** muoversi sott'acqua, **in direzione di Merci Flymm** |
+| **Merci Flymm** | Porte di metallo (**Rapidità di Mano CD 20**), i **worg** da abbattere, poi la **botola** del seminterrato → il sommergibile |
+
+Il colpevole è **Magliorosso il Congegnatore** (*Redhammer the Deviser*), il nano che pilota il sommergibile per conto di **Gortash**: nelle sue immersioni ha travolto Holli, e il "sangue nero" è l'**inquinamento** che il mezzo scarica nel Porto Grigio. Non è un assassino premeditato — è uno che sapeva e ha continuato.
+
+### ⛔ 40-bis.4 — La scelta (e come incastrarla col Trono di Ferro)
+
+⛔ **Non ucciderlo e non aprire il combattimento nel seminterrato.** Magliorosso è **l'unico ingresso e l'unica uscita** del Trono di Ferro: se muore adesso perdi **Ravengard, i Gondiani e Omeluum** in un colpo solo.
+
+**La sequenza corretta:**
+
+1. **Accusalo pure** — i dialoghi ci sono e non rompono niente — ma **fatti portare al Trono di Ferro lo stesso**: il passaggio te lo dà comunque. *(In alternativa promettigli di proteggerlo e decidi davvero solo dopo: la resa dei conti non è qui.)*
+2. Fai **tutta la Tappa 41**, salvataggio dei prigionieri compreso.
+3. **Al ritorno**, al sommergibile, ti aspettano **Allandra Grey e le sacerdotesse**: chiedono che Magliorosso vada con loro a risponderne.
+
+| Alla resa dei conti | Cosa succede davvero | Verdetto |
+|---|---|---|
+| ✅ **Consegnalo ad Allandra** | Le sacerdotesse se lo portano via e lo giustiziano — il suo **cadavere ricompare nella Cantina della Regina delle Acque**. Missione completata: Allandra ti dà la **Wavemother's Robe** | 🥇 **La via di questa run.** È l'unica che chiude il caso **senza sterminare un tempio**, e la vittima ha giustizia |
+| ❌ **Rifiutare / proteggerlo** | Si combatte contro **tutte** le sacerdotesse **e Allandra**. Magliorosso sopravvive, ti dà **332 mo** e basta: niente veste, niente benedizione, un clero di innocenti sulla coscienza | Massacrare un tempio per coprire chi ha ucciso e inquinato non è la via buona |
+
+> ⚠️ **L'ordine è tutto:** consegnarlo **dopo** il Trono di Ferro non blocca niente (il viaggio l'hai già fatto). Consegnarlo o ucciderlo **prima** ti toglie il traghettatore.
+>
+> 🧾 **Nota onesta:** sì, anche la via "buona" qui porta alla morte di un uomo. Il gioco **non** offre un ramo in cui Magliorosso vive **e** le sacerdotesse restano vive: o lo consegni, o le uccidi tutte. Fra le due, questa run sceglie la prima.
+
+### 🙏 40-bis.5 — La benedizione di Umberlee (gratis, per tutto il gruppo)
+
+Nel **portico**, accanto alla fontana con la statua della Regina, c'è la **Cassa delle Offerte**, sorvegliata da **Star Stolitti**.
+
+- **Ogni personaggio** può **donare qualsiasi cosa** — anche oro spicciolo o un oggetto da due monete — e riceve la **benedizione di Umberlee**: condizione **Benedizione** fino al **riposo lungo successivo**.
+- **Una volta sola per personaggio**, **non si somma** ad altre Benedizioni, e **si perde se rifai il personaggio** (respec).
+- 🏆 **Ispirazione**: background **Accolito** → *Offerte alle Onde*; **Intrattenitore** → *Memoriale del Mare*. Due tacche in più verso 🏆 *Giocatore di Ruolo*.
+
+> ⛔ **L'errore che chiude la benedizione per sempre:** **rubare** dalla cassa delle offerte o dal mucchio del tesoro. Umberlee si offende e **nessun membro del gruppo** può più riceverla, per il resto della partita.
+
+### 🎒 40-bis.6 — Cantina, caverna nascosta e bottino
+
+| Dove | Cosa c'è |
+|---|---|
+| **Cantina della Regina delle Acque** (ingresso **dalla spiaggia rocciosa**) | La parte privata del tempio: sacerdotesse che parlano della morte di Holli, un **kuo-toa morto** in cucina, forzieri minori. ⚠️ **L'acqua profonda rompe l'invisibilità**: se ci vai furtivo, tienine conto |
+| **Stanza del tesoro** (dietro il cancello di ferro, **non chiuso a chiave**) | ~**400 mo**, gemme, gioielli. ⛔ **Non toccarla**: saccheggiarla fa scattare una **Tempesta di Ghiaccio**, evoca **sahuagin** (2 campioni + 3 cacciatori), rende **ostile tutto il tempio** e **cancella per sempre la benedizione**. Non vale 400 monete |
+| **Caverna nascosta** (in fondo alla cantina) | **Percezione CD 15** rivela una **parete di arenaria sfondabile** → forziere con oro, oggetti di valore, reagenti/elisir. **Questo si può prendere tranquillamente** |
+| **Spiaggia sotto il tempio** | **Tesoro sepolto**: **Sopravvivenza CD 20** per individuare il punto (freccia rara, pozione di cura maggiore/superiore, un libro). Conta per 🏆 *Scava per la Vittoria* |
+| **Ufficio di Allandra** (piano di sopra, **Vilmina** sbarra il passaggio) | Forziere sontuoso col **Wavemother's Cloak** — raro, dà *Damp Aegis*: **+2 CA, +2 ai TS, resistenza al fuoco** e niente Bruciature, una volta per turno finché non subisci danni. ⚠️ **È roba loro: prenderlo è un furto** e ti mette contro il tempio. In questa run si lascia lì |
+| **Cucina** | **Provviste da campo** e il libro *Ricette di Squalo Sacro* |
+
+> ⚠️ **Nomi**: *Wavemother's Robe* e *Wavemother's Cloak* restano in inglese perché **non ho la dicitura italiana verificata** — a schermo riconoscili da icona e slot.
+>
+> 🎒 **La ricompensa vera** è la **Wavemother's Robe** (**molto rara**): **CA 10 + Des, +1**, **resistenza a fuoco e freddo**, lancia ***Creare o Distruggere Acqua*** (ricarica col riposo breve) e **cura 1d4 PF a inizio turno se sei dentro una superficie d'acqua** in combattimento. Ottima su Cuorescuro o su un incantatore senza armatura.
+
+### ✅ 40-bis.7 — Riepilogo della tappa
+
+- [ ] Parlato con **Allandra Grey** al funerale **prima** del Trono di Ferro
+- [ ] ***Parlare con i Morti*** su Holli + **Gowlan e Fleer** ai moli
+- [ ] **Magliorosso trovato ma NON ucciso**
+- [ ] **Benedizione di Umberlee** presa da tutti (senza rubare)
+- [ ] **Caverna nascosta** (Percezione CD 15) e **tesoro sepolto** (Sopravvivenza CD 20) svuotati
+- [ ] Trono di Ferro fatto → **Magliorosso consegnato al ritorno** → **Wavemother's Robe**
+
+---
+
 ## TAPPA 41 — ⏱️ TRONO DI FERRO (liv. 12) — LA TAPPA PIÙ DIFFICILE DELL'ATTO
 
 > 🎭 **Squadra ideale (qui conta la mobilità, non la composizione fissa):** Tu + **Wyll** + **Gale** + **Astarion**. Hai 6 turni per quattro ali, quindi servono quattro personaggi veloci (Passo Nebbioso, Volare, Velocità, Stivali di Velocità). **Wyll per la scena col padre.** Cuorescuro è la meno adatta a questa corsa: per una volta lasciala al campo.
@@ -1697,6 +1923,8 @@ Sconfitto Raphael: la casa è tua. **Non lasciare niente indietro.**
 | **Trono di Ferro** | Prigione **sottomarina** sotto il porto: quattro ali attorno alla scaletta del sommergibile |
 
 Ci si arriva portando avanti **Salvare i Gondiani** (o *Vendica gli Annegati*), oppure trovando il passaggio dalle **Fogne della Città Bassa**.
+
+> 🔗 **Se hai fatto la [Tappa 40-bis](#tappa-40-bis--casa-della-regina-delle-acque-vendica-gli-annegati-liv-12--️-scade-col-trono-di-ferro)**, al sommergibile c'è anche la faccenda di **Magliorosso**: accusalo pure, ma **fatti portare al Trono di Ferro lo stesso** e ⛔ **non ammazzarlo** — le sacerdotesse di Umberlee vengono a prenderselo **al ritorno**, ed è lì che lo consegni.
 
 > ⏱️ **Sequenza obbligatoria per trovare il Duca vivo** (verificata su bg3.wiki): **hai assistito all'incoronazione** → la linea di Wyll è arrivata al punto in cui **Mizora gli offre il nuovo patto al campo** → **riposo lungo** → *poi* Trono di Ferro.
 >
@@ -2342,6 +2570,10 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 - [ ] **Recuperare Omeluum**
 - [ ] **Salvare il Gran Duca** (Ravengard vivo al campo)
 
+**Missione che scade col Trono di Ferro**
+- [ ] **Vendica gli Annegati** — avviata al tempio di Umberlee **prima** di scendere col sommergibile, e chiusa consegnando **Magliorosso al ritorno** (Tappa 40-bis)
+- [ ] **Benedizione di Umberlee** presa da tutto il gruppo, **senza rubare** dalla cassa delle offerte
+
 **Missioni dei compagni**
 - [ ] **Astarion**: Cazador morto, **non asceso**, spawn liberati
 - [ ] **Cuorescuro**: Viconia sconfitta, Shar rifiutata, **genitori salvi**
@@ -2421,7 +2653,8 @@ Ricerca svolta ad agosto 2026. Fonti principali:
 - **Wyll, Mizora e Karlach (bivio patto/Averno)**: [GameRant — How to Break Wyll's Pact with Mizora](https://gamerant.com/bg3-baldurs-gate-3-bg3-how-break-wylls-pact-with-mizora/) · [TheGamer — Every Possible Ending For Wyll](https://www.thegamer.com/baldurs-gate-3-wyll-endings-unlock-guide/) · [TheGamer — All Karlach Endings](https://www.thegamer.com/baldurs-gate-3-all-karlach-endings/) · [SegmentNext — All Karlach Endings](https://segmentnext.com/baldurs-gate-3-karlach-endings/) · [Switchblade Gaming — Karlach Romance](https://www.switchbladegaming.com/baldurs-gate-3/karlach-romance/)
 - **Casa della Speranza e Raphael**: [bg3.wiki — House of Hope](https://bg3.wiki/wiki/House_of_Hope) · [CBR — Helsik Ritual](https://www.cbr.com/baldurs-gate-3-helsik-ritual-house-of-hope-guide/) · [GameRant — How to Complete the Helsik Ritual](https://gamerant.com/baldurs-gate-3-how-to-complete-the-helsik-ritual-house-of-hope-portal/)
 - **Bhaal, Orin, Tribunale**: [bg3.wiki — Get Orin's Netherstone](https://bg3.wiki/wiki/Get_Orin%27s_Netherstone) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Solve the Open Hand Temple Murders](https://bg3.wiki/wiki/Solve_the_Open_Hand_Temple_Murders) · [ScreenRant — Unholy Assassin o uccidere Sarevok](https://screenrant.com/baldurs-gate-3-murder-tribunal-unholy-assassin-sarevok/) · [Gamer Guides — Murder Tribunal walkthrough](https://www.gamerguides.com/baldurs-gate-3/guide/walkthrough/act-3-lower-city/murder-tribunal-walkthrough-in-bg3-unholy-assassin-and-finding-orin)
-- **Secondarie**: [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Find Dribbles the Clown](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) · [bg3.wiki — Investigate the Murders](https://bg3.wiki/wiki/Investigate_the_Murders) · [bg3.wiki — Feed the Mind Flayer](https://bg3.wiki/wiki/Feed_the_Mind_Flayer) · [bg3.wiki — Investigate the Suspicious Toys](https://bg3.wiki/wiki/Investigate_the_Suspicious_Toys) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
+- **Elenco completo delle missioni**: [bg3.wiki — Quests](https://bg3.wiki/wiki/Quests) · [bg3.wiki — Act Three](https://bg3.wiki/wiki/Act_Three) · [bg3.wiki — Help the Cursed Monk / Spirit of the Amulet](https://bg3.wiki/wiki/Help_the_Spirit_of_the_Amulet) · [bg3.wiki — Sentient Amulet](https://bg3.wiki/wiki/Sentient_Amulet) · [bg3.wiki — Return Rakath's Gold](https://bg3.wiki/wiki/Return_Rakath%27s_Gold) · [bg3.wiki — Roveer's Storehouse](https://bg3.wiki/wiki/Roveer%27s_Storehouse) · [bg3.wiki — Help the Hag Survivors](https://bg3.wiki/wiki/Help_the_Hag_Survivors) · [bg3.wiki — Avenge the Hag Survivors](https://bg3.wiki/wiki/Avenge_the_Hag_Survivors) · [bg3.wiki — Find Mol](https://bg3.wiki/wiki/Find_Mol) · [gamestegy — Act 3 checklist](https://gamestegy.com/post/bg3/1641/act-3-checklist)
+- **Secondarie**: [bg3.wiki — Avenge the Drowned](https://bg3.wiki/wiki/Avenge_the_Drowned) · [bg3.wiki — Water Queen's House](https://bg3.wiki/wiki/Water_Queen%27s_House) · [bg3.wiki — Redhammer](https://bg3.wiki/wiki/Redhammer) · [bg3.wiki — Wavemother's Robe](https://bg3.wiki/wiki/Wavemother%27s_Robe) · [bg3.wiki — Sahuagin Champion](https://bg3.wiki/wiki/Sahuagin_Champion) · [bg3.wiki — Save Vanra](https://bg3.wiki/wiki/Save_Vanra) · [bg3.wiki — Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) · [bg3.wiki — Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane) · [bg3.wiki — Duellist's Prerogative](https://bg3.wiki/wiki/Duellist%27s_Prerogative) · [bg3.wiki — Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) · [bg3.wiki — Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant) · [bg3.wiki — End Mystic Carrion's Immortality](https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality) · [bg3.wiki — Find the Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong) · [bg3.wiki — Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower) · [bg3.wiki — Sorcerous Vault](https://bg3.wiki/wiki/Sorcerous_Vault) · [bg3.wiki — Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay) · [bg3.wiki — Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke) · [bg3.wiki — Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days) · [bg3.wiki — Find Dribbles the Clown](https://bg3.wiki/wiki/Find_Dribbles_the_Clown) · [bg3.wiki — Investigate the Murders](https://bg3.wiki/wiki/Investigate_the_Murders) · [bg3.wiki — Feed the Mind Flayer](https://bg3.wiki/wiki/Feed_the_Mind_Flayer) · [bg3.wiki — Investigate the Suspicious Toys](https://bg3.wiki/wiki/Investigate_the_Suspicious_Toys) · [bg3.wiki — Wyrmway](https://bg3.wiki/wiki/Wyrmway) · [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Morphic Pool](https://bg3.wiki/wiki/Morphic_Pool) · [bg3.wiki — Orpheus](https://bg3.wiki/wiki/Orpheus) · [bg3.wiki — Dominated Red Dragon](https://bg3.wiki/wiki/Dominated_Red_Dragon) · [bg3.wiki — Orin the Red](https://bg3.wiki/wiki/Orin_the_Red) · [bg3.wiki — Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies) · [bg3.wiki — Ansur/Combat](https://bg3.wiki/wiki/Ansur/Combat) · [bg3.wiki — Impress the Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal) · [bg3.wiki — Bhaalist Armour](https://bg3.wiki/wiki/Bhaalist_Armour)
 - **Finali e alleati**: [bg3.wiki — Confront the Elder Brain](https://bg3.wiki/wiki/Confront_the_Elder_Brain) · [bg3.wiki — Endings](https://bg3.wiki/wiki/Endings) · [bg3.wiki — Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies)
 - **Trofei**: **Lista trofei PSN italiana** — [UAGNA — Lista Trofei Baldur's Gate 3](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538) · [bg3.wiki — Guida "Fancy Footwork"](https://bg3.wiki/wiki/Guide:Fancy_Footwork_(achievement)) · [Tigore's Tips — Fancy Footwork](https://tigorestips.com/dnd/bg3-gortashs-fancy-footwork-achievement-guide/) · [Tigore's Tips — Crash Landing (Ansur)](https://tigorestips.com/dnd/bg3-wyrmway-crash-landing-achievement-guide/) · [SegmentNext — Crash Landing](https://segmentnext.com/baldurs-gate-3-crash-landing/) · [PlayStationTrophies — Interfectorem Draconis](https://www.playstationtrophies.org/game/baldurs-gate-iii/trophy/interfectorem-draconis.html) · [dotesports — Mind Blown](https://dotesports.com/baldurs-gate/news/baldurs-gate-3-how-to-complete-the-mind-blown-achievement-in-bg3) · [TheGamer — Come corteggiare l'Imperatore](https://www.thegamer.com/baldurs-gate-3-bg3-the-emperor-romance-guide/) · [bg3.wiki — Leave No One Behind](https://bg3.wiki/wiki/Leave_No_One_Behind) · [GameRant — Trovare ogni tiefling](https://gamerant.com/baldurs-gate-3-bg3-find-every-missing-tiefling-leave-no-one-behind/) · [XboxAchievements — The Lich-Queen's Wrath](https://www.xboxachievements.com/game/baldurs-gate-3/achievement/the-lich-queens-wrath.html)
 - **Revisione del 31 agosto 2026 — verifica location e nomi**: pagine di zona e di luogo su bg3.wiki ([Rivington](https://bg3.wiki/wiki/Rivington) · [Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing) · [South Span Checkpoint](https://bg3.wiki/wiki/South_Span_Checkpoint) · [Sharess' Caress](https://bg3.wiki/wiki/Sharess%27_Caress) · [Fraygo's Flophouse](https://bg3.wiki/wiki/Fraygo%27s_Flophouse) · [Lower City](https://bg3.wiki/wiki/Lower_City) · [Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers) · [Undercity Ruins](https://bg3.wiki/wiki/Undercity_Ruins) · [Upper City](https://bg3.wiki/wiki/Upper_City) · [The Wyrmway](https://bg3.wiki/wiki/The_Wyrmway) · [Old Garlow's Place](https://bg3.wiki/wiki/Old_Garlow%27s_Place) · [The Counting House](https://bg3.wiki/wiki/The_Counting_House) · [Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal) · [Society of Brilliance](https://bg3.wiki/wiki/Society_of_Brilliance)) · [bg3.wiki — Lista completa degli achievement](https://bg3.wiki/wiki/Achievements) · **[UAGNA — Lista trofei PSN italiana completa](https://www.uagna.it/videogiochi/lista-trofei-baldurs-gate-3-2-183538)** (fonte dei nomi *Passo Leggiadro*, *Primo Sangue*, *Atterraggio Forzato*, *Omicidio a Baldur's Gate*, *Via del Dragone*, *Carnefice*, *stile del DM*)
