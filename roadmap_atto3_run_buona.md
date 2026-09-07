@@ -2079,7 +2079,7 @@ Gortash è un **boss di livello 9**: da solo non è un problema, **si appoggia a
 | **Drappo dell'Autorità** (*Cloth of Authority*) | |
 | **Balestra Fabbricata** (*Fabricated Arbalest*) | |
 | **Stivaloni Tirannici** (*Tyrannical Jackboots*) | |
-| **Riflettoguardia** (*Reflectoguard*) · **Ottimizzatore di Fase** (*Phase Optimizer*) | Due pezzi che il file prima non elencava |
+| **Riflettoguardia** (*Reflectoguard*) · **Ottimizzatore di Fase** (*Phase Optimizer*) | |
 | **Chiave di Gortash** · pugnale · bomba di polvere da sparo · biglietto di Helsik | |
 | ⚠️ **Nei forzieri della sala**: **Stivali Crepuscolo Infernale** (*Helldusk Boots*) e **Guanti del Servitore della Mano Nera** | **Gli stivali del set Crepuscolo Infernale stanno QUI, non alla Casa della Speranza**: è questa tappa a completarti il set |
 
@@ -2308,7 +2308,7 @@ Fai **almeno 4-5 riposi lunghi** consecutivi: si sbloccano a catena tutte le sce
 
 ### 47.3 — Raduna i tuoi Alleati — la lista completa e verificata
 
-Ogni riga è un alleato in più alla battaglia finale. ⚠️ **Le righe segnate con 📌 hanno un requisito che il file prima non riportava**: controllale.
+Ogni riga è un alleato in più alla battaglia finale. ⚠️ **Le righe segnate con 📌 hanno un requisito facile da mancare**: controllale.
 
 | Alleato | Requisito nella tua run |
 |---|---|
@@ -2362,7 +2362,7 @@ Con entrambe le Pietranether, l'Imperatore ti convoca alla **Pozza Morfica**, ne
 > - i **riposi** (lunghi e brevi al campo);
 > - l'accesso a **bauli e attrezzatura immagazzinata**;
 > - il **cambio dei compagni**;
-> - ⚠️ **il respec con Withers** — questo il file prima non lo diceva: **la build con cui scendi è quella con cui finisci il gioco**.
+> - ⚠️ **il respec con Withers**: **la build con cui scendi è quella con cui finisci il gioco**.
 >
 > Tutte le missioni non chiuse falliscono. **Prima di salire, scorri la [lista di controllo finale](#-lista-di-controllo-finale-prima-della-pozza-morfica).**
 
