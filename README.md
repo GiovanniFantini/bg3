@@ -10,6 +10,7 @@ Raccolta di guide personali per una partita **eroica/non malvagia** di Baldur's 
 | [roadmap_atto2_run_buona.md](roadmap_atto2_run_buona.md) | Atto 2, tappe 13-26: Terre Maledette dall'Ombra, Torri dell'Alba Lunare, i 3 blocchi permanenti da evitare |
 | [roadmap_atto3_run_buona.md](roadmap_atto3_run_buona.md) | Atto 3, tappe 27-50: Baldur's Gate, i 4 orologi a tempo, gli 8 errori che chiudono contenuti, il finale |
 | [build_completa_livello_1-12.md](build_completa_livello_1-12.md) | Build livello-per-livello ed equip di tutti gli 11 personaggi giocabili (protagonista + compagni), con audit delle sottoclassi più forti dopo la Patch 8 |
+| [oggetti_e_build_definitive.md](oggetti_e_build_definitive.md) | Catalogo di tutti gli oggetti che vale la pena indossare (per slot, con posizioni), analisi comparata di ogni build, setup finale slot-per-slot di ogni personaggio, chi prende gli oggetti contesi e il giro di raccolta dell'Atto 3 — include la build **Minsc monaco a pugni** |
 
 ## Filosofia del progetto
 

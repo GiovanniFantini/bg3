@@ -344,7 +344,7 @@ Raphael ti aspetta al **Gran Mausoleo dei Thorm** (Tappa 22), poco prima dell'as
 
 - **Cosa vuole:** che tu uccida **Yurgir**, il suo "vecchio nemico" — un orthon che, secondo lui, ha violato un contratto. Avvia **"Uccidere il Vecchio Nemico di Raphael"**.
 - ✅ **Cosa fare:** **prendi l'informazione, non prendere impegni.** Non serve alcun patto per entrare nel Guanto o per gestire Yurgir. Come nell'Atto 1, ascoltalo e mandalo via.
-- ⚠️ **Non accettare nulla in cambio.** Il vero conto arriva in **Atto 3**, alla Casa della Speranza, dove nella run buona lo **sconfiggi** invece di patteggiare (ed è così che si ottiene l'**Armatura Anticrepuscolo**).
+- ⚠️ **Non accettare nulla in cambio.** Il vero conto arriva in **Atto 3**, alla Casa della Speranza, dove nella run buona lo **sconfiggi** invece di patteggiare (ed è così che si ottiene l'**Armatura Crepuscolo Infernale**).
 - **Il colpo di scena della via buona:** rompendo il contratto di Yurgir (Tappa 22.4) **fai fallire Raphael** e ti guadagni Yurgir come **alleato in Atto 3 proprio contro di lui**. È la vendetta più elegante disponibile nel gioco.
 
 ---
@@ -478,7 +478,7 @@ L'Atto 2 punisce chi combatte come nell'Atto 1. Cinque regole che valgono ovunqu
 
 1. **Jaheira** ti interroga all'ingresso e ti offre del vino (è siero della verità: bevilo tranquillamente, non hai nulla da nascondere). Rispondi con franchezza: la sincerità qui è la via giusta e alza la sua fiducia.
 2. **Dammon** (fabbro tiefling, nelle **stalle**): 🎒⚠️ **dagli il secondo Ferro Infernale** → **secondo potenziamento del motore di Karlach**. Da questo momento **Karlach può essere toccata**: si sblocca la scena di riposo lungo con lei ed è **il prerequisito del trofeo Appuntamento Caliente** (l'appuntamento vero scatta in Atto 3, ma senza questo passaggio non arriva mai). ⚠️ Se Dammon muore, la linea di Karlach si blocca per sempre.
-   - Se ti avanza altro Ferro Infernale, Dammon forgia i pezzi **Anticrepuscolo Imperfetti** (*Flawed Helldusk*): ottimi, ma **Karlach ha la precedenza assoluta**.
+   - Se ti avanza altro Ferro Infernale, Dammon forgia i pezzi **Crepuscolo Infernale Imperfetti** (*Flawed Helldusk*): ottimi, ma **Karlach ha la precedenza assoluta**.
 3. **Quartiermastro Talli**, **Mattis**, **Barcus Wroot**: 🛒 **compra ora** (lista completa in appendice). Il pezzo da non mancare è il **Mantello di Protezione** (+1 CA e +1 a tutti i TS) da Talli.
 4. **Art Cullagh**: il soldato delirante che ripete "Thaniel". Parlagli: parte **"Risvegliare Art Cullagh"**. Non puoi ancora svegliarlo — ti serve il **Liuto Malmesso** dalla Casa di Guarigione (Tappa 17).
 5. **I tiefling salvati** (Alfira, Zevlor assente, Rolan, Cal, Lia…): parla con tutti, due volte. Avvia **"Salvare i Tiefling"**, **"Trovare Zevlor"**, **"Liberare Wulbren"** (da Barcus).
@@ -751,7 +751,7 @@ Perdi i Guanti del Corvo. Sono un oggetto di seconda fascia: il Giuramento e mez
 | **Gemma Umbratile** | sì | **sì, lo stesso** |
 | **Paladino di Devozione** | giuramento **intatto** | ⛔ **giuramento infranto** (accordo con un diavolo) → Apostata, si ripristina dal **Cavaliere Apostata** al campo per **1000 mo** |
 
-- ⚠️ **Non stringere patti con Raphael in nessun caso**: in Atto 3 lo affronti alla Casa della Speranza (ed è da lì che arriva l'**Armatura Infernale**).
+- ⚠️ **Non stringere patti con Raphael in nessun caso**: in Atto 3 lo affronti alla Casa della Speranza (ed è da lì che arriva l'**Armatura Crepuscolo Infernale**).
 
 ### 22.2 — Ingresso del Guanto: i turiboli
 
@@ -1017,7 +1017,7 @@ Scontro diretto nella grande sala. Se l'hai fatto pentire sul tetto con la lette
 **Dammon** — stalle dell'Ultima Luce
 - ⚠️ **Priorità: Ferro Infernale → potenziamento di Karlach** (non l'armatura)
 - **Spada Rubavita**, **Arco Corto Fuocoscuro**, **Alabarda dell'Armonia**, **Spada dell'Ombra Avvinghiante**, **Guanti del Maestro di Spada**, **Ascia Termodinamo**, **Lama di Spina**
-- **Set Anticrepuscolo Imperfetto** (elmo/guanti/corazza) se ti avanza Ferro Infernale
+- **Set Crepuscolo Infernale Imperfetto** (elmo/guanti/corazza) se ti avanza Ferro Infernale
 
 **Mattis** — Ultima Luce: ⚠️ **Chiave a Forma di Torre** (apre il seminterrato della Gilda dei Muratori) · **Scarpe Evasive** · **Mantello della Bruma Astuta**
 
@@ -1042,7 +1042,7 @@ Scontro diretto nella grande sala. Se l'hai fatto pentire sul tetto con la lette
 |---|---|---|
 | **Protagonista** | **Cuore Assassino** (critico garantito dopo un'uccisione → Punizione Divina doppia) · **Mantello di Protezione** · **Anello di Movimento Libero** · valuta la **Lancia della Notte di Selûne** | Guanto di Shar · Talli · Araj · Coltre Oscura |
 | **Cuorescuro** | **Lancia della Notte** (Biblioteca Silenziosa) o **Lancia della Notte di Selûne** · **Anello Coruscation** · **Anello del Bagliore Impietoso** | Guanto · cantina Ultima Luce · Guanto |
-| **Karlach** | **Motore potenziato da Dammon** (⚠️ prioritario) · **Anello Rischioso** · pezzi **Anticrepuscolo Imperfetti** | Ultima Luce · Araj |
+| **Karlach** | **Motore potenziato da Dammon** (⚠️ prioritario) · **Anello Rischioso** · pezzi **Crepuscolo Infernale Imperfetti** | Ultima Luce · Araj |
 | **Gale** | **Elmo dell'Acutezza Arcana** · **Amuleto Nucleo Incantesimi** · **Cappello dell'Acutezza Ignea** | Gilda dei Muratori · Oubliette · Bue Strano |
 | **Astarion** | **Anello delle Ombre** (Passare senza Tracce) · **Cotta di Scaglie Yuan-ti** · **Guanti delle Mani Equilibrate** | Campo di Battaglia · Talli |
 | **Wyll** | **VESTE POTENTE** (🥇 il suo BiS di metà partita) · **Stocco Infernale** · **Anello del Bagliore Impietoso** | Alfira (Tappa 21) · Mizora (Tappa 25) |

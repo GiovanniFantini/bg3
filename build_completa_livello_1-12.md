@@ -23,6 +23,7 @@
   - 🛡️ Variante scudo · ☠️ Nota Spergiuro (fuori run buona)
 - [🐻 Halsin — Druido (Circolo della Luna)](#-halsin--druido-circolo-della-luna)
 - [🐹 Minsc — Ranger arciere (Atto 3)](#-minsc--ranger-cacciatore-oscuro-arciere)
+  - 🥊 Variante consigliata: **monaco a pugni** (Mano Aperta 9 / Furfante 3)
 - [🛡️ Oggetti universali OP (vanno bene su chiunque)](#️-oggetti-universali-op-vanno-bene-su-chiunque)
 - [📋 Riepilogo equip-chiave per personaggio](#-riepilogo-equip-chiave-per-personaggio)
 - [🗺️ Appendice — posizioni Atto 2-3 verificate](#️-appendice--posizioni-atto-2-3-verificate-dalla-run-provata)
@@ -63,7 +64,7 @@
 | **Jaheira** | Druida **Circolo della Terra** 12 | ✅ **confermata** | ⚠️ Il nuovo **Circolo delle Stelle** è classificato **D-tier**: ignoralo |
 | **Minthara** | Paladina **Giuramento di Vendetta** 12 | ✅ **confermata** | ⚠️ Il nuovo **Giuramento della Corona** è **C-tier**: non è un'alternativa |
 | **Halsin** | Druido **Circolo della Luna** 12 + Rissaiolo da Taverna | ✅ **confermata** | È il consenso unanime di tutte le fonti consultate |
-| **Minsc** | Cacciatore Oscuro 5 / Assassino 4 / Campione 3 | ✅ **confermata** | È la stessa build "migliore in assoluto a distanza". ⚠️ Doppione di Astarion arciere: portane uno solo |
+| **Minsc** | Cacciatore Oscuro 5 / Assassino 4 / Campione 3 | 🔄 **valuta il monaco** | Da arciere è forte, ma è un **doppione di Astarion** e gli contende l'arco. Da **Monaco (Via della Mano Aperta) 9 / Ladro (Furfante) 3** con **Rissaiolo da Taverna** fa ~6 attacchi a turno, stordisce i boss e **non contende oggetti a nessuno** → build completa in `oggetti_e_build_definitive.md`, Parte D |
 
 > **E i 12 mercenari di Withers?** Al campo puoi assoldare **assistenti** (100 mo l'uno), uno per ogni classe. Non hanno trama né dialoghi, ma **prendono qualsiasi build di questa guida**: se ti manca un ruolo (un secondo chierico, un bardo, un monaco) è la via più veloce. Le progressioni qui sotto valgono identiche su di loro.
 
@@ -184,7 +185,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 - **Elemental Affinity** (Stirpe Draconica Rossa): aggiungi il modificatore di **Carisma al danno di ogni incantesimo di Fuoco** (Mani Ardenti, Palla di Fuoco, Dardo Infuocato colpiscono molto più forte). In alternativa, spendendo 1 Punto Stregoneria dopo un incantesimo di fuoco → resistenza al fuoco fino al riposo lungo. (Non dà Metamagia gratis.)
 - 7° incantesimo noto: **Controincantesimo** — chiude l'unico "buco" del repertorio (protezione da incantesimi nemici).
 - **Slot finale con il 5° livello**: un **Divine Smite da 5d8 radioso** (6d8 vs Immondi/Non Morti) su un singolo colpo devastante, oppure Palla di Fuoco potenziata.
-- 🎒 **Set endgame consigliato**: arma luminosa (Phalar Aluve / Giantslayer) · **Armatura Infernale** (*Helldusk Armour*, Atto 3, dalla Casa della Speranza — la ottieni **sconfiggendo Raphael**, coerente con la run "senza patto") = migliore corazza pesante del gioco · **Amuleto della Salute** (COS 23) · **Guanti dei Cieli Bellicosi** · **Anello del Bagliore Impietoso** + un anello a scelta · **Mantello della Trama**. Con questo set il PG è tank inaffondabile **e** blaster di fuoco.
+- 🎒 **Set endgame consigliato**: arma luminosa (Phalar Aluve / Giantslayer) · **Armatura Crepuscolo Infernale** (*Helldusk Armour*, Atto 3, dalla Casa della Speranza — la ottieni **sconfiggendo Raphael**, coerente con la run "senza patto") = migliore corazza pesante del gioco · **Amuleto della Salute** (COS 23) · **Guanti dei Cieli Bellicosi** · **Anello del Bagliore Impietoso** + un anello a scelta · **Manto del Sacro Guerriero** (*Mantle of the Holy Warrior*, dal Vicario Humbletoes al Tabernacolo: **+1d4 danni a tutto il gruppo**, meglio del Mantello della Trama su un paladino) · **Maschera della Percezione dell'Anima** (slot testa, **+2 ai tiri per colpire**: forziere al piano di sopra da Helsik). Con questo set il PG è tank inaffondabile **e** blaster di fuoco.
 
 ### ⚖️ Pregi e difetti — Paladino 6 / Stregone 6
 
@@ -275,7 +276,7 @@ La **Via del Gigante** (*Path of the Giant*, Patch 8, classificata **A-tier**) �
 
 #### Livello 12 — Paladino 12 · **Talento #3**
 - **Talento → +2 Carisma** (18 → **20**): aura a +5, Arma Sacra a +5, dialoghi al massimo. Se la CAR è già 20 grazie allo **Specchio della Perdita**, prendi invece **Attaccante Selvaggio** (*Savage Attacker*), **Sentinella** (blocchi i nemici che colpisci) o **Resiliente: Costituzione**.
-- 🎒 **Set endgame**: **Armatura Infernale** (*Helldusk Armour*, ottenuta **sconfiggendo Raphael** alla Casa della Speranza — coerente con la run senza patto) · **Balduran's Giantslayer** o **Phalar Aluve** · **Guanti dei Cieli Bellicosi** · **Anello di Riverbero** + **Anello del Bagliore Impietoso** · **Amuleto della Salute** (COS 23) · **Mantello dello Spostamento** (*Cloak of Displacement*).
+- 🎒 **Set endgame**: **Armatura Crepuscolo Infernale** (*Helldusk Armour*, ottenuta **sconfiggendo Raphael** alla Casa della Speranza — coerente con la run senza patto) · **Balduran's Giantslayer** o **Phalar Aluve** · **Guanti dei Cieli Bellicosi** · **Anello di Riverbero** + **Anello del Bagliore Impietoso** · **Amuleto della Salute** (COS 23) · **Mantello dello Spostamento** (*Cloak of Displacement*).
 - Rispetto alla 6/6 rinunci al blaster di fuoco e agli Smite da 5d8; in cambio hai il miglior "tank che fa male ogni singolo turno" del gioco, con due immunità di gruppo in più.
 
 ### ⚖️ Pregi e difetti — Paladino 12 puro
@@ -761,7 +762,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 
 ### Livello 12 — Guerriero 12 · **Talento**
 - **Talento**: FOR già 20 → **Sentinella** (blocchi i nemici che colpisci in mischia — controllo del campo in coppia con Karlach) o **Robusto** (+24 PF).
-- 🎒 **Set endgame**: **Spada d'Argento del Piano Astrale** (o Giantslayer) · **Armatura Adamantina** o **Armatura Infernale** (Helldusk, se non la usa il PG) · **Elmo Grymskull** · **Guanti dei Cieli Bellicosi** · **Amuleto della Salute** · anelli di danno/critico. 6+ attacchi/turno, ognuno che atterra il bersaglio: il singolo picco di danno del gruppo.
+- 🎒 **Set endgame**: **Spada d'Argento del Piano Astrale** (o Giantslayer) · **Armatura Adamantina** o **Armatura Crepuscolo Infernale** (Helldusk, se non la usa il PG) · **Elmo Grymskull** · **Guanti dei Cieli Bellicosi** · **Amuleto della Salute** · anelli di danno/critico. 6+ attacchi/turno, ognuno che atterra il bersaglio: il singolo picco di danno del gruppo.
 
 ### ⚖️ Pregi e difetti — Guerriera Maestro di Battaglia
 
@@ -773,7 +774,7 @@ Alternativa alla 6ª: **Rannicchia la Mente** (Mire the Mind, Rallentamento grat
 | **Armatura pesante + Adamantina = niente critici subiti**: la prima linea più solida della partita | **Nessuna mobilità**: senza Passo Nebbioso/Stivali dipende dalle gambe, e i nemici volanti la ignorano |
 | **Attacco di Precisione** è la risposta pulita al -5 di Grande Maestro d'Armi (nessun'altra build ce l'ha) | ⚠️ Se muore/va in disaccordo (trama gith), il gruppo perde **tutto** il suo danno da mischia in un colpo solo |
 
-**Nota narrativa Atto 2-3 (run buona):** l'arco su Vlaakith prosegue con **Kith'rak Voss** (Atto 2: il vero erede gith è Orpheus). In Atto 3, Vlaakith le offre Comandante di Draghi in cambio dell'uccisione di Orpheus: per restare coerenti, **rifiuta Vlaakith, sostieni Voss/la ribellione, procurati il Martello Orfico senza patto con Raphael** (sconfiggilo nella Casa della Speranza — che ti dà anche l'Armatura Infernale), **libera Orpheus**.
+**Nota narrativa Atto 2-3 (run buona):** l'arco su Vlaakith prosegue con **Kith'rak Voss** (Atto 2: il vero erede gith è Orpheus). In Atto 3, Vlaakith le offre Comandante di Draghi in cambio dell'uccisione di Orpheus: per restare coerenti, **rifiuta Vlaakith, sostieni Voss/la ribellione, procurati il Martello Orfico senza patto con Raphael** (sconfiggilo nella Casa della Speranza — che ti dà anche l'Armatura Crepuscolo Infernale), **libera Orpheus**.
 
 ---
 
@@ -953,7 +954,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 
 ### Livello 12 — Paladino 12 · **Talento #3**
 - **Talento → +2 Carisma** (18 → **20**). Se la CAR è già a 20 grazie a **Il Diritto di Nascita** e/o allo **Specchio della Perdita**, il talento si libera per: **Attaccante Selvaggio** (rilanci i dadi di danno dell'arma — ottimo con tanti dadi da Smite), **Sentinella** (blocca chi colpisce: combo perfetta con Vendicatore Implacabile) o **Resiliente: Costituzione**.
-- 🎒 **Set endgame**: **Armatura Infernale** (*Helldusk*, dalla sconfitta di Raphael) **se non la usano il protagonista o Lae'zel**, altrimenti Corazza Adamantina · spadone/maglio migliore rimasto · **Guanti dei Cieli Bellicosi** · **Anello di Riverbero** + **Anello del Bagliore Impietoso** · **Il Diritto di Nascita** (slot testa, +2 CAR) · **Mantello di Protezione**.
+- 🎒 **Set endgame**: **Armatura Crepuscolo Infernale** (*Helldusk*, dalla sconfitta di Raphael) **se non la usano il protagonista o Lae'zel**, altrimenti Corazza Adamantina · spadone/maglio migliore rimasto · **Guanti dei Cieli Bellicosi** · **Anello di Riverbero** + **Anello del Bagliore Impietoso** · **Il Diritto di Nascita** (slot testa, +2 CAR) · **Mantello di Protezione**.
 
 > **🛡️ VARIANTE "scudo" — quando il gruppo ha già abbastanza danno.** Se porti Karlach *e* Lae'zel, il quarto slot non ha bisogno di un terzo picchiatore. In quel caso: **Stile di Combattimento → Duello** (+2 danno con arma a una mano) invece di Combattimento con Arma Grande, **arma a una mano + scudo**, e al liv. 4 **Attaccante Selvaggio** o **Resiliente: Costituzione** al posto di Grande Maestro d'Armi. Perdi ~10 danni a colpo, guadagni ~3 CA e un personaggio che non cade mai — e **Voto di Ostilità resta identico**, quindi continui a colpire quasi sempre. Tutto il resto della progressione è invariato.
 
@@ -1094,15 +1095,19 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 |---|---|---|---|
 | **Arco** | **Gontr Mael** (arco lungo leggendario) | **Fonderia della Guardia d'Acciaio**, dal **Titano della Guardia d'Acciaio** | Libero — nessun altro nella guida lo usa |
 | **Arco (ripiego)** | **Corda del Titano** (*Titanstring Bow*: aggiunge il **modificatore di Forza** al danno) | Atto 1, da **Grat il Boia** al Campo dei Goblin | Ottimo **solo** con Forza alta: su Minsc a FOR 8 **non** è la scelta giusta — è un'arma da Guanti della Forza del Gigante |
-| **Testa** | **Elmo di Balduran** | Atto 3, drop di **Ansur** (Via del Wyrm) | ⚠️ contesa con Lae'zel/Karlach |
+| **Testa** | **Elmo di Balduran** | Atto 3, drop di **Ansur** (Via del Dragone) | ⚠️ contesa con Lae'zel/Karlach |
 | **Mantello** | **Mantello dell'Ammazzaombre** (*Shade-Slayer Cloak*: +critici quando sei nascosto) | Atto 3, da **Dondo l'Appiccicoso** alla Gilda dei Ladri | Libero — è **il** mantello dell'assassino |
 | **Torso** | **Armatura del Cammino Elusivo** (*Armour of Agility*) | Atto 3, **Armeria di Stormshore** | ⚠️ contesa con Astarion |
 | **Guanti** | **Eredità dei Maestri** (*Legacy of the Masters*: +2 ai tiri per colpire e al danno con le armi) | Atto 3, da **Dammon** alla **Forgia dei Nove** | Libero — e su chi tira 6 frecce a turno vale doppio |
-| **Stivali** | **Stivali dell'Anticrepuscolo** (*Helldusk Boots*) | Atto 3, **Roccia del Wyrm**, cassa di Gortash | Libero |
+| **Stivali** | **Stivali Crepuscolo Infernale** (*Helldusk Boots*) | Atto 3, **Roccia del Dragone**, cassa di Gortash | Libero |
 | **Anelli** | **Anello di Protezione** + **Anello del Bagliore Impietoso** | Atto 1 (Mol) / Atto 3 | ⚠️ Callous Glow conteso |
 | **Amuleto** | Un amuleto qualunque con +CA/+TS — oppure **Amuleto della Salute** se avanza | — | ⚠️ contesa pesante |
 
-> **Priorità realistica:** se devi scegliere, dai a Minsc i pezzi **liberi** (Gontr Mael, Mantello dell'Ammazzaombre, Eredità dei Maestri, Stivali dell'Anticrepuscolo) e lascia agli altri quelli contesi. Con quei quattro pezzi la build rende già al 90%.
+> **Priorità realistica:** se devi scegliere, dai a Minsc i pezzi **liberi** (Gontr Mael, Mantello dell'Ammazzaombre, Eredità dei Maestri, Stivali Crepuscolo Infernale) e lascia agli altri quelli contesi. Con quei quattro pezzi la build rende già al 90%.
+
+### 🥊 Variante consigliata — **Minsc monaco a pugni** (Mano Aperta 9 / Furfante 3)
+
+Minsc entra in **Atto 3 al livello 10-11**, cioè salta esattamente i livelli in cui il monaco è debole. Con **Rissaiolo da Taverna** (modificatore di Forza contato **due volte** sui colpi senz'armi), la Forza presa dagli **Elisir della Forza del Gigante** e i **Guanti dell'Acchiappanime**, arriva a **6 pugni per turno** e può togliere il turno a un boss con il **Colpo Stordente**. In più non contende **nessun** oggetto agli altri e libera **Gontr Mael**, il **Mantello dell'Ammazzaombre** e l'**Armatura del Cammino Elusivo** per Astarion. → progressione, statistiche, oggetti e conti in **`oggetti_e_build_definitive.md`, Parte D**.
 
 ### 🐹 Nota su Boo e sulla variante "Minsc in mischia"
 
@@ -1137,9 +1142,11 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 
 ## 📋 RIEPILOGO EQUIP-CHIAVE PER PERSONAGGIO
 
+> 📎 **Per mantelli, anelli e amuleti** (i tre slot più facili da lasciare vuoti) la classifica completa con prezzi e venditori sta in **`roadmap_atto3_run_buona.md` → sezione *Mantelli, anelli e amuleti — i top 5 per slot***. In sintesi: quasi tutti si **comprano**, e i tre anelli migliori (**Amore dell'Assassino**, **Anello del Bagliore Impietoso**, **Anello di Riverbero**) stanno **in Atto 2** e non tornano più.
+
 | PG | Atto 1 (verificato) | Atto 2-3 (BiS, da verificare in gioco) |
 |---|---|---|
-| **Protagonista** | Lama Semprardente → Phalar Aluve; Scudo Protettivo | Helldusk Armour; Amuleto della Salute; Guanti dei Cieli Bellicosi; Callous Glow; Mantello della Trama |
+| **Protagonista** | Lama Semprardente → Phalar Aluve; Scudo Protettivo | **Armatura Crepuscolo Infernale**; **Maschera della Percezione dell'Anima**; **Manto del Sacro Guerriero**; Amuleto di Salute Superiore; Guanti dei Cieli Bellicosi; Stivali Crepuscolo Infernale |
 | **Cuorescuro** | Sangue di Lathander; armatura pesante | Amuleto del Devoto; Coruscation Ring; Guanti dei Cieli Bellicosi; Stivali del Clamore Tempestoso |
 | **Karlach** | Clava della Forza dei Giganti (FOR 19) | Nyrulna (lanciatrice) o Balduran's Giantslayer; Guanti dei Cieli Bellicosi; Stivali di Velocità |
 | **Gale** | Bracciali della Difesa; Sparkswall + Bacchetta Benedizione Arcana | Bastone di Markoheshkir; Amuleto della Salute; Roba dell'Arcimago; Spellmight |
@@ -1149,7 +1156,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 | **Jaheira** *(entra a fine Atto 2)* | Scimitarra Silvana (ce l'ha addosso); Armatura di Seta di Ragno (da Minthara); La Promessa Sussurrante | Amuleto della Salute (se libero); Mantello + Anello di Protezione; Anello di Riverbero; Bastone di Markoheshkir se Gale è a riposo |
 | **Minthara** *(entra in Atto 2)* | Corazza pesante migliore / Adamantina; due-mani a due mani +2 | Il Diritto di Nascita (+2 CAR); Guanti dei Cieli Bellicosi; Anello di Riverbero + Callous Glow; Helldusk se libera |
 | **Halsin** *(entra in Atto 2)* | Anello di Protezione; armatura media qualunque | ⚠️ **quasi tutto l'equip si spegne in Forma Selvatica**: solo anelli/amuleto/mantello + Cappello del Mutaforma e Armatura del Bagno di Luna |
-| **Minsc** *(entra in Atto 3)* | — (arriva già a fine partita) | **Gontr Mael** (Titano della Guardia d'Acciaio); **Eredità dei Maestri** (Dammon); **Mantello dell'Ammazzaombre** (Dondo l'Appiccicoso); Stivali dell'Anticrepuscolo |
+| **Minsc** *(entra in Atto 3)* | — (arriva già a fine partita) | **Gontr Mael** (Titano della Guardia d'Acciaio); **Eredità dei Maestri** (Dammon); **Mantello dell'Ammazzaombre** (Dondo l'Appiccicoso); Stivali Crepuscolo Infernale |
 
 > **Oggetti "condivisi" — decidi in anticipo chi li prende (ce n'è uno solo):**
 > - **Amuleto della Salute** (COS 23): il candidato migliore è chi tiene più concentrazione/è più fragile → **Gale**, **Jaheira** (Crescita di Spine/Velocità/Metamorfosi tutto il tempo) o il **Protagonista** (per Velocità). Uno solo.
@@ -1158,7 +1165,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 > - **Armatura del Cammino Elusivo** (*Armour of Agility*): **Astarion** (build a pugnali) *oppure* **Minsc**. Uno solo.
 > - **Elmo di Balduran** (drop di Ansur): **Lae'zel**, **Karlach** o **Minsc** — di norma a chi sta in prima linea.
 > - **Bastone di Markoheshkir** e **Fortezza Ambulante di Viconia**: ⚠️ **non darli a Halsin**, si spengono in Forma Selvatica. Restano a **Gale** e **Cuorescuro**.
-> - **Pezzi che non contende nessuno** (mettili senza pensarci): **Gontr Mael**, **Eredità dei Maestri**, **Mantello dell'Ammazzaombre**, **Stivali dell'Anticrepuscolo** → **Minsc** · **Il Diritto di Nascita** → **Minthara** · **Scimitarra Silvana** → **Jaheira**.
+> - **Pezzi che non contende nessuno** (mettili senza pensarci): **Gontr Mael**, **Eredità dei Maestri**, **Mantello dell'Ammazzaombre**, **Stivali Crepuscolo Infernale** → **Minsc** · **Il Diritto di Nascita** → **Minthara** · **Scimitarra Silvana** → **Jaheira**.
 > - **Balduran's Giantslayer**: **Karlach** (mischia) *oppure* **Lae'zel** *oppure* il **Protagonista** se punti STR. Lae'zel ha già la sua Spada d'Argento tematica, quindi di norma va a **Karlach**.
 > - **Bastone di Markoheshkir**: **Gale** ha la priorità (Evocazione Potenziata); Wyll come seconda scelta.
 > - **Guanti dei Cieli Bellicosi**: ottimi su qualunque colpitore radioso/tonante ad alta frequenza → **Cuorescuro**, **Lae'zel** o **Karlach**. Prendine più copie se il gioco lo permette, altrimenti priorità a Cuorescuro (Guardiani Spirituali fa più tick).
@@ -1170,9 +1177,9 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 > Queste posizioni vengono da una run **completata** (party: barbaro protagonista, Astarion, Cuorescuro, Lae'zel, Gale) e sono affidabili. Gli slot valgono per chiunque nel tuo gruppo occupi quel ruolo (es. "il barbaro" della run corrisponde a **Karlach** qui). I nomi oggetto sono verificati; per le build principali di questa guida (Astarion pugnali, Cuorescuro Vita) vale l'equip già indicato nelle rispettive sezioni — questa appendice aggiunge **posizioni esatte** e i pezzi delle varianti.
 
 ### Hub principali (Atto 3, Baldur's Gate)
-- **Casa della Speranza** (House of Hope): si entra da **"The Devil's Fee"** (Città Bassa) parlando con **Helsik**. Boss: **Raphael** (durissimo — salva prima, porta pozioni di velocità). Sconfiggerlo dà l'**Armatura Infernale** (Helldusk) senza patti, coerente con la run buona.
-- **Boudoir / Haarlep** (dentro la Casa della Speranza): è qui che si prendono i **Guanti dell'Anticrepuscolo**. Serve l'invito dall'**Archivio** (inganna o deruba l'Archivista) → entra nella cortina verde → trovi **Haarlep** (incubo con le sembianze di Raphael). Accetta le sue condizioni (ottieni anche la chiave della cassaforte di Raphael) **oppure** rifiuta e combatti. ⚠️ I **Guanti dell'Anticrepuscolo** sono **indossati da Haarlep**, quindi o lo **uccidi** e li raccogli dal corpo, o glieli **borseggi** — se accetti le sue condizioni e lo lasci vivo senza borseggiarlo, li perdi. ⚠️ In combattimento, dopo un colpo diventa immune ai danni fino al suo turno e può ammaliare gli alleati.
-- **Via del Wyrm** (Wyrmway): dungeon sotto la Roccia del Wyrm, ingresso dalle segrete della prigione (muro/torce nascoste). Boss: **Ansur**, drago non morto → droppa **Ammazzagiganti di Balduran** ed **Elmo di Balduran**.
+- **Casa della Speranza** (House of Hope): si entra da **"The Devil's Fee"** (Città Bassa) parlando con **Helsik**. Boss: **Raphael** (durissimo — salva prima, porta pozioni di velocità). Sconfiggerlo dà l'**Armatura Crepuscolo Infernale** (Helldusk) senza patti, coerente con la run buona.
+- **Boudoir / Haarlep** (dentro la Casa della Speranza): è qui che si prendono i **Guanti Crepuscolo Infernale**. Serve l'invito dall'**Archivio** (inganna o deruba l'Archivista) → entra nella cortina verde → trovi **Haarlep** (incubo con le sembianze di Raphael). Accetta le sue condizioni (ottieni anche la chiave della cassaforte di Raphael) **oppure** rifiuta e combatti. ⚠️ I **Guanti Crepuscolo Infernale** sono **indossati da Haarlep**, quindi o lo **uccidi** e li raccogli dal corpo, o glieli **borseggi** — se accetti le sue condizioni e lo lasci vivo senza borseggiarlo, li perdi. ⚠️ In combattimento, dopo un colpo diventa immune ai danni fino al suo turno e può ammaliare gli alleati.
+- **Via del Dragone** (Wyrmway): dungeon sotto la Roccia del Dragone, ingresso dalle segrete della prigione (muro/torce nascoste). Boss: **Ansur**, drago non morto → droppa **Ammazzagiganti di Balduran** ed **Elmo di Balduran**.
 - **Sorcerous Sundries / Torre di Ramazith** (Città Bassa): equip da incantatore — **Markoheshkir** (cima della Torre, oltre il portale), **Veste della Trama** (nel Globo di Invulnerabilità), **Guanti dell'Incantesimo Rapido** e **Il Diritto di Nascita** (entrambi **in vendita** al piano terra, non drop).
 
 ### Oggetti che fissano le statistiche
@@ -1189,16 +1196,16 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 **Karlach / il tuo barbaro** (con FOR e COS fissate a 23):
 - Guanti: **Manopole della Forza del Gigante** (FOR 23) — Archivio, Casa della Speranza
 - Amuleto: **Amuleto della Salute Superiore** (COS 23) — Archivio, Casa della Speranza
-- Arma: **Ammazzagiganti di Balduran** — drop di Ansur (Via del Wyrm) · *variante lanciatrice: **Nyrulna**, Circo degli Ultimi Giorni*
+- Arma: **Ammazzagiganti di Balduran** — drop di Ansur (Via del Dragone) · *variante lanciatrice: **Nyrulna**, Circo degli Ultimi Giorni*
 - Elmo: **Elmo di Balduran** — drop di Ansur
 - Stivali: **Stivali Spinaossa** (Bonespike: salto d'attacco che atterra il bersaglio, +1 CA/TS **se non porti armatura** → perfetti sul barbaro) — ⚠️ **non** al Tribunale dell'Omicidio: si trovano in **Rivington**, in un passaggio appartato in fondo al sentiero ovest che parte dal posto di blocco di South Span (in alternativa: cassa sulla Spiaggia Ovest)
 
 **Lae'zel:**
-- Armatura: **Corazza dell'Anticrepuscolo** (Helldusk) — dal corpo di Raphael, Casa della Speranza
-- Elmo: **Elmo dell'Anticrepuscolo** (niente critici subiti, +2 TS vs incantesimi, vedi nell'oscurità magica) — nella **Volta di Raphael**, di fronte all'ingresso del Boudoir, in un cumulo di tesori (servono due prove superate)
-- Guanti: **Guanti dell'Anticrepuscolo** — ⚠️ li **indossa Haarlep**: o lo sconfiggi, o glieli **borseggi**. Non compaiono in nessun baule (vedi sopra)
+- Armatura: **Armatura Crepuscolo Infernale** (Helldusk) — dal corpo di Raphael, Casa della Speranza
+- Elmo: **Elmo Crepuscolo Infernale** (niente critici subiti, +2 TS vs incantesimi, vedi nell'oscurità magica) — nella **Volta di Raphael**, di fronte all'ingresso del Boudoir, in un cumulo di tesori (servono due prove superate)
+- Guanti: **Guanti Crepuscolo Infernale** — ⚠️ li **indossa Haarlep**: o lo sconfiggi, o glieli **borseggi**. Non compaiono in nessun baule (vedi sopra)
 - Arma: **Spada d'Argento del Piano Astrale** — da Voss (quest dell'Orfico)
-- Stivali: **Stivali della Persistenza** (Libertà di Movimento + Passo Lungo permanenti) — ⚠️ **non** da Danthelon: si comprano da **Dammon alla Forgia dei Nove**, Città Bassa (~1300 mo)
+- Stivali: **Stivali di Persistenza** (Libertà di Movimento + Passo Lungo permanenti) — ⚠️ **non** da Danthelon: si comprano da **Dammon alla Forgia dei Nove**, Città Bassa (~1300 mo)
 
 **Cuorescuro:**
 - Scudo: **Fortezza Ambulante di Viconia** — drop di Viconia (quest "Casa del Dolore")
@@ -1219,7 +1226,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 - Anelli: **Anello di Protezione** (Mol) + **Anello di Riverbero** · Mantello: **Mantello di Protezione** (Talli, Ultima Luce)
 
 **Minthara:**
-- Armatura: migliore corazza pesante libera — **Corazza Adamantina** (Grymforge) o **Armatura Infernale** se non la usano PG/Lae'zel
+- Armatura: migliore corazza pesante libera — **Corazza Adamantina** (Grymforge) o **Armatura Crepuscolo Infernale** se non la usano PG/Lae'zel
 - Testa: **Il Diritto di Nascita** (+2 CAR, max 22) — ~1025 mo alla **Sorcerous Sundries**, piano terra
 - Guanti: **Guanti dei Cieli Bellicosi** — Atto 1, Camere dell'Inquisitore alla Creche Y'llek (se non li prende Cuorescuro)
 - Anelli: **Anello di Riverbero** + **Anello del Bagliore Impietoso**
@@ -1228,7 +1235,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 ### Giro consigliato (Atto 3)
 1. Sorcerous Sundries + Torre di Ramazith (Gale)
 2. Casa della Speranza (Lae'zel + barbaro, quasi completi)
-3. Via del Wyrm (armi finali)
+3. Via del Dragone (armi finali)
 4. Casa del Dolore (quest Cuorescuro + scudo)
 
 ---

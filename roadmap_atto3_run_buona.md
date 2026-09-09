@@ -52,6 +52,7 @@
 **Appendici**
 - [🛒 Cosa comprare nell'Atto 3](#-cosa-comprare-nellatto-3-mercante-per-mercante)
 - [🎒 Oggetti leggendari dell'Atto 3 per personaggio](#-oggetti-leggendari-dellatto-3-per-personaggio)
+- [🧥 Mantelli, anelli e amuleti — i top 5 per slot](#-mantelli-anelli-e-amuleti--i-top-5-per-slot)
 - [💞 Romance e scene al campo](#-romance-e-scene-al-campo-atto-3)
 - [✅ Lista di controllo finale](#-lista-di-controllo-finale-prima-della-pozza-morfica)
 - [🎮 Note PS5](#-note-ps5)
@@ -494,7 +495,7 @@ Lo useremo **quattro volte**: **Scappatoia** (Tappa 30), **Omicidio a Baldur's G
 
 | Trofeo (nome PSN italiano) | Descrizione ufficiale | Dove | Compatibile con la run buona? |
 |---|---|---|---|
-| 🏆 **Passo Leggiadro** | *Sconfiggi Gortash senza far scattare neanche una trappola: più facile a dirsi che a farsi.* | Tappa 43 | ✅ Sì |
+| 🏆 **Passo Leggiadro** | *Sconfiggi Gortash senza far scattare neanche una trappola: più facile a dirsi che a farsi.* | Tappa 43 | ⏭️ **Saltato in questa run** (Gortash ucciso con le trappole attive). Recuperabile in una partita futura: non richiede scelte morali |
 | 🏆 **Primo Sangue** *(nascosto)* | *Uccidi Orin prima che i suoi cultisti completino il rituale.* | Tappa 46 | ✅ Sì |
 | 🏆 **Atterraggio Forzato** | *Nella **Via del Dragone**, aspetta che il drago sia a mezz'aria e buttalo giù: BADABOOM!* | Tappa 44 | ✅ Sì |
 | 🏆 **Interfectorem Draconis** *(nascosto)* | *Uccidi il drago rosso nella Città Alta.* | Tappa 49 | ✅ Sì |
@@ -1730,6 +1731,8 @@ Il "dungeon opzionale" migliore del gioco. **Fallo prima del Trono di Ferro**: l
 
 💡 In alternativa puoi **rubare** i componenti nel negozio. In una run buona è un furto a una mercante di artefatti diabolici: decidi tu, non ha conseguenze narrative.
 
+> 🎒 **Non andartene senza svaligiare il piano di sopra.** Nella stanza di Helsik c'è un **forziere dorato chiuso** (**Rapidità di Mano CD 20**) con la **Maschera della Percezione dell'Anima** (*Mask of Soul Perception*) — ⚠️ *dicitura italiana non confermata a schermo*. È uno **slot testa** molto raro e uno dei migliori copricapo offensivi del gioco: **+2 ai tiri per colpire, +2 all'iniziativa e +2 alle prove di Percezione**, più **Individuazione del Pensiero** una volta per riposo breve. Il **+2 al colpire** è un bonus rarissimo: su un paladino che infila Punizione Divina vale più di qualsiasi bonus difensivo.
+
 **Il rituale** (stanza di sopra; la freccia indica la punta "in alto"):
 
 1. **Teschio** → punta della stella **più vicina all'altare**
@@ -2029,6 +2032,8 @@ Nel Centro di Controllo, **nascosto sotto una piattaforma mobile**: **Titano di 
 
 **Effetto sul resto dell'atto**: con le Sentinelle d'Acciaio disattivate, **lo scontro con Gortash diventa molto più semplice**.
 
+⚔️ **Da adesso la Roccia del Dragone è ostile.** Gortash prende la distruzione della Fonderia (e il salvataggio del Trono di Ferro) come una dichiarazione di guerra: quando ci torni, i suoi Guanti Neri **ti attaccano a vista già ai ponti levatoi** e lui non ti parla più. È previsto, non è un errore — vedi la nota in apertura della Tappa 43 per come gestirlo senza perdere il trofeo.
+
 ---
 
 ## TAPPA 43 — 🏆 GORTASH (liv. 12) — TROFEO *PASSO LEGGIADRO*
@@ -2036,6 +2041,10 @@ Nel Centro di Controllo, **nascosto sotto una piattaforma mobile**: **Titano di 
 > 🎭 **Squadra ideale (tutta a distanza):** Tu + **Cuorescuro** + **Astarion** + **Gale**. Il trofeo salta **nel momento in cui una trappola spara**: non portare nessuno che corra in mischia dentro la sala del trono. ℹ️ Karlach ha battute dedicate su Gortash, ma portala solo se sei disposto a tenerla ferma sul balcone.
 
 ⚠️ **Salvataggio manuale prima.**
+
+> ⚔️ **È NORMALE che siano tutti ostili.** Se hai già fatto il **Trono di Ferro** (Tappa 41) e/o la **Fonderia** (Tappa 42) — cioè l'ordine di questa roadmap — Gortash ha preso la tua mossa come dichiarazione di guerra: la Roccia del Dragone **non è più una zona pacifica**. I Pugni Fiammeggianti sono spariti, al loro posto ci sono **Guanti Neri** e **Consoli di Ferro** che ti attaccano **a vista già dai ponti levatoi**, e Gortash **non ti offre nessun dialogo**: quando lo raggiungi si combatte e basta. Non è un bug e non hai sbagliato nulla — è il prezzo di aver salvato i Gondiani e i prigionieri, ed è comunque uno scontro **molto più facile** che affrontarlo all'incoronazione, perché le Sentinelle d'Acciaio non ci sono più. Come gestirlo senza perdere il trofeo: vedi 43.2.
+
+> ⏭️ **Stato in questa run: trofeo saltato, Gortash ucciso.** Va benissimo: il trofeo non incide sulla storia né sulla run buona. Quello che conta adesso è il **§43.3 (la mano di Gortash)** e il bottino del §43.4.
 
 > ✅ **Nome del trofeo, verificato:** in italiano è **Passo Leggiadro** (*Fancy Footwork*) — *«Sconfiggi Gortash senza far scattare neanche una trappola: più facile a dirsi che a farsi.»*
 
@@ -2057,13 +2066,15 @@ Gortash è un **boss di livello 9**: da solo non è un problema, **si appoggia a
 
 ⚠️ **Attenzione (Patch 8):** il trofeo fallisce **nel momento in cui una trappola spara**, anche se poi raccogli o butti via le granate. Le vecchie guide dicono il contrario: sono superate.
 
+**Prima cosa da sapere, se la fortezza è ostile:** le trappole che contano per il trofeo sono **solo quelle della sala del trono**. I Guanti Neri del cortile, delle scale e dell'anticamera puoi ucciderli tranquillamente — anzi, è un vantaggio: sentendo il combattimento **molti scagnozzi escono dalla sala e vengono da te**, e li elimini lontano dalle trappole. La regola è una sola: **finché il combattimento è aperto, non mettere piede nella sala del trono**. Ripulisci un'ala alla volta, aspetta che il gioco esca dalla modalità combattimento, riposo breve, poi passa alla sala. Se un nemico si ritira verso la sala, **lascialo andare** invece di inseguirlo.
+
 **Tre metodi, dal più affidabile al più rapido:**
 
-1. **Disinnesco preventivo (consigliato).** Fermati nell'anticamera prima della sala del trono e, **con la modalità a turni attiva**, prendi di mira le trappole a una a una con **attacchi a distanza mirati** (mira manuale sull'oggetto). Eliminale quasi tutte prima di parlargli.
+1. **Disinnesco preventivo (consigliato).** Fermati nell'anticamera prima della sala del trono (a combattimento **chiuso**) e, **con la modalità a turni attiva**, prendi di mira le trappole a una a una con **attacchi a distanza mirati** (mira manuale sull'oggetto). Eliminale quasi tutte prima di entrare. Se preferisci, un personaggio con **Percezione** alta le individua e le **disarma** con gli attrezzi da scasso come un normale marchingegno.
 2. **Portalo fuori dalla sala.** Gira in senso orario per la fortezza fino a una scala + rampicanti: in cima c'è una porta scassinabile che dà **nel corridoio dietro il trono**. Combattendo lì eviti tutte le trappole della sala delle udienze. In alternativa, lascia tre compagni sul **ballatoio** e trascina lo scontro all'aperto.
 3. **Invisibilità Superiore** su un attaccante a distanza: resta invisibile anche dopo aver colpito, quindi le trappole non si attivano su di lui. Colpiscilo da fuori sala.
 
-**Nel dialogo**: rifiuta l'alleanza. Se avevi fatto finta di accettare, ti chiede le Pietranether: **rifiuta due volte**.
+**Il dialogo c'è solo se arrivi con la fortezza ancora pacifica** (cioè se, contro l'ordine di questa roadmap, non hai ancora fatto né il Trono di Ferro né la Fonderia). In quel caso: rifiuta l'alleanza; se avevi fatto finta di accettare, ti chiede le Pietranether: **rifiuta due volte**. Con la fortezza ostile salta tutto e si parte direttamente in combattimento: Gortash è accompagnato da **due Guanti Neri e due Consoli di Ferro**, più quelli che non hai già attirato fuori.
 
 ### 43.3 — 📌 La mano di Gortash (non dimenticarla)
 
@@ -2484,13 +2495,13 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 | **Emporio di Rivington** | Rivington | **Catena Elfica** (armatura leggera top), consumabili |
 | **Dammon** | Forgia dei Nove, Città Bassa | **Ferro Infernale** per Karlach, armi e armature pesanti |
 | **Tolna Tomo-Mercante / Curiosità Stregonesche** | Città Bassa | **Pergamene di 5° e 6° livello**: Resurrezione, Blocca Mostri, Catena di Fulmini, Porta Dimensionale. Comprane in quantità |
-| **Helsik — Tributo del Diavolo** | Città Bassa | **Componenti del rituale** (o rubali), oggetti infernali |
+| **Helsik — Tributo del Diavolo** | Città Bassa | **Componenti del rituale** (o rubali), oggetti infernali · 🎒 al piano di sopra, forziere dorato con la **Maschera della Percezione dell'Anima** |
 | **Boutique dei Facemaker** (Figaro Pennygood) | Città Bassa | Vestiti, copricapi e tinture rare |
 | **Erboristeria di Bonecloak** (Derryth) | Città Bassa | Reagenti alchemici ed **Essenze** — ❌ *le **Ceneri di Fiore Fatato Essiccato** NON si comprano: sono un oggetto unico, nella cassaforte di Old Garlow's Place* |
 | **Fytz il Petardo** | Città Bassa | Bombe ed esplosivi (portaci **Karlach**) |
 | **Mercanti del Circo** | Rivington | Curiosità e oggetti scenici — ⏱️ **compra PRIMA di consegnare i pezzi di Dribbles**: al riposo lungo successivo il circo smonta e sparisce |
 | **Entharl Danthelon** | Ponte del Dragone | **Mantello dello Spostamento** (~190 mo) |
-| **Vicario Humbletoes** | Tabernacolo di Rivatempestosa, Città Bassa | Oggetti divini; e il **sotterraneo** ha l'**Amuleto del Devoto** |
+| **Vicario Humbletoes** | Tabernacolo di Rivatempestosa, Città Bassa | 🎒 **Manto del Sacro Guerriero** (*Mantle of the Holy Warrior*, 630 mo) — **il miglior mantello per un paladino**, vedi sotto · altri oggetti divini · e il **sotterraneo** ha l'**Amuleto del Devoto** |
 | **Eco di Abazigal** | Tribunale dell'Omicidio | **Armatura Bhaalista** (2.000 mo) — solo da Assassino Nefando |
 | **Koll il Rosso** | Città Alta (Tappa 49) | L'ultimo mercante del gioco, già dopo il punto di non ritorno |
 
@@ -2502,18 +2513,68 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 
 | Personaggio | Oggetti da assegnare |
 |---|---|
-| **Protagonista** (Pal/Str) | **Prerogativa del Duellante** (Tappa 34) · **Armatura Crepuscolo Infernale** (Tappa 40) · **Elmo di Balduran** (Tappa 44) · **Amuleto di Salute Superiore** (Tappa 40) |
+| **Protagonista** (Pal/Str) | **Prerogativa del Duellante** (Tappa 34) · **Armatura Crepuscolo Infernale** (Tappa 40) · **Maschera della Percezione dell'Anima** (Tappa 40, da Helsik) · **Amuleto di Salute Superiore** (Tappa 40) · **Stivali Crepuscolo Infernale** (Tappa 43) · **Manto del Sacro Guerriero** (Tappa 39) |
 | **Cuorescuro** | **Amuleto del Devoto** (Tappa 39) · **Fortezza Ambulante di Viconia** (Tappa 37) · **Lancia della Notte di Selûne** |
 | **Karlach** | **Ammazzagiganti di Balduran** (Tappa 44) o **Nyrulna** (Tappa 28) · **Guanti della Forza del Gigante delle Colline** (Tappa 40) |
 | **Gale** | **Markoheshkir** (Tappa 36) · **Veste della Trama** (Tappa 36) · **Guanti della Potenza Magica** (Tappa 28) · **Mantello dello Spostamento** (si **compra da Danthelon**, non è nella torre) |
 | **Astarion** | **Malizia Cremisi** + **Sete di Sangue** (Tappa 46) · **Rapsodia** (Tappa 38) · *(Armatura Bhaalista solo sul ramo Assassino Nefando, Tappa 45)* · **Anello dell'Opportunità Omicida** |
 | **Wyll** | **Stocco Infernale** (Atto 2) · **Mantello dello Spostamento** · oggetti +CD incantesimi |
-| **Lae'zel** | **Ammazzagiganti di Balduran** o **Spada d'Argento del Piano Astrale** · **Elmo di Balduran** se fa da tank |
+| **Lae'zel** | **Ammazzagiganti di Balduran** o **Spada d'Argento del Piano Astrale** · **Elmo di Balduran** (Tappa 44) |
 | **Minsc** | **Gontr Mael** (Tappa 42) |
 | **Chiunque** | **Specchio della Perdita**: **+2 permanenti** a una caratteristica, una volta a testa (Tappa 37) — ⚠️ arrivano **solo** se hai superato la preghiera **Religione CD 25** (prova di **Intelligenza**): senza quella lo Specchio non dà nulla, quindi **non cedere ricordi prima di aver pregato** |
 | **Chiunque** | 🥇 **Unto nello Splendore** (*Anointed in Splendour*): **+2 a tutti i tiri salvezza, permanente**, donando a una divinità qualsiasi al **Tabernacolo** (Tappa 39). **4.500 mo** a testa (5.000 in Stratega/Onore), pagabili **in oggetti**. La divinità scelta **non cambia l'effetto**. 🎁 Gratis per **Gale** se chiede perdono a Mystra |
 
 ---
+
+## 🧥 MANTELLI, ANELLI E AMULETI — i top 5 per slot
+
+> 💡 **Il motivo per cui "non ne trovi di forti": in BG3 questi slot si COMPRANO, non si lootano.** Armi e armature leggendarie sono drop di boss; mantelli, anelli e amuleti stanno quasi tutti sui banchi dei mercanti, a prezzi ridicoli rispetto all'oro che hai a fine partita. Se hai saltato i negozi, hai tre slot vuoti addosso a tutto il gruppo.
+
+⚠️ *I nomi italiani non confermati a schermo sono segnati con* ⚠️ *: verifica la dicitura in gioco.*
+
+### 🧥 Mantelli — top 5
+
+**Buona notizia: sono tutti e cinque ancora ottenibili in Atto 3.**
+
+| # | Mantello | Cosa fa | Dove |
+|---|---|---|---|
+| 1 | **Mantello dello Spostamento** (*Cloak of Displacement*) | A inizio di ogni turno i nemici hanno **svantaggio** per colpirti, finché non subisci danno. Il miglior mantello difensivo del gioco, a prezzo di saldo | **Entharl Danthelon**, Ponte del Dragone — **~190 mo** |
+| 2 | ⚠️ **Manto del Sacro Guerriero** (*Mantle of the Holy Warrior*) | Lancia **Manto del Crociato** di 3° livello, ricarica a **riposo breve**: **+1d4 ai danni di ogni alleato** nell'aura. È un buff di gruppo permanente in mano a un solo personaggio | **Vicario Humbletoes**, Tabernacolo di Rivatempestosa — **630 mo** (Tappa 39) |
+| 3 | **Mantello della Trama** (*Cloak of the Weave*) | **+1 alla CD e ai tiri per colpire con incantesimi**, più **Assorbire Elementi** 1×/riposo breve | **Curiosità Stregonesche**, Città Bassa (Tappa 36) |
+| 4 | ⚠️ **Mantello della Ninfa** (*Nymph Cloak*) | **Dominare Persone** di 5° livello, 1×/riposo lungo: ti giri un nemico grosso contro i suoi | **Casa dei Contabili**, volta ad alta sicurezza n.1 — oppure **Ferg Drogher** a Rivington (scorta speciale: serve una prova di Persuasione) |
+| 5 | **Mantello dell'Ammazzaombre** (*Shade-Slayer Cloak*) | Mentre sei **nascosto**, la soglia per fare critico scende di 1, **e l'effetto è cumulabile**. È il mantello di **Astarion** | **Dondo l'Appiccicoso**, Gilda dei Ladri |
+
+### 💍 Anelli — top 5
+
+⚠️ **Tre dei cinque migliori stanno in Atto 2 e non tornano più.** Controlla l'inventario: se non ce li hai, sono persi.
+
+| # | Anello | Cosa fa | Dove | Ancora preso? |
+|---|---|---|---|---|
+| 1 | ⚠️ **Amore dell'Assassino** (*Killer's Sweetheart*) | Dopo che uccidi un nemico, **il tuo attacco successivo è un critico garantito**. Su un paladino significa una Punizione Divina a danno doppio, ogni riposo lungo | **Guanto di Shar**: a terra dove cade la copia d'ombra nella **Prova di Sé Stessi** | ⛔ **Atto 2** |
+| 2 | **Anello Rischioso** (*Risky Ring*) | **Vantaggio a tutti i tiri per colpire**, ma **svantaggio a tutti i tiri salvezza**. Su un personaggio che non regge concentrazione è quasi gratis | **Araj Oblodra** — in Atto 2 alle Torri dell'Alba Lunare, e ⚠️ **in Atto 3 la ritrovi in Città Bassa** se non l'hai uccisa | ✅ **Recuperabile** |
+| 3 | **Anello del Bagliore Impietoso** (*Callous Glow Ring*) | **+2 danni radiosi** contro bersagli illuminati, **su ogni singolo colpo** — moltiplica con chi attacca tante volte | **Guanto di Shar**: forziere ornato nella sala della volta vicino a **Balthazar** | ⛔ **Atto 2** |
+| 4 | ⚠️ **Anello di Rigenerazione** (*Ring of Regeneration*) | **1d4 PF a inizio di ogni turno**, per tutto il combattimento | **Rolan** a **Curiosità Stregonesche** — **360 mo**. Se Rolan è morto lo vende la Proiezione di Lorroakan; se sono morti entrambi non esiste più | ✅ **Comprabile** |
+| 5 | **Anello di Riverbero** (*Coruscation Ring*) | Quando fai danno da incantesimo mentre sei **illuminato**, applichi **Orbo Radiante** al bersaglio: accuratezza nemica a picco | **Cantina della Locanda dell'Ultima Luce**, forziere pesante trappolato nell'area segreta | ⛔ **Atto 2** |
+
+### 📿 Amuleti — top 5
+
+| # | Amuleto | Cosa fa | Dove | Ancora preso? |
+|---|---|---|---|---|
+| 1 | **Amuleto di Salute Superiore** (*Amulet of Greater Health*) | **Costituzione fissata a 23**, +vantaggio ai TS di Costituzione. Tanti PF **e** concentrazione blindata: il miglior amuleto del gioco | **Archivio della Casa della Speranza**, piedistallo trappolato (Tappa 40) | ✅ |
+| 2 | **Amuleto del Devoto** (*Amulet of the Devout*) | **+2 alla CD di tutti i tuoi incantesimi** + una carica extra di Canalizza Divinità. È di **Cuorescuro** | **Sotterraneo del Tabernacolo**, forziere principale delle offerte (Tappa 39) — ⚠️ **non prenderlo a mano**: maledizione *Castigato dalla Divinità* | ✅ |
+| 3 | **Amuleto Spellcrux** (*Spellcrux Amulet*) | **Recupera uno slot incantesimo di qualsiasi livello** come azione bonus, 1×/riposo lungo. Un 6° livello gratis ogni giorno | **Prigione delle Torri dell'Alba Lunare**, addosso al **Guardiano** | ⛔ **Atto 2** |
+| 4 | ⚠️ **Collana dell'Aumento Elementale** (*Necklace of Elemental Augmentation*) | I tuoi **trucchetti** elementali (acido, freddo, fuoco, fulmine, tuono) aggiungono il **modificatore da incantatore** al danno. Su Gale o Wyll raddoppia quasi il danno dei trucchetti, e costa 65 mo | ⚠️ **Ponte del Dragone**: baule del viaggiatore su un **relitto a nord-ovest del posto di blocco South Span**. (L'altra copia è alla Creche Y'llek, Atto 1) | ✅ **Ancora lì** |
+| 5 | ⚠️ **Periapt di Chiusura delle Ferite** (*Periapt of Wound Closure*) | Da morente **ti stabilizzi da solo** a inizio turno, e **ogni cura che ricevi rende il massimo** | **Lady Esther**, Sentiero del Monastero dell'Alba Rosata — **125 mo** | ⛔ **Atto 1/2** |
+
+> 📌 **Menzioni**: **Amuleto della Sottomissione del Chirurgo** (*Surgeon's Subjugation Amulet*, addosso a **Malus Thorm** alla Casa del Dolore, Atto 2) paralizza per 2 turni al primo critico su un umanoide. L'**Amuleto Senziente** (Tappa 29.4) è forte solo con un monaco in squadra. Due accessori sono legati all'origine e in questa run non li vedrai: il **Manto del Cacciatore di Morte** è solo dell'**Impulso Oscuro**, l'**Anello dell'Evasione** solo di chi gioca **Gale** come protagonista.
+
+### 👢 E gli stivali
+
+| Stivali | Cosa fa | Dove |
+|---|---|---|
+| **Stivali Crepuscolo Infernale** | Vedi il set alla Tappa 43 | Forziere dorato di Gortash (Tappa 43) |
+| **Stivali di Persistenza** (*Boots of Persistence*) | **Libertà di Movimento** e **Passo Lungo** sempre attivi, +1 ai TS di Destrezza | **Dammon**, Forgia dei Nove — **~1.300 mo** |
+| **Passeggiatori Notturni Disintegranti** | **Passo Nebbioso** come azione bonus, immune a ragnatela/invischiato e a scivolare su grasso e ghiaccio | Grymforge, Atto 1 |
 
 ## 💞 ROMANCE E SCENE AL CAMPO (Atto 3)
 
@@ -2530,7 +2591,7 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 ## ✅ LISTA DI CONTROLLO FINALE (prima della Pozza Morfica)
 
 **Trofei dell'atto**
-- [ ] 🏆 **Passo Leggiadro** — Gortash senza trappole
+- [x] ⏭️ 🏆 **Passo Leggiadro** — **saltato** in questa run (Gortash ucciso lo stesso, la run buona non ne risente)
 - [ ] 🏆 **Primo Sangue** — Orin prima che i cultisti finiscano il rituale
 - [ ] 🏆 **Atterraggio Forzato** — Ansur a mezz'aria, nella Via del Dragone
 - [ ] 🔁 🏆 **Omicidio a Baldur's Gate** — Assassino Nefando: **richiede di uccidere Valeria**, quindi va preso in salva/ricarica
@@ -2562,6 +2623,7 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 **Oggetti da non dimenticare**
 - [ ] **Martello Orfico** in inventario (⚠️ senza, niente Orpheus)
 - [ ] **Markoheshkir** · **Elmo di Balduran** · **Ammazzagiganti di Balduran** · **Gontr Mael** · **Nyrulna**
+- [ ] **Maschera della Percezione dell'Anima** (forziere al piano di sopra da Helsik — facilissima da mancare)
 - [ ] **Set Crepuscolo Infernale** completo · **Amuleto di Salute Superiore** · **Guanti della Forza del Gigante**
 - [ ] **Amuleto del Devoto** (sotterraneo del Tabernacolo)
 - [ ] **Fortezza Ambulante di Viconia** · **Prerogativa del Duellante** · *(Armatura Bhaalista: solo se hai scelto il ramo Assassino Nefando)*
