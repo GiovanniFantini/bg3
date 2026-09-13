@@ -266,7 +266,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 1 (E IN CHE TAPPA STANNO)
 
-> 🔎 Elenco completo delle missioni dell'Atto 1 (fonte: **bg3.wiki**), con la tappa in cui questa guida le affronta.
+> 🔎 Elenco sintetico delle missioni lungo questo percorso. **Audit del 13 settembre 2026:** per la checklist estesa, comprese le sei piste della cura, le sottomissioni dei compagni e le alternative, usa [Tutte le missioni dell'Atto 1](roadmap_atto1_pulsione_oscura.md#-tutte-le-missioni-dellatto-1). L'elenco distingue le missioni comuni da quella esclusiva della Pulsione Oscura.
 
 **Legenda:** ⚠️ = missabile · ⏱️ = a tempo · ⛔ = via malvagia, in questa run non si fa.
 
@@ -279,7 +279,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 | Raduna i tuoi Alleati · Viaggia alle Torri dell'Alba Lunare | *Gather Your Allies* · *Travel to Moonrise Towers* | **12.6** | È l'uscita dall'atto |
 | Scopri i Segreti dell'Artefatto | *Discover the Artefact's Secrets* | riposi lunghi | Parla sempre col Guardiano |
 | Scopri la Storia del Principe Orpheus · Aiuta Kith'rak Voss | *Discover the History of Prince Orpheus* · *Help Kith'rak Voss* | **12.1** | Voss al Passo di Montagna |
-| — Abbraccia il Tuo Potenziale | *Embrace Your Potential* | — | Esclusiva **Impulso Oscuro** |
+| Abbraccia il Tuo Potenziale | *Embrace Your Potential* | riposi e parassiti | Missione dei poteri illithid, disponibile per tutti i protagonisti |
 
 ### Compagni
 
@@ -297,7 +297,8 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 | Missione (IT) | Titolo originale | Tappa | Note |
 |---|---|---|---|
 | Libera Lae'zel | *Free Lae'zel* | **2** | Nella gabbia, non lasciarla ai tiefling |
-| Indaga sulla Spiaggia · Esplora le Rovine | *Investigate the Beach* · *Explore the Ruins* | **2** | Cripta di Withers |
+| Esplora le Rovine | *Explore the Ruins* | **2** | Cripta di Withers |
+| Indaga sulla Spiaggia | *Investigate the Beach* | **3** | Mirkon e le arpie nella baia del Boschetto; poi visita Mol |
 | Trova i Tuoi Averi | *Find Your Belongings* | **3.2-bis** | Mattis e Silfy, poi Mol |
 | Restituisci il Medaglione | *Return the Locket* | **3.7-bis** | Barth e Meli |
 | ⚠️ Salva Arabella · Salva la Goblin Sazza | *Save Arabella* · *Save the Goblin Sazza* | **3** | 🏆 *Non C'è Gabbia Che Tenga!* |
@@ -307,7 +308,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 | Cerca nella Cantina · Apri / Distruggi il Tomo Antico | *Search the Cellar* · *Unlock / Destroy the Ancient Tome* | **4.8 → 5.4** | Necromanzia di Thay: si apre, non si distrugge |
 | Finisci l'Arma Magistrale | *Finish the Masterwork Weapon* | **4 → 10.6** | Corteccia di Sussur, poi la forgia del Villaggio |
 | Salva lo Gnomo | *Rescue the Gnome* | **4** | Barcus al mulino a vento |
-| Libera l'Artista | *Free the Artist* | **4** | Oskar dagli Zhentarim — ⚠️ serve nell'**Atto 3** |
+| Libera l'Artista | *Free the Artist* | **7** | Oskar da Brem nel nascondiglio Zhentarim presso Waukeen; prosegue in Atto 3 |
 | Trova il Carico Mancante | *Find the Missing Shipment* | **7** | Zhentarim / Rugan |
 | Salva l'Uomo Intrappolato · Salva il Gran Duca | *Rescue the Trapped Man* · *Rescue the Grand Duke* | **7** | Benryn e Florrick al Riposo di Waukeen |
 | Dai la Caccia al Diavolo | *Hunt the Devil* | **7** | Karlach contro Anders |
@@ -318,15 +319,18 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 | Trova gli Stivali Mancanti | *Find the Missing Boots* | **10.3** | In questa run **non** si consegnano |
 | Sconfiggi gli Intrusi Duergar · Vendica il Circolo di Glut | *Defeat the Duergar Intruders* · *Avenge Glut's Circle* | **10.4** | Glut si aiuta **solo** contro i duergar |
 | Trova il Raccoglitore di Funghi | *Find the Mushroom Picker* | **10.5** | Baelen e i bibberbang |
-| ⚠️ Trova gli Esplosivi · Supera la Frana · Libera la Vera Anima Nere | *Find Explosives* · *Get Past the Rubble* · *Free True Soul Nere* | **11** | ⏱️ **Un solo riposo lungo** a Grymforge |
+| ⚠️ Trova gli Esplosivi · Libera la Vera Anima Nere | *Find Explosives* · *Free True Soul Nere* | **11** | Philomeen e frana di Nere; dopo l'attivazione dell'emergenza evita riposi e viaggi fuori zona |
+| Supera la Frana | *Get Past the Rubble* | **11** | Skarjall e rothé: passaggio verso la Forgia, distinto dalla frana di Nere |
 | Acceca l'Assoluta | *Blind the Absolute* | **11** | L'occhio spia, prima della frana |
 | Salva gli Gnomi di Grymforge · Consegna la Testa di Nere | *Save the Grymforge Gnomes* · *Deliver Nere's Head* | **11** | Parla con Beldron **prima** di riposare |
 | La Fucina Adamantina | *The Adamantine Forge* | **11.4** | 🏆 *Forgiato nel Sangue e nel Fuoco* e *Un Gramo Destino* |
-| ⚠️ Aiuta il Monaco Maledetto | *Help the Cursed Monk* | **11.4-bis** | Amuleto Senziente → si chiude nell'**Atto 3** |
+| ⚠️ Aiuta lo Spirito dell'Amuleto | *Help the Spirit of the Amulet* | **11.4-bis** | Amuleto Senziente → si chiude nell'**Atto 3** |
 | Riprendi il Nido della Ghiandaia | *Reclaim the Blue Jay's Nest* | **12.2** | Serve *Parlare con gli Animali* |
 | ⚠️ Ruba un Uovo Githyanki | *Steal a Githyanki Egg* | **12.4** | ⚠️ **Non darlo a Lady Esther**, o nell'Atto 3 perdi Omeluum |
 | ⚠️ Trova il Sangue di Lathander | *Find the Blood of Lathander* | **12.3 → 12.5** | La Cresta dell'Alba **prima** di scendere nella Creche |
-| — Trova Doni | *Find Doni* | — | Si attiva **solo** se il Boschetto viene attaccato: in questa run non comparirà |
+| Trova Doni | *Find Doni* | **prima dell'assedio**, se attivato | Rikka → Doni → Rikka; compatibile con la difesa dei tiefling, assente eliminando prima i capi nel campo |
+
+**Sottomissioni da controllare:** *The Hellion's Heart* (Karlach e Dammon), *The Chosen of Shar* (Cuorescuro e Grymforge), *In Case of Death...* (condizionale alla prima morte di Gale). *Rescue Wulbren* può avviarsi parlando agli gnomi liberati a Grymforge, ma si risolve in Atto 2. Fonti e condizioni nella checklist estesa collegata sopra.
 
 ---
 
@@ -499,6 +503,8 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 7. **Torna da Dammon al Boschetto con Karlach e il ferro infernale**: prima riparazione del motore → scena bellissima. Il passo è OBBLIGATORIO ORA, prima della festa, o perdi la sua progressione. ⚠️
 
 ## TAPPA 8 — CAMPO GOBLIN E SANTUARIO FRACASSATO (liv. 5–6)
+
+> **Ordine verificato per la seconda run:** questa tappa segue la variante **senza assedio**, che esclude *Trova Doni*. Se vuoi includerla e conservare Minthara, usa le tappe **08–11** del [percorso Pulsione Oscura](roadmap_atto1_pulsione_oscura.md#ordine-per-non-perdere-missioni): attività pacifiche → Sazza/Minthara → Doni → difesa e stordimento. Non mescolare le due sequenze eliminando Dror Ragzlin prima di organizzare l'assedio.
 
 **👥 Gruppo:** Karlach (danno da mischia) + Cuorescuro (cura) + Lae'zel o Astarion (esplorazione/dialogo).
 
