@@ -1,12 +1,15 @@
 # BALDUR'S GATE 3 (PS5) — ATTO 2 CON LA **PULSIONE OSCURA**
 ### Terre Maledette dall'Ombra · Isobel, la notte del compagno più caro, il Carnefice · Aggiornamento (Patch) 8
 
-> **Stato della guida:** bozza non ancora sottoposta all'audit dettagliato dell'Atto 1. I rinvii alla run buona valgono per il ramo che preserva i relativi PNG; dopo il massacro del Boschetto diversi seguiti sono preclusi. Resistere e ricaricare per i trofei sono opzioni, non requisiti dell'origine.
+> **Percorso attivo: opportunista per potenza, Stratega, mischia.** Scelte e priorità aggiornate nella sezione dedicata. Il catalogo generale delle missioni non è ancora sottoposto all'audit completo dell'Atto 1; i rinvii alla run buona valgono solo dove compatibili con le decisioni qui indicate.
 
 *Prosecuzione diretta di `roadmap_atto1_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 13-26), i tre blocchi permanenti, le mappe e le tattiche continua a usare `roadmap_atto2_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
 
+**Build mischia a Stratega:** [progressione operativa Lockadin](lockadin_livello_per_livello.md#atto-2), sezione Atto 2: livelli 8–10, acquisti prima di perdere i mercanti, notte del compagno, scelta su Aylin, equipaggiamento per Myrkul. Segui il ramo compatibile con i PNG della tua run.
+
 ## 📑 Indice
 
+- [Scelte opportuniste — Atto 2](#scelte-opportuniste--atto-2)
 - [0. Cosa cambia nell'Atto 2](#0-cosa-cambia-nellatto-2)
 - [⭐ LA CATENA DECISIVA: Isobel, poi il compagno più caro](#-la-catena-decisiva-isobel-poi-il-compagno-più-caro)
   - [Passo 1 — Sceleritas chiede la testa di Isobel](#passo-1--sceleritas-chiede-la-testa-di-isobel)
@@ -28,12 +31,40 @@
 
 ## 0. COSA CAMBIA NELL'ATTO 2
 
+## SCELTE OPPORTUNISTE — ATTO 2
+
+**Percorso predefinito: conserva Isobel, Aylin, Dammon e il compagno della notte.** Il guadagno cercato è una squadra più forte e l'accesso alle ricompense dell'Atto 3. Rinunci alla lancia di Shar e al Carnefice da questi sacrifici; la build non li richiede. La trasformazione non conserva il normale equipaggiamento del Lockadin.
+
+| Tappa geografica | Scelta da fare | Premio / preparazione | Cosa non chiudere |
+|---|---|---|---|
+| 14 — Lanterna | Libera Dolly Dolly Dolly e accetta la benedizione; conserva la campanella | Protezione dalla maledizione senza tenere una lanterna in mano | Non schiacciare la pixie; usa la campanella se devi riottenere la benedizione dopo un ritorno regionale |
+| 15 — Ultima Luce | Compra da Talli prima di parlare con Isobel; difendi Isobel da Marcus | Amuleto degli Arpisti e Mantello di Protezione; Dammon disponibile | Non perdere Isobel durante l'assalto: proteggila e controlla i nemici vicini |
+| 16–19 — Reithwin | Salva Rolan quando lo incontri in pericolo; completa Art, portale e Thaniel | Alleati e missioni future; Halsin reclutabile | Il portale richiede preparazione del gruppo; nessuna spedizione durante un salvataggio già attivo |
+| 20 — Torri neutrali, visita anticipabile | Compra da Lann Tarv, Roah e Araj; salva Minthara | Recluta una compagna aggiuntiva. Risky Ring è un'opzione da combattimento; Halberd of Vigilance un'alternativa alla picca | Tutto prima della Coltre Oscura e dell'assalto alle Torri |
+| 20 — Araj | Prendi il +2 FOR se lo destini a un combattente su FOR naturale; se usi Lae'zel in quel ruolo, assegnalo a lei | Aumento permanente al membro che lo sfrutta | Convincere Astarion a mordere Araj ha conseguenze relazionali. Non serve al CAR del Lockadin e non aumenta FOR fissata dagli elisir |
+| 21 — Prigioni | Libera gnomi e tiefling, poi ritira le ricompense | Veste Potente da Alfira se sopravvissuta e condizioni soddisfatte; reti di alleati | Non entrare nella Coltre prima dei salvataggi |
+| 22 — Guanto | Prendi Killer's Sweetheart e gli oggetti utili al party; porta Cuorescuro e recupera la lancia della missione | Un critico controllabile, una volta per riposo lungo dopo un'uccisione | Non confondere l'anello con una catena infinita di critici |
+| 23 — Aylin | Porta Cuorescuro a risparmiare Aylin | Conservi gli alleati e il futuro di Ultima Luce | Rinunci esplicitamente a Shar's Spear of Evening. Mantieni Unseen Menace o alabarda |
+| Riposi dopo la richiesta di Fel | Rifiuta l'omicidio; sveglia il compagno e superane il TS | Mantieni un membro della squadra | Togli Risky Ring; indossa Harpers, anello e mantello difensivi; conserva Ispirazioni |
+| 25 — Colonia | Salva Mizora e Us; recupera la Mente Risvegliata e usa l'interfaccia per il premio githzerai | Us evocabile e **Githzerai Mind Barrier**, vantaggio ai TS su INT | Questi recuperi vanno fatti prima di lasciare la colonia; non sono +2 CAR |
+| 26 e transizione | Sconfiggi Myrkul con gli oggetti già posseduti; accetta il potenziale astrale quando offerto | Accesso ai poteri illithid avanzati in Atto 3 | Apri la mente al girino astrale senza mangiarlo, così resta utilizzabile per i compagni |
+
+**Numeri all'uscita:** al livello 9 il protagonista passa da CAR 18 a **20** grazie al talento. Dal livello 10 è **Paladino 5 / Hexblade 5**, con tre attacchi con l'arma legata a Stratega. Nessuna Aura di Protezione fino al livello 11 nel percorso scelto. Senza capello si applica l'alternativa della build; non aggiungere un premio mancato.
+
+**Poteri:** Favorable Beginnings e Luck of the Far Realms sono obiettivi utili nella prima parte; per il secondo rispetta i prerequisiti mostrati dall'albero. Nel passaggio all'Atto 3, volo e poteri avanzati giustificano la trasformazione parziale per questo obiettivo di potenza, accettandone l'aspetto fisico. Non equivale a trasformarsi completamente né a consegnarsi a Bhaal. [Poteri illithid](https://bg3.wiki/wiki/Illithid_powers), [trasformazione parziale](https://bg3.wiki/wiki/Partial-illithid).
+
+**Preparazione concreta alla notte:** Paladino ha già competenza SAG, quindi non comprare l'Elmo dell'Autonomia per un bonus che non si somma. L'amuleto degli Arpisti dà vantaggio; Anello e Mantello di Protezione aggiungono +1 ciascuno se indossati. Conserva anche un Elisir di Eroismo nell'inventario per il menu dei bonus quando disponibile. Vantaggio e Ispirazioni riducono il rischio, non garantiscono il risultato. [Evento e bonus applicabili](https://bg3.wiki/wiki/Dark_Urge), [Harpers](https://bg3.wiki/wiki/Amulet_of_the_Harpers).
+
+Fonti delle ricompense: [Araj](https://bg3.wiki/wiki/Potion_of_Everlasting_Vigour), [Killer's Sweetheart](https://bg3.wiki/wiki/Killer%27s_Sweetheart), [barriera](https://bg3.wiki/wiki/Githzerai_Mind_Barrier), [Veste Potente](https://bg3.wiki/wiki/Potent_Robe). Le priorità della tabella sono la scelta opportunista della guida; le varianti cruente sotto sono alternative, non istruzioni da eseguire tutte.
+
+### Contesto degli eventi dell'origine
+
 Dopo la notte della barda e l'incontro con Sceleritas nell'Atto 1, la missione personale prosegue. **Qui diventa il motore dell'atto.** In mezzo alle Terre Maledette dall'Ombra, Sceleritas Fel torna con una richiesta precisa, e da come rispondi dipendono: un compagno, un pezzo dell'Atto 3, la forma del Carnefice e il modo in cui Jaheira ti tratterà fino alla fine.
 
 **Le tre cose da sapere prima di entrare:**
 
-1. **L'evento non parte subito.** La richiesta su Isobel arriva a un riposo lungo dopo che l'hai incontrata alla Locanda dell'Ultima Luce. Il seguito (la notte del compagno) arriva di solito **dopo la Coltre Oscura / il Guanto di Shar**.
-2. **Si risolve tutto con un tiro di dado da CD 14**, e i bonus per superarlo si accumulano con l'equipaggiamento: **preparalo prima**, non nel momento in cui compare il dialogo.
+1. **La sequenza dipende dagli eventi già avvenuti.** Fel può chiederti di Isobel prima o dopo averla incontrata. Prepara i riposi alla notte del compagno dopo il rifiuto; non presumere che possa accadere solo dopo la Coltre Oscura.
+2. **Il tiro decisivo per svegliare il compagno è un TS SAG CD 14**, e i bonus per superarlo si accumulano con l'equipaggiamento: **preparalo prima**, non nel momento in cui compare il dialogo.
 3. **Puoi anche saltare del tutto la faccenda** non riposando mai dentro le Terre Maledette. Funziona, ma costa: vedi [la via d'uscita](#-la-via-duscita-non-riposare).
 
 **Quello che non cambia:** i **tre blocchi permanenti** dell'Atto 2 (Halsin e la catena Art Cullagh → Thaniel → Oliver, Mizora/Wyll nei baccelli, Cuorescuro in squadra al Canto Notturno) valgono identici e restano nel file della run buona. Se cedi alla Pulsione ne aggiungi altri, elencati qui sotto.
@@ -46,7 +77,7 @@ Dopo la notte della barda e l'incontro con Sceleritas nell'Atto 1, la missione p
 Sceleritas: "Uccidi Isobel"
    │
    ├── UCCIDI ISOBEL ──────────► Locanda dell'Ultima Luce distrutta
-   │                             (tutti dentro muoiono: Jaheira, Dammon, Alfira,
+   │                             (muoiono molti PNG: Dammon, Alfira,
    │                              i tiefling, i mercanti…)  →  🩸 CARNEFICE
    │
    └── RIFIUTI ───────────────► Riposo successivo: "allora uccidi il tuo caro"
@@ -66,10 +97,10 @@ Compare a un riposo lungo e ti ordina di uccidere **Isobel** alla **Locanda dell
 
 | Scelta | Cosa succede |
 |---|---|
-| ⛔ **La uccidi** | Il ward selunita cade, **la Locanda viene spazzata via**. Perdi in un colpo solo: **Jaheira** (→ niente **Minsc** nell'Atto 3), **Dammon** (→ niente terzo potenziamento di Karlach, niente Stivali di Persistenza), **Alfira**, i tiefling salvati nell'Atto 1, i mercanti e il quartier generale dell'atto. In cambio: **la forma del Carnefice** |
+| ⛔ **La uccidi** | Il ward selunita cade, **la Locanda viene spazzata via**. Perdi **Dammon** e i suoi acquisti futuri (le riparazioni di Karlach sono due, non tre), **Alfira**, i tiefling salvati nell'Atto 1, i mercanti e il quartier generale dell'atto. **Jaheira può sopravvivere**: il suo esito dipende dagli eventi e dal dialogo. In cambio: **la forma del Carnefice** |
 | ✅ **Rifiuti** | La storia prosegue normale. Sceleritas si offende e torna alla carica con il Passo 2 |
 
-> ⚠️ **Isobel conta come "uccisa da te" anche se muore indirettamente.** Il caso classico: **Aylin muore** nel Guanto di Shar (consegnata a Shar/uccisa) → Isobel muore di conseguenza → la Pulsione lo registra come merito tuo. Se vuoi restare pulito, **il Canto Notturno va risparmiato**, come nella run buona.
+> ⚠️ **Isobel conta come "uccisa da te" anche se muore indirettamente.** Il caso classico: **Aylin muore** nel Guanto di Shar (consegnata a Shar/uccisa) → Isobel muore di conseguenza → la Pulsione lo registra come merito tuo. Per conservare Ultima Luce nel percorso opportunista, **risparmia Aylin**.
 >
 > ⚠️ Se Isobel viene **rapita da Marcus** nell'assalto alla Locanda (cioè hai fallito la tappa 15), Sceleritas salta direttamente al Passo 2.
 
@@ -92,11 +123,11 @@ La scena parte da sola: ti alzi e ti avvicini alla vittima. Le opzioni sono tre 
 
 | Oggetto | Effetto | Dove |
 |---|---|---|
-| ⭐⭐ **Elmo dell'Autonomia** (*Helmet of Autonomy*) | **Competenza nei TS su Saggezza** (il bonus più grosso in assoluto) | **Atto 1**, Sottosuolo: scheletro all'ingresso della Baia Purulenta |
+| ⭐⭐ **Elmo dell'Autonomia** (*Helmet of Autonomy*) | **Competenza nei TS su Saggezza**; nessun incremento se sei già competente, come il Paladino | **Atto 1**, Sottosuolo: scheletro all'ingresso della Baia Purulenta |
 | ⭐ **Mantello di Protezione** | +1 CA e **+1 a tutti i TS** | Atto 2: **Quartiermastro Talli**, Locanda dell'Ultima Luce (~200 mo) |
 | ⭐ **Anello di Protezione** | +1 CA e **+1 a tutti i TS** | Atto 1: ricompensa di **Mol** al Boschetto |
 | **Scudo Salvaguardia** (*Safeguard Shield*) | **+1 ai TS** | Atto 1: in vendita da **Dammon** al Boschetto |
-| **Amuleto degli Arpisti** | Bonus ai TS | Atto 2 |
+| **Amuleto degli Arpisti** | **Vantaggio ai TS SAG** | Da Talli a Ultima Luce |
 | **Scudo da Guerra dell'Assoluta** | Bonus ai TS **solo se sei marchiato** | Richiede il **Marchio dell'Assoluta** (Atto 1, da Gut) |
 | **Diadema della Vendetta Psionica** | Bonus ai TS **solo se sei githyanki** | Atto 1-2 |
 
@@ -105,20 +136,20 @@ La scena parte da sola: ti alzi e ti avvicini alla vittima. Le opzioni sono tre 
 | Fonte | Effetto | Nota |
 |---|---|---|
 | **Elisir di Eroismo** | Bonus al tiro | ⭐ **Va tenuto in inventario prima di dormire**: si usa dal menu "aggiungi bonus" **durante** la scena. È il salvagente più affidabile |
-| **La Promessa Sussurrante** (amuleto) | Benedizione +1d4 | Serve bere una **pozione curativa subito prima** di riposare, per portarsi dietro la Benedizione |
+| **La Promessa Sussurrante** (anello) | Benedizione +1d4 | Serve bere una **pozione curativa subito prima** di riposare, per portarsi dietro la Benedizione |
 | **Amore di Loviatar** | **+2 ai TS su Saggezza** sotto il 30% PF | Vai a dormire **ferito di proposito**: è legale e funziona |
 | **Spore della Beatitudine** | Bonus ai TS | Se la condizione è ancora attiva (miconidi, Atto 1) |
 | **Conoscenza Proibita** (passivo) | Bonus ai TS | Se l'hai preso nell'Atto 1 |
 | **Banchetto degli Eroi** / **Vincolo di Protezione** | Bonus ai TS | Lanciati **prima** di riposare (il Banchetto richiede il liv. 11: di norma è fuori portata in Atto 2) |
-| **Aura di Protezione** | +CAR a tutti i TS | **Solo se il paladino sei tu**: l'aura di un compagno non ti copre |
+| **Aura di Protezione** | +CAR a tutti i TS | **Solo se il paladino sei tu**: l'aura di un compagno non ti copre. Nel Lockadin scelto arriva al livello totale 11 |
 | **Ispirazione** | **Ritiro del dado** | ⭐ Arriva alla scena con 3-4 Ispirazioni in banca: è la rete di sicurezza migliore |
 
 **⛔ Cosa TOGLIERE prima di dormire**
 
 | Oggetto | Perché |
 |---|---|
-| **Anello Rischioso** (*Risky Ring*) | **Svantaggio a tutti i tiri salvezza**: da solo ti fa fallire |
-| **Pietra di Risonanza** | Stessa cosa: svantaggio ai TS |
+| **Anello Rischioso** (*Risky Ring*) | **Svantaggio a tutti i tiri salvezza**: peggiora le probabilità, senza rendere il fallimento automatico |
+| **Pietra di Risonanza** | Svantaggio ai TS mentali, compreso SAG |
 
 ### Se passi il tiro
 
@@ -144,7 +175,7 @@ Esiste un modo pulito per **non affrontare mai** questa scena: **non fare riposi
 - ❌ **Contro:** un intero Atto 2 senza riposi lunghi significa niente slot recuperati, niente scene al campo, niente avanzamento delle romance e delle quest personali. In pratica è una scelta da speedrun, non da partita normale.
 - ⚠️ **E c'è un prezzo intermedio:** se superi il **punto di non ritorno** dell'Atto 2 (la Coltre Oscura) senza aver soddisfatto la Pulsione, **Sceleritas ti tende un'imboscata fuori dalle Torri dell'Alba Lunare** per costringerti alla scelta. Puoi anche ucciderlo lì (invisibile, in un turno solo, se lo vedi) — ma **ricompare al riposo successivo come se nulla fosse**.
 
-> ✅ **Consiglio per questa partita:** riposa normalmente, prepara il tiro con l'Elmo dell'Autonomia + Mantello e Anello di Protezione + un Elisir di Eroismo in tasca + 3 Ispirazioni, e **supera il CD 14**. È la versione della storia che rende di più, e il rischio reale è bassissimo.
+> **Consiglio opportunista:** riposa normalmente e conserva il compagno. Equipaggia Amuleto degli Arpisti, Mantello e Anello di Protezione, conserva Elisir di Eroismo e Ispirazioni. L'Elmo dell'Autonomia è ridondante sul Paladino. Non presumere un successo garantito.
 
 ---
 
@@ -172,7 +203,7 @@ La ricompensa che Bhaal concede ai suoi figli prediletti: ti trasformi in un mos
 - **L'Attacco Extra del Carnefice non si somma** a quello delle classi marziali.
 - 🐛 La CD delle sue azioni usa la caratteristica da incantatore della tua prima classe **con i punteggi del Carnefice**: risultato, una CD ridicola. Usalo per menare, non per controllare.
 
-> ⚖️ **Vale la pena?** In mano a un personaggio da mischia è una seconda vita da 153 PF e Forza 25 — potentissima nei boss dell'Atto 3. Ma il prezzo nell'Atto 2 è **un compagno o l'intera Locanda dell'Ultima Luce**. Se scegli il ramo di resistenza con salva/ricarica per i trofei, il Carnefice lo provi comunque: lo ottieni nel Tempio di Bhaal accettando il dono, **prima** di ricaricare.
+> **Decisione opportunista per questa build: rinuncia al Carnefice.** Trasformarsi sostituisce la normale combinazione di arma, equipaggiamento e azioni: i PF della forma non dimostrano un aumento del danno del Lockadin. Conserva compagno e Ultima Luce; l'eventuale ramo dei trofei resta separato.
 
 ---
 
@@ -181,7 +212,7 @@ La ricompensa che Bhaal concede ai suoi figli prediletti: ti trasformi in un mos
 | Dove (tappa della roadmap buona) | La pulsione | Se cedi |
 |---|---|---|
 | **Lanterna Lunare** (14) | ⛔ **Schiacciare Dolly Dolly Dolly** dopo averla liberata | Perdi la **Benedizione della Pixie**, cioè l'unica protezione permanente e gratuita dalla Maledizione dell'Ombra. Rompe il Giuramento. Dà un'Ispirazione dedicata |
-| **Strade di Reithwin** | ⛔ **Uccidere il Bue Strano** rivelandogli chi sei | Perdi un alleato evocabile e, nell'Atto 3, il **Cappello dell'Acutezza del Fuoco**. Rompe il Giuramento |
+| **Strade di Reithwin** | ⛔ **Uccidere il Bue Strano** rivelandogli chi sei | Perdi il seguito e il possibile alleato. Il **Cappello dell'Acutezza del Fuoco** è bottino del bue a partire dall'Atto 2, non un oggetto perso automaticamente uccidendolo qui; valuta il pezzo per una build da fuoco del party prima della scelta. Può rompere il giuramento |
 | **Torri dell'Alba Lunare** | ⛔ Cercare di ricordare cosa hai fatto a **Steelclaw** (il gatto) | Lo uccidi. Rompe il Giuramento |
 | **Torri — processo di Ketheric** (24) | La scena cambia: **Ketheric ti riconosce** e si diverte a non dirlo | Solo narrativa, nessun costo |
 | **Torri — cucine** | I **gnoll** di Barnabus ti riconoscono | ✅ Diventano **amichevoli senza nessuna prova**. ⚠️ Non compaiono durante l'assalto alle Torri |
@@ -194,7 +225,7 @@ La ricompensa che Bhaal concede ai suoi figli prediletti: ti trasformi in un mos
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 2
 
-L'elenco completo è in `roadmap_atto2_run_buona.md` (sezione *"Tutte le missioni dell'Atto 2"*): le missioni sono **le stesse**. Cosa cambia:
+L'elenco completo è in `roadmap_atto2_run_buona.md` (sezione *"Tutte le missioni dell'Atto 2"*): il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Cosa cambia:
 
 | Missione | Da Pulsione Oscura |
 |---|---|
@@ -228,7 +259,7 @@ L'elenco completo è in `roadmap_atto2_run_buona.md` (sezione *"Tutte le mission
 | Bonus | Effetto | Dove | Nota Pulsione Oscura |
 |---|---|---|---|
 | 🥇 **Benedizione della Pixie** | **Immunità permanente alla Maledizione dell'Ombra** per tutto il gruppo, senza occupare slot | Libera **Dolly Dolly Dolly** dalla Lanterna Lunare | ⛔ La perdi se cedi alla pulsione di schiacciarla |
-| 🥇 **Pozione di Vigore Perenne** | **+2 Forza permanenti**, **sfonda il tetto di 20** | Torri: convinci **Astarion** a mordere **Araj Oblodra** | ⚠️ Astarion disapprova (e la romance si rompe). Su un Carnefice/barbaro è comunque il miglior bonus dell'atto |
+| 🥇 **Pozione di Vigore Perenne** | **+2 Forza permanenti**, **sfonda il tetto di 20** | Torri: convinci **Astarion** a mordere **Araj Oblodra** | ⚠️ Astarion disapprova e la relazione può risentirne; l'esito dipende dai dialoghi. Destina il premio a un combattente su FOR naturale: non presumere che aumenti la FOR della trasformazione o quella fissata dagli elisir |
 | 🥇 **Forma del Carnefice** | Trasformazione 1/riposo lungo | 🩸 Uccidi Isobel **o** il compagno più caro | **Esclusiva della tua origine.** Vedi la sezione dedicata |
 | 🥈 **Barriera Mentale Githzerai** | **Vantaggio ai TS su Intelligenza** | Colonia dei Divoratori: inserisci la **Mente Risvegliata** nell'Interfaccia e assorbila/purgala | Si perde se muori |
 | 🥈 **Benevolenza di Mystra** (Gale) | **Vantaggio permanente ai TS di concentrazione** | Cerchio rituale di Reithwin: **distruggilo** con Gale in gruppo | Invariato |

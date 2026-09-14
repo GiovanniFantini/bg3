@@ -1,5 +1,5 @@
 # BALDUR'S GATE 3 — ATTO 1 CON LA PULSIONE OSCURA
-### PS5 · Origine Dark Urge · audit online del 13 settembre 2026
+### PS5 · Origine Dark Urge · Stratega · audit Atto 1 del 13 settembre, difficoltà del 14 settembre 2026
 
 **Questa guida parte dall'origine Pulsione Oscura e presenta sia il percorso che la asseconda sia quello che resiste.**
 
@@ -7,6 +7,9 @@ La checklist delle missioni comuni resta utile, ma non definisce l'origine. Trov
 
 ## Indice
 
+- [Scelte opportuniste — Atto 1](#scelte-opportuniste--atto-1)
+
+- [Preparazione per Stratega](#preparazione-per-stratega)
 - [Identità e creazione](#0-cosè-la-pulsione-oscura)
 - [Assecondare o resistere](#0-bis-il-bivio-della-run-resistere-o-abbracciare)
 - [Regole pratiche](#0-ter-regole-pratiche-dellorigine)
@@ -20,6 +23,72 @@ La checklist delle missioni comuni resta utile, ma non definisce l'origine. Trov
 - [Percorso che conserva i contenuti](#ordine-per-non-perdere-missioni)
 - [Percorso che asseconda la Pulsione](#percorso-che-asseconda-la-pulsione-atto-1)
 - [Controllo finale](#-lista-di-controllo-prima-di-lasciare-latto-1)
+
+## PREPARAZIONE PER STRATEGA
+
+**Run scelta: Stratega, mischia, puramente opportunista.** Segui le scelte della sezione seguente e l'ordine 01–21 che conserva i PNG; P1–P10 resta la variante del massacro. I livelli sono indicativi, non requisiti del gioco.
+
+## SCELTE OPPORTUNISTE — ATTO 1
+
+Obiettivo: terminare l'atto con poteri, mercanti futuri e una squadra completa. La ricompensa immediata va confrontata con ciò che perderesti nei due atti successivi. Build di riferimento: [Lockadin, livelli e caratteristiche](lockadin_livello_per_livello.md#livelli).
+
+| Ordine | Scelta da fare | Cosa ottieni / perché conviene | Prima di procedere |
+|---|---|---|---|
+| 01 | Recluta Gale, Lae'zel e gli altri; evita mutilazioni e omicidi gratuiti | Conservi incantatori, missioni e opzioni di squadra | Recluta Withers per gestire il gruppo; niente dipendenza da un oggetto del Nautiloid |
+| 02–03 | Fai restare Rolan; salva Arabella e Mirkon; accetta l'incarico di Mol | Mantieni le catene di ricompense e i PNG degli atti seguenti | Non chiudere il Boschetto prima di questi dialoghi |
+| 03–04 e riposi | Segui la procedura Alfira/Quil già descritta sotto, se vuoi preservare Alfira | Conservi la possibilità della Veste Potente per un incantatore del party; Fel può comunque darti il mantello | Colpo finale non letale in mischia, notte corretta e nessun danno residuo. Non è possibile salvare entrambe le barde con questo metodo |
+| 04 | Recupera tomo e Ametista Oscura; fai leggere il tomo al protagonista | Forbidden Knowledge aiuta anche i TS della Pulsione; futuro seguito del libro | Non distruggere il tomo e non consumare l'ametista in altro modo |
+| 05 | Ferma il rituale con la prova contro Kagha, poi ruba e consegna l'idolo a Mol | Anello della Protezione: +1 CA e TS | Consegna prima di inviare Minthara al Boschetto |
+| 06 | Salva Karlach e completa gli incontri del nord; conserva Dammon | Sword of Justice da Anders se affrontato; mercante e compagna disponibili | Risolvi prima incendi e salvataggi già avviati |
+| 07 | Accetta il capello di Ethel in **CAR**; contratta anche Mayrina | +1 permanente sul protagonista, senza perdere volontariamente il seguito di Mayrina | Lascia avvenire la resa; non uccidere Ethel prima del dialogo. Accetta la rottura del giuramento se scatta |
+| 08 | Compra dai goblin, visita Abdirak, libera Volo; prendi il marchio se vuoi i suoi oggetti | Amore di Loviatar, accesso all'occhio di Volo e agli oggetti marchiati | Rifiuta l'operazione all'occhio di Ethel. Non iniziare l'ostilità prima degli acquisti |
+| 09–11 | Organizza l'assedio dopo gli incarichi pacifici, chiudi Doni, difendi i rifugiati e stordisci Minthara | Conservi Dammon e la possibilità di reclutare Minthara in Atto 2 | Rivela il Boschetto solo quando sei pronto: può rompere Vendetta. Non uccidere Minthara con effetti residui |
+| 13–15 | Aiuta Omeluum, conserva Spaw e la colonia, compra da Derryth | Poteri e mercanti; Caustic Band e amuleto di recupero slot | Assegna Fungo Nobile con una decisione esplicita: darlo a Derryth conserva il relativo commercio futuro; consumarlo sul Durge dà soprattutto memoria narrativa |
+| 16–18 | Consegna gli stivali richiesti, poi elimina Nere, libera gli gnomi e completa la Forgia | Stivali di Nere, ricompense dei superstiti e armatura d'adamantio | Riposa prima della barca; non spingere il bottino nella lava |
+| 20 | Compra picca e guanti da Jeera; usa lo Zaith'isk sul protagonista e punta a **Risvegliato**; poi recupera diadema e Sangue di Lathander | Il legame Hexblade usa CAR; Risvegliato libera l'azione per gli attacchi quando usi un potere illithid | Salva prima dei TS dello Zaith'isk e controlla eventuali penalità: non considerare il premio acquisito se le prove falliscono |
+
+Risvegliato sposta i poteri da azione ad azione bonus: utile dal livello 10 per conservare i tre attacchi, ma compete con maledizione, teletrasporto e attacco bonus GWM. Non dà una seconda azione bonus. [Meccanica](https://bg3.wiki/wiki/Awakened).
+
+**Giuramento e numeri per questa run:** usa il piano H della build: **FOR 16 / DES 10 / COS 14 / INT 8 / SAG 8 / CAR 17**, poi capello CAR → **18**. Quando rompi Vendetta, parla al Cavaliere e accetta Spergiuro. Il percorso predefinito conserva queste caratteristiche, evitando ripristini a pagamento solo per un cambio classe; dal livello 6 leghi l'arma con Hexblade. Guanti DES 18 dalla Creche, talento CAR +2 al livello 9. Le altre distribuzioni nel documento build sono alternative facoltative.
+
+**Non sacrificare un compagno a BOOOAL per il solo vantaggio contro sanguinamento:** conservare il compagno vale di più per questa squadra. Non uccidere Scratch o il cucciolo per un impulso. Il massacro del Boschetto non dà un potenziamento necessario al protagonista e chiude gli acquisti futuri di Dammon.
+
+Fonti: [Minthara](https://bg3.wiki/wiki/Minthara), [capello](https://bg3.wiki/wiki/Auntie_Ethel%27s_Hair), [Forbidden Knowledge](https://bg3.wiki/wiki/Forbidden_Knowledge), [Fungo Nobile](https://bg3.wiki/wiki/Noblestalk), [Volo](https://bg3.wiki/wiki/Volo%27s_Ersatz_Eye), [giuramento](https://bg3.wiki/wiki/Oath_of_Vengeance). Dettagli dei singoli oggetti e dipendenze restano nelle tabelle e nell'ordine 01–21 sotto.
+
+### Differenze da tenere presenti
+
+- Nemici con più PF, bonus di difficoltà ai tiri per colpire e alle CD; alcuni hanno capacità aggiuntive. Esaminali prima di scegliere come attaccare.
+- Riposo lungo completo: **80 provviste**. Commercio meno favorevole e avversari più aggressivi, anche verso personaggi a terra.
+- Sono disponibili salvataggi e ricariche normali. Le regole e le azioni leggendarie specifiche di Onore non vanno applicate automaticamente alle tattiche di Stratega.
+
+Fonte: [differenze fra difficoltà](https://bg3.wiki/wiki/Difficulty#Tactician_mode).
+
+### Preparazione consigliata nell'Atto 1
+
+1. **Forma il gruppo da quattro presto.** Per il percorso opportunista conserva Gale: protagonista Lockadin, Cuorescuro, Astarion e Gale coprono mischia, supporto, distanza e controllo.
+2. **Non anticipare i combattimenti difficili solo per rispettare una riga.** Per una prima Stratega suggerisco livello 4–5 per Matriarca dei ragni ed Ethel, circa 5 per difesa del Boschetto e Nere, circa 6 per la Creche. Esplorazione e dialoghi possono precedere lo scontro. Se hai già attivato un salvataggio urgente, risolvilo senza abbandonarlo per guadagnare livelli.
+3. **Prima di Nere recupera tutte le risorse.** Il riposo va prima della barca; una volta avviata l'emergenza, completa incarichi locali e liberazione senza spedizioni altrove. La medesima prudenza vale prima di organizzare l'assedio con Minthara.
+4. **Concentra il danno e proteggi chi mantiene un incantesimo.** Preferisci togliere di mezzo un avversario o impedirgli di agire anziché ferirne quattro. Separa i personaggi per limitare i danni ad area; porta pozioni, pergamene di resurrezione e una possibilità di attacco a distanza per tutti.
+5. **Organizza l'ultima uccisione del portatore del mantello.** Quando possibile, finisci un bersaglio indebolito verso la fine del suo turno e sfrutta l'invisibilità per riposizionarti. Attaccare nuovamente può interromperla; il beneficio si attiva una volta per turno e non protegge dai danni ad area. [Mantello](https://bg3.wiki/wiki/The_Deathstalker_Mantle).
+6. **Evita Amici sui PNG da conservare.** A Stratega, alla fine dell'effetto possono accusarti o diventare ostili: usarlo con Kagha, mercanti o altri interlocutori importanti può compromettere il percorso pacifico. [Amici](https://bg3.wiki/wiki/Friends).
+
+### Riposi e scene dell'origine
+
+Raccogli cibo e usa i riposi brevi fra gli scontri, ma non saltare le notti per risparmiare a tutti i costi: barda e Sceleritas richiedono eventi al campo. Se vuoi soltanto far avanzare le scene, puoi usare riposi parziali senza provviste; **non recuperano completamente il gruppo né ripristinano i riposi brevi**, e fanno comunque avanzare il tempo. Valgono sempre i vincoli di Alfira e delle emergenze. [Riposi](https://bg3.wiki/wiki/Resting).
+
+### Classe del protagonista
+
+**Progressione da seguire per Stratega:** [Paladino 7 / Warlock Hexblade 5, livello per livello](lockadin_livello_per_livello.md), con acquisti collegati agli ordini 01–21 e P1–P10, distribuzioni con/senza capello e gestione del giuramento. Carisma sull'arma dal livello 6, tre attacchi dal 10. Approfondimento: [elisir, bonus permanenti e oggetti](lockadin_elisir_bonus_e_oggetti.md).
+
+**Alternativa più lineare: Guerriero Maestro di Battaglia 12 con arma a due mani.** Le statistiche e i talenti del paragrafo seguente valgono solo per questa alternativa; non sono quelli del Lockadin. Il confronto con Paladino, Berserker e Hexblade è nella [verifica delle classi](build_pulsione_oscura_mischia_stratega.md).
+
+Statistiche iniziali della sola alternativa Guerriero: **FOR 16, DES 14, COS 16, INT 8, SAG 10, CAR 10**. Stile Difesa; Atletica e Percezione. Al 3 scegli Precisione, Sbilanciante e Disarmante. Talenti consigliati: **Forza 18 al 4, Maestro delle Armi Possenti al 6, Allerta all'8, Forza 20 al 12**. Se l'iniziativa è già sufficiente grazie agli oggetti, puoi invertire le ultime due scelte.
+
+Il vantaggio principale è una progressione lineare con controllo e risorse da riposo breve. I limiti sono Carisma modesto, vulnerabilità ai TS su Saggezza e assenza di magia di classe: Paladino o Hexblade restano alternative se vuoi valorizzare anche dialoghi e incantesimi.
+
+**Squadra suggerita:** protagonista, Astarion a distanza, Cuorescuro e Gale. Se perdi Gale, copri il ruolo magico con un gregario o un cambio classe. Nel ramo del massacro non contare su Karlach, Wyll, Halsin o sugli acquisti futuri di Dammon.
+
+**Mantello:** dopo l'attivazione, un altro attacco può interrompere l'invisibilità e una seconda uccisione nello stesso turno non la rinnova. Decidi se proseguire gli attacchi o conservare l'effetto; non sacrificare sempre il danno per restare invisibile. Pianifica Passo Velato prima del colpo finale se vuoi evitare che il lancio interrompa l'effetto.
 
 ## 0. COS'È LA PULSIONE OSCURA
 

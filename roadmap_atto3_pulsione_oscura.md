@@ -1,12 +1,15 @@
 # BALDUR'S GATE 3 (PS5) — ATTO 3 CON LA **PULSIONE OSCURA**
 ### Baldur's Gate · la verità su chi eri · il duello con Orin · i quattro finali della Pulsione · Aggiornamento (Patch) 8
 
-> **Stato della guida:** bozza non ancora sottoposta all'audit dettagliato dell'Atto 1. I rinvii alla run buona valgono per il ramo che preserva i relativi PNG; dopo il massacro del Boschetto diversi seguiti sono preclusi. Resistere e ricaricare per i trofei sono opzioni, non requisiti dell'origine.
+> **Percorso attivo: opportunista per potenza, Stratega, mischia.** Segui l'ordine opportunista sotto, che anticipa l'acquisto bhaalista. Il catalogo generale delle missioni non è ancora sottoposto all'audit completo dell'Atto 1. I rami dei trofei e del servizio a Bhaal restano alternative.
 
 *Prosecuzione diretta di `roadmap_atto2_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 27-50), i quattro orologi, l'atlante delle location e le tattiche continua a usare `roadmap_atto3_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
 
+**Build mischia a Stratega:** [progressione operativa Lockadin](lockadin_livello_per_livello.md#atto-3), sezione Atto 3: livelli 11–12, Nyrulna, specchio, amuleto COS 23, equip con/senza Dammon e scelta del Tribunale. Ogni premio è collegato alla tappa in cui lo ottieni davvero.
+
 ## 📑 Indice
 
+- [Scelte opportuniste — Atto 3](#scelte-opportuniste--atto-3)
 - [0. Cosa cambia nell'Atto 3](#0-cosa-cambia-nellatto-3)
 - [💭 Il sogno di Rivington: la verità su chi eri](#-il-sogno-di-rivington-la-verità-su-chi-eri)
 - [🤝 Gortash: il socio che non hai dimenticato](#-gortash-il-socio-che-non-hai-dimenticato)
@@ -28,6 +31,34 @@
 
 ## 0. COSA CAMBIA NELL'ATTO 3
 
+## SCELTE OPPORTUNISTE — ATTO 3
+
+**Obiettivo: arma perforante + Armatura Bhaalista, Carisma aumentato e poteri del party, conservando autonomia da Bhaal.** Le tappe T27–50 indicano dove leggere gli incontri nella roadmap generale. Per sfruttare il potenziamento prima dei boss, qui **anticipiamo il Tribunale rispetto alla vecchia T45**: non seguire i numeri come un ordine rigido.
+
+| Ordine opportunista | Scelta e operazione | Guadagno concreto / costo |
+|---|---|---|
+| 1 — Transizione e Rivington, T27–29 | Accetta il girino astrale aprendogli la mente; compra Hellrider Longbow; recupera Nyrulna nella giungla di Akabi | Volo, accesso ai poteri avanzati, iniziativa e arma +3 perforante. Il girino modifica l'aspetto; non mangiarlo se vuoi condividerlo |
+| 2 — Incoronazione e urgenze, T30–33 | Non attaccare Gortash all'incoronazione; salva Florrick e risolvi le urgenze avviate. Compra da Dammon | Conservi accesso alla città e acquisti. Acquista i guanti offensivi per chi può rinunciare ai guanti DES, non automaticamente per il protagonista |
+| 3 — Indagine sugli omicidi → Tribunale, contenuto T45 anticipato | Ottieni accesso tramite l'indagine; accetta il rituale, sacrifica Valeria e compra l'Armatura Bhaalista | La vulnerabilità ai perforanti entra nella build mentre restano boss da affrontare. Valeria è persa: il sacrificio resta nel salvataggio definitivo |
+| 4 — Subito dopo l'acquisto | Equipaggia Nyrulna a due mani e Bhaalist Armour; lega Nyrulna. Conserva i guanti DES se hai DES naturale 10 | Con DES 18 l'armatura leggera usa +4 DES: CA 14+4+1 Difesa = 19, prima di anello/mantello. Niente lancio di Nyrulna mentre è legata |
+| 5 — T36–39, quando il gruppo è pronto | Recupera oggetti di Ramazith per Gale e completa lo Specchio sul protagonista. Fai ascendere Astarion se è il tuo attaccante stabile | +2 CAR dal premio dello specchio riuscito. Ascensione: **+1d10 necrotico agli attacchi di Astarion**, pagato con il sacrificio del rituale e il cambiamento della sua storia; non è un bonus del protagonista |
+| 6 — T40, Casa della Speranza | Recupera Amulet of Greater Health e i guanti FOR; sconfiggi Raphael per la sua armatura | COS 23 da amuleto al protagonista; guanti FOR a chi li sfrutta. Non consegnare a Helsik un pezzo che vuoi conservare senza valutare la ricompensa dell'incarico |
+| 7 — T41–44 se vuoi quei contenuti | Trono di Ferro prima della Fonderia, poi Gortash; Ansur dopo preparazione adeguata | Alleati e bottino per il party. Non serve uccidere Gortash per comprare l'armatura bhaalista; lo spadone di Ansur non sostituisce automaticamente la perforante |
+| 8 — Orin, T46 | Presentati col protagonista, proteggi l'ostaggio nel dialogo, vinci il duello e poi rifiuta Bhaal | Conservi autonomia e l'equipaggiamento acquistato. Libera l'ostaggio prima di uscire dal Tempio |
+| 9 — Preparazione finale, T47–48 | Completa i recuperi rimasti e assegna consumabili prima della Pozza Morfica | Rifiutare Bhaal non obbliga a un finale altruista; il finale va scelto per il personaggio, non per aumentare statistiche ormai inutili |
+
+**Anticipare il Tribunale non significa correre sottolivello contro Sarevok:** il ramo di acquisto richiede il rituale, non di sconfiggerlo prima. Compra tutto ciò che vuoi prima di eventuali ostilità; per questa progressione non è necessario ucciderlo subito dopo. Conserva denaro per l'armatura, senza spenderlo prima nella statua del circo o in cambi classe ripetuti. [Accesso e mercante](https://bg3.wiki/wiki/Murder_Tribunal), [armatura](https://bg3.wiki/wiki/Bhaalist_Armour).
+
+**Ostaggio di Orin:** la wiki non documenta un conto alla rovescia di riposi che lo uccida automaticamente; sono decisivi il confronto e le scelte al Tempio. Non attivare il dialogo finale impreparato e non mandare un compagno al posto del protagonista Durge. L'ordine Gortash → Orin è una possibilità, non un obbligo universale. [Condizioni verificate](https://bg3.wiki/wiki/Rescue_Orin%27s_Victim).
+
+**Potenziamenti da prendere:** specchio CAR; amuleto COS 23; poteri avanzati come Black Hole rispettando i prerequisiti; Codex/tomo secondo il personaggio a cui li hai assegnati. **Da non prendere automaticamente:** Sangue Instabile di Araj (superfici esplosive poco controllabili per questa mischia), maledizioni con perdita permanente di SAG, nuovi elisir FOR sul protagonista solo perché hanno un numero alto. [Sangue Instabile](https://bg3.wiki/wiki/Unstable_Blood), [ascensione](https://bg3.wiki/wiki/Vampire_Ascendant), [specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
+
+**Set predefinito, senza ulteriore cambio classe:** Nyrulna / mano secondaria vuota; Armatura Bhaalista; Diadema della Sinergia Arcana; Guanti di Destrezza; stivali di Nere; mantello di Fel o Protection; Greater Health; Caustic Band e Protection. Risky Ring sostituisce Protection solo se ti serve vantaggio e accetti lo svantaggio ai TS. Arco Hellrider nello slot a distanza. Con capello, talento e specchio riusciti: **CAR 22; DES 18 e COS 23 sono valori fissati dagli oggetti**, non punteggi naturali da sommare ai bonus. Prima dello specchio CAR è 20; prima dell'amuleto COS resta naturale.
+
+Le sezioni seguenti descrivono anche finali e ricompense incompatibili: il percorso da tenere è quello opportunista sopra. Le ricariche per trofei sono facoltative e non devono cancellare gli acquisti definitivi.
+
+### Contesto degli eventi dell'origine
+
 Nell'Atto 3 la Pulsione Oscura smette di essere una linea parallela e **diventa la trama principale**. Scopri che l'intera storia del gioco è cominciata per colpa tua: sei stato **tu**, insieme a Gortash, a rubare la **Corona di Karsus** e ad asservire un Cervello Antico. Orin ti ha tolto di mezzo piantandoti un pugnale nel cranio e un girino nella testa; Kressa Bonedaughter ti ha raccolto moribondo e ti ha spedito sul nautiloid. **Il prologo del gioco è la fine della tua vecchia vita.**
 
 Cosa comporta, in concreto:
@@ -37,7 +68,7 @@ Cosa comporta, in concreto:
 - **Un duello uno-contro-uno** con Orin al posto dello scontro normale.
 - **Un finale personale** con quattro esiti diversi, due dei quali valgono i trofei esclusivi dell'origine.
 
-Tutto il resto dell'Atto 3 — i quattro orologi, l'ordine obbligato, gli otto errori che chiudono contenuti — **vale identico** e resta nel file della run buona.
+Le dipendenze delle missioni restano da rispettare, ma **non tutto l'ordine della run buona è obbligatorio**. Per questa run anticipa il Tribunale come descritto sopra; Gortash non deve essere morto per acquistare l'armatura.
 
 ---
 
@@ -70,10 +101,10 @@ In entrambi i casi puoi **intimidire Jaheira (e Minsc)** per farli andare via da
 All'**incoronazione** (Tappa 30 della roadmap buona), Gortash ti riconosce: eravate soci. Ti ricorda il colpo alla **Corona di Karsus**, ti propone di **ricostruire la vecchia alleanza** contro Orin e di riprenderti il tuo posto.
 
 - Il dialogo cambia parecchio se hai **Karlach** in squadra (lei ha tutt'altro tipo di conto in sospeso con lui).
-- ⚠️ **L'alleanza con Gortash non è un obbligo e non è un finale**: come nella run buona, puoi ascoltarlo, non attaccare, e ucciderlo comunque più avanti dopo aver salvato Gondiani e Rotative. **L'ordine dell'atto non cambia.**
+- ⚠️ **L'alleanza con Gortash non è un obbligo e non è un finale**: come nella run buona, puoi ascoltarlo, non attaccare, e ucciderlo comunque più avanti dopo aver salvato Gondiani e Rotative. **Il Tribunale viene anticipato nel percorso opportunista.**
 - Se invece **accetti il patto** e gli porti la Pietranether di Orin, lui mantiene la parola: è l'unica alleanza vera tra i Prescelti.
 
-> 🔪 **Vale anche per te la regola d'oro della run buona:** *Ferma le Rotative* e *Disattiva le Sentinelle d'Acciaio* **prima** di uccidere Gortash, e la **mano di Gortash** va raccolta dal cadavere perché serve come prova d'omicidio al Tribunale. **Da Pulsione Oscura hai un'alternativa in più**: se nell'Atto 1 hai staccato la mano a **Gale**, quella vale come prova (ma hai pagato un mago intero per una mano).
+> **Percorso opportunista:** risolvi le urgenze avviate e, se vuoi salvare i prigionieri, fai Trono di Ferro → Fonderia → Gortash. Per il Tribunale anticipato segui l'indagine sugli omicidi: **non serve sacrificare Gale né attendere la mano di Gortash**.
 
 ---
 
@@ -114,7 +145,7 @@ Il Tribunale (Tappa 45) è il posto dove l'origine ti fa più sconti. **Sarevok 
 | 🩸 **Sacrifichi Valeria** (l'investigatrice hollyphant) | Diventi **Assassino Nefando** → 🏆 *Omicidio a Baldur's Gate* e si apre il mercante **Eco di Abazigal**, che vende l'**Armatura Bhaalista** | Valeria come alleata al finale |
 | ✅ **La risparmi** | Valeria alleata per *Raduna i tuoi Alleati* | Il trofeo e il mercante bhaalista (quindi l'armatura) |
 
-> 🔁 **Con salva/ricarica li prendi tutti e due**, esattamente come nella run buona: salva, sacrifica, aspetta il trofeo, **compra l'Armatura Bhaalista**, poi ricarica e risparmiala. *(L'armatura comprata sparisce con la ricarica: se la vuoi davvero, il sacrificio deve restare nella linea temporale definitiva.)*
+> **Scelta definitiva di questa run:** sacrifica Valeria e compra l'Armatura Bhaalista; **non ricaricare per risparmiarla dopo l'acquisto**, perché perderesti anche l'oggetto. Puoi esplorare l'altro esito in un salvataggio separato.
 >
 > ⭐ **E in ogni caso, da Pulsione Oscura, il Tribunale non è obbligatorio per raggiungere Orin**: l'Amuleto di Bhaal serve agli altri, non a te — Sceleritas ti apre la porta comunque. Ci vai per il trofeo, per l'equipaggiamento di Sarevok e per l'Armatura Bhaalista, non per passare.
 
@@ -151,7 +182,7 @@ Caduta Orin, l'Avatar di Bhaal ti offre di tornare il suo Prescelto. **L'offerta
 | **Subito** | Ottieni la **forma del Carnefice** (se non l'avevi) **+ un uso di Parola del Potere: Uccidere** | Bhaal ti **prosciuga il sangue divino e ti uccide sul posto** |
 | **Poi** | Sei di nuovo Prescelto: il compito è **prendere il controllo del Cervello Netherese nel nome di Bhaal** | **Withers interviene** — cosa che non fa mai — e investe parte del suo potere per riportarti in vita. Rinasci **libero dalla Pulsione** |
 | **Carnefice** | Ce l'hai | **Lo perdi per sempre**, anche se l'avevi preso nell'Atto 2 |
-| **Sceleritas** | Torna al campo: puoi interrogarlo su tutto (passato, futuro, la tua romance) e poi **farlo tacere o ucciderlo definitivamente** | Furioso e disperato: Bhaal punirà entrambi. Lui muore per sempre, tu impazzirai |
+| **Libertà dal vincolo** | Resti vincolato alla volontà di Bhaal; disobbedire successivamente ha conseguenze | Dopo la vittoria in duello e la resurrezione di Withers sei libero dalla Pulsione; la follia non è la conseguenza di questo rifiuto riuscito |
 | **All'uscita dal Tempio** | ⚔️ **Jaheira, Minsc e un gruppo di Arpisti ti aspettano** per impedire che la storia si ripeta — e provano a tirare dalla loro i tuoi compagni. Lo scontro è inevitabile | Nulla |
 | **Trofeo** | 🏆 **Abbraccia la Pulsione** | — |
 | **Resto del gioco** | I finali "bhaaliti" (vedi sotto) | **Identico a una run normale**: tutti i finali restano disponibili |
@@ -169,7 +200,7 @@ Caduta Orin, l'Avatar di Bhaal ti offre di tornare il suo Prescelto. **L'offerta
 
 ## 🏆 IL PIANO COMPLETO PER I DUE TROFEI SENZA ROVINARE LA STORIA
 
-**Su PS5 i trofei restano sbloccati anche se ricarichi un salvataggio precedente.** Questa è la sequenza da seguire nel Tempio di Bhaal:
+**Variante facoltativa per i trofei, non percorso principale.** La run opportunista vince contro Orin e rifiuta Bhaal. Su PS5 i trofei restano sbloccati anche se ricarichi un salvataggio precedente; se vuoi esplorare il ramo alternativo usa la sequenza seguente:
 
 1. **Salvataggio manuale dedicato** (slot che non sovrascrivi) **prima del colpo finale a Orin**.
 2. Uccidi Orin → **accetta** l'offerta dell'Avatar → 🏆 **Abbraccia la Pulsione**.
@@ -186,7 +217,7 @@ Caduta Orin, l'Avatar di Bhaal ti offre di tornare il suo Prescelto. **L'offerta
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 3
 
-L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: le missioni sono **le stesse**. Quello che cambia:
+L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Quello che cambia:
 
 | Missione | Da Pulsione Oscura |
 |---|---|
@@ -238,7 +269,7 @@ L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: le missioni s
 
 ## ⚔️ GLI OGGETTI FORTI DELL'ATTO 3 E IL SET BHAALISTA
 
-### 🩸 Il set bhaalista — la build che l'origine ti costruisce addosso
+### 🩸 Oggetti bhaalisti — opzioni, non un set obbligatorio dell'origine
 
 | Pezzo | Effetto | Dove |
 |---|---|---|
@@ -249,9 +280,9 @@ L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: le missioni s
 | **Mantello del Cacciatore di Morte** | Invisibile 2 turni dopo ogni uccisione | 🩸 Dall'Atto 1, e regge ancora |
 | **Amore dell'Assassino** | Critico automatico dopo un'uccisione | Dall'Atto 2 |
 
-> ⭐ **Perché è così forte.** **Aura dell'Omicidio raddoppia i danni perforanti** di chiunque colpisca entro 3 metri da chi indossa l'armatura — e perforante è esattamente il tipo di danno di Malizia Cremisi, Sete di Sangue e di ogni arco del gruppo. Il combo classico: **l'armatura addosso a te, in mezzo alla mischia**, e tutto il gruppo che picchia sullo stesso bersaglio. Con Mantello del Cacciatore di Morte + Amore dell'Assassino + Elmo Cornuto la catena è: **uccidi → invisibile → critico garantito → uccidi**.
+> ⭐ **Perché è così forte.** **Aura dell'Omicidio raddoppia i danni perforanti** di chiunque colpisca entro 3 metri da chi indossa l'armatura — e perforante è esattamente il tipo di danno di Malizia Cremisi, Sete di Sangue e di ogni arco del gruppo. La combinazione utile è **armatura sul protagonista vicino al bersaglio**, con gli altri che lo attaccano anche a distanza. La vulnerabilità si controlla sul bersaglio, non sulla distanza dell'arciere. **Killer's Sweetheart concede il critico dopo un'uccisione una volta per riposo lungo**: non c'è una catena infinita di critici garantiti. Per il Lockadin usa Nyrulna a due mani e diadema, senza aggiungere contemporaneamente l'elmo di Sarevok.
 >
-> ⚠️ **Il prezzo:** l'armatura richiede di aver sacrificato **Valeria**. Se la vuoi davvero nella linea temporale definitiva, il trofeo *Omicidio a Baldur's Gate* e l'alleata si escludono a vicenda. È l'unico vero conflitto tra potenza e "run pulita" dell'atto.
+> ⚠️ **Il prezzo:** l'armatura richiede di aver sacrificato **Valeria**. Se la vuoi davvero nella linea temporale definitiva, il trofeo *Omicidio a Baldur's Gate* e l'alleata si escludono a vicenda. Altri premi, come l'ascensione di Astarion, comportano altri sacrifici; ogni decisione va valutata separatamente.
 
 ### Il resto degli oggetti che contano
 
@@ -268,10 +299,10 @@ Restano quelli del catalogo generale (`oggetti_e_build_definitive.md`): **Armatu
 - [ ] **Cura** lanciata su di te in Città Bassa/Fogne/Rovine **al momento giusto** (una sola volta per partita)
 - [ ] **Pagina dal libro di Sarevok** raccolta nel suo ufficio (serve contro Orin)
 - [ ] *Parlare con i Morti* disponibile per **Helena Anchev**
-- [ ] **Gortash ucciso prima di Orin** e **mano raccolta** dal cadavere
-- [ ] Tutte le missioni dei compagni e **Raduna i tuoi Alleati** completate **prima** del Tempio di Bhaal
+- [ ] **Tribunale visitato dopo l'indagine**, Valeria sacrificata e Armatura Bhaalista comprata; Gortash non richiesto per questo acquisto
+- [ ] Dotazione da duello pronta prima di Orin; missioni e alleati desiderati completati prima della Pozza Morfica
 - [ ] 🔁 **Salvataggio manuale dedicato prima del colpo finale a Orin** (è il perno di tutto il piano trofei)
-- [ ] 🏆 *Abbraccia la Pulsione* → 🏆 *Le Colpe del Padre* → **ricarica** → rifiuto, Withers, finale scelto
+- [ ] **Orin battuta in duello → rifiuto di Bhaal → ostaggio liberato**. Ramo dei trofei solo su salvataggio alternativo
 
 ---
 
