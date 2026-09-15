@@ -1,5 +1,7 @@
 # Pulsione Oscura da mischia a Stratega — verifica e build
 
+> **Alternativa archiviata per il protagonista (15 settembre 2026).** Il piano attivo è [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
+
 Verifica online del 14 settembre 2026. BG3, PS5, regole Stratega standard. Preferenze confermate: origine Pulsione Oscura e combattimento in mischia. Classe, razza e scelta fra assecondare e resistere restano proposte, non decisioni già prese dal giocatore.
 
 **La progressione operativa aggiornata è Paladino 7 / Warlock Hexblade 5:** [livello per livello, legato alle tappe e alle scelte della run](lockadin_livello_per_livello.md). Il [confronto fra elisir, caratteristiche e oggetti](lockadin_elisir_bonus_e_oggetti.md) ne approfondisce i calcoli. Questo documento conserva il confronto e la progressione del Guerriero come alternativa lineare.

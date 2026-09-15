@@ -14,7 +14,9 @@ Raccolta di guide personali per Baldur's Gate 3 su PS5, costruite nel tempo con 
 
 ### Seconda partita — **Pulsione Oscura** (*Dark Urge*)
 
-**Impostazione confermata:** Stratega, combattimento in mischia, personaggio puramente opportunista orientato alla potenza. Ogni roadmap contiene ora una sezione **Scelte opportuniste** con priorità, premi, rinunce e ordine degli acquisti. Le scelte consigliate e i relativi costi sono nel [percorso opportunista](lockadin_livello_per_livello.md#1-prima-la-run-poi-la-ricompensa); i rami di redenzione e massacro nelle roadmap restano alternative.
+**Oggetti da exploit:** [procedimenti divisi per atto, tappe, destinatari e limiti PS5](oggetti_exploit_opportunista.md). Le tre sezioni Scelte opportuniste includono ora questi recuperi.
+
+**Impostazione confermata:** Stratega, combattimento in mischia, personaggio puramente opportunista orientato alla potenza. Ogni roadmap contiene ora una sezione **Scelte opportuniste** con priorità, premi, rinunce e ordine degli acquisti. Le scelte consigliate e i relativi costi sono nel [percorso opportunista](bardadino_opportunista_livello_per_livello.md); i rami di redenzione e massacro nelle roadmap restano alternative.
 
 | File | Cosa copre |
 |---|---|
@@ -22,11 +24,11 @@ Raccolta di guide personali per Baldur's Gate 3 su PS5, costruite nel tempo con 
 | [roadmap_atto2_pulsione_oscura.md](roadmap_atto2_pulsione_oscura.md) | Isobel e **la notte del compagno più caro**: come si passa il TS su Saggezza CD 14 (lista completa dei bonus), la forma del **Carnefice** con pregi e limiti, le altre pulsioni, missioni/luoghi/bonus/oggetti dell'atto |
 | [roadmap_atto3_pulsione_oscura.md](roadmap_atto3_pulsione_oscura.md) | La verità sul tuo passato, Gortash, le scorciatoie al Tribunale dell'Omicidio, il **duello con Orin**, i quattro finali dell'origine e il piano salva/ricarica per i due trofei esclusivi, più il **set bhaalista** |
 
-**Da seguire durante la run — Pulsione Oscura, Stratega, mischia:** [Lockadin livello per livello e tappa per tappa](lockadin_livello_per_livello.md). Creazione, livelli 1–12, Hexblade, incantesimi e slot, giuramento, acquisti nei tre atti, elisir, premi e alternative per resistere, assecondare o scegliere caso per caso.
+**Piano attivo:** [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Sostituisce Astarion per serrature e furtività. Allerta al 4, +2 DES al 10, capello e specchio DES; incantesimi, equipaggiamento, exploit e tappe per ogni livello.
 
 **Confronto e alternativa Guerriero:** [verifica delle classi](build_pulsione_oscura_mischia_stratega.md), con progressione Maestro di Battaglia, calcoli del −5/+10, mantello e squadra. Non mescolare questa progressione con quella del Lockadin.
 
-**Paladino/Warlock a Stratega:** [piano di elisir, bonus e oggetti](lockadin_elisir_bonus_e_oggetti.md), con Carisma 22/24, confronto fra slot e alternative senza ricompense.
+**Vecchia alternativa Paladino/Warlock:** [progressione Lockadin](lockadin_livello_per_livello.md) e [elisir](lockadin_elisir_bonus_e_oggetti.md), conservati come confronto; non sono più il piano del protagonista.
 
 ### Riferimenti trasversali (validi per entrambe le partite)
 

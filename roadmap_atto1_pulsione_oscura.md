@@ -30,7 +30,13 @@ La checklist delle missioni comuni resta utile, ma non definisce l'origine. Trov
 
 ## SCELTE OPPORTUNISTE — ATTO 1
 
-Obiettivo: terminare l'atto con poteri, mercanti futuri e una squadra completa. La ricompensa immediata va confrontata con ciò che perderesti nei due atti successivi. Build di riferimento: [Lockadin, livelli e caratteristiche](lockadin_livello_per_livello.md#livelli).
+### Oggetti da exploit da prendere lungo questo percorso
+
+- **Withers disponibile, livello 3 (A1-01–04):** crea le lame permanenti seguendo [Flame Blade e Shadow Blade](oggetti_exploit_opportunista.md#atto-1). Shadow Blade è adatta al protagonista su DES; Flame Blade permanente va principalmente al compagno su FOR. Recupera inoltre Elmo dell'Autonomia nel Sottosuolo e guanti da furto da Brem dopo la consegna Zhentarim.
+- **A1-06:** lascia inesplorato l'incontro con Voss presso il drago. **Prima di A1-19, almeno livello 5**, tenta il [recupero dello spadone astrale](oggetti_exploit_opportunista.md#spada-dargento-del-piano-astrale--prima-che-voss-parta), senza Lae'zel nel gruppo. Se Voss è già partito, salta il recupero precoce.
+- Non aprire il carico Zhentarim per procurarti automaticamente la Iron Flask: è un bivio rispetto alla consegna chiusa. Controlla sul tuo gioco riuscita e persistenza degli exploit prima di contarli nel bottino.
+
+Obiettivo: poteri, mercanti futuri e squadra completa. Il protagonista sostituisce Astarion nel gruppo: [creazione e livelli del Bardadino](bardadino_opportunista_livello_per_livello.md#livelli).
 
 | Ordine | Scelta da fare | Cosa ottieni / perché conviene | Prima di procedere |
 |---|---|---|---|
@@ -40,16 +46,16 @@ Obiettivo: terminare l'atto con poteri, mercanti futuri e una squadra completa. 
 | 04 | Recupera tomo e Ametista Oscura; fai leggere il tomo al protagonista | Forbidden Knowledge aiuta anche i TS della Pulsione; futuro seguito del libro | Non distruggere il tomo e non consumare l'ametista in altro modo |
 | 05 | Ferma il rituale con la prova contro Kagha, poi ruba e consegna l'idolo a Mol | Anello della Protezione: +1 CA e TS | Consegna prima di inviare Minthara al Boschetto |
 | 06 | Salva Karlach e completa gli incontri del nord; conserva Dammon | Sword of Justice da Anders se affrontato; mercante e compagna disponibili | Risolvi prima incendi e salvataggi già avviati |
-| 07 | Accetta il capello di Ethel in **CAR**; contratta anche Mayrina | +1 permanente sul protagonista, senza perdere volontariamente il seguito di Mayrina | Lascia avvenire la resa; non uccidere Ethel prima del dialogo. Accetta la rottura del giuramento se scatta |
+| 07 | Accetta il capello di Ethel in **DES**; contratta anche Mayrina | +1 permanente sul protagonista, senza perdere volontariamente il seguito di Mayrina | Lascia avvenire la resa; non uccidere Ethel prima del dialogo. Normalmente sei ancora Bardo: nessun giuramento a questa tappa |
 | 08 | Compra dai goblin, visita Abdirak, libera Volo; prendi il marchio se vuoi i suoi oggetti | Amore di Loviatar, accesso all'occhio di Volo e agli oggetti marchiati | Rifiuta l'operazione all'occhio di Ethel. Non iniziare l'ostilità prima degli acquisti |
 | 09–11 | Organizza l'assedio dopo gli incarichi pacifici, chiudi Doni, difendi i rifugiati e stordisci Minthara | Conservi Dammon e la possibilità di reclutare Minthara in Atto 2 | Rivela il Boschetto solo quando sei pronto: può rompere Vendetta. Non uccidere Minthara con effetti residui |
 | 13–15 | Aiuta Omeluum, conserva Spaw e la colonia, compra da Derryth | Poteri e mercanti; Caustic Band e amuleto di recupero slot | Assegna Fungo Nobile con una decisione esplicita: darlo a Derryth conserva il relativo commercio futuro; consumarlo sul Durge dà soprattutto memoria narrativa |
 | 16–18 | Consegna gli stivali richiesti, poi elimina Nere, libera gli gnomi e completa la Forgia | Stivali di Nere, ricompense dei superstiti e armatura d'adamantio | Riposa prima della barca; non spingere il bottino nella lava |
-| 20 | Compra picca e guanti da Jeera; usa lo Zaith'isk sul protagonista e punta a **Risvegliato**; poi recupera diadema e Sangue di Lathander | Il legame Hexblade usa CAR; Risvegliato libera l'azione per gli attacchi quando usi un potere illithid | Salva prima dei TS dello Zaith'isk e controlla eventuali penalità: non considerare il premio acquisito se le prove falliscono |
+| 20 | Compra gli oggetti di Jeera per il party; cerca Risvegliato e recupera Sangue di Lathander | Guanti DES e picca non sono requisiti del Bardo; prendi un'arma accurata per il protagonista | Completa gli acquisti prima delle ostilità e controlla le penalità dello Zaith'isk |
 
-Risvegliato sposta i poteri da azione ad azione bonus: utile dal livello 10 per conservare i tre attacchi, ma compete con maledizione, teletrasporto e attacco bonus GWM. Non dà una seconda azione bonus. [Meccanica](https://bg3.wiki/wiki/Awakened).
+Risvegliato permette poteri con azione bonus: conservi i due attacchi, ma compete con Healing Word e, in Atto 3, il controllo tramite Mystic Scoundrel. Non concede una seconda azione bonus. [Meccanica](https://bg3.wiki/wiki/Awakened).
 
-**Giuramento e numeri per questa run:** usa il piano H della build: **FOR 16 / DES 10 / COS 14 / INT 8 / SAG 8 / CAR 17**, poi capello CAR → **18**. Quando rompi Vendetta, parla al Cavaliere e accetta Spergiuro. Il percorso predefinito conserva queste caratteristiche, evitando ripristini a pagamento solo per un cambio classe; dal livello 6 leghi l'arma con Hexblade. Guanti DES 18 dalla Creche, talento CAR +2 al livello 9. Le altre distribuzioni nel documento build sono alternative facoltative.
+**Creazione attiva:** Elfo dei boschi, Bardo; **FOR 8 / DES 17 / COS 14 / INT 8 / SAG 10 / CAR 16**. Capello DES → 18. Allerta al 4, Attacco Extra al 6; Paladino Vendetta al totale 7, Punizioni all'8; +2 DES al 10. Prima del Paladino non hai giuramento. Non dipendi dai Guanti DES o da Hexblade.
 
 **Non sacrificare un compagno a BOOOAL per il solo vantaggio contro sanguinamento:** conservare il compagno vale di più per questa squadra. Non uccidere Scratch o il cucciolo per un impulso. Il massacro del Boschetto non dà un potenziamento necessario al protagonista e chiude gli acquisti futuri di Dammon.
 
@@ -65,7 +71,7 @@ Fonte: [differenze fra difficoltà](https://bg3.wiki/wiki/Difficulty#Tactician_m
 
 ### Preparazione consigliata nell'Atto 1
 
-1. **Forma il gruppo da quattro presto.** Per il percorso opportunista conserva Gale: protagonista Lockadin, Cuorescuro, Astarion e Gale coprono mischia, supporto, distanza e controllo.
+1. **Forma il gruppo da quattro presto:** protagonista Bardo, Cuorescuro, Gale, Lae'zel o Karlach. Astarion può restare al campo: il protagonista gestisce serrature e trappole.
 2. **Non anticipare i combattimenti difficili solo per rispettare una riga.** Per una prima Stratega suggerisco livello 4–5 per Matriarca dei ragni ed Ethel, circa 5 per difesa del Boschetto e Nere, circa 6 per la Creche. Esplorazione e dialoghi possono precedere lo scontro. Se hai già attivato un salvataggio urgente, risolvilo senza abbandonarlo per guadagnare livelli.
 3. **Prima di Nere recupera tutte le risorse.** Il riposo va prima della barca; una volta avviata l'emergenza, completa incarichi locali e liberazione senza spedizioni altrove. La medesima prudenza vale prima di organizzare l'assedio con Minthara.
 4. **Concentra il danno e proteggi chi mantiene un incantesimo.** Preferisci togliere di mezzo un avversario o impedirgli di agire anziché ferirne quattro. Separa i personaggi per limitare i danni ad area; porta pozioni, pergamene di resurrezione e una possibilità di attacco a distanza per tutti.
@@ -78,9 +84,9 @@ Raccogli cibo e usa i riposi brevi fra gli scontri, ma non saltare le notti per 
 
 ### Classe del protagonista
 
-**Progressione da seguire per Stratega:** [Paladino 7 / Warlock Hexblade 5, livello per livello](lockadin_livello_per_livello.md), con acquisti collegati agli ordini 01–21 e P1–P10, distribuzioni con/senza capello e gestione del giuramento. Carisma sull'arma dal livello 6, tre attacchi dal 10. Approfondimento: [elisir, bonus permanenti e oggetti](lockadin_elisir_bonus_e_oggetti.md).
+**Progressione attiva:** [Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Elfo dei boschi, serrature e furtività; DES sull'arma accurata, Allerta al 4, due attacchi al 6, Punizioni all'8, +2 DES al 10.
 
-**Alternativa più lineare: Guerriero Maestro di Battaglia 12 con arma a due mani.** Le statistiche e i talenti del paragrafo seguente valgono solo per questa alternativa; non sono quelli del Lockadin. Il confronto con Paladino, Berserker e Hexblade è nella [verifica delle classi](build_pulsione_oscura_mischia_stratega.md).
+**Alternativa più lineare: Guerriero Maestro di Battaglia 12 con arma a due mani.** Le statistiche e i talenti del paragrafo seguente valgono solo per questa alternativa; non sono quelli del Bardadino. Il confronto con Paladino, Berserker e Hexblade è nella [verifica delle classi](build_pulsione_oscura_mischia_stratega.md).
 
 Statistiche iniziali della sola alternativa Guerriero: **FOR 16, DES 14, COS 16, INT 8, SAG 10, CAR 10**. Stile Difesa; Atletica e Percezione. Al 3 scegli Precisione, Sbilanciante e Disarmante. Talenti consigliati: **Forza 18 al 4, Maestro delle Armi Possenti al 6, Allerta all'8, Forza 20 al 12**. Se l'iniziativa è già sufficiente grazie agli oggetti, puoi invertire le ultime due scelte.
 

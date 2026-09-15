@@ -5,7 +5,7 @@
 
 *Prosecuzione diretta di `roadmap_atto2_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 27-50), i quattro orologi, l'atlante delle location e le tattiche continua a usare `roadmap_atto3_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
 
-**Build mischia a Stratega:** [progressione operativa Lockadin](lockadin_livello_per_livello.md#atto-3), sezione Atto 3: livelli 11–12, Nyrulna, specchio, amuleto COS 23, equip con/senza Dammon e scelta del Tribunale. Ogni premio è collegato alla tappa in cui lo ottieni davvero.
+**Build attiva:** [Bardo delle Spade 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-3). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
 
 ## 📑 Indice
 
@@ -33,15 +33,21 @@
 
 ## SCELTE OPPORTUNISTE — ATTO 3
 
-**Obiettivo: arma perforante + Armatura Bhaalista, Carisma aumentato e poteri del party, conservando autonomia da Bhaal.** Le tappe T27–50 indicano dove leggere gli incontri nella roadmap generale. Per sfruttare il potenziamento prima dei boss, qui **anticipiamo il Tribunale rispetto alla vecchia T45**: non seguire i numeri come un ordine rigido.
+### Oggetti da exploit da prendere lungo questo percorso
+
+- **Livello 11, durante i preparativi prima dei boss:** tenta la [mazza del Deva tramite gregario](oggetti_exploit_opportunista.md#atto-3). Il procedimento da console è sperimentale: se non funziona, il set predefinito resta completo.
+- Ricontrolla l'aura della Pietra della Risonanza dopo il cambio di atto; se funziona, usala soltanto per la variante psichica e contro bersagli adatti.
+- Mantieni **stocco accurato + Armatura Bhaalista** come riferimento. Nyrulna, Flame Blade permanente e mazza del Deva non usano DES come uno stocco: destinazione principale agli altri combattenti.
+
+**Obiettivo: arma accurata perforante + Armatura Bhaalista, Destrezza aumentata e poteri del party, conservando autonomia da Bhaal.** Le tappe T27–50 indicano dove leggere gli incontri nella roadmap generale. Per sfruttare il potenziamento prima dei boss, qui **anticipiamo il Tribunale rispetto alla vecchia T45**: non seguire i numeri come un ordine rigido.
 
 | Ordine opportunista | Scelta e operazione | Guadagno concreto / costo |
 |---|---|---|
-| 1 — Transizione e Rivington, T27–29 | Accetta il girino astrale aprendogli la mente; compra Hellrider Longbow; recupera Nyrulna nella giungla di Akabi | Volo, accesso ai poteri avanzati, iniziativa e arma +3 perforante. Il girino modifica l'aspetto; non mangiarlo se vuoi condividerlo |
+| 1 — Transizione e Rivington, T27–29 | Accetta il girino astrale aprendogli la mente; compra Hellrider Longbow; recupera soprattutto Mystic Scoundrel nella giungla di Akabi, oltre a Nyrulna per il party | Volo, accesso ai poteri avanzati, iniziativa e controllo come azione bonus. Il girino modifica l'aspetto; non mangiarlo se vuoi condividerlo |
 | 2 — Incoronazione e urgenze, T30–33 | Non attaccare Gortash all'incoronazione; salva Florrick e risolvi le urgenze avviate. Compra da Dammon | Conservi accesso alla città e acquisti. Acquista i guanti offensivi per chi può rinunciare ai guanti DES, non automaticamente per il protagonista |
 | 3 — Indagine sugli omicidi → Tribunale, contenuto T45 anticipato | Ottieni accesso tramite l'indagine; accetta il rituale, sacrifica Valeria e compra l'Armatura Bhaalista | La vulnerabilità ai perforanti entra nella build mentre restano boss da affrontare. Valeria è persa: il sacrificio resta nel salvataggio definitivo |
-| 4 — Subito dopo l'acquisto | Equipaggia Nyrulna a due mani e Bhaalist Armour; lega Nyrulna. Conserva i guanti DES se hai DES naturale 10 | Con DES 18 l'armatura leggera usa +4 DES: CA 14+4+1 Difesa = 19, prima di anello/mantello. Niente lancio di Nyrulna mentre è legata |
-| 5 — T36–39, quando il gruppo è pronto | Recupera oggetti di Ramazith per Gale e completa lo Specchio sul protagonista. Fai ascendere Astarion se è il tuo attaccante stabile | +2 CAR dal premio dello specchio riuscito. Ascensione: **+1d10 necrotico agli attacchi di Astarion**, pagato con il sacrificio del rituale e il cambiamento della sua storia; non è un bonus del protagonista |
+| 4 — Subito dopo l'acquisto | Equipaggia uno stocco accurato e Bhaalist Armour; anticipa T34, salva Vanra e ritira Duellist's Prerogative | DES guida l'arma. Con lo stocco leggendario lascia vuota la mano secondaria per i benefici specifici; fino ad allora puoi usare scudo |
+| 5 — T36–39, gruppo pronto | Ramazith per Gale; Specchio **DES** al protagonista; storia di Astarion facoltativa | Il premio di ascensione potenzia solo Astarion: non è una priorità di danno se resta al campo |
 | 6 — T40, Casa della Speranza | Recupera Amulet of Greater Health e i guanti FOR; sconfiggi Raphael per la sua armatura | COS 23 da amuleto al protagonista; guanti FOR a chi li sfrutta. Non consegnare a Helsik un pezzo che vuoi conservare senza valutare la ricompensa dell'incarico |
 | 7 — T41–44 se vuoi quei contenuti | Trono di Ferro prima della Fonderia, poi Gortash; Ansur dopo preparazione adeguata | Alleati e bottino per il party. Non serve uccidere Gortash per comprare l'armatura bhaalista; lo spadone di Ansur non sostituisce automaticamente la perforante |
 | 8 — Orin, T46 | Presentati col protagonista, proteggi l'ostaggio nel dialogo, vinci il duello e poi rifiuta Bhaal | Conservi autonomia e l'equipaggiamento acquistato. Libera l'ostaggio prima di uscire dal Tempio |
@@ -51,9 +57,9 @@
 
 **Ostaggio di Orin:** la wiki non documenta un conto alla rovescia di riposi che lo uccida automaticamente; sono decisivi il confronto e le scelte al Tempio. Non attivare il dialogo finale impreparato e non mandare un compagno al posto del protagonista Durge. L'ordine Gortash → Orin è una possibilità, non un obbligo universale. [Condizioni verificate](https://bg3.wiki/wiki/Rescue_Orin%27s_Victim).
 
-**Potenziamenti da prendere:** specchio CAR; amuleto COS 23; poteri avanzati come Black Hole rispettando i prerequisiti; Codex/tomo secondo il personaggio a cui li hai assegnati. **Da non prendere automaticamente:** Sangue Instabile di Araj (superfici esplosive poco controllabili per questa mischia), maledizioni con perdita permanente di SAG, nuovi elisir FOR sul protagonista solo perché hanno un numero alto. [Sangue Instabile](https://bg3.wiki/wiki/Unstable_Blood), [ascensione](https://bg3.wiki/wiki/Vampire_Ascendant), [specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
+**Potenziamenti da prendere:** specchio DES; amuleto COS 23; poteri avanzati come Black Hole rispettando i prerequisiti; Codex/tomo secondo il personaggio a cui li hai assegnati. **Da non prendere automaticamente:** Sangue Instabile di Araj (superfici esplosive poco controllabili per questa mischia), maledizioni con perdita permanente di SAG, nuovi elisir FOR sul protagonista solo perché hanno un numero alto. [Sangue Instabile](https://bg3.wiki/wiki/Unstable_Blood), [ascensione](https://bg3.wiki/wiki/Vampire_Ascendant), [specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
 
-**Set predefinito, senza ulteriore cambio classe:** Nyrulna / mano secondaria vuota; Armatura Bhaalista; Diadema della Sinergia Arcana; Guanti di Destrezza; stivali di Nere; mantello di Fel o Protection; Greater Health; Caustic Band e Protection. Risky Ring sostituisce Protection solo se ti serve vantaggio e accetti lo svantaggio ai TS. Arco Hellrider nello slot a distanza. Con capello, talento e specchio riusciti: **CAR 22; DES 18 e COS 23 sono valori fissati dagli oggetti**, non punteggi naturali da sommare ai bonus. Prima dello specchio CAR è 20; prima dell'amuleto COS resta naturale.
+**Set attivo:** Duellist's Prerogative / mano secondaria vuota; Bhaalist Armour; Helmet of Arcane Acuity; Legacy of the Masters; stivali di Nere; mantello Protection o Fel; Greater Health; Mystic Scoundrel + Protection. Guanti da furto nello zaino. DES 17 → capello 18 → talento al 10: 20 → specchio: 22; CAR 16, COS 14 oppure 23 con amuleto. Dettagli e alternative nel [piano Bardo](bardadino_opportunista_livello_per_livello.md#atto-3).
 
 Le sezioni seguenti descrivono anche finali e ricompense incompatibili: il percorso da tenere è quello opportunista sopra. Le ricariche per trofei sono facoltative e non devono cancellare gli acquisti definitivi.
 
@@ -280,7 +286,7 @@ L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: il catalogo d
 | **Mantello del Cacciatore di Morte** | Invisibile 2 turni dopo ogni uccisione | 🩸 Dall'Atto 1, e regge ancora |
 | **Amore dell'Assassino** | Critico automatico dopo un'uccisione | Dall'Atto 2 |
 
-> ⭐ **Perché è così forte.** **Aura dell'Omicidio raddoppia i danni perforanti** di chiunque colpisca entro 3 metri da chi indossa l'armatura — e perforante è esattamente il tipo di danno di Malizia Cremisi, Sete di Sangue e di ogni arco del gruppo. La combinazione utile è **armatura sul protagonista vicino al bersaglio**, con gli altri che lo attaccano anche a distanza. La vulnerabilità si controlla sul bersaglio, non sulla distanza dell'arciere. **Killer's Sweetheart concede il critico dopo un'uccisione una volta per riposo lungo**: non c'è una catena infinita di critici garantiti. Per il Lockadin usa Nyrulna a due mani e diadema, senza aggiungere contemporaneamente l'elmo di Sarevok.
+> ⭐ **Perché è così forte.** **Aura dell'Omicidio raddoppia i danni perforanti** di chiunque colpisca entro 3 metri da chi indossa l'armatura — e perforante è esattamente il tipo di danno di Malizia Cremisi, Sete di Sangue e di ogni arco del gruppo. La combinazione utile è **armatura sul protagonista vicino al bersaglio**, con gli altri che lo attaccano anche a distanza. La vulnerabilità si controlla sul bersaglio, non sulla distanza dell'arciere. **Killer's Sweetheart concede il critico dopo un'uccisione una volta per riposo lungo**: non c'è una catena infinita di critici garantiti. Per il Bardo usa uno stocco accurato e Acume Arcano; non aggiungere contemporaneamente l'elmo di Sarevok.
 >
 > ⚠️ **Il prezzo:** l'armatura richiede di aver sacrificato **Valeria**. Se la vuoi davvero nella linea temporale definitiva, il trofeo *Omicidio a Baldur's Gate* e l'alleata si escludono a vicenda. Altri premi, come l'ascensione di Astarion, comportano altri sacrifici; ogni decisione va valutata separatamente.
 

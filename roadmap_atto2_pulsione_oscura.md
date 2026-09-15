@@ -5,7 +5,7 @@
 
 *Prosecuzione diretta di `roadmap_atto1_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 13-26), i tre blocchi permanenti, le mappe e le tattiche continua a usare `roadmap_atto2_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
 
-**Build mischia a Stratega:** [progressione operativa Lockadin](lockadin_livello_per_livello.md#atto-2), sezione Atto 2: livelli 8–10, acquisti prima di perdere i mercanti, notte del compagno, scelta su Aylin, equipaggiamento per Myrkul. Segui il ramo compatibile con i PNG della tua run.
+**Build attiva:** [Bardo delle Spade 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-2). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
 
 ## 📑 Indice
 
@@ -33,7 +33,13 @@
 
 ## SCELTE OPPORTUNISTE — ATTO 2
 
-**Percorso predefinito: conserva Isobel, Aylin, Dammon e il compagno della notte.** Il guadagno cercato è una squadra più forte e l'accesso alle ricompense dell'Atto 3. Rinunci alla lancia di Shar e al Carnefice da questi sacrifici; la build non li richiede. La trasformazione non conserva il normale equipaggiamento del Lockadin.
+### Oggetti da exploit da prendere lungo questo percorso
+
+- All'inizio dell'atto puoi ancora usare i gregari per le [lame permanenti](oggetti_exploit_opportunista.md#atto-1); se ripeti Flame Blade con slot superiori, verifica i dadi realmente conservati.
+- **T25, prima di uscire dalla colonia:** recupera la [Pietra della Risonanza e leggi le precauzioni per il party](oggetti_exploit_opportunista.md#atto-2). È un oggetto normale utile alla variante psichica; non aiuta automaticamente contro tutti i nemici.
+- Al 6 hai due attacchi, all'8 Punizioni, al 10 +2 DES. Nessun GWM nel piano attivo. Usa armi accurate; le armi da exploit su FOR restano per il party.
+
+**Percorso predefinito: conserva Isobel, Aylin, Dammon e il compagno della notte.** Il guadagno cercato è una squadra più forte e l'accesso alle ricompense dell'Atto 3. Rinunci alla lancia di Shar e al Carnefice da questi sacrifici; la build non li richiede. La trasformazione non conserva il normale equipaggiamento del Bardadino.
 
 | Tappa geografica | Scelta da fare | Premio / preparazione | Cosa non chiudere |
 |---|---|---|---|
@@ -41,7 +47,7 @@
 | 15 — Ultima Luce | Compra da Talli prima di parlare con Isobel; difendi Isobel da Marcus | Amuleto degli Arpisti e Mantello di Protezione; Dammon disponibile | Non perdere Isobel durante l'assalto: proteggila e controlla i nemici vicini |
 | 16–19 — Reithwin | Salva Rolan quando lo incontri in pericolo; completa Art, portale e Thaniel | Alleati e missioni future; Halsin reclutabile | Il portale richiede preparazione del gruppo; nessuna spedizione durante un salvataggio già attivo |
 | 20 — Torri neutrali, visita anticipabile | Compra da Lann Tarv, Roah e Araj; salva Minthara | Recluta una compagna aggiuntiva. Risky Ring è un'opzione da combattimento; Halberd of Vigilance un'alternativa alla picca | Tutto prima della Coltre Oscura e dell'assalto alle Torri |
-| 20 — Araj | Prendi il +2 FOR se lo destini a un combattente su FOR naturale; se usi Lae'zel in quel ruolo, assegnalo a lei | Aumento permanente al membro che lo sfrutta | Convincere Astarion a mordere Araj ha conseguenze relazionali. Non serve al CAR del Lockadin e non aumenta FOR fissata dagli elisir |
+| 20 — Araj | Prendi il +2 FOR se lo destini a un combattente su FOR naturale; se usi Lae'zel in quel ruolo, assegnalo a lei | Aumento permanente al membro che lo sfrutta | Convincere Astarion a mordere Araj ha conseguenze relazionali. Non serve al CAR del Bardadino e non aumenta FOR fissata dagli elisir |
 | 21 — Prigioni | Libera gnomi e tiefling, poi ritira le ricompense | Veste Potente da Alfira se sopravvissuta e condizioni soddisfatte; reti di alleati | Non entrare nella Coltre prima dei salvataggi |
 | 22 — Guanto | Prendi Killer's Sweetheart e gli oggetti utili al party; porta Cuorescuro e recupera la lancia della missione | Un critico controllabile, una volta per riposo lungo dopo un'uccisione | Non confondere l'anello con una catena infinita di critici |
 | 23 — Aylin | Porta Cuorescuro a risparmiare Aylin | Conservi gli alleati e il futuro di Ultima Luce | Rinunci esplicitamente a Shar's Spear of Evening. Mantieni Unseen Menace o alabarda |
@@ -49,11 +55,11 @@
 | 25 — Colonia | Salva Mizora e Us; recupera la Mente Risvegliata e usa l'interfaccia per il premio githzerai | Us evocabile e **Githzerai Mind Barrier**, vantaggio ai TS su INT | Questi recuperi vanno fatti prima di lasciare la colonia; non sono +2 CAR |
 | 26 e transizione | Sconfiggi Myrkul con gli oggetti già posseduti; accetta il potenziale astrale quando offerto | Accesso ai poteri illithid avanzati in Atto 3 | Apri la mente al girino astrale senza mangiarlo, così resta utilizzabile per i compagni |
 
-**Numeri all'uscita:** al livello 9 il protagonista passa da CAR 18 a **20** grazie al talento. Dal livello 10 è **Paladino 5 / Hexblade 5**, con tre attacchi con l'arma legata a Stratega. Nessuna Aura di Protezione fino al livello 11 nel percorso scelto. Senza capello si applica l'alternativa della build; non aggiungere un premio mancato.
+**Numeri all'uscita:** Bardo 6 / Paladino 2 al livello 8, Bardo 7 / Paladino 2 al 9, Bardo 8 / Paladino 2 al 10. Due attacchi; DES 18 con capello, poi 20 al 10; CAR 16. Nessuna aura da Paladino e nessun terzo attacco da Patto.
 
 **Poteri:** Favorable Beginnings e Luck of the Far Realms sono obiettivi utili nella prima parte; per il secondo rispetta i prerequisiti mostrati dall'albero. Nel passaggio all'Atto 3, volo e poteri avanzati giustificano la trasformazione parziale per questo obiettivo di potenza, accettandone l'aspetto fisico. Non equivale a trasformarsi completamente né a consegnarsi a Bhaal. [Poteri illithid](https://bg3.wiki/wiki/Illithid_powers), [trasformazione parziale](https://bg3.wiki/wiki/Partial-illithid).
 
-**Preparazione concreta alla notte:** Paladino ha già competenza SAG, quindi non comprare l'Elmo dell'Autonomia per un bonus che non si somma. L'amuleto degli Arpisti dà vantaggio; Anello e Mantello di Protezione aggiungono +1 ciascuno se indossati. Conserva anche un Elisir di Eroismo nell'inventario per il menu dei bonus quando disponibile. Vantaggio e Ispirazioni riducono il rischio, non garantiscono il risultato. [Evento e bonus applicabili](https://bg3.wiki/wiki/Dark_Urge), [Harpers](https://bg3.wiki/wiki/Amulet_of_the_Harpers).
+**Preparazione concreta alla notte:** il protagonista inizia Bardo e non ha competenza SAG. Indossa **Elmo dell'Autonomia**, amuleto degli Arpisti, anello e mantello difensivi. L'elmo aggiunge competenza, l'amuleto vantaggio; togli Risky Ring e allontana la Pietra della Risonanza. Con SAG 10, livello 9 e anche Forbidden Knowledge il totale è +7: 91% alla CD 14 con vantaggio, prima delle Ispirazioni. Controlla ogni bonus posseduto. [Calcolo e limiti](bardadino_opportunista_livello_per_livello.md#atto-2).
 
 Fonti delle ricompense: [Araj](https://bg3.wiki/wiki/Potion_of_Everlasting_Vigour), [Killer's Sweetheart](https://bg3.wiki/wiki/Killer%27s_Sweetheart), [barriera](https://bg3.wiki/wiki/Githzerai_Mind_Barrier), [Veste Potente](https://bg3.wiki/wiki/Potent_Robe). Le priorità della tabella sono la scelta opportunista della guida; le varianti cruente sotto sono alternative, non istruzioni da eseguire tutte.
 
@@ -141,7 +147,7 @@ La scena parte da sola: ti alzi e ti avvicini alla vittima. Le opzioni sono tre 
 | **Spore della Beatitudine** | Bonus ai TS | Se la condizione è ancora attiva (miconidi, Atto 1) |
 | **Conoscenza Proibita** (passivo) | Bonus ai TS | Se l'hai preso nell'Atto 1 |
 | **Banchetto degli Eroi** / **Vincolo di Protezione** | Bonus ai TS | Lanciati **prima** di riposare (il Banchetto richiede il liv. 11: di norma è fuori portata in Atto 2) |
-| **Aura di Protezione** | +CAR a tutti i TS | **Solo se il paladino sei tu**: l'aura di un compagno non ti copre. Nel Lockadin scelto arriva al livello totale 11 |
+| **Aura di Protezione** | Bonus ai TS nelle build che la ottengono | **Assente dal Bardo 10 / Paladino 2**: non conteggiarla |
 | **Ispirazione** | **Ritiro del dado** | ⭐ Arriva alla scena con 3-4 Ispirazioni in banca: è la rete di sicurezza migliore |
 
 **⛔ Cosa TOGLIERE prima di dormire**
@@ -203,7 +209,7 @@ La ricompensa che Bhaal concede ai suoi figli prediletti: ti trasformi in un mos
 - **L'Attacco Extra del Carnefice non si somma** a quello delle classi marziali.
 - 🐛 La CD delle sue azioni usa la caratteristica da incantatore della tua prima classe **con i punteggi del Carnefice**: risultato, una CD ridicola. Usalo per menare, non per controllare.
 
-> **Decisione opportunista per questa build: rinuncia al Carnefice.** Trasformarsi sostituisce la normale combinazione di arma, equipaggiamento e azioni: i PF della forma non dimostrano un aumento del danno del Lockadin. Conserva compagno e Ultima Luce; l'eventuale ramo dei trofei resta separato.
+> **Decisione opportunista per questa build: rinuncia al Carnefice.** Trasformarsi sostituisce la normale combinazione di arma, equipaggiamento e azioni: i PF della forma non dimostrano un aumento del danno del Bardadino. Conserva compagno e Ultima Luce; l'eventuale ramo dei trofei resta separato.
 
 ---
 

@@ -1,5 +1,7 @@
 # Pulsione Oscura, Stratega, mischia: cosa scegliere e quando
 
+> **Alternativa archiviata per il protagonista (15 settembre 2026).** Il piano attivo è [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
+
 Verifica online: 14 settembre 2026. PS5, Patch 8, Stratega standard, gruppo da quattro. Spoiler sui tre atti. Questa è la **progressione operativa di riferimento** per il protagonista; la precedente guida Guerriero resta un'alternativa, non una seconda progressione da mescolare a questa.
 
 **La proposta concreta è Paladino 5 → Warlock Hexblade 5 → Paladino 7.** Inizi con Vendetta; diventi Spergiuro se le tue decisioni rompono il giuramento e scegli di conservarne i poteri. Il patrono Hexblade è una scelta di classe: non equivale ad accettare Bhaal. Il piano funziona anche rifiutando Ethel, Shar e il Tribunale.
@@ -9,6 +11,8 @@ La struttura 7/5 riprende la proposta per Stratega di [zanuffas](https://gameste
 Navigazione: [creazione](#creazione) · [livelli 1–12](#livelli) · [Atto 1](#atto-1) · [Atto 2](#atto-2) · [Atto 3](#atto-3) · [elisir](#elisir).
 
 ## 1. Prima la run, poi la ricompensa
+
+**Equipaggiamento opportunista con exploit:** [lame permanenti, Voss e Deva per atto](oggetti_exploit_opportunista.md). Usa le alternative a una mano quando convengono; il set finale a due mani resta quello della tabella.
 
 **Preferenza confermata: puramente opportunista.** Il criterio è ottenere potere, risorse e libertà d'azione, valutando anche ciò che una scelta distrugge. La proposta di percorso sotto conserva i PNG quando il loro valore futuro supera il premio immediato; accetta sacrifici quando il vantaggio concreto li giustifica. Questa è una raccomandazione ragionata, non una dimostrazione di ottimalità universale.
 
@@ -56,20 +60,20 @@ Con Vendetta, **liberare personalmente Sazza, rivelare il Boschetto a Minthara e
 
 ## 2. Creazione e caratteristiche: inserisci questi numeri
 
-**Impostazione da seguire per la run opportunista:** piano **H senza cambi classe obbligatori**. Inizia FOR 16 / DES 10 / COS 14 / INT 8 / SAG 8 / CAR 17; prendi il capello CAR; accetta Spergiuro quando il giuramento si rompe. Dal 6 lega l'arma Hexblade e conserva i punti iniziali: i guanti portano DES a 18. Al 9 scegli +2 CAR. In Atto 3 specchio CAR e amuleto COS 23. Le righe di redistribuzione sotto sono facoltative, non passaggi da sommare fra loro.
+**Impostazione da seguire per la run opportunista:** piano **con capello (H), senza cambi classe obbligatori**. Inizia FOR 16 / DES 10 / COS 14 / INT 8 / SAG 8 / CAR 17; prendi il capello CAR; accetta Spergiuro quando il giuramento si rompe. Dal 6 lega l'arma Hexblade e conserva i punti iniziali: i guanti portano DES a 18. Al 4 scegli **Allerta**, al 9 **Maestro delle Armi Possenti**: nessun talento aumenta CAR. In Atto 3 specchio CAR e amuleto COS 23. Le righe di redistribuzione sotto sono facoltative, non passaggi da sommare fra loro.
 
 | Momento reale | FOR | DES | COS | INT | SAG | CAR | Cosa è cambiato |
 |---|---:|---:|---:|---:|---:|---:|---|
 | Creazione | 16 | 10 | 14 | 8 | 8 | 17 | Valori già comprensivi dei bonus iniziali +1 FOR / +2 CAR |
 | Capello consumato | 16 | 10 | 14 | 8 | 8 | 18 | +1 permanente CAR |
 | Guanti della Creche equipaggiati | 16 | 18 | 14 | 8 | 8 | 18 | DES fissata dall'oggetto |
-| Talento al livello 9 | 16 | 18 | 14 | 8 | 8 | 20 | +2 CAR |
-| Specchio riuscito | 16 | 18 | 14 | 8 | 8 | 22 | +2 permanente CAR |
-| Amuleto della Salute equipaggiato | 16 | 18 | 23 | 8 | 8 | 22 | COS fissata dall'oggetto |
+| Talento al livello 9 | 16 | 18 | 14 | 8 | 8 | 18 | Maestro delle Armi Possenti, nessun aumento CAR |
+| Specchio riuscito | 16 | 18 | 14 | 8 | 8 | 20 | +2 permanente CAR |
+| Amuleto della Salute equipaggiato | 16 | 18 | 23 | 8 | 8 | 20 | COS fissata dall'oggetto |
 
 Questo è il set con **diadema**, non Birthright. Senza guanti torni DES 10; senza amuleto COS 14. Gli oggetti non trasferiscono punti spendibili: ridistribuirli richiede un vero cambio classe, e lo Spergiuro deve prima ripristinare il giuramento. Se un premio manca, usa l'alternativa indicata senza fingere di averlo ottenuto.
 
-Origine **Pulsione Oscura**, classe **Paladino**, giuramento **Vendetta**. Background dell'origine fisso; scegli **Persuasione e Intuizione** fra le competenze di classe. Per una nuova creazione consiglio mezzorco per il combattente in mischia; una razza già scelta resta perfettamente utilizzabile e non cambia i conti sotto. [Mezzorco](https://bg3.wiki/wiki/Half-Orc), [Paladino](https://bg3.wiki/wiki/Paladin).
+Origine **Pulsione Oscura**, classe **Paladino**, giuramento **Vendetta**. Background dell'origine fisso; scegli **Persuasione e Intuizione** fra le competenze di classe. Razza scelta: **Nano → Duergar** nel sottomenu delle sottorazze. Non cambia i punti caratteristica sotto. [Duergar](https://bg3.wiki/wiki/Duergar), [Paladino](https://bg3.wiki/wiki/Paladin).
 
 H = pianifichi il capello in Carisma. N = rifiuti il patto, assegni il capello a un compagno o vuoi indipendenza dal premio. **Se sei indeciso, scegli N:** non far decidere Ethel alla schermata delle caratteristiche.
 
@@ -84,7 +88,7 @@ Tutte le righe costano **27 punti**, prima dei bonus +2/+1. Il capello e gli alt
 
 **Nessun cambio classe:** conserva la prima o seconda riga fino al finale. Dal 6 l'arma legata usa comunque CAR; la FOR iniziale diventa meno efficiente ma la build funziona. È preferibile a ripristini del giuramento contrari alla run. I guanti della Creche compensano la DES bassa, senza obbligarti a riportarla a 8.
 
-**Il piano H fallisce e non vuoi cambiare classe:** al livello 9 scegli +1 CAR e +1 SAG, arrivando da 17/8 a 18/9; è meno efficiente della riga N, ma evita Carisma 19 e una dipendenza dal capello. Se accetti un cambio classe, passa alla riga N. Se avevi scelto N e ottieni il capello, puoi assegnarlo a un altro membro oppure rifare la distribuzione H quando legalmente possibile; non sommare quel +1 a caso e poi promettere un modificatore superiore.
+**Se manca il capello:** con il piano iniziale a CAR 17 resti a 17 (modificatore +3); Allerta e Maestro delle Armi Possenti non correggono quel punteggio. Se puoi cambiare classe, usa la distribuzione senza capello. Altrimenti conserva 17, poi 19 con lo specchio: nessun +4/+5 implicito. Sostituire il talento del 9 con un aumento CAR sarebbe un'altra build, che rinuncia a Maestro delle Armi Possenti.
 
 <a id="livelli"></a>
 
@@ -97,12 +101,12 @@ Le tappe sono **finestre indicative di esperienza**, non garanzie: esplorazione,
 | **1** | Paladino 1, Vendetta | Nautiloid; P1 | Statistiche H o N. Arma da mischia e migliore armatura disponibile. Non dipendere dallo spadone di Zhalk |
 | **2** | Paladino 2 | Spiaggia/cripta, A1-01; P2 | Stile **Difesa**, +1 CA con armatura. Prepara Bless, Command, Shield of Faith, Cure Wounds, Thunderous Smite. Imposta Punizione Divina su richiesta |
 | **3** | Paladino 3 | Boschetto e villaggio, A1-02–04; P3–P5 | Vendetta ottiene Vow of Enmity; se già Spergiuro usa Dreadful Aspect quando serve controllo. Aggiungi Protection from Evil and Good ai preparati |
-| **4** | Paladino 4 | Superficie, Kagha/nord/Ethel, A1-04–08; P5–P6 | Talento **Maestro delle Armi Possenti / Great Weapon Master**. Aggiungi Wrathful Smite se lo vuoi fra i preparati. Il −5/+10 è una passiva da attivare solo quando conviene |
+| **4** | Paladino 4 | Superficie, Kagha/nord/Ethel, A1-04–08; P5–P6 | Talento **Allerta / Alert**: +5 iniziativa e immunità alla sorpresa. Puoi usare arma a una mano e scudo; il −5/+10 arriva al 9. Aggiungi Wrathful Smite se lo vuoi fra i preparati |
 | **5** | Paladino 5 | Chiusura superficie e primo Sottosuolo, A1-07–15; P6–P9 | **Attacco Extra**. Prepara Aid e Lesser Restoration; usa il pacchetto di preparati sotto. Non multiclassare prima di questa soglia |
 | **6** | Aggiungi Warlock 1, **Hexblade** | Sottosuolo/Grymforge, A1-13–18; P9–P10 | Trucchetti **Eldritch Blast, Minor Illusion**. Impara **Armour of Agathys, Shield**. Lega l'arma con **Bind Hexed Weapon**: ora usi CAR. Eventuale unico cambio di statistiche |
 | **7** | Warlock 2 | Fine Grymforge/Creche, A1-18–21; P10 | Invocazioni **Agonizing Blast, Devil's Sight**. Impara **Hex**. Hai due slot del patto invece di uno |
 | **8** | Warlock 3 | Fine Atto 1 / ingresso Atto 2, T13–17 | Scegli **Patto della Lama**. Vendetta: impara **Darkness**. Spergiuro: impara **Misty Step**, perché Darkness è già preparata dalla sottoclasse |
-| **9** | Warlock 4 | Esplorazione Atto 2, T17–22 | Secondo e ultimo talento: **+2 CAR** nei piani H/N regolari. Trucchetto **Bone Chill**. Impara **Mirror Image**: entrambe le varianti hanno già accesso a Misty Step |
+| **9** | Warlock 4 | Esplorazione Atto 2, T17–22 | Secondo e ultimo talento: **Maestro delle Armi Possenti / Great Weapon Master**. Usa il −5/+10 con arma a due mani quando conviene; CAR resta 18 con capello, 16 senza. Trucchetto **Bone Chill**. Impara **Mirror Image**: entrambe le varianti hanno già accesso a Misty Step |
 | **10** | Warlock 5 | Fine Atto 2, T22–26; oppure inizio Atto 3 se meno esperienza | **Patto approfondito: tre attacchi con l'arma legata**. Impara **Hunger of Hadar**, sostituisci **Hex con Counterspell**. Terza invocazione **Repelling Blast** |
 | **11** | Paladino 6 | Rivington / prime missioni cittadine, T27–31 | **Aura di Protezione**: attivala, controlla di averla riattivata dopo eventuale caduta. Gli alleati devono essere vicini per beneficiarne |
 | **12** | Paladino 7 | Città Bassa, prima dei grandi boss quando possibile | Spergiuro: **Aura di Odio**. Vendetta: **Relentless Avenger**, non Aura di Odio. Completa l'equip in base alle scelte, non a un altro livello |
@@ -137,7 +141,7 @@ Se per te proteggere il gruppo presto è prioritario, l'alternativa coerente è 
 
 ### Superficie: livelli 1–5
 
-**A1-01–04 / P2–P5.** Usa armi e armature normali: spadone, ascia bipenne o arma versatile a due mani. Prima del talento, arma a una mano e scudo sono una buona soluzione se vieni colpito troppo. Difesa rimane utile con entrambi. Everburn è opzionale: non ricaricare per ore il Nautiloid pensando che sia una condizione della build.
+**A1-01–04 / P2–P5.** Usa armi e armature normali: spadone, ascia bipenne o arma versatile a due mani. Prima di Maestro delle Armi Possenti al 9, arma a una mano e scudo sono una buona soluzione se vieni colpito troppo. Difesa rimane utile con entrambi. Everburn è opzionale: non ricaricare per ore il Nautiloid pensando che sia una condizione della build.
 
 **A1-05, Mol.** Se conservi i bambini e vuoi l'Anello della Protezione, accetta l'incarico e consegna l'idolo secondo l'ordine Kagha → rituale fermato → furto discreto → Mol, prima di inviare Minthara. Il premio dà +1 CA e TS. Se non vuoi rubare o la missione è persa, usa un altro anello e sottrai quel +1 dai conti difensivi. [Anello](https://bg3.wiki/wiki/Ring_of_Protection).
 
@@ -205,7 +209,7 @@ Contro Myrkul organizza prima liberazione di Aylin se presente, controllo dei ne
 
 | Quando | Azione concreta | Se preservi / resisti | Se sacrifichi / assecondi |
 |---|---|---|---|
-| **T27, Rivington** | Compra **Hellrider Longbow** da Ferg Drogher vicino al granaio requisizionato, prima che il suo dialogo ne chiuda il commercio | +3 iniziativa dallo slot a distanza, utile senza Allerta | Stesso oggetto se il mercante resta accessibile; la situazione di Cuorescuro cambia il dialogo |
+| **T27, Rivington** | Compra **Hellrider Longbow** da Ferg Drogher vicino al granaio requisizionato, prima che il suo dialogo ne chiuda il commercio | +3 iniziativa dallo slot a distanza, si aggiunge ad Allerta; assegnabile a un compagno se la tua iniziativa basta | Stesso oggetto se il mercante resta accessibile; la situazione di Cuorescuro cambia il dialogo |
 | **T28, circo/Akabi** | Scopri il trucco del djinni, ottieni l'accesso alla giungla e recupera **Nyrulna** dalla cassa presso l'uscita | Arma perforante +3 a due mani fino al finale | Alternativa alla lancia di Shar, se non l'hai presa o preferisci Nyrulna |
 | **T31, Città Bassa** | Visita Dammon, **se è arrivato vivo**, e valuta Armatura della Persistenza e **Legacy of the Masters** | Ottima strada difensiva e guanti offensivi; costosa | Dammon morto: conserva adamantio e guanti DES; non esiste questo acquisto |
 | **T36, Sorcerous Sundries** | Compra **Birthright** se scegli il Carisma più alto | Alternativa al diadema per TS, dialoghi, precisione | Stesso compromesso; non indossarli entrambi |
@@ -218,7 +222,7 @@ Contro Myrkul organizza prima liberazione di Aylin se presente, controllo dei ne
 
 Fonti: [arco](https://bg3.wiki/wiki/Hellrider_Longbow), [Nyrulna](https://bg3.wiki/wiki/Nyrulna), [Persistenza](https://bg3.wiki/wiki/Armour_of_Persistence), [guanti di Dammon](https://bg3.wiki/wiki/Legacy_of_the_Masters), [Birthright](https://bg3.wiki/wiki/Birthright), [specchio](https://bg3.wiki/wiki/Mirror_of_Loss), [amuleto](https://bg3.wiki/wiki/Amulet_of_Greater_Health), [guanti Helldusk](https://bg3.wiki/wiki/Helldusk_Gloves), [armatura Helldusk](https://bg3.wiki/wiki/Helldusk_Armour), [spadone](https://bg3.wiki/wiki/Balduran%27s_Giantslayer), [armatura bhaalista](https://bg3.wiki/wiki/Bhaalist_Armour).
 
-**Specchio, procedura per il +2:** fai identificare la sua funzione al gruppo, poi interagisci con il protagonista. Prepara Guidance e vantaggio alle prove di INT, se disponibili da compagni/oggetti: qui serve **Religione CD 25**, una prova di INT, non un TS su SAG. Salva prima della preghiera: il singolo personaggio non può semplicemente ripeterla dopo averla fallita. Dopo la preghiera riuscita offri ricordi finché compare la scelta del premio; scegli il ricordo del **bardo, +2 CAR**. Rimuovi la maledizione Stolen Vigour con Remove Curse. Non offrire automaticamente Forbidden Knowledge del tomo. Il +1 CAR del Patriarca è separato, aleatorio e va cercato prima di accettare il +2 se lo vuoi: non è incluso nel piano. Se la preghiera a Shar contraddice la tua interpretazione o il premio fallisce, conserva CAR 20 nel piano H, 18 nel piano N. [Procedura dello specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
+**Specchio, procedura per il +2:** fai identificare la sua funzione al gruppo, poi interagisci con il protagonista. Prepara Guidance e vantaggio alle prove di INT, se disponibili da compagni/oggetti: qui serve **Religione CD 25**, una prova di INT, non un TS su SAG. Salva prima della preghiera: il singolo personaggio non può semplicemente ripeterla dopo averla fallita. Dopo la preghiera riuscita offri ricordi finché compare la scelta del premio; scegli il ricordo del **bardo, +2 CAR**. Rimuovi la maledizione Stolen Vigour con Remove Curse. Non offrire automaticamente Forbidden Knowledge del tomo. Il +1 CAR del Patriarca è separato, aleatorio e va cercato prima di accettare il +2 se lo vuoi: non è incluso nel piano. Se la preghiera a Shar contraddice la tua interpretazione o il premio fallisce, conserva CAR 18 nel piano H, 16 nel piano N. [Procedura dello specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
 
 **Nyrulna, operazione pratica:** fai sottrarre ad Akabi il Djinni Ring da un compagno abile, poi gira la ruota con il personaggio attrezzato per la spedizione solitaria. Porta grimaldelli e mobilità: nella giungla devi raggiungere e aprire la cassa vicino al portale. Se rifiuti anche questo furto per interpretazione, mantieni Unseen Menace oppure l'alabarda fino a un'arma ottenuta coerentemente. [Akabi](https://bg3.wiki/wiki/Akabi).
 
@@ -246,9 +250,9 @@ La vulnerabilità bhaalista riguarda il **danno perforante**, non raddoppia auto
 
 ### Ridistribuzione finale: facoltativa, solo dopo gli oggetti
 
-Se hai capello, amuleto COS 23, vuoi togliere i guanti DES e puoi legalmente cambiare classe, usa **FOR 8 / DES 16 / COS 8 / INT 10 / SAG 14 / CAR 17**, prima dei premi. Basi 8/15/8/10/14/15; +1 DES, +2 CAR, costo 27. Capello + talento + specchio portano CAR a 22, amuleto porta COS a 23. Puoi quindi usare guanti offensivi e avere comunque DES 16.
+Se hai capello, amuleto COS 23, vuoi togliere i guanti DES e puoi legalmente cambiare classe, usa **FOR 8 / DES 16 / COS 8 / INT 10 / SAG 14 / CAR 17**, prima dei premi. Basi 8/15/8/10/14/15; +1 DES, +2 CAR, costo 27. Capello + specchio portano CAR a 20, amuleto porta COS a 23. Puoi quindi usare guanti offensivi e avere comunque DES 16.
 
-Senza capello, un equivalente è **8/16/8/12/14/16**, basi 8/15/8/12/14/14, +1 DES/+2 CAR, sempre 27 punti. Con talento e specchio CAR diventa 20. **Togliere l'amuleto in questi assetti riporta COS a 8**: non fare questo cambio se vuoi indossare abitualmente l'amuleto degli Arpisti. Se ripristinare il giuramento contraddice la run, conserva le statistiche precedenti e usa l'amuleto come semplice miglioramento.
+Senza capello, un equivalente è **8/16/8/12/14/16**, basi 8/15/8/12/14/14, +1 DES/+2 CAR, sempre 27 punti. Con lo specchio CAR diventa 18. **Togliere l'amuleto in questi assetti riporta COS a 8**: non fare questo cambio se vuoi indossare abitualmente l'amuleto degli Arpisti. Se ripristinare il giuramento contraddice la run, conserva le statistiche precedenti e usa l'amuleto come semplice miglioramento.
 
 <a id="elisir"></a>
 
@@ -265,10 +269,10 @@ Un elisir incompatibile sostituisce il precedente: non sommare FOR 27, Vigilanza
 
 | Piano | Prima del capello | Dopo capello | Dopo talento al 9 | Dopo specchio | Con Birthright al posto del diadema |
 |---|---:|---:|---:|---:|---:|
-| H riuscito | 17 | 18 | 20 | 22 | 24 |
-| N | 16 | — | 18 | 20 | 22 |
+| H riuscito | 17 | 18 | 18 | 20 | 22 |
+| N | 16 | — | 16 | 18 | 20 |
 
-Per Spergiuro 7 con CAR 22 e Sinergia attiva, il contributo da caratteristiche è +6 dell'arma, +6 dell'aura, +6 della sinergia. Vendetta non ha il secondo +6. Questi valori **non** descrivono il danno totale o la probabilità di colpire; né sono disponibili al livello 6. Birthright occupa la testa e toglie il diadema. [Aura di Odio](https://bg3.wiki/wiki/Aura_of_Hate), [Sinergia](https://bg3.wiki/wiki/Arcane_Synergy_(Condition)).
+Per Spergiuro 7 con CAR 20 e Sinergia attiva, il contributo da caratteristiche è +5 dell'arma, +5 dell'aura, +5 della sinergia, totale +15. Vendetta non ha il secondo +5. Questi valori **non** descrivono il danno totale o la probabilità di colpire; né sono disponibili al livello 6. Birthright occupa la testa e toglie il diadema. [Aura di Odio](https://bg3.wiki/wiki/Aura_of_Hate), [Sinergia](https://bg3.wiki/wiki/Arcane_Synergy_(Condition)).
 
 Aura di Odio può potenziare anche immondi e non morti nemici vicini che attaccano con armi da mischia: non è un beneficio universale per tutta la squadra. Valuta chi hai entro il raggio prima di tenerla attiva. Sempre al livello 12, Vendetta 7 offre soprattutto mobilità: se vuoi restare Vendetta e preferisci lo spettro Hexblade a Relentless Avenger, l'alternativa è **Paladino 6 / Hexblade 6**, scegliendo Warlock all'ultimo livello e imparando Fear come settimo incantesimo conosciuto. Non avrebbe Aura di Odio; mantiene i tre attacchi di Stratega. La tabella principale resta il 7/5, particolarmente valorizzato dallo Spergiuro.
 
@@ -282,7 +286,7 @@ Se Astarion rimane l'attaccante stabile del party, **ascensione consigliata per 
 
 **Primo turno, bersaglio importante:** raggiungilo, usa l'azione bonus per Vow of Enmity se ti manca vantaggio, oppure Hexblade's Curse se hai già vantaggio e vuoi aumentare il danno. Non puoi aggiungere nello stesso turno anche Misty Step, Hex e l'attacco bonus GWM con una sola azione bonus. Attacca; conferma Punizione Divina sui colpi che meritano lo slot, in particolare critici o eliminazioni importanti. Imposta le richieste anche per i critici, evitando di consumare tutto contro un nemico già quasi morto. [Punizione](https://bg3.wiki/wiki/Divine_Smite), [GWM](https://bg3.wiki/wiki/Great_Weapon_Master).
 
-**GWM acceso o spento:** contro alta CA senza vantaggio, spegnilo; contro bersaglio esposto o paralizzato, normalmente accendilo. Unseen Menace perde temporaneamente il suo vantaggio quando manchi: ricontrolla dopo l'errore. Se stai investendo molte Punizioni, la precisione conta ancora di più perché un attacco mancato perde anche l'occasione di usarle. Non usare un'unica soglia percentuale per ogni arma e bersaglio.
+**GWM acceso o spento:** contro alta CA senza vantaggio, spegnilo; contro bersaglio esposto o paralizzato, normalmente accendilo. Unseen Menace perde temporaneamente il suo vantaggio quando manchi: ricontrolla dopo l'errore. Se stai investendo molte Punizioni, la precisione conta ancora di più perché un attacco mancato perde anche l'occasione di usarle. Non usare un'unica soglia percentuale per ogni arma e bersaglio. Questa passiva arriva al livello 9: prima non conteggiare il +10.
 
 **Controllo:** Darkness richiede concentrazione e ostacola anche gli alleati non attrezzati. Hunger of Hadar serve a bloccare una zona: lascia che i nemici ne escano verso di te o spingili dentro con Eldritch Blast; disattiva Repelling Blast vicino a precipizi quando vuoi il bottino. Hex penalizza prove di caratteristica, **non i TS**: non usarlo come finto potenziamento di Hold Person. [Hex](https://bg3.wiki/wiki/Hex), [Devil's Sight](https://bg3.wiki/wiki/Devil%27s_Sight).
 
