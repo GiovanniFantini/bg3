@@ -1,10 +1,12 @@
-# Piano attivo — Pulsione Oscura, elfo dei boschi, Bardo delle Spade 10 / Paladino 2
+# Piano attivo — Pulsione Oscura, elfo dei boschi, Bardo delle Lame 10 / Paladino 2
 
-Verifica online: **15 settembre 2026**, PS5, Stratega standard. Questo piano sostituisce il Lockadin per il protagonista. Obiettivo: coprire serrature, trappole e furtività di Astarion, parlare per il gruppo e combattere in mischia. Le tappe rimandano alle tre roadmap opportuniste; i livelli indicano una stima, non esperienza garantita.
+*PS5 · Stratega standard · fonti verificate al 17 settembre 2026.*
+
+**10/2 è il piano finale, non il livello già raggiunto**; livello attuale e caratteristiche del salvataggio non sono confermati. Obiettivo: coprire serrature, trappole e furtività di Astarion, parlare per il gruppo e combattere in mischia. Per missioni e recuperi prevale il [percorso in 50 tappe](percorso_pulsione_oscura_bardo.md); i livelli indicati sono una stima, non esperienza garantita.
 
 ## Scelta verificata e compromessi
 
-La combinazione Bardo delle Spade/Paladino è una struttura consolidata, descritta anche da [zanuffas su Gamestegy](https://gamestegy.com/post/bg3/886/bardadin-bard-paladin-build). **Questa variante su Destrezza con Allerta è il nostro adattamento** al ruolo da sostituto di Astarion: non riproduce la variante da massimo danno con armi pesanti ed elisir di Forza.
+La combinazione Bardo delle Lame/Paladino è una struttura consolidata, descritta anche da [zanuffas su Gamestegy](https://gamestegy.com/post/bg3/886/bardadin-bard-paladin-build). **Questa variante su Destrezza con Allerta è il nostro adattamento** al ruolo da sostituto di Astarion: non riproduce la variante da massimo danno con armi pesanti ed elisir di Forza.
 
 Hai mobilità, competenze, attacchi, Punizioni e controllo; nei primi livelli giochi soprattutto da Bardo. Il secondo attacco arriva al **6**, le Punizioni all'**8**, gli incantesimi di quinto e i Segreti Magici molto tardi. Non hai Attacco Furtivo, Azioni Scaltrissime o Dote Affidabile del Ladro. Puoi svolgere il lavoro pratico di Astarion senza replicare tutte le sue capacità.
 
@@ -26,7 +28,7 @@ Rapidità di Mano apre serrature, disinnesca e borseggia; Percezione individua t
 |---|---|---|---|
 | 1 | Bardo 1 | Nautiloid/A1-01 | Competenze e statistiche sopra; stocco o altra arma accurata, armatura leggera |
 | 2 | Bardo 2 | A1-01–03 | Canto del Riposo; usalo per recuperare risorse del gruppo |
-| 3 | Bardo 3 | A1-03–05 | **Collegio delle Spade**, stile **Duellare**; Maestria in **Rapidità di Mano e Persuasione**. Armature medie |
+| 3 | Bardo 3 | A1-03–05 | **Collegio delle Lame**, stile **Duellare**; Maestria in **Rapidità di Mano e Persuasione**. Armature medie |
 | 4 | Bardo 4 | A1-05–08 | **Allerta**: +5 iniziativa e immunità alla sorpresa |
 | 5 | Bardo 5 | A1-07–15 | Ispirazioni recuperate ai riposi brevi: le Fioriture diventano molto più sostenibili |
 | 6 | Bardo 6 | A1-13–18 | **Attacco Extra**, due attacchi con l'azione Attacco |
@@ -37,7 +39,7 @@ Rapidità di Mano apre serrature, disinnesca e borseggia; Percezione individua t
 | 11 | Bardo 9 / Paladino 2 | Atto 3 | Incantesimi di quinto da Bardo |
 | 12 | Bardo 10 / Paladino 2 | Atto 3 | Maestria in **Percezione e Furtività**; Segreti Magici **Counterspell e Hunger of Hadar**; Ispirazione d10 |
 
-Duellare funziona con un'arma a una mano e anche con scudo, ma non con l'arma versatile impugnata a due mani. Prima del livello 7 questo elfo/Bardo non è competente negli scudi. Per attaccare con DES scegli armi **accurate (Finesse)**; non tutti gli spadoni, lance o tridenti lo sono. [Collegio delle Spade](https://bg3.wiki/wiki/College_of_Swords), [Paladino](https://bg3.wiki/wiki/Paladin).
+Duellare funziona con un'arma a una mano e anche con scudo, ma non con l'arma versatile impugnata a due mani. Prima del livello 7 questo elfo/Bardo non è competente negli scudi. Per attaccare con DES scegli armi **accurate (Finesse)**; non tutti gli spadoni, lance o tridenti lo sono. [Collegio delle Lame](https://bg3.wiki/wiki/College_of_Swords), [Paladino](https://bg3.wiki/wiki/Paladin).
 
 **Giuramento:** al momento di Ethel sei normalmente ancora Bardo, quindi non hai un giuramento da rompere. Dopo il livello 7, se le decisioni opportuniste lo infrangono, accetta Spergiuro. Con soli due livelli Paladino non ricevi le aure o le capacità di livello 3: non conteggiare Aura di Odio, Vow of Enmity o Aura di Protezione. Non serve un continuo cambio classe.
 
@@ -103,7 +105,7 @@ I premi sono condizionati: contratta capello e Mayrina, poi consuma il capello c
 
 1. **T28, giungla di Akabi:** cerca soprattutto **Band of the Mystic Scoundrel**, nello zaino a X −1566, Y −1522, prima del ritorno. Nyrulna resta un recupero per il party: non è accurata. L'anello permette un incantesimo di Illusione/Ammaliamento come azione bonus dopo un colpo con arma. [Anello](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel).
 2. **T30–33, poi Tribunale anticipato:** conserva l'ordine urgenze → accesso alla città → indagine → rituale di Valeria → acquisto Bhaalist Armour. Usala con **stocco perforante**. Non aspettare di uccidere Gortash. La vulnerabilità non raddoppia il radioso delle Punizioni.
-3. **Anticipa T34 dopo l'accesso alla Città Bassa:** salva Vanra e riscuoti da Lora **Duellist's Prerogative**. È lo stocco +3 finale; per le capacità che lo richiedono tieni **mano secondaria vuota, anche senza scudo**. Finché manca, stocco e scudo restano validi. [Arma e ricompensa](https://bg3.wiki/wiki/Duellist%27s_Prerogative).
+3. **PO-37, anticipabile in Città Bassa:** parla a **Lora nella caserma della Porta del Basilisco prima di salvare Vanra**, poi completa il salvataggio e riscuoti **Duellist's Prerogative**. È lo stocco +3 finale; per le capacità che lo richiedono tieni **mano secondaria vuota, anche senza scudo**. Finché manca, stocco e scudo restano validi. [Arma e ricompensa](https://bg3.wiki/wiki/Duellist%27s_Prerogative).
 4. **T37:** specchio DES; **T40:** amuleto COS 23. Mantieni COS naturale 14, senza cambio classe obbligatorio. Le armature pesanti non sono automaticamente competenti iniziando Bardo e aggiungendo Paladino; l'armatura bhaalista è leggera.
 5. **Astarion:** l'ascensione non aumenta i tuoi danni. Con lui al campo non è più una priorità di potenziamento del party; completa la sua storia secondo la run. **Orin:** prepara il duello con risorse proprie; non presumere che Hold Person funzioni su qualsiasi forma o che Hold Monster superi immunità/Resistenze Leggendarie.
 

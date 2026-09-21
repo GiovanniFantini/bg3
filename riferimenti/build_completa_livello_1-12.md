@@ -29,7 +29,7 @@
 - [🗺️ Appendice — posizioni Atto 2-3 verificate](#️-appendice--posizioni-atto-2-3-verificate-dalla-run-provata)
 - [🏆 Note trofei legati alle build](#-note-trofei-legati-alle-build-promemoria-rapido)
 
-> **Rapporto con l'altra guida**: `roadmap_atto1_run_buona.md` resta il documento operativo per l'Atto 1 (tappa per tappa, dove trovi ogni oggetto, trofei, missabili). Questo file è il **riferimento build/equip completo 1-12**: stessi personaggi, stesse sottoclassi, stesso protagonista "Emberoath". Qui ogni livello è trattato **singolarmente** (niente riepiloghi accorpati), con la scelta di build **e** l'equipaggiamento consigliato a quel punto della partita.
+> **Rapporto con l'altra guida**: [roadmap_atto1_run_buona.md](../run-1-buona/roadmap_atto1_run_buona.md) resta il documento operativo per l'Atto 1 (tappa per tappa, dove trovi ogni oggetto, trofei, missabili). Questo file è il **riferimento build/equip completo 1-12**: stessi personaggi, stesse sottoclassi, stesso protagonista "Emberoath". Qui ogni livello è trattato **singolarmente** (niente riepiloghi accorpati), con la scelta di build **e** l'equipaggiamento consigliato a quel punto della partita.
 >
 > **Come leggere l'equip (🎒)**:
 > - Gli oggetti dell'**Atto 1** sono quelli verificati nel roadmap, con la Tappa di provenienza tra parentesi — quelli li trovi con certezza seguendo quella guida.
@@ -64,7 +64,7 @@
 | **Jaheira** | Druida **Circolo della Terra** 12 | ✅ **confermata** | ⚠️ Il nuovo **Circolo delle Stelle** è classificato **D-tier**: ignoralo |
 | **Minthara** | Paladina **Giuramento di Vendetta** 12 | ✅ **confermata** | ⚠️ Il nuovo **Giuramento della Corona** è **C-tier**: non è un'alternativa |
 | **Halsin** | Druido **Circolo della Luna** 12 + Rissaiolo da Taverna | ✅ **confermata** | È il consenso unanime di tutte le fonti consultate |
-| **Minsc** | Cacciatore Oscuro 5 / Assassino 4 / Campione 3 | 🔄 **valuta il monaco** | Da arciere è forte, ma è un **doppione di Astarion** e gli contende l'arco. Da **Monaco (Via della Mano Aperta) 9 / Ladro (Furfante) 3** con **Rissaiolo da Taverna** fa ~6 attacchi a turno, stordisce i boss e **non contende oggetti a nessuno** → build completa in `oggetti_e_build_definitive.md`, Parte D |
+| **Minsc** | Cacciatore Oscuro 5 / Assassino 4 / Campione 3 | 🔄 **valuta il monaco** | Da arciere è forte, ma è un **doppione di Astarion** e gli contende l'arco. Da **Monaco (Via della Mano Aperta) 9 / Ladro (Furfante) 3** con **Rissaiolo da Taverna** fa ~6 attacchi a turno, stordisce i boss e **non contende oggetti a nessuno** → build completa in [oggetti_e_build_definitive.md](oggetti_e_build_definitive.md), Parte D |
 
 > **E i 12 mercenari di Withers?** Al campo puoi assoldare **assistenti** (100 mo l'uno), uno per ogni classe. Non hanno trama né dialoghi, ma **prendono qualsiasi build di questa guida**: se ti manca un ruolo (un secondo chierico, un bardo, un monaco) è la via più veloce. Le progressioni qui sotto valgono identiche su di loro.
 
@@ -975,7 +975,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 
 **Ruolo:** frontliner indistruttibile. È l'unico personaggio che entra in combattimento con **due barre di PF**: la sua e quella della forma selvatica. La build forte è **una sola idea, ripetuta bene**: **Forma Selvatica come azione bonus** + **Rissaiolo da Taverna**, che aggiunge il **doppio del modificatore di Forza *della forma*** a ogni artigliata — e la Forza della forma è enorme (Gufoorso, Mirmidone), mentre quella di Halsin non conta nulla.
 
-> ⚠️ **Quando arriva (run buona).** Lo liberi al **Campo dei Goblin** (Recinti dei Worg): va al campo subito, ma diventa **compagno pieno solo in Atto 2**, dopo la catena **Art Cullagh → Thaniel → Oliver** che spezza la Maledizione dell'Ombra. ⚠️ Va fatta **prima** di affrontare Ketheric, altrimenti Halsin è perso (è uno dei 3 blocchi permanenti segnati nel `roadmap_atto2_run_buona.md`).
+> ⚠️ **Quando arriva (run buona).** Lo liberi al **Campo dei Goblin** (Recinti dei Worg): va al campo subito, ma diventa **compagno pieno solo in Atto 2**, dopo la catena **Art Cullagh → Thaniel → Oliver** che spezza la Maledizione dell'Ombra. ⚠️ Va fatta **prima** di affrontare Ketheric, altrimenti Halsin è perso (è uno dei 3 blocchi permanenti segnati nel [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md)).
 >
 > ⚠️ **Si sovrappone a Jaheira**: due druidi in squadra sono uno spreco. Regola pratica: **Jaheira se ti serve controllo e magia** (Crescita di Spine, Velocità, Metamorfosi, evocazioni), **Halsin se ti serve un muro che picchia**. Halsin è *molto* più forte in mischia, Jaheira *molto* più forte per il gruppo.
 
@@ -1107,7 +1107,7 @@ In BG3 la scelta del terreno si ripete a **ogni** livello di circolo, e **puoi c
 
 ### 🥊 Variante consigliata — **Minsc monaco a pugni** (Mano Aperta 9 / Furfante 3)
 
-Minsc entra in **Atto 3 al livello 10-11**, cioè salta esattamente i livelli in cui il monaco è debole. Con **Rissaiolo da Taverna** (modificatore di Forza contato **due volte** sui colpi senz'armi), la Forza presa dagli **Elisir della Forza del Gigante** e i **Guanti dell'Acchiappanime**, arriva a **6 pugni per turno** e può togliere il turno a un boss con il **Colpo Stordente**. In più non contende **nessun** oggetto agli altri e libera **Gontr Mael**, il **Mantello dell'Ammazzaombre** e l'**Armatura del Cammino Elusivo** per Astarion. → progressione, statistiche, oggetti e conti in **`oggetti_e_build_definitive.md`, Parte D**.
+Minsc entra in **Atto 3 al livello 10-11**, cioè salta esattamente i livelli in cui il monaco è debole. Con **Rissaiolo da Taverna** (modificatore di Forza contato **due volte** sui colpi senz'armi), la Forza presa dagli **Elisir della Forza del Gigante** e i **Guanti dell'Acchiappanime**, arriva a **6 pugni per turno** e può togliere il turno a un boss con il **Colpo Stordente**. In più non contende **nessun** oggetto agli altri e libera **Gontr Mael**, il **Mantello dell'Ammazzaombre** e l'**Armatura del Cammino Elusivo** per Astarion. → progressione, statistiche, oggetti e conti in **[oggetti_e_build_definitive.md](oggetti_e_build_definitive.md), Parte D**.
 
 ### 🐹 Nota su Boo e sulla variante "Minsc in mischia"
 
@@ -1142,7 +1142,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 
 ## 📋 RIEPILOGO EQUIP-CHIAVE PER PERSONAGGIO
 
-> 📎 **Per mantelli, anelli e amuleti** (i tre slot più facili da lasciare vuoti) la classifica completa con prezzi e venditori sta in **`roadmap_atto3_run_buona.md` → sezione *Mantelli, anelli e amuleti — i top 5 per slot***. In sintesi: quasi tutti si **comprano**, e i tre anelli migliori (**Amore dell'Assassino**, **Anello del Bagliore Impietoso**, **Anello di Riverbero**) stanno **in Atto 2** e non tornano più.
+> 📎 **Per mantelli, anelli e amuleti** (i tre slot più facili da lasciare vuoti) la classifica completa con prezzi e venditori sta in **[roadmap_atto3_run_buona.md](../run-1-buona/roadmap_atto3_run_buona.md) → sezione *Mantelli, anelli e amuleti — i top 5 per slot***. In sintesi: quasi tutti si **comprano**, e i tre anelli migliori (**Amore dell'Assassino**, **Anello del Bagliore Impietoso**, **Anello di Riverbero**) stanno **in Atto 2** e non tornano più.
 
 | PG | Atto 1 (verificato) | Atto 2-3 (BiS, da verificare in gioco) |
 |---|---|---|
@@ -1247,7 +1247,7 @@ Minsc arriva col suo criceto e con una forte identità da picchiatore. Se prefer
 - **"Forgiato nel Sangue e nel Fuoco"**: forgia il primo oggetto Adamantino (Lae'zel/Karlach ne beneficiano).
 - **"Esigere il Sangue"** (Cuorescuro): stacca il **Sangue di Lathander** avendo la **Cresta dell'Alba** in tasca (niente autodistruzione).
 - **"Non C'è Gabbia Che Tenga!" / reclutamento di Minthara** (run buona): stordiscila al Boschetto con un **attacco in mischia non letale** (mai incantesimi o a distanza) → la trovi nella prigione delle **Torri dell'Alba Lunare** in Atto 2. Salvi il Boschetto **e** guadagni la paladina.
-- Dettagli operativi completi e posizioni: `roadmap_atto1_run_buona.md` (Atto 1), `roadmap_atto2_run_buona.md` (Atto 2).
+- Dettagli operativi completi e posizioni: [roadmap_atto1_run_buona.md](../run-1-buona/roadmap_atto1_run_buona.md) (Atto 1), [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md) (Atto 2).
 
 > **Copertura della guida:** tutti gli **11 personaggi giocabili** hanno ora la loro build livello per livello — protagonista, i 6 compagni dell'Atto 1, **Jaheira**, **Minthara**, **Halsin**, **Minsc**. Restano fuori solo i **12 assistenti di Withers** (100 mo l'uno, una per classe): non hanno trama, e prendono pari pari le progressioni scritte qui.
 >

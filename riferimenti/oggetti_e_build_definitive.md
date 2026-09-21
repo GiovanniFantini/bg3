@@ -2,7 +2,7 @@
 
 ### Tutti gli oggetti che vale la pena indossare · l'analisi di ogni build di ogni personaggio · il setup finale slot per slot, con **dove trovare ogni pezzo**
 
-*Documento nuovo (settembre 2026). Complementare a `build_completa_livello_1-12.md`: lì c'è la progressione **livello per livello**, qui c'è il **catalogo oggetti** e la **decisione finale** su chi indossa cosa.*
+*Documento nuovo (settembre 2026). Complementare a [build_completa_livello_1-12.md](build_completa_livello_1-12.md): lì c'è la progressione **livello per livello**, qui c'è il **catalogo oggetti** e la **decisione finale** su chi indossa cosa.*
 
 ---
 
@@ -199,7 +199,7 @@
 
 ## 🧠 PARTE B — Analisi di ogni build di ogni personaggio
 
-> Qui c'è **il confronto**: cosa può fare ogni personaggio, e quale versione vince. La progressione livello per livello di ogni build vincente sta in `build_completa_livello_1-12.md`; questo è il verdetto e il perché.
+> Qui c'è **il confronto**: cosa può fare ogni personaggio, e quale versione vince. La progressione livello per livello di ogni build vincente sta in [build_completa_livello_1-12.md](build_completa_livello_1-12.md); questo è il verdetto e il perché.
 
 | PG | Opzioni reali | ✅ Vince | Perché |
 |---|---|---|---|
@@ -223,7 +223,7 @@
 
 > **Come è costruita questa parte.** Ogni personaggio ha la stessa scheda: **perché quella build**, **statistiche**, **le scelte che contano livello per livello**, **l'equipaggiamento completo con effetto e posizione**, **il turno tipo** e **pregi e difetti**. Le assegnazioni sono **coerenti fra loro**: nessun pezzo unico è promesso a due persone. Se cambi il party, la [Parte E](#-parte-e--oggetti-contesi-chi-prende-cosa) dice come rimescolare senza fare danni.
 >
-> Le statistiche sono le stesse di `build_completa_livello_1-12.md`, dove trovi anche **tutti** i livelli uno per uno; qui ci sono solo quelli in cui **scegli** qualcosa.
+> Le statistiche sono le stesse di [build_completa_livello_1-12.md](build_completa_livello_1-12.md), dove trovi anche **tutti** i livelli uno per uno; qui ci sono solo quelli in cui **scegli** qualcosa.
 
 ---
 
@@ -934,6 +934,6 @@ Onestà sulle fonti: questi punti li ho segnati **⚠️** nelle tabelle e vanno
 | File | Cosa ci trovi |
 |---|---|
 | [build_completa_livello_1-12.md](build_completa_livello_1-12.md) | La progressione **livello per livello** di tutti gli 11 personaggi, con pregi e difetti di ogni build |
-| [roadmap_atto1_run_buona.md](roadmap_atto1_run_buona.md) | Atto 1 tappa per tappa: dove sono gli oggetti dell'Atto 1, trofei, missabili |
-| [roadmap_atto2_run_buona.md](roadmap_atto2_run_buona.md) | Atto 2: i tre blocchi permanenti da evitare, gli anelli che non tornano |
-| [roadmap_atto3_run_buona.md](roadmap_atto3_run_buona.md) | Atto 3: i quattro orologi a tempo, gli otto errori che chiudono contenuti |
+| [roadmap_atto1_run_buona.md](../run-1-buona/roadmap_atto1_run_buona.md) | Atto 1 tappa per tappa: dove sono gli oggetti dell'Atto 1, trofei, missabili |
+| [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md) | Atto 2: i tre blocchi permanenti da evitare, gli anelli che non tornano |
+| [roadmap_atto3_run_buona.md](../run-1-buona/roadmap_atto3_run_buona.md) | Atto 3: i quattro orologi a tempo, gli otto errori che chiudono contenuti |

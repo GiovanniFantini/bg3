@@ -1,11 +1,12 @@
 # BALDUR'S GATE 3 (PS5) — ATTO 2 CON LA **PULSIONE OSCURA**
-### Terre Maledette dall'Ombra · Isobel, la notte del compagno più caro, il Carnefice · Aggiornamento (Patch) 8
 
-> **Percorso attivo: opportunista per potenza, Stratega, mischia.** Scelte e priorità aggiornate nella sezione dedicata. Il catalogo generale delle missioni non è ancora sottoposto all'audit completo dell'Atto 1; i rinvii alla run buona valgono solo dove compatibili con le decisioni qui indicate.
+### Terre Maledette dall'Ombra · Isobel, la notte del compagno più caro, il Carnefice · Patch 8
 
-*Prosecuzione diretta di `roadmap_atto1_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 13-26), i tre blocchi permanenti, le mappe e le tattiche continua a usare `roadmap_atto2_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
+> **Per ordine delle missioni e stato della run comanda il [percorso attivo](percorso_pulsione_oscura_bardo.md), tappe PO-18–29,** con il [catalogo missioni](checklist_missioni_pulsione_oscura.md). Qui trovi l'approfondimento dell'atto, con la linea opportunista per potenza nella sezione dedicata; i rinvii alla run buona valgono solo dove compatibili.
 
-**Build attiva:** [Bardo delle Spade 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-2). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
+*Prosecuzione diretta di [roadmap_atto1_pulsione_oscura.md](roadmap_atto1_pulsione_oscura.md). Per il percorso tappa-per-tappa (tappe 13-26), i tre blocchi permanenti, le mappe e le tattiche continua a usare [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md): qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
+
+**Build attiva:** [Bardo delle Lame 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-2). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
 
 ## 📑 Indice
 
@@ -50,7 +51,7 @@
 | 20 — Araj | Prendi il +2 FOR se lo destini a un combattente su FOR naturale; se usi Lae'zel in quel ruolo, assegnalo a lei | Aumento permanente al membro che lo sfrutta | Convincere Astarion a mordere Araj ha conseguenze relazionali. Non serve al CAR del Bardadino e non aumenta FOR fissata dagli elisir |
 | 21 — Prigioni | Libera gnomi e tiefling, poi ritira le ricompense | Veste Potente da Alfira se sopravvissuta e condizioni soddisfatte; reti di alleati | Non entrare nella Coltre prima dei salvataggi |
 | 22 — Guanto | Prendi Killer's Sweetheart e gli oggetti utili al party; porta Cuorescuro e recupera la lancia della missione | Un critico controllabile, una volta per riposo lungo dopo un'uccisione | Non confondere l'anello con una catena infinita di critici |
-| 23 — Aylin | Porta Cuorescuro a risparmiare Aylin | Conservi gli alleati e il futuro di Ultima Luce | Rinunci esplicitamente a Shar's Spear of Evening. Mantieni Unseen Menace o alabarda |
+| 23 — Aylin | Porta Cuorescuro a risparmiare Aylin | Conservi gli alleati e il futuro di Ultima Luce | Rinunci a Shar's Spear of Evening. Il Bardo DES usa un’arma accurata; picca/alabarda sono per un compagno su FOR |
 | Riposi dopo la richiesta di Fel | Rifiuta l'omicidio; sveglia il compagno e superane il TS | Mantieni un membro della squadra | Togli Risky Ring; indossa Harpers, anello e mantello difensivi; conserva Ispirazioni |
 | 25 — Colonia | Salva Mizora e Us; recupera la Mente Risvegliata e usa l'interfaccia per il premio githzerai | Us evocabile e **Githzerai Mind Barrier**, vantaggio ai TS su INT | Questi recuperi vanno fatti prima di lasciare la colonia; non sono +2 CAR |
 | 26 e transizione | Sconfiggi Myrkul con gli oggetti già posseduti; accetta il potenziale astrale quando offerto | Accesso ai poteri illithid avanzati in Atto 3 | Apri la mente al girino astrale senza mangiarlo, così resta utilizzabile per i compagni |
@@ -129,7 +130,7 @@ La scena parte da sola: ti alzi e ti avvicini alla vittima. Le opzioni sono tre 
 
 | Oggetto | Effetto | Dove |
 |---|---|---|
-| ⭐⭐ **Elmo dell'Autonomia** (*Helmet of Autonomy*) | **Competenza nei TS su Saggezza**; nessun incremento se sei già competente, come il Paladino | **Atto 1**, Sottosuolo: scheletro all'ingresso della Baia Purulenta |
+| ⭐⭐ **Elmo dell'Autonomia** (*Helmet of Autonomy*) | Competenza ai TS SAG: utile al Bardo. Nessun incremento se già competente, per esempio iniziando Paladino | Atto 1, ingresso della Baia Purulenta |
 | ⭐ **Mantello di Protezione** | +1 CA e **+1 a tutti i TS** | Atto 2: **Quartiermastro Talli**, Locanda dell'Ultima Luce (~200 mo) |
 | ⭐ **Anello di Protezione** | +1 CA e **+1 a tutti i TS** | Atto 1: ricompensa di **Mol** al Boschetto |
 | **Scudo Salvaguardia** (*Safeguard Shield*) | **+1 ai TS** | Atto 1: in vendita da **Dammon** al Boschetto |
@@ -181,7 +182,7 @@ Esiste un modo pulito per **non affrontare mai** questa scena: **non fare riposi
 - ❌ **Contro:** un intero Atto 2 senza riposi lunghi significa niente slot recuperati, niente scene al campo, niente avanzamento delle romance e delle quest personali. In pratica è una scelta da speedrun, non da partita normale.
 - ⚠️ **E c'è un prezzo intermedio:** se superi il **punto di non ritorno** dell'Atto 2 (la Coltre Oscura) senza aver soddisfatto la Pulsione, **Sceleritas ti tende un'imboscata fuori dalle Torri dell'Alba Lunare** per costringerti alla scelta. Puoi anche ucciderlo lì (invisibile, in un turno solo, se lo vedi) — ma **ricompare al riposo successivo come se nulla fosse**.
 
-> **Consiglio opportunista:** riposa normalmente e conserva il compagno. Equipaggia Amuleto degli Arpisti, Mantello e Anello di Protezione, conserva Elisir di Eroismo e Ispirazioni. L'Elmo dell'Autonomia è ridondante sul Paladino. Non presumere un successo garantito.
+> **Consiglio opportunista:** riposa normalmente e conserva il compagno. Equipaggia Amuleto degli Arpisti, Mantello e Anello di Protezione, conserva Elisir di Eroismo e Ispirazioni. L’Elmo dell’Autonomia è utile a questo protagonista iniziato Bardo: il multiclassamento Paladino non gli aggiunge competenza ai TS su Saggezza. Non presumere un successo garantito.
 
 ---
 
@@ -231,7 +232,7 @@ La ricompensa che Bhaal concede ai suoi figli prediletti: ti trasformi in un mos
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 2
 
-L'elenco completo è in `roadmap_atto2_run_buona.md` (sezione *"Tutte le missioni dell'Atto 2"*): il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Cosa cambia:
+L'elenco completo è in [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md) (sezione *"Tutte le missioni dell'Atto 2"*): il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Cosa cambia:
 
 | Missione | Da Pulsione Oscura |
 |---|---|
@@ -313,8 +314,8 @@ L'elenco completo è in `roadmap_atto2_run_buona.md` (sezione *"Tutte le mission
 ## 📚 FONTI
 
 - **bg3.wiki** — *The Dark Urge (origin)* (sezione Act Two, con la lista completa dei bonus al TS CD 14), *Sceleritas Fel*, *Slayer*, *Permanent bonuses*, *Helmet of Autonomy*, *Killer's Sweetheart*, *Safeguard Shield*
-- I file di questo progetto: `roadmap_atto2_run_buona.md`, `oggetti_e_build_definitive.md`
+- I file di questo progetto: [roadmap_atto2_run_buona.md](../run-1-buona/roadmap_atto2_run_buona.md), [oggetti_e_build_definitive.md](../riferimenti/oggetti_e_build_definitive.md)
 
 ---
 
-➡️ **Prosegui con** `roadmap_atto3_pulsione_oscura.md` — Gortash, il Tribunale, il duello con Orin e i quattro finali della Pulsione.
+➡️ **Prosegui con** [roadmap_atto3_pulsione_oscura.md](roadmap_atto3_pulsione_oscura.md) — Gortash, il Tribunale, il duello con Orin e i quattro finali della Pulsione.

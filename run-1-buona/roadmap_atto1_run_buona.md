@@ -57,7 +57,7 @@
   - Risultato finale: **Atletica, Intimidazione, Persuasione, Intuizione** — zero sprechi, copertura ampia tra combattimento sociale (Persuasione/Intimidazione) e prove fisiche/percettive (Atletica/Intuizione).
 - Classe: **Paladino, Giuramento di Devozione** (o degli Antichi, in alternativa). Gioca Paladino puro fino al liv. 6, poi da liv. 7 aggiungi Stregone (Stirpe Draconica, dragone Rosso per sinergia col fuoco). Se sbagli qualcosa, Withers ti offre la **Rispecializzazione** al campo per 100 monete.
 
-> 🛡️ **Variante affidabile — Paladino 12 puro.** Se preferisci una build più semplice da giocare e con danno costante invece del picco (3 talenti invece di 2, **Punizione Divina Migliorata** al liv. 11, due aure di gruppo in più), la progressione completa 1-12 è nel file `build_completa_livello_1-12.md`, sezione *"Variante affidabile — Paladino 12 puro"*. **Differenza dentro l'Atto 1**: ai liv. 7 e 8 resti Paladino invece di aprire lo Stregone → **liv. 7 = Paladino 7** (Aura della Devozione: tu e gli alleati entro 3 m immuni al Fascino) e **liv. 8 = Paladino 8, Talento → +2 Carisma** (CAR 18: +4 ai tiri salvezza di tutto il gruppo e ai dialoghi). Tutto il resto dell'Atto 1 — tappe, equipaggiamento, trofei, compagni — è identico.
+> 🛡️ **Variante affidabile — Paladino 12 puro.** Se preferisci una build più semplice da giocare e con danno costante invece del picco (3 talenti invece di 2, **Punizione Divina Migliorata** al liv. 11, due aure di gruppo in più), la progressione completa 1-12 è nel file [build_completa_livello_1-12.md](../riferimenti/build_completa_livello_1-12.md), sezione *"Variante affidabile — Paladino 12 puro"*. **Differenza dentro l'Atto 1**: ai liv. 7 e 8 resti Paladino invece di aprire lo Stregone → **liv. 7 = Paladino 7** (Aura della Devozione: tu e gli alleati entro 3 m immuni al Fascino) e **liv. 8 = Paladino 8, Talento → +2 Carisma** (CAR 18: +4 ai tiri salvezza di tutto il gruppo e ai dialoghi). Tutto il resto dell'Atto 1 — tappe, equipaggiamento, trofei, compagni — è identico.
 - Talento al liv. 4: **Grande Maestro d'Armi** (in originale *Great Weapon Master*: -5 al tiro per colpire, +10 danni, attacco bonus extra su critico/uccisione) — coerente con lo Stile di Combattimento ad arma pesante scelto al liv. 2, e sinergico con l'Attacco Extra del liv. 5.
 - **Occhio al Giuramento:** il Paladino di Devozione può infrangerlo con azioni scorrette (attaccare innocenti, tradire, saccheggiare davanti a testimoni). In una partita tutta buona non succederà quasi mai — ma se succede, al campo compare un Cavaliere che può farti espiare (o, se preferisci restare "caduto", sbloccare la sottoclasse Apostata). Con le scelte di questa guida non dovresti mai romperlo.
 
@@ -266,7 +266,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 1 (E IN CHE TAPPA STANNO)
 
-> 🔎 Elenco sintetico delle missioni lungo questo percorso. **Audit del 13 settembre 2026:** per la checklist estesa, comprese le sei piste della cura, le sottomissioni dei compagni e le alternative, usa [Tutte le missioni dell'Atto 1](roadmap_atto1_pulsione_oscura.md#-tutte-le-missioni-dellatto-1). L'elenco distingue le missioni comuni da quella esclusiva della Pulsione Oscura.
+> 🔎 Elenco sintetico delle missioni lungo questo percorso. **Audit del 13 settembre 2026:** per la checklist estesa, comprese le sei piste della cura, le sottomissioni dei compagni e le alternative, usa [Tutte le missioni dell'Atto 1](../run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md#-tutte-le-missioni-dellatto-1). L'elenco distingue le missioni comuni da quella esclusiva della Pulsione Oscura.
 
 **Legenda:** ⚠️ = missabile · ⏱️ = a tempo · ⛔ = via malvagia, in questa run non si fa.
 
@@ -504,7 +504,7 @@ Insomma: ascoltalo pure per la scena e le informazioni, poi mandalo via. È una 
 
 ## TAPPA 8 — CAMPO GOBLIN E SANTUARIO FRACASSATO (liv. 5–6)
 
-> **Ordine verificato per la seconda run:** questa tappa segue la variante **senza assedio**, che esclude *Trova Doni*. Se vuoi includerla e conservare Minthara, usa le tappe **08–11** del [percorso Pulsione Oscura](roadmap_atto1_pulsione_oscura.md#ordine-per-non-perdere-missioni): attività pacifiche → Sazza/Minthara → Doni → difesa e stordimento. Non mescolare le due sequenze eliminando Dror Ragzlin prima di organizzare l'assedio.
+> **Ordine verificato per la seconda run:** questa tappa segue la variante **senza assedio**, che esclude *Trova Doni*. Se vuoi includerla e conservare Minthara, usa le tappe **08–11** del [percorso Pulsione Oscura](../run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md#ordine-per-non-perdere-missioni): attività pacifiche → Sazza/Minthara → Doni → difesa e stordimento. Non mescolare le due sequenze eliminando Dror Ragzlin prima di organizzare l'assedio.
 
 **👥 Gruppo:** Karlach (danno da mischia) + Cuorescuro (cura) + Lae'zel o Astarion (esplorazione/dialogo).
 

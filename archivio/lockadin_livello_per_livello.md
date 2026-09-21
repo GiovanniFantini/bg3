@@ -1,8 +1,10 @@
 # Pulsione Oscura, Stratega, mischia: cosa scegliere e quando
 
-> **Alternativa archiviata per il protagonista (15 settembre 2026).** Il piano attivo è [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
+> **Alternativa archiviata: non è il piano del protagonista.** Il piano attivo è [Elfo dei boschi, Bardo delle Lame 10 / Paladino 2](../run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
 
-Verifica online: 14 settembre 2026. PS5, Patch 8, Stratega standard, gruppo da quattro. Spoiler sui tre atti. Questa è la **progressione operativa di riferimento** per il protagonista; la precedente guida Guerriero resta un'alternativa, non una seconda progressione da mescolare a questa.
+*PS5 · Patch 8 · Stratega standard · gruppo da quattro · fonti verificate al 14 settembre 2026. Spoiler sui tre atti.*
+
+La [variante Guerriero](build_pulsione_oscura_mischia_stratega.md) è un'altra alternativa archiviata: sono due progressioni distinte, non da mescolare.
 
 **La proposta concreta è Paladino 5 → Warlock Hexblade 5 → Paladino 7.** Inizi con Vendetta; diventi Spergiuro se le tue decisioni rompono il giuramento e scegli di conservarne i poteri. Il patrono Hexblade è una scelta di classe: non equivale ad accettare Bhaal. Il piano funziona anche rifiutando Ethel, Shar e il Tribunale.
 
@@ -12,7 +14,7 @@ Navigazione: [creazione](#creazione) · [livelli 1–12](#livelli) · [Atto 1](#
 
 ## 1. Prima la run, poi la ricompensa
 
-**Equipaggiamento opportunista con exploit:** [lame permanenti, Voss e Deva per atto](oggetti_exploit_opportunista.md). Usa le alternative a una mano quando convengono; il set finale a due mani resta quello della tabella.
+**Equipaggiamento opportunista con exploit:** [lame permanenti, Voss e Deva per atto](../run-2-pulsione-oscura/oggetti_exploit_opportunista.md). Usa le alternative a una mano quando convengono; il set finale a due mani resta quello della tabella.
 
 **Preferenza confermata: puramente opportunista.** Il criterio è ottenere potere, risorse e libertà d'azione, valutando anche ciò che una scelta distrugge. La proposta di percorso sotto conserva i PNG quando il loro valore futuro supera il premio immediato; accetta sacrifici quando il vantaggio concreto li giustifica. Questa è una raccomandazione ragionata, non una dimostrazione di ottimalità universale.
 
@@ -44,7 +46,7 @@ Le due colonne seguenti restano il riferimento per le deviazioni dal percorso op
 | Tribunale | Rifiuta il sacrificio di Valeria | Diventa Assassino Empio e compra l'armatura | Solo il secondo ramo presume l'Armatura Bhaalista; non basta aver scelto l'origine |
 | Dopo Orin | Rifiuta Bhaal se vuoi liberartene | Accettalo se vuoi quel destino | La build resta attiva in entrambi i casi: questa decisione non serve a sbloccare i tre attacchi |
 
-Le decisioni su Isobel, Aylin e Bhaal hanno effetti narrativi distinti: segui anche le rispettive [roadmap Atto 2](roadmap_atto2_pulsione_oscura.md) e [Atto 3](roadmap_atto3_pulsione_oscura.md). Quei documenti non hanno ancora l'audit completo delle missioni fatto sull'Atto 1; i riferimenti geografici qui non certificano ogni loro dipendenza.
+Le decisioni su Isobel, Aylin e Bhaal hanno effetti narrativi distinti: segui anche le rispettive [roadmap Atto 2](../run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md) e [Atto 3](../run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md). Quei documenti non hanno ancora l'audit completo delle missioni fatto sull'Atto 1; i riferimenti geografici qui non certificano ogni loro dipendenza.
 
 ### Giuramento: il vincolo che impediva alla vecchia proposta di essere pratica
 
@@ -94,7 +96,7 @@ Tutte le righe costano **27 punti**, prima dei bonus +2/+1. Il capello e gli alt
 
 ## 3. Livello per livello: le scelte nella schermata
 
-Le tappe sono **finestre indicative di esperienza**, non garanzie: esplorazione, dialoghi e uccisioni cambiano il livello. Se sali prima, applica subito la riga; non rimandare un'emergenza per raggiungere una soglia. A1-01–21 sono gli ordini della [roadmap Dark Urge Atto 1](roadmap_atto1_pulsione_oscura.md), P1–P10 il suo percorso che asseconda. T13–26 e T27–50 rimandano alle tappe geografiche delle roadmap [Atto 2](roadmap_atto2_run_buona.md) e [Atto 3](roadmap_atto3_run_buona.md): usa le loro posizioni, non applicare automaticamente le scelte della run buona.
+Le tappe sono **finestre indicative di esperienza**, non garanzie: esplorazione, dialoghi e uccisioni cambiano il livello. Se sali prima, applica subito la riga; non rimandare un'emergenza per raggiungere una soglia. A1-01–21 sono gli ordini della [roadmap Dark Urge Atto 1](../run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md), P1–P10 il suo percorso che asseconda. T13–26 e T27–50 rimandano alle tappe geografiche delle roadmap [Atto 2](../run-1-buona/roadmap_atto2_run_buona.md) e [Atto 3](../run-1-buona/roadmap_atto3_run_buona.md): usa le loro posizioni, non applicare automaticamente le scelte della run buona.
 
 | Livello totale | Seleziona | Momento indicativo | Cosa scegliere subito |
 |---|---|---|---|
@@ -226,7 +228,7 @@ Fonti: [arco](https://bg3.wiki/wiki/Hellrider_Longbow), [Nyrulna](https://bg3.wi
 
 **Nyrulna, operazione pratica:** fai sottrarre ad Akabi il Djinni Ring da un compagno abile, poi gira la ruota con il personaggio attrezzato per la spedizione solitaria. Porta grimaldelli e mobilità: nella giungla devi raggiungere e aprire la cassa vicino al portale. Se rifiuti anche questo furto per interpretazione, mantieni Unseen Menace oppure l'alabarda fino a un'arma ottenuta coerentemente. [Akabi](https://bg3.wiki/wiki/Akabi).
 
-**Ordine opportunista aggiornato:** dopo Rivington, incoronazione, urgenze e primi acquisti cittadini, completa l'indagine sugli omicidi e anticipa il Tribunale (incontro T45 della vecchia roadmap). Sacrifica Valeria e compra l'Armatura Bhaalista **prima** dei grandi boss ancora disponibili. Non serve uccidere Sarevok per comprarla né attendere Gortash morto. Non è un oggetto già disponibile a Rivington: servono accesso e denaro. La [roadmap opportunista dell'Atto 3](roadmap_atto3_pulsione_oscura.md#scelte-opportuniste--atto-3) sostituisce l'ordine numerico della tabella per questo incontro. Il rapimento di Orin non ha un conto alla rovescia automatico di riposi secondo la [wiki della missione](https://bg3.wiki/wiki/Rescue_Orin%27s_Victim); prepara comunque il confronto e il salvataggio al Tempio.
+**Ordine opportunista aggiornato:** dopo Rivington, incoronazione, urgenze e primi acquisti cittadini, completa l'indagine sugli omicidi e anticipa il Tribunale (incontro T45 della vecchia roadmap). Sacrifica Valeria e compra l'Armatura Bhaalista **prima** dei grandi boss ancora disponibili. Non serve uccidere Sarevok per comprarla né attendere Gortash morto. Non è un oggetto già disponibile a Rivington: servono accesso e denaro. La [roadmap opportunista dell'Atto 3](../run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md#scelte-opportuniste--atto-3) sostituisce l'ordine numerico della tabella per questo incontro. Il rapimento di Orin non ha un conto alla rovescia automatico di riposi secondo la [wiki della missione](https://bg3.wiki/wiki/Rescue_Orin%27s_Victim); prepara comunque il confronto e il salvataggio al Tempio.
 
 ### Due set finali completi e una variante senza Dammon
 

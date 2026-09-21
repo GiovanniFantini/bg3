@@ -1,12 +1,12 @@
 # Pulsione Oscura a Stratega: Paladino/Warlock, elisir e bonus
 
-> **Alternativa archiviata per il protagonista (15 settembre 2026).** Il piano attivo è [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
+> **Alternativa archiviata: non è il piano del protagonista.** Il piano attivo è [Elfo dei boschi, Bardo delle Lame 10 / Paladino 2](../run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
 
-Verifica online: 14 settembre 2026. Proposta: Paladino 7 / Warlock 5, Patto della Lama, gruppo da quattro, Stratega standard. Non è una build per le regole Onore. Questo documento integra la comparazione delle classi e approfondisce la raccomandazione Paladino/Warlock; segue la scelta Nano Duergar, Vendetta iniziale e percorso opportunista, con Spergiuro quando rompi il giuramento.
+*Fonti verificate al 14 settembre 2026.* Proposta: Paladino 7 / Warlock 5, Patto della Lama, gruppo da quattro, Stratega standard. Non è una build per le regole Onore. Questo documento integra la comparazione delle classi e approfondisce la raccomandazione Paladino/Warlock; segue la scelta Nano Duergar, Vendetta iniziale e percorso opportunista, con Spergiuro quando rompi il giuramento.
 
 **Per costruirlo concretamente:** segui la [progressione 1–12 con Hexblade, tappe dei tre atti e alternative narrative](lockadin_livello_per_livello.md). Qui resta l'approfondimento sulle combinazioni di premi e oggetti.
 
-**Percorso attivo opportunista:** capello CAR al protagonista, rifugiati/Isobel/Aylin conservati, Nyrulna e Armatura Bhaalista comprata al Tribunale anticipato, specchio CAR. Nel piano senza cambi classe i guanti fissano DES 18 e l'amuleto COS 23; restano equipaggiati. Il totale CAR 20 è 17 + 1 capello + 2 specchio; i talenti sono Allerta al 4 e Maestro delle Armi Possenti al 9, senza Birthright. Le varianti sotto sono confronti di slot, non ulteriori bonus da sommare. Il sacrificio di Valeria resta nella linea definitiva.
+**Linea opportunista di questo piano archiviato:** capello CAR al protagonista, rifugiati/Isobel/Aylin conservati, Nyrulna e Armatura Bhaalista comprata al Tribunale anticipato, specchio CAR. Nel piano senza cambi classe i guanti fissano DES 18 e l'amuleto COS 23; restano equipaggiati. Il totale CAR 20 è 17 + 1 capello + 2 specchio; i talenti sono Allerta al 4 e Maestro delle Armi Possenti al 9, senza Birthright. Le varianti sotto sono confronti di slot, non ulteriori bonus da sommare. Il sacrificio di Valeria resta nella linea definitiva.
 
 ## La combinazione consigliata
 
@@ -22,7 +22,7 @@ L'arma legata usa Carisma per colpire e per il danno di base. Non somma il modif
 | Miglioramento caratteristiche | +2 o due +1, normalmente entro 20 | Il 7/5 ha solo due talenti; non assegnargli quelli del Guerriero |
 | Pozione di Araj | +2 Forza permanente | Utile a un altro combattente basato su Forza; non aumenta Carisma |
 | Specchio della Perdita | +2 permanente selezionabile, entro il limite previsto | Proposta: Carisma; subordinato alla procedura dello specchio |
-| Birthright | +2 Carisma, con limite proprio | Può combinarsi con il bonus dello specchio per arrivare a 22 nella build attiva |
+| Birthright | +2 Carisma, con limite proprio | Può combinarsi con il bonus dello specchio per arrivare a 22 in questo piano |
 | Guanti di Destrezza | Impostano DES 18 e danno +1 ai tiri per colpire | Non sono +18 e non sommano altri aumenti al valore impostato |
 | Amuleto della Salute Superiore | Imposta COS 23 | Si può ridistribuire la COS di base dopo averlo ottenuto, accettando di dipendere dallo slot |
 | Elisir del Gigante delle Colline/Nuvole | Imposta FOR 21/27 | Non diventa 23/29 grazie al +2 di Araj; sostituisce altri elisir incompatibili |

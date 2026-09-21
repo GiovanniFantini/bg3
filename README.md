@@ -1,58 +1,65 @@
 # Baldur's Gate 3 — Guide personali (PS5, Patch 8)
 
-Raccolta di guide personali per Baldur's Gate 3 su PS5, costruite nel tempo con l'aiuto di Claude: **due percorsi completi** — la prima partita **eroica/non malvagia** e la seconda con l'origine **Pulsione Oscura** — più una guida di build/equipaggiamento livello per livello per tutto il party.
+Guide personali per Baldur's Gate 3 su PS5, in italiano: **due partite complete** — la prima eroica, la seconda con l'origine **Pulsione Oscura** — più i riferimenti di build ed equipaggiamento validi per entrambe.
 
-## Contenuto
+## Dove sta cosa
 
-### Prima partita — run "buona"
+```
+run-1-buona/            prima partita, eroica — completata
+run-2-pulsione-oscura/  partita corrente
+riferimenti/            build e oggetti, validi per entrambe le run
+archivio/               alternative superate, tenute solo come confronto
+trophy-images/          screenshot dei trofei
+```
 
-| File | Cosa copre |
-|---|---|
-| [roadmap_atto1_run_buona.md](roadmap_atto1_run_buona.md) | Atto 1, tappe 1-12: percorso consigliato, scelte morali "buone", trofei, oggetti missabili, punti di non ritorno |
-| [roadmap_atto2_run_buona.md](roadmap_atto2_run_buona.md) | Atto 2, tappe 13-26: Terre Maledette dall'Ombra, Torri dell'Alba Lunare, i 3 blocchi permanenti da evitare |
-| [roadmap_atto3_run_buona.md](roadmap_atto3_run_buona.md) | Atto 3, tappe 27-50: Baldur's Gate, i 4 orologi a tempo, gli 8 errori che chiudono contenuti, il finale |
+## Partita corrente — Pulsione Oscura
 
-### Seconda partita — **Pulsione Oscura** (*Dark Urge*)
+Protagonista **Bardo delle Lame** (*College of Swords*), elfo dei boschi, modalità **Stratega**, combattimento in mischia. Pulsione Oscura **opportunista per massimizzare armi, equipaggiamento e bonus**: salvare PNG e conservare mercanti serve alle ricompense, non è un vincolo morale.
 
-**Oggetti da exploit:** [procedimenti divisi per atto, tappe, destinatari e limiti PS5](oggetti_exploit_opportunista.md). Le tre sezioni Scelte opportuniste includono ora questi recuperi.
-
-**Impostazione confermata:** Stratega, combattimento in mischia, personaggio puramente opportunista orientato alla potenza. Ogni roadmap contiene ora una sezione **Scelte opportuniste** con priorità, premi, rinunce e ordine degli acquisti. Le scelte consigliate e i relativi costi sono nel [percorso opportunista](bardadino_opportunista_livello_per_livello.md); i rami di redenzione e massacro nelle roadmap restano alternative.
-
-| File | Cosa copre |
-|---|---|
-| [roadmap_atto1_pulsione_oscura.md](roadmap_atto1_pulsione_oscura.md) | Audit dell'Atto 1: eventi esclusivi, Ispirazioni, **70 voci di missione**, percorso che asseconda la Pulsione e percorso conservativo, ordine e preclusioni, luoghi, bonus e oggetti |
-| [roadmap_atto2_pulsione_oscura.md](roadmap_atto2_pulsione_oscura.md) | Isobel e **la notte del compagno più caro**: come si passa il TS su Saggezza CD 14 (lista completa dei bonus), la forma del **Carnefice** con pregi e limiti, le altre pulsioni, missioni/luoghi/bonus/oggetti dell'atto |
-| [roadmap_atto3_pulsione_oscura.md](roadmap_atto3_pulsione_oscura.md) | La verità sul tuo passato, Gortash, le scorciatoie al Tribunale dell'Omicidio, il **duello con Orin**, i quattro finali dell'origine e il piano salva/ricarica per i due trofei esclusivi, più il **set bhaalista** |
-
-**Piano attivo:** [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Sostituisce Astarion per serrature e furtività. Allerta al 4, +2 DES al 10, capello e specchio DES; incantesimi, equipaggiamento, exploit e tappe per ogni livello.
-
-**Confronto e alternativa Guerriero:** [verifica delle classi](build_pulsione_oscura_mischia_stratega.md), con progressione Maestro di Battaglia, calcoli del −5/+10, mantello e squadra. Non mescolare questa progressione con quella del Lockadin.
-
-**Vecchia alternativa Paladino/Warlock:** [progressione Lockadin](lockadin_livello_per_livello.md) e [elisir](lockadin_elisir_bonus_e_oggetti.md), conservati come confronto; non sono più il piano del protagonista.
-
-### Riferimenti trasversali (validi per entrambe le partite)
+**Parti da qui:** [percorso attivo in 50 tappe](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md) — stato della run, ordine delle missioni, scadenze dei tre atti. Per ordine e prerequisiti prevale su ogni altro file.
 
 | File | Cosa copre |
 |---|---|
-| [build_completa_livello_1-12.md](build_completa_livello_1-12.md) | Build livello-per-livello ed equip di tutti gli 11 personaggi giocabili (protagonista + compagni), con audit delle sottoclassi più forti dopo la Patch 8 |
-| [oggetti_e_build_definitive.md](oggetti_e_build_definitive.md) | Catalogo di tutti gli oggetti che vale la pena indossare (per slot, con posizioni), analisi comparata di ogni build, setup finale slot-per-slot di ogni personaggio, chi prende gli oggetti contesi e il giro di raccolta dell'Atto 3 — include la build **Minsc monaco a pugni** |
+| [percorso_pulsione_oscura_bardo.md](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md) | Le 50 tappe PO-00…PO-50: progressi dichiarati, ordine, vincoli reali, priorità del Bardo |
+| [checklist_missioni_pulsione_oscura.md](run-2-pulsione-oscura/checklist_missioni_pulsione_oscura.md) | Catalogo di 147 voci di missione con link a bg3.wiki, tappa di riferimento e stato |
+| [bardadino_opportunista_livello_per_livello.md](run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md) | Build attiva: Bardo delle Lame 10 / Paladino 2. Sostituisce Astarion per serrature e furtività; Allerta al 4, +2 DES al 10 |
+| [oggetti_exploit_opportunista.md](run-2-pulsione-oscura/oggetti_exploit_opportunista.md) | Oggetti da exploit divisi per atto, tappa, destinatario e limiti PS5 |
+| [roadmap_atto1_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md) | Atto 1: eventi esclusivi dell'origine, Ispirazioni, 70 voci di missione, percorso che asseconda la Pulsione e variante conservativa |
+| [roadmap_atto2_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md) | Atto 2: Isobel e la notte del compagno più caro (TS Saggezza CD 14 e bonus disponibili), la forma del Carnefice, le altre pulsioni |
+| [roadmap_atto3_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md) | Atto 3: la verità sul passato, Gortash, il Tribunale dell'Omicidio, il duello con Orin, i quattro finali, il set bhaalista |
 
-## Filosofia del progetto
+Le tre roadmap sono approfondimenti dell'origine, non l'itinerario: l'ordine lo dà il percorso attivo.
 
-- **Run "tutta buona"** (prima partita): ai bivi morali (es. Boschetto di Smeraldo/Minthara, Cuorescuro, alleati da salvare) le guide indicano sempre la via eroica, segnalando comunque le conseguenze delle alternative.
-- **Run Pulsione Oscura** (seconda partita): assecondare o resistere è una scelta del giocatore. L'Atto 1 distingue eventi esclusivi, Ispirazioni Haunted One e missioni comuni, con un percorso che **asseconda la Pulsione** e una variante che conserva i PNG. Le indicazioni di redenzione ancora presenti negli Atti 2–3 non costituiscono una scelta obbligatoria; quei file non sono stati sottoposti a questo stesso audit.
-- **Obiettivo doppio**: massimizzare sia i **trofei PSN** sia la **forza delle build**, indicando le scelte incompatibili e i relativi compromessi.
-- **Nomi ufficiali italiani**: talenti, incantesimi, luoghi e trofei usano la localizzazione italiana ufficiale di BG3 (non le traduzioni del manuale cartaceo D&D 5e, spesso diverse). Dove la dicitura a schermo non è stata confermata, il nome resta segnalato con l'inglese tra parentesi e un avviso a verificare su PS5.
-- **Verificato e aggiornato**: le build sono state riviste rispetto al meta post-Patch 8 (12 nuove sottoclassi), con audit esplicito su cosa è ancora la scelta migliore e cosa conviene invertire (es. Wyll → Hexblade, Shadowheart → Dominio della Luce, Astarion → variante arciere).
+## Prima partita — run "buona" (completata)
 
-## Come sono organizzate le guide
+Resta il riferimento per mappe, tattiche e atlante delle location: le guide della Pulsione Oscura vi rimandano invece di duplicarle.
 
-Ogni roadmap usa gli stessi simboli:
+| File | Cosa copre |
+|---|---|
+| [roadmap_atto1_run_buona.md](run-1-buona/roadmap_atto1_run_buona.md) | Atto 1, tappe 1-12: percorso, scelte morali "buone", trofei, oggetti missabili, punti di non ritorno |
+| [roadmap_atto2_run_buona.md](run-1-buona/roadmap_atto2_run_buona.md) | Atto 2, tappe 13-26: Terre Maledette dall'Ombra, Torri dell'Alba Lunare, i 3 blocchi permanenti da evitare |
+| [roadmap_atto3_run_buona.md](run-1-buona/roadmap_atto3_run_buona.md) | Atto 3, tappe 27-50: Baldur's Gate, i 4 orologi a tempo, gli 8 errori che chiudono contenuti, il finale |
 
-- 🏆 trofeo · ⚠️ missabile (perso per sempre se saltato) · ⏱️ a tempo · 🚩 punto di non ritorno · 📈 livelli/build · 🎒 equipaggiamento consigliato · 🩸 evento della Pulsione (solo nelle guide dell'origine)
+## Riferimenti (validi per entrambe le partite)
 
-Le tre roadmap di ogni percorso sono pensate come prosecuzione diretta l'una dell'altra; il file build è il riferimento trasversale per le scelte di classe/sottoclasse e l'equipaggiamento di ogni personaggio.
+| File | Cosa copre |
+|---|---|
+| [build_completa_livello_1-12.md](riferimenti/build_completa_livello_1-12.md) | Build livello per livello ed equipaggiamento di tutti gli 11 personaggi giocabili, con audit delle sottoclassi più forti dopo la Patch 8 |
+| [oggetti_e_build_definitive.md](riferimenti/oggetti_e_build_definitive.md) | Catalogo degli oggetti per slot con posizioni, setup finale di ogni personaggio, chi prende gli oggetti contesi, giro di raccolta dell'Atto 3 |
 
-## Nota
+## Archivio
 
-Guide per uso personale, basate su fonti pubbliche (bg3.wiki, absolutegamer.it, videogiochitalia.it, uagna.it, guide di build aggiornate Patch 8) e sull'esperienza diretta della run. Alcuni nomi italiani di sottoclassi introdotte con la Patch 8 non sono ancora confermati a schermo: in caso di dubbio vince sempre quanto mostrato in gioco su PS5.
+Piani superati per il protagonista, tenuti solo per confronto. **Non sommare i loro numeri, premi e talenti a quelli della build attiva.**
+
+- [build_pulsione_oscura_mischia_stratega.md](archivio/build_pulsione_oscura_mischia_stratega.md) — confronto fra classi e alternativa Guerriero Maestro di Battaglia
+- [lockadin_livello_per_livello.md](archivio/lockadin_livello_per_livello.md) e [lockadin_elisir_bonus_e_oggetti.md](archivio/lockadin_elisir_bonus_e_oggetti.md) — vecchia progressione Paladino/Warlock
+
+## Come sono scritte
+
+- **Simboli comuni:** 🏆 trofeo · ⚠️ missabile · ⏱️ a tempo · 🚩 punto di non ritorno · 📈 livelli/build · 🎒 equipaggiamento · 🩸 evento della Pulsione.
+- **Nomi ufficiali italiani** di classi, incantesimi, talenti, oggetti, luoghi e trofei, con l'inglese tra parentesi come ancora di ricerca. Dove la dicitura a schermo non è confermata c'è un ⚠️: **vince sempre quanto mostrato in gioco su PS5**.
+- **Stato della run onesto:** *dichiarato dal giocatore* e *da verificare* restano distinti. Le guide non leggono i salvataggi e una casella vuota non significa missione incompiuta.
+- **Ordine ≠ obbligo:** la numerazione è una proposta costruita sui vincoli documentati; i vincoli veri stanno nell'ultima colonna di ogni tabella.
+- **Obiettivo doppio:** massimizzare i trofei PSN e la forza delle build, segnalando le scelte incompatibili e i relativi compromessi.
+
+Fonti: bg3.wiki (primaria), absolutegamer.it, videogiochitalia.it, uagna.it (lista trofei PSN italiana), nextgentech.it, game8.co, più l'esperienza diretta delle due run.

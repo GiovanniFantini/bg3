@@ -2,7 +2,7 @@
 
 ### Baldur's Gate · solo scelte buone · numero massimo di trofei · Aggiornamento (Patch) 8
 
-*Guida aggiornata ad agosto 2026. Prosecuzione diretta di `roadmap_atto2_run_buona.md`. Le build restano quelle di `build_completa_livello_1-12.md`.*
+*Guida aggiornata ad agosto 2026. Prosecuzione diretta di [roadmap_atto2_run_buona.md](roadmap_atto2_run_buona.md). Le build restano quelle di [build_completa_livello_1-12.md](../riferimenti/build_completa_livello_1-12.md).*
 
 ## 📑 Indice
 

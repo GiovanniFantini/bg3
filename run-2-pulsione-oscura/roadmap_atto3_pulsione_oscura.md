@@ -1,11 +1,12 @@
 # BALDUR'S GATE 3 (PS5) — ATTO 3 CON LA **PULSIONE OSCURA**
-### Baldur's Gate · la verità su chi eri · il duello con Orin · i quattro finali della Pulsione · Aggiornamento (Patch) 8
 
-> **Percorso attivo: opportunista per potenza, Stratega, mischia.** Segui l'ordine opportunista sotto, che anticipa l'acquisto bhaalista. Il catalogo generale delle missioni non è ancora sottoposto all'audit completo dell'Atto 1. I rami dei trofei e del servizio a Bhaal restano alternative.
+### Baldur's Gate · la verità su chi eri · il duello con Orin · i quattro finali della Pulsione · Patch 8
 
-*Prosecuzione diretta di `roadmap_atto2_pulsione_oscura.md`. Per il percorso tappa-per-tappa (tappe 27-50), i quattro orologi, l'atlante delle location e le tattiche continua a usare `roadmap_atto3_run_buona.md`: qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
+> **Per ordine delle missioni e stato della run comanda il [percorso attivo](percorso_pulsione_oscura_bardo.md), tappe PO-30–50,** con il [catalogo missioni](checklist_missioni_pulsione_oscura.md). Qui trovi l'approfondimento dell'atto e l'ordine opportunista che anticipa l'acquisto bhaalista; i rami dei trofei e del servizio a Bhaal restano alternative.
 
-**Build attiva:** [Bardo delle Spade 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-3). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
+*Prosecuzione diretta di [roadmap_atto2_pulsione_oscura.md](roadmap_atto2_pulsione_oscura.md). Per il percorso tappa-per-tappa (tappe 27-50), i quattro orologi, l'atlante delle location e le tattiche continua a usare [roadmap_atto3_run_buona.md](../run-1-buona/roadmap_atto3_run_buona.md): qui c'è **solo quello che cambia perché sei la Pulsione Oscura**, più missioni, luoghi, bonus permanenti e oggetti forti dell'atto.*
+
+**Build attiva:** [Bardo delle Lame 10 / Paladino 2, elfo dei boschi](bardadino_opportunista_livello_per_livello.md#atto-3). Protagonista su DES, serrature e furtività; Allerta al 4, +2 DES al 10. Le build precedenti sono alternative.
 
 ## 📑 Indice
 
@@ -223,7 +224,7 @@ Caduta Orin, l'Avatar di Bhaal ti offre di tornare il suo Prescelto. **L'offerta
 
 ## 📋 TUTTE LE MISSIONI DELL'ATTO 3
 
-L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Quello che cambia:
+L'elenco completo con le tappe è in [roadmap_atto3_run_buona.md](../run-1-buona/roadmap_atto3_run_buona.md): il catalogo descrive le missioni comuni, ma disponibilità ed esiti dipendono dalle scelte della run. Quello che cambia:
 
 | Missione | Da Pulsione Oscura |
 |---|---|
@@ -292,7 +293,7 @@ L'elenco completo con le tappe è in `roadmap_atto3_run_buona.md`: il catalogo d
 
 ### Il resto degli oggetti che contano
 
-Restano quelli del catalogo generale (`oggetti_e_build_definitive.md`): **Armatura e Elmo Crepuscolo Infernale** (Casa della Speranza / Volta di Raphael), **Manopole della Forza del Gigante** e **Amuleto della Salute Superiore** (Archivio della Casa della Speranza), **Bastone di Markoheshkir** e **Veste della Trama** (Torre di Ramazith), **Ammazzagiganti di Balduran** e **Elmo di Balduran** (Ansur), **Gontr Mael** (Fonderia), **Nyrulna** (Circo), **Maschera della Percezione dell'Anima** (stanza di Helsik), **Stivali di Persistenza** ed **Eredità dei Maestri** (Dammon), **Armatura del Cammino Elusivo** (Armeria di Rivatempestosa).
+Restano quelli del catalogo generale ([oggetti_e_build_definitive.md](../riferimenti/oggetti_e_build_definitive.md)): **Armatura e Elmo Crepuscolo Infernale** (Casa della Speranza / Volta di Raphael), **Manopole della Forza del Gigante** e **Amuleto della Salute Superiore** (Archivio della Casa della Speranza), **Bastone di Markoheshkir** e **Veste della Trama** (Torre di Ramazith), **Ammazzagiganti di Balduran** e **Elmo di Balduran** (Ansur), **Gontr Mael** (Fonderia), **Nyrulna** (Circo), **Maschera della Percezione dell'Anima** (stanza di Helsik), **Stivali di Persistenza** ed **Eredità dei Maestri** (Dammon), **Armatura del Cammino Elusivo** (Armeria di Rivatempestosa).
 
 ---
 
@@ -316,6 +317,6 @@ Restano quelli del catalogo generale (`oggetti_e_build_definitive.md`): **Armatu
 
 - **bg3.wiki** — *The Dark Urge (origin)* (sezione Act Three), *The Urge*, *Sceleritas Fel*, *Orin*, *Impress the Murder Tribunal*, *Slayer*, *Bhaalist Armour*, *Aura of Murder*, *Crimson Mischief*, *Permanent bonuses*
 - **Lista trofei PSN italiana** per *Abbraccia la Pulsione*, *Le Colpe del Padre*, *Omicidio a Baldur's Gate*, *Primo Sangue*
-- I file di questo progetto: `roadmap_atto3_run_buona.md`, `oggetti_e_build_definitive.md`
+- I file di questo progetto: [roadmap_atto3_run_buona.md](../run-1-buona/roadmap_atto3_run_buona.md), [oggetti_e_build_definitive.md](../riferimenti/oggetti_e_build_definitive.md)
 
 > ⚠️ **Verifica a schermo** i nomi italiani non confermati (Aura dell'Omicidio, Gibus del Servitore Ossequioso, Conoscenza del Carnefice, Mantello del Cacciatore di Morte): sulla PS5 vince quello che leggi tu.

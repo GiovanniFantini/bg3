@@ -1,7 +1,7 @@
 # BALDUR'S GATE 3 (PS5) — ROADMAP ATTO 2 "PARTITA BUONA"
 ### Terre Maledette dall'Ombra · solo scelte buone · tutti i trofei ottenibili · Aggiornamento (Patch) 8
 
-*Guida aggiornata ad agosto 2026. Prosecuzione diretta di `roadmap_atto1_run_buona.md`. Le build restano quelle di `build_completa_livello_1-12.md`.*
+*Guida aggiornata ad agosto 2026. Prosecuzione diretta di [roadmap_atto1_run_buona.md](roadmap_atto1_run_buona.md). Le build restano quelle di [build_completa_livello_1-12.md](../riferimenti/build_completa_livello_1-12.md).*
 
 ## 📑 Indice
 
@@ -106,7 +106,7 @@ Nell'Atto 2 si passa da **livello 8** a **livello 9-10**.
 
 ⚠️ **L'11 non arriva nell'Atto 2.** Anche facendo *tutto* (Atto 1 completo, Sottosuolo, Grymforge, Nursery, e qui Gran Mausoleo compreso) si entra nell'Atto 3 a **livello 9, al massimo 10**; l'11 arriva nelle prime missioni della Città Bassa. **Arrivare a Rivington a livello 9 è la curva normale del gioco, non un segno che hai saltato qualcosa.**
 
-La tabella qui sotto copre comunque anche il livello 11, così la trovi già pronta quando ci arrivi in Atto 3. Dettagli completi in `build_completa_livello_1-12.md`.
+La tabella qui sotto copre comunque anche il livello 11, così la trovi già pronta quando ci arrivi in Atto 3. Dettagli completi in [build_completa_livello_1-12.md](../riferimenti/build_completa_livello_1-12.md).
 
 | Liv. | Protagonista (Pal 6/Str) | Cuorescuro (Chierico Vita) | Karlach (Barbaro) | Gale (Mago) | Astarion (Ladro) | Wyll (Warlock) | Lae'zel (Guerriero) |
 |---|---|---|---|---|---|---|---|

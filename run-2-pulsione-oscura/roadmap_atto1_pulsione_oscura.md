@@ -1,9 +1,10 @@
 # BALDUR'S GATE 3 — ATTO 1 CON LA PULSIONE OSCURA
-### PS5 · Origine Dark Urge · Stratega · audit Atto 1 del 13 settembre, difficoltà del 14 settembre 2026
 
-**Questa guida parte dall'origine Pulsione Oscura e presenta sia il percorso che la asseconda sia quello che resiste.**
+### PS5 · Origine Pulsione Oscura · Stratega · Patch 8 · fonti verificate al 17 settembre 2026
 
-La checklist delle missioni comuni resta utile, ma non definisce l'origine. Trovi prima i suoi contenuti specifici, poi i percorsi e i relativi costi. Sono presenti spoiler dell'Atto 1; i bivi degli atti successivi sono solo anticipati dove servono a evitare equivoci.
+> **Per ordine delle missioni e stato della run comanda il [percorso attivo](percorso_pulsione_oscura_bardo.md), tappe PO-01–17,** con il [catalogo missioni](checklist_missioni_pulsione_oscura.md). Qui trovi l'approfondimento dell'atto: eventi esclusivi dell'origine, percorso che asseconda la Pulsione, variante conservativa, luoghi, bonus e oggetti. La sequenza 01-21 con assedio del Boschetto è un'alternativa storica.
+
+**Questa guida parte dall'origine Pulsione Oscura e presenta sia il percorso che la asseconda sia quello che resiste.** La checklist delle missioni comuni resta utile ma non definisce l'origine: trovi prima i contenuti specifici, poi i percorsi e i relativi costi. Spoiler dell'Atto 1; i bivi degli atti successivi compaiono solo dove servono a evitare equivoci.
 
 ## Indice
 
@@ -26,7 +27,7 @@ La checklist delle missioni comuni resta utile, ma non definisce l'origine. Trov
 
 ## PREPARAZIONE PER STRATEGA
 
-**Run scelta: Stratega, mischia, puramente opportunista.** Segui le scelte della sezione seguente e l'ordine 01–21 che conserva i PNG; P1–P10 resta la variante del massacro. I livelli sono indicativi, non requisiti del gioco.
+**Run scelta nei file: Stratega, mischia, opportunista.** Per la cronologia corrente segui PO-01–17 nel nuovo percorso. L’ordine 01–21 sotto conserva la variante con assedio difensivo; P1–P10 resta il massacro. I livelli sono indicativi, non requisiti del gioco.
 
 ## SCELTE OPPORTUNISTE — ATTO 1
 
@@ -42,13 +43,13 @@ Obiettivo: poteri, mercanti futuri e squadra completa. Il protagonista sostituis
 |---|---|---|---|
 | 01 | Recluta Gale, Lae'zel e gli altri; evita mutilazioni e omicidi gratuiti | Conservi incantatori, missioni e opzioni di squadra | Recluta Withers per gestire il gruppo; niente dipendenza da un oggetto del Nautiloid |
 | 02–03 | Fai restare Rolan; salva Arabella e Mirkon; accetta l'incarico di Mol | Mantieni le catene di ricompense e i PNG degli atti seguenti | Non chiudere il Boschetto prima di questi dialoghi |
-| 03–04 e riposi | Segui la procedura Alfira/Quil già descritta sotto, se vuoi preservare Alfira | Conservi la possibilità della Veste Potente per un incantatore del party; Fel può comunque darti il mantello | Colpo finale non letale in mischia, notte corretta e nessun danno residuo. Non è possibile salvare entrambe le barde con questo metodo |
+| 03–04 e riposi | Procedura Alfira/Quil solo prima della notte della barda | Se Alfira muore, la Veste Potente non è più ottenibile in questa linea di salvataggio | Nella partita corrente la notte e il mantello sono già avvenuti; non pianificare la sostituzione retroattiva |
 | 04 | Recupera tomo e Ametista Oscura; fai leggere il tomo al protagonista | Forbidden Knowledge aiuta anche i TS della Pulsione; futuro seguito del libro | Non distruggere il tomo e non consumare l'ametista in altro modo |
-| 05 | Ferma il rituale con la prova contro Kagha, poi ruba e consegna l'idolo a Mol | Anello della Protezione: +1 CA e TS | Consegna prima di inviare Minthara al Boschetto |
+| 05 | **Accetta prima la missione di Mol**, ferma il rituale con le prove contro Kagha, poi ruba e consegna l’idolo | Anello della Protezione: +1 CA e TS | Completa Kagha prima dei tre capi; consegna l’idolo prima della partenza di Mol e dell’eventuale assedio |
 | 06 | Salva Karlach e completa gli incontri del nord; conserva Dammon | Sword of Justice da Anders se affrontato; mercante e compagna disponibili | Risolvi prima incendi e salvataggi già avviati |
 | 07 | Accetta il capello di Ethel in **DES**; contratta anche Mayrina | +1 permanente sul protagonista, senza perdere volontariamente il seguito di Mayrina | Lascia avvenire la resa; non uccidere Ethel prima del dialogo. Normalmente sei ancora Bardo: nessun giuramento a questa tappa |
 | 08 | Compra dai goblin, visita Abdirak, libera Volo; prendi il marchio se vuoi i suoi oggetti | Amore di Loviatar, accesso all'occhio di Volo e agli oggetti marchiati | Rifiuta l'operazione all'occhio di Ethel. Non iniziare l'ostilità prima degli acquisti |
-| 09–11 | Organizza l'assedio dopo gli incarichi pacifici, chiudi Doni, difendi i rifugiati e stordisci Minthara | Conservi Dammon e la possibilità di reclutare Minthara in Atto 2 | Rivela il Boschetto solo quando sei pronto: può rompere Vendetta. Non uccidere Minthara con effetti residui |
+| PO-06–07, ordine corrente | Dopo le visite pacifiche affronta Gut/Minthara e lascia Ragzlin per ultimo; stordisci Minthara se la vuoi reclutare | Conservi rifugiati, Dammon e potenziale compagna | Non mandarla al Boschetto nel ramo principale. **Assedio/Doni nelle vecchie tappe 09–11 sono un’alternativa**, non un passaggio aggiuntivo obbligatorio |
 | 13–15 | Aiuta Omeluum, conserva Spaw e la colonia, compra da Derryth | Poteri e mercanti; Caustic Band e amuleto di recupero slot | Assegna Fungo Nobile con una decisione esplicita: darlo a Derryth conserva il relativo commercio futuro; consumarlo sul Durge dà soprattutto memoria narrativa |
 | 16–18 | Consegna gli stivali richiesti, poi elimina Nere, libera gli gnomi e completa la Forgia | Stivali di Nere, ricompense dei superstiti e armatura d'adamantio | Riposa prima della barca; non spingere il bottino nella lava |
 | 20 | Compra gli oggetti di Jeera per il party; cerca Risvegliato e recupera Sangue di Lathander | Guanti DES e picca non sono requisiti del Bardo; prendi un'arma accurata per il protagonista | Completa gli acquisti prima delle ostilità e controlla le penalità dello Zaith'isk |
@@ -84,9 +85,9 @@ Raccogli cibo e usa i riposi brevi fra gli scontri, ma non saltare le notti per 
 
 ### Classe del protagonista
 
-**Progressione attiva:** [Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Elfo dei boschi, serrature e furtività; DES sull'arma accurata, Allerta al 4, due attacchi al 6, Punizioni all'8, +2 DES al 10.
+**Progressione attiva:** [Bardo delle Lame 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Elfo dei boschi, serrature e furtività; DES sull'arma accurata, Allerta al 4, due attacchi al 6, Punizioni all'8, +2 DES al 10.
 
-**Alternativa più lineare: Guerriero Maestro di Battaglia 12 con arma a due mani.** Le statistiche e i talenti del paragrafo seguente valgono solo per questa alternativa; non sono quelli del Bardadino. Il confronto con Paladino, Berserker e Hexblade è nella [verifica delle classi](build_pulsione_oscura_mischia_stratega.md).
+**Alternativa più lineare: Guerriero Maestro di Battaglia 12 con arma a due mani.** Le statistiche e i talenti del paragrafo seguente valgono solo per questa alternativa; non sono quelli del Bardadino. Il confronto con Paladino, Berserker e Hexblade è nella [verifica delle classi](../archivio/build_pulsione_oscura_mischia_stratega.md).
 
 Statistiche iniziali della sola alternativa Guerriero: **FOR 16, DES 14, COS 16, INT 8, SAG 10, CAR 10**. Stile Difesa; Atletica e Percezione. Al 3 scegli Precisione, Sbilanciante e Disarmante. Talenti consigliati: **Forza 18 al 4, Maestro delle Armi Possenti al 6, Allerta all'8, Forza 20 al 12**. Se l'iniziativa è già sufficiente grazie agli oggetti, puoi invertire le ultime due scelte.
 
@@ -327,6 +328,8 @@ Qui devi anche avanzare le voci già elencate **Trova la Creche, La Guerriera Gi
 
 ### Ordine per non perdere missioni
 
+**Variante storica con assedio, non ordine attivo della partita corrente.** Per i tre capi nel campo e i progressi già dichiarati usa [PO-01–17](percorso_pulsione_oscura_bardo.md). Questa tabella serve se scegli deliberatamente di vedere Doni e la difesa del Boschetto.
+
 **Variante che conserva più missioni, PNG e ricompense future:** salva i rifugiati, prepara l'assedio per includere Doni e stordisci Minthara. È il percorso conservativo, non la definizione di Pulsione Oscura né una redenzione obbligatoria. Per il massacro e gli impulsi volontari usa il [percorso P1–P10](#percorso-che-asseconda-la-pulsione-atto-1). Non esiste un ordine che renda compatibili tutti gli esiti opposti.
 
 Le tappe seguenti sono un **ordine prudenziale ricavato dalle dipendenze delle missioni**, non un percorso testato sul tuo salvataggio. Alcune voci del diario terminano con un rifiuto o cambiano nome: “chiusa” non significa sempre “ricompensa ottenuta”.
@@ -451,7 +454,7 @@ Questi sono bonus comuni alle origini, non ricompense esclusive della Pulsione. 
 
 ## ⚔️ GLI OGGETTI FORTI DELL'ATTO 1
 
-Il catalogo completo per slot è in `oggetti_e_build_definitive.md`. Qui c'è il **taglio Pulsione Oscura**: cosa conta di più per un protagonista assassino o da mischia in questo atto.
+Il catalogo completo per slot è in [oggetti_e_build_definitive.md](../riferimenti/oggetti_e_build_definitive.md). Qui c'è il **taglio Pulsione Oscura**: cosa conta di più per un protagonista assassino o da mischia in questo atto.
 
 | Oggetto | Effetto | Dove |
 |---|---|---|
@@ -512,4 +515,4 @@ Fonti principali, oltre ai collegamenti accanto a missioni e meccaniche:
 
 ---
 
-➡️ **Prosegui con** `roadmap_atto2_pulsione_oscura.md` — Isobel, la notte del compagno più caro e il Carnefice.
+➡️ **Prosegui con** [roadmap_atto2_pulsione_oscura.md](roadmap_atto2_pulsione_oscura.md) — Isobel, la notte del compagno più caro e il Carnefice.

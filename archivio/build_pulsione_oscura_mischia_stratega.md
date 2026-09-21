@@ -1,10 +1,10 @@
 # Pulsione Oscura da mischia a Stratega — verifica e build
 
-> **Alternativa archiviata per il protagonista (15 settembre 2026).** Il piano attivo è [Elfo dei boschi, Bardo delle Spade 10 / Paladino 2](bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
+> **Alternativa archiviata: non è il piano del protagonista.** Il piano attivo è [Elfo dei boschi, Bardo delle Lame 10 / Paladino 2](../run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md). Numeri, premi e talenti qui sotto appartengono alla vecchia alternativa e non vanno sommati al nuovo piano.
 
-Verifica online del 14 settembre 2026. BG3, PS5, regole Stratega standard. Preferenze confermate: origine Pulsione Oscura e combattimento in mischia. Classe, razza e scelta fra assecondare e resistere restano proposte, non decisioni già prese dal giocatore.
+*PS5 · regole Stratega standard · fonti verificate al 14 settembre 2026.*
 
-**La progressione operativa aggiornata è Paladino 7 / Warlock Hexblade 5:** [livello per livello, legato alle tappe e alle scelte della run](lockadin_livello_per_livello.md). Il [confronto fra elisir, caratteristiche e oggetti](lockadin_elisir_bonus_e_oggetti.md) ne approfondisce i calcoli. Questo documento conserva il confronto e la progressione del Guerriero come alternativa lineare.
+Questo documento conserva il **confronto fra le classi da mischia** e la progressione del **Guerriero Maestro di Battaglia** come alternativa lineare. L'altra alternativa archiviata, [Paladino 7 / Warlock Hexblade 5](lockadin_livello_per_livello.md), ha i suoi calcoli in [elisir, caratteristiche e oggetti](lockadin_elisir_bonus_e_oggetti.md).
 
 ## Valutazione della proposta
 
@@ -132,7 +132,7 @@ Per l'Atto 3, **Armatura Bhaalista e spadone non sono una sinergia automatica**:
 - Astarion copre distanza e utilità, senza contendersi sistematicamente arma pesante e mantello. L'invisibilità del protagonista non deve lasciarlo esposto in prima linea.
 - Se mutili Gale o lo perdi dopo il massacro, prevedi un mago gregario o il cambio classe di un compagno. Lae'zel guerriera è utilizzabile, ma aggiunge un secondo combattente da mischia, non la magia mancante.
 
-Nel ramo del massacro non basare il piano su Karlach, Wyll, Halsin o sui futuri acquisti di Dammon. Non considero Minthara disponibile nell'Atto 1: il suo reclutamento ordinario come compagna arriva in Atto 2. La scelta di resistere alla Pulsione non obbliga invece a perdere questi alleati. Le conseguenze sono dettagliate nella [roadmap dell'Atto 1](roadmap_atto1_pulsione_oscura.md).
+Nel ramo del massacro non basare il piano su Karlach, Wyll, Halsin o sui futuri acquisti di Dammon. Non considero Minthara disponibile nell'Atto 1: il suo reclutamento ordinario come compagna arriva in Atto 2. La scelta di resistere alla Pulsione non obbliga invece a perdere questi alleati. Le conseguenze sono dettagliate nella [roadmap dell'Atto 1](../run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md).
 
 ## Preparazione degli scontri e controlli pratici
 
