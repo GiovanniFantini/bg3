@@ -10,7 +10,7 @@ archivio/               alternative superate, tenute solo come confronto
 trophy-images/          screenshot dei trofei
 ```
 
-## Stato della partita (aggiornato al 24 settembre 2026)
+## Stato della partita (trofei aggiornati al 22 settembre 2026; progressi al 24 settembre)
 
 - **Partita corrente:** seconda run, origine **Pulsione Oscura**, protagonista **Bardo delle Lame** (*College of Swords*; nei file più vecchi "Bardo delle Spade"), elfo dei boschi, modalità **Stratega**, combattimento in mischia.
 - **Criterio confermato dal giocatore:** Pulsione Oscura **opportunista per massimizzare armi, equipaggiamento e bonus**. Salvare PNG e conservare mercanti serve alle ricompense, non è un vincolo morale. Ai bivi si confronta il guadagno immediato con gli oggetti e i bonus futuri che si perdono. **Non consigliare la redenzione per motivi etici** (valeva per la prima run).
@@ -19,6 +19,10 @@ trophy-images/          screenshot dei trofei
 - **Progressi dichiarati al 24 settembre 2026:** **tutto l’Atto 1 concluso**, inclusi Grymforge e Passo/Creche. Restano storici: gnoll uccisi, Rugan/Olly salvati, gnomo del mulino liberato, Kagha uccisa, idolo rubato e incarico di Mol concluso; notte della Pulsione avvenuta, tiefling uccisa e mantello ricevuto (**se era Alfira, la Veste Potente non è ottenibile**). Il completamento globale non conferma ogni ricompensa o esito: sopravvissuti, oggetti e bonus specifici non vanno inventati.
 - **Punto del percorso:** **PO-18, inizio Atto 2 / Ultima Luce**. Posizione esatta e livello attuale non comunicati; il livello 6 a Grymforge è un dato precedente. Non proporre di rifare l’Atto 1. Roadmap Atto 2 verificata online il 24 settembre: Torri neutrali e prigionieri prima della Coltre; rami opportunisti espliciti.
 - **Prima run (buona/eroica): completata.** I suoi file restano il riferimento per mappe, tattiche e tappe 1-50.
+
+## Stato dei trofei
+
+Il [registro trofei PS5](riferimenti/registro_trofei_ps5.md), verificato sugli screenshot del 22 settembre 2026, prevale sulle previsioni delle roadmap per lo **stato dei trofei del profilo**: 40 sbloccati confermati, 13 bloccati incluso il platino, Azione Impetuosa da verificare. Disinfestazione e Due Piccioni con uno Gnomo sbloccati il 19 settembre. Non dedurre progressi della run corrente dagli sblocchi di altre partite.
 
 ## Gerarchia dei file (chi vince in caso di conflitto)
 

@@ -2668,15 +2668,15 @@ Ricarica **"PRIMA DEL FINALE"** e chiudi la partita come va chiusa:
 
 ## 🧭 COSA RESTA FUORI DA QUESTA PARTITA (e come prenderlo)
 
-La lista PSN italiana ha **54 trofei**: 53 più il platino **Orgoglio di Baldur's Gate**. Con questa run buona — usando le **quattro** occasioni di 🔁 salva/ricarica — arrivi a **50 trofei su 53**. Restano tre trofei **non ottenibili** qui:
+**Aggiornamento del 22 settembre 2026:** il [registro verificato dagli screenshot](../riferimenti/registro_trofei_ps5.md) documenta **40 trofei sbloccati, 13 bloccati incluso il platino e Azione Impetuosa da verificare**, su 54 voci. La vecchia previsione di 50/53 non rappresenta il risultato effettivo della prima run. La tabella seguente descrive gli obiettivi del piano per la seconda run; i sei trofei nascosti sono stati identificati nel registro confrontando la loro posizione con le liste PS5 online:
 
 | Trofeo | Requisito | Come prenderlo |
 |---|---|---|
 | 🏆 **Abbraccia la Pulsione** | Diventare l'arma suprema di Bhaal — **solo Pulsione Oscura** | Seconda partita con origine **Pulsione Oscura** |
 | 🏆 **Le Colpe del Padre** | Dominare il Cervello per Bhaal — **solo Pulsione Oscura** | Stessa partita di sopra: salva prima del finale e prendi entrambi |
-| 🏆 **Colpo Critico** | ⚠️ **NON serve la modalità Onore.** La descrizione italiana dice *«completa il gioco con lo stile del DM più difficile»* e si riferisce a **Stratega** (*Tactician*); Onore lo sblocca lo stesso, ma non è richiesto | Una run in **Stratega** — dove **puoi salvare e ricaricare**, quindi molto più gestibile di Onore |
+| 🏆 **Colpo Critico** | ⚠️ **NON serve la modalità Onore.** Lo screenshot del 22 settembre 2026 dice *«Completa il gioco in modalità Stratega»* (*Tactician*); Onore lo sblocca lo stesso, ma non è richiesto | Una run in **Stratega** — dove **puoi salvare e ricaricare**, quindi molto più gestibile di Onore |
 
-> 💡 **Piano platino consigliato (aggiornato):** questa run buona (50/53) → poi **una sola seconda partita: Pulsione Oscura in Stratega**. Chiude tutti e tre i trofei mancanti in un colpo solo — *Abbraccia la Pulsione*, *Le Colpe del Padre* e *Colpo Critico* — e in Stratega **puoi salvare e ricaricare**, quindi i due finali della Pulsione Oscura li prendi con la stessa tecnica che usi qui. Non serve affrontare la modalità Onore.
+> 💡 **Piano platino da completare con il registro:** la seconda partita Pulsione Oscura in Stratega resta il piano attivo, ma non mancano soltanto i tre trofei della tabella. Controlla anche i recuperi nominativi e le sei voci nascoste nel registro; Azione Impetuosa è ancora da verificare.
 
 ---
 

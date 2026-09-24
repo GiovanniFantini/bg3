@@ -43,7 +43,9 @@ Vai a: [adesso](#adesso) · [Atto 1](#atto-1) · [Atto 2](#atto-2) · [Atto 3](#
 
 Fonti: [infiltrazione](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers), [Rolan](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows), [soglia della Coltre](https://bg3.wiki/wiki/Find_Ketheric_Thorm%27s_Relic).
 
-### Ragni del pozzo e trofeo Pest Control
+### Ragni del pozzo e trofeo Disinfestazione (Pest Control)
+
+> **Trofei aggiornati al 22 settembre 2026:** Disinfestazione sbloccato il 19 settembre; anche Due Piccioni con uno Gnomo e Un Gramo Destino sono già acquisiti. Vedi il [registro del profilo PS5](../riferimenti/registro_trofei_ps5.md). La strategia sotto resta un riferimento, non un trofeo da recuperare. Gli sblocchi non certificano il completamento delle tappe nella run corrente.
 
 Inserimento consigliato: dopo Mol → Kagha → idolo, nella visita al villaggio PO-04. In Stratega consiglio di affrontare la Matriarca al livello 5; se sei più basso puoi tornare dopo i capi goblin. È una scelta tattica, non un requisito o una scadenza della missione.
 
@@ -71,7 +73,7 @@ Durante lo scontro puoi bruciare il ponte di ragnatela mentre la Matriarca ci st
 | [ ] | **PO-12 — Duergar e Glut** | Ascolta Gekh per gli stivali se ancora disponibile; elimina i duergar; risolvi Glut/Spaw; ritira premio e incarico della testa di Nere | Nel ramo attivo conserva Spaw. Recuperi extra: Phalar Aluve, Elmo dell'Autonomia, Spectator/Bulette e baia dei kuo-toa se desiderati |
 | [ ] | **PO-13 — Grymforge: preparazione locale** | Arriva riposato. Compra, consegna gli stivali a Thrinn, parla con Brithvar e gli gnomi, elimina l'occhio, raggiungi Philomeen e ottieni esplosivi | **Philomeen prima di aprire la frana**. Dopo l'attivazione dell'emergenza di Nere evita riposi lunghi e partenze; non basarti su un numero universale di riposi “sicuri” |
 | [ ] | **PO-14 — Nere e Barcus** | Libera Nere e affrontalo; proteggi e libera gli gnomi; parla con Barcus e invitalo al campo quando possibile; prendi testa e bottino, torna dal sovrano miconide | Lasciar morire Nere sotto la frana non equivale a salvare gli gnomi. Non buttare il corpo nella lava |
-| [ ] | **PO-15 — Forgia** | Rothé e seconda frana, stampi, mithral, Grym e creazioni; recupera l'Amuleto Senziente per il seguito a Rivington | La frana dei rothé è distinta da Nere. Non usare l'ascensore verso l'Atto 2 prima del controllo finale |
+| [ ] | **PO-15 — Forgia** | Rothé e seconda frana, stampi, mithral, Grym e creazioni; recupera l'Amuleto Senziente per il seguito a Rivington | 🏆 **Un Gramo Destino** e **Forgiato nel Sangue e nel Fuoco** già sbloccati sul profilo: non serve evitare il maglio per il trofeo. La frana dei rothé è distinta da Nere. Non usare l'ascensore verso l'Atto 2 prima del controllo finale |
 | [ ] | **PO-16 — Passo e Creche** | Pattuglia prima del cambio regione se ancora presente; Esther e ghiandaia; monastero e cresta; Lae'zel, commercio, incubatoio, Zaith'isk, inquisitore/prisma, Sangue di Lathander e incontro con Voss | Boschetto già risolto; compra prima delle ostilità. **Non consegnare l'uovo gith a Esther** nel ramo che conserva la Società della Brillantezza e Omeluum |
 | [ ] | **PO-17 — Uscita dall'Atto 1** | Completa consegne e riposi narrativi fuori dalle emergenze; incontra Elminster e gestisci Gale. Puoi esplorare sia Sottosuolo sia Passo | Non sono due campagne alternative. Segna le missioni che proseguono come “in corso”, non “fallite” |
 

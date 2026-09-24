@@ -49,6 +49,10 @@ Resta il riferimento per mappe, tattiche e atlante delle location: le guide dell
 | [build_completa_livello_1-12.md](riferimenti/build_completa_livello_1-12.md) | Build livello per livello ed equipaggiamento di tutti gli 11 personaggi giocabili, con audit delle sottoclassi più forti dopo la Patch 8 |
 | [oggetti_e_build_definitive.md](riferimenti/oggetti_e_build_definitive.md) | Catalogo degli oggetti per slot con posizioni, setup finale di ogni personaggio, chi prende gli oggetti contesi, giro di raccolta dell'Atto 3 |
 
+## Trofei PS5
+
+[Registro aggiornato al 22 settembre 2026](riferimenti/registro_trofei_ps5.md): **40 sbloccati confermati, 13 bloccati incluso il platino, Azione Impetuosa da verificare**. Include date, fonti e gli 11 screenshot nuovi. Lo stato dei trofei riguarda il profilo, non il completamento delle missioni nella run corrente.
+
 ## Archivio
 
 Piani superati per il protagonista, tenuti solo per confronto. **Non sommare i loro numeri, premi e talenti a quelli della build attiva.**
