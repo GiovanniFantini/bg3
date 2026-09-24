@@ -1,6 +1,6 @@
 # Percorso attivo — Pulsione Oscura, Bardo delle Lame
 
-Verifica delle fonti online: **17 settembre 2026**. Spoiler dei tre atti.
+Verifica delle fonti online: **17 settembre 2026; Atto 2 ricontrollato il 24 settembre 2026**. Spoiler dei tre atti.
 
 Questa è la guida operativa della partita corrente. Le tre roadmap dell'origine restano approfondimenti; per **ordine delle missioni, stato della run e priorità** segui questo file. Il [catalogo delle missioni](checklist_missioni_pulsione_oscura.md) assegna le singole voci alle tappe PO e distingue alternative, missioni dei compagni e voci non disponibili con questa origine.
 
@@ -16,11 +16,11 @@ Vai a: [adesso](#adesso) · [Atto 1](#atto-1) · [Atto 2](#atto-2) · [Atto 3](#
 | Piano preesistente | PS5, combattimento in mischia; Bardo 6 → Paladino 2 → Bardo 10. È un piano futuro, non la classe già raggiunta |
 | Gnoll | Uccisi, dichiarato dal giocatore |
 | Zhentarim | **Rugan e Olly salvati nella grotta e dialogo con loro effettuato**. Esito del dialogo sul carico, visita a Zarys e sblocco di Brem **non confermati** |
-| Gnomo al mulino | Liberato; il seguito di Barcus a Grymforge resta da fare |
+| Gnomo al mulino | Liberato; Atto 1 poi dichiarato concluso, esito specifico di Barcus non comunicato |
 | «Mirkn» | Salvataggio dichiarato; identificazione con **Mirkon delle arpie da confermare**, non segnare Halsin come liberato |
 | Notte della Pulsione | Tiefling uccisa e mantello ricevuto. Se era Alfira, la sua morte è definitiva in questa linea di salvataggio |
 | Kagha e Mol | **Kagha uccisa, idolo rubato e incarico di Mol completato**, dichiarato dal giocatore |
-| Tre capi, Ethel, Waukeen | Non dichiarati conclusi; verificare il diario. Livello, equipaggiamento e squadra attuale non comunicati |
+| Avanzamento al 24 settembre 2026 | **Tutto l’Atto 1 concluso**, dichiarato dal giocatore. Prossima tappa PO-18. Livello attuale, bottino e singoli esiti non comunicati; non dedurre sopravvivenza di Minthara/Alfira o possesso di bonus |
 
 **Se la vittima era Alfira:** salta la vecchia procedura per sostituirla con Quil; ormai non è applicabile senza ricaricare un salvataggio precedente. La Veste Potente richiede Alfira viva e nessun altro PNG la consegna. Salvare i tiefling rimane utile per le altre catene. [Potent Robe](https://bg3.wiki/wiki/Potent_Robe)
 
@@ -34,15 +34,14 @@ Vai a: [adesso](#adesso) · [Atto 1](#atto-1) · [Atto 2](#atto-2) · [Atto 3](#
 
 ## Da fare adesso
 
-**Già fatto:** Kagha uccisa, idolo rubato, incarico di Mol concluso.
+**Atto 1 interamente concluso il 24 settembre 2026, dichiarato dal giocatore.** Le tappe PO-01–17 sotto restano come storico; caselle vuote e vecchi dettagli non sono richieste di rifarle e non certificano i singoli esiti alternativi.
 
-1. **Nord: Waukeen e Pugni Fiammanti.** Prossima destinazione consigliata prima dei goblin. Salva Florrick e Benryn; una volta avvicinato all'incendio non fare riposi lunghi e non lasciare la zona per campo o viaggio rapido prima del salvataggio. [Urgenza documentata](https://bg3.wiki/wiki/Rescue_the_Trapped_Man)
-2. **Zhentarim:** approfitta del giro a nord per controllare Zarys, carico e commercio con Brem, ancora non confermati conclusi.
-3. **Ragni:** se sei al livello 5 puoi inserirli ora; altrimenti rimandali. La priorità al nord è organizzativa, salvo incendio già attivato che è urgente.
-4. Completa le visite pacifiche al boschetto e al campo goblin; poi **Gut e Minthara, Ragzlin per ultimo**. Per mantenere Minthara reclutabile, stordiscila invece di ucciderla.
-5. **Ethel:** nella sequenza proposta viene dopo i capi; puoi anticiparla. Per questo Bardo conta il capello in DES e il completamento di Mayrina, non una scadenza legata ai goblin.
+1. **PO-18: entra nell’Atto 2 e raggiungi Ultima Luce.** Parla a Jaheira, visita mercanti e Dammon con Karlach, raccogli le piste dei rifugiati e di Art; prepara il gruppo prima di parlare a Isobel.
+2. **PO-19: protezione completa e Rolan.** Se entri dal Passo e incontri prima il convoglio, anticipa quel ramo; appena trovi Rolan sotto attacco intervieni.
+3. **PO-20–21: Torri ancora neutrali e prigionieri.** Acquisti, Z’rell, Araj, Minthara se presente, gnomi/tiefling e consegne precedono il finale del Guanto.
+4. Segui la [roadmap Atto 2 aggiornata](roadmap_atto2_pulsione_oscura.md#ordine-atto-2): 20 quest regionali, continuazioni dei compagni, attività extra e bivi della Pulsione. **Non entrare nella Coltre Oscura prima del controllo PO-25.**
 
-Mol non offre più la missione a rituale fermato; rubare durante il rituale provoca l'attacco ai tiefling. L'indagine su Kagha si chiude eliminando i capi. Ragzlin rende ostile l'intero campo. Questi sono i vincoli effettivi. [Idolo](https://bg3.wiki/wiki/Steal_the_Sacred_Idol), [Kagha](https://bg3.wiki/wiki/Investigate_Kagha), [capi](https://bg3.wiki/wiki/Defeat_the_Goblins)
+Fonti: [infiltrazione](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers), [Rolan](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows), [soglia della Coltre](https://bg3.wiki/wiki/Find_Ketheric_Thorm%27s_Relic).
 
 ### Ragni del pozzo e trofeo Pest Control
 
@@ -88,20 +87,22 @@ Fonti per le dipendenze delle tappe: [uccidere Kagha](https://bg3.wiki/wiki/Kill
 
 ## Atto 2 — prima l'infiltrazione, poi la Coltre
 
+Verificato il **24 settembre 2026**. [Dettaglio dell’ordine, tutte le quest e sottomissioni](roadmap_atto2_pulsione_oscura.md#ordine-atto-2). Entrando dal Passo puoi anticipare il convoglio di PO-19; le urgenze attivate, come Rolan sotto attacco, prevalgono sulla numerazione.
+
 | Fatto | Tappa | Azioni e missioni incluse | Vincolo / risultato da controllare |
 |---|---|---|---|
 | [ ] | **PO-18 — Ultima Luce** | Ingresso e incontro con Jaheira; mercanti, Dammon/Karlach, Art, Barcus e rifugiati. Prepara la squadra prima di salire da Isobel e difendila da Marcus | Nel ramo attivo Isobel resta viva. Se muore o viene rapita durante l'assalto, la protezione della locanda viene meno |
 | [ ] | **PO-19 — Protezione e Rolan** | Kar'niss/convoglio oppure imboscata con gli Arpisti; ottieni la lanterna e libera Dolly per la benedizione. Cerca Rolan a sud-est del pedaggio dopo la sua partenza | La benedizione di Isobel non basta per tutta la mappa. Se incontri Rolan sotto attacco, salvalo subito. Convoglio e imboscata sono vie alternative, non due obblighi |
-| [ ] | **PO-20 — Torri neutrali, presto** | Udienza di Ketheric, Z'rell, mercanti, Araj, destino dei goblin/Sazza, Minthara se sopravvissuta. Esplora stanze e studio di Balthazar con Gale; interagisci con gli indizi sul passato del Durge | **Non aspettare l'assalto finale per visitarle.** Acquisti e dialoghi precedono la Coltre. Araj/+2 FOR serve eventualmente a un compagno su FOR, non al Bardo DES |
-| [ ] | **PO-21 — Prigionieri e consegne** | Salva Minthara dalla prigione, Wulbren e i tiefling; scorta/verifica i superstiti a Ultima Luce e riscuoti ricompense individuali | Tutto **prima di entrare nella Coltre Oscura**. Alfira morta esclude la sua veste, non l'utilità del salvataggio. Zevlor e Mol non sono questi prigionieri |
+| [ ] | **PO-20 — Torri neutrali, presto** | Udienza di Ketheric, Z'rell, mercanti (ricontrolla Lann Tarv dopo l’eventuale sblocco dell’assortimento), Araj, destino dei goblin/Sazza, Minthara se sopravvissuta. Esplora stanze e studio di Balthazar con Gale; interagisci con gli indizi sul passato del Durge | **Non aspettare l'assalto finale per visitarle.** Acquisti e dialoghi precedono la Coltre. Araj/+2 FOR serve eventualmente a un compagno su FOR, non al Bardo DES |
+| [ ] | **PO-21 — Prigionieri e consegne** | Salva Minthara dalla prigione, Wulbren e i tiefling; scorta/verifica i superstiti a Ultima Luce e riscuoti ricompense individuali | Tutto **prima di entrare nella Coltre Oscura**. Dopo aver dato l'arma a Wulbren non riposare/viaggiare: può iniziare la fuga da solo. Alfira morta esclude la veste; Zevlor e Mol non sono questi prigionieri. [Fuga](https://bg3.wiki/wiki/Rescue_Wulbren) |
 | [ ] | **PO-22 — Reithwin e secondarie** | Resistenza selûnita, Gilda dei Muratori, pedaggio/Gerringothe, Luna Calante/Thisobald e registro di Madeline → Colui che Fu; Casa di Guarigione/Malus e liuto di Art; genitori di Arabella → accampamento | Recupera **Elmo dell'Acume Arcano** nella zona segreta della Gilda. Le vie di dialogo dei Thorm sono opzioni utili al Bardo, non successi automatici |
 | [ ] | **PO-23 — Halsin e Thaniel** | Art → Halsin → difesa del portale → Oliver e ricongiungimento; parla a Thaniel al campo | Se il portale cade, perdi Halsin. La guarigione della regione richiede anche la morte di Ketheric; verifica questa catena prima di lasciare l'atto |
-| [ ] | **PO-24 — Mausoleo e Guanto** | Porta Astarion al colloquio con Raphael se vuoi il suo accordo; Yurgir, prove, Biblioteca Silenziosa e lancia, Balthazar, gemme e anello Killer's Sweetheart | **Uccidere Yurgir per Raphael** e **sciogliere il suo contratto** sono rami alternativi. Puoi esplorare il Guanto senza oltrepassare l'ingresso finale nella Coltre |
+| [ ] | **PO-24 — Mausoleo e Guanto** | Porta Astarion al colloquio con Raphael se vuoi il suo accordo; Yurgir, prove, Biblioteca Silenziosa e lancia, Balthazar, gemme e anello Killer's Sweetheart | **Uccidere Yurgir per Raphael** e **sciogliere il suo contratto** sono rami alternativi: nel primo affronta Yurgir prima di eliminare i ratti/Lyrthindor; poi riposa per Raphael. Puoi esplorare il Guanto senza oltrepassare l'ingresso finale nella Coltre |
 | [ ] | **PO-25 — Controllo prima della Coltre** | Consegne, prigionieri, commercio, Minthara, ultimi ritorni ad Atto 1 e Creche; completa le scene al campo e prepara i TS del protagonista | La notte della Pulsione è **flottante**: la preparazione indicata sotto comincia prima, non solo a questa tappa |
 | [ ] | **PO-26 — Coltre e Aylin** | Porta Cuorescuro; risolvi Balthazar se ancora presente e scegli il destino di Aylin. Il ramo attivo la risparmia | Entrare chiude salvataggi alle Torri e ritorni alle regioni precedenti. Uccidere/consegnare Aylin è un ramo diverso, con perdite e ricompense diverse |
-| [ ] | **PO-27 — Assalto alle Torri** | Proteggi Jaheira, avanza fino a Ketheric sul tetto; prepara la discesa alla colonia | Jaheira deve sopravvivere per il suo reclutamento e il percorso di Minsc |
+| [ ] | **PO-27 — Assalto alle Torri** | Proteggi Jaheira, avanza fino a Ketheric sul tetto; parla a Jaheira per reclutarla prima della discesa; porta Wyll se vuoi richiedere lo stocco a Mizora | Jaheira deve sopravvivere per il suo reclutamento e il percorso di Minsc |
 | [ ] | **PO-28 — Colonia: giro completo** | Libera Zevlor e gli altri dai baccelli, salva Mizora, recupera Us se disponibile; Kressa e laboratorio per il passato del Durge; menti/interfaccia e recuperi | **Prima del boss e dell'uscita:** questi salvataggi non sono quelli della prigione visitata in PO-21. Non eliminare Mizora se vuoi conservare Wyll |
-| [ ] | **PO-29 — Ketheric/Myrkul e partenza** | Sconfiggi Ketheric e Myrkul; parla ai superstiti, recluta Jaheira e controlla Halsin/Thaniel; concludi le scene e le ricompense prima della strada per Baldur's Gate | L'uscita verso Atto 3 è definitiva. Non lasciare incompiuta la maledizione contando di tornare |
+| [ ] | **PO-29 — Ketheric/Myrkul e partenza** | Sconfiggi Ketheric e Myrkul; parla ai superstiti e ad Aylin con Cuorescuro, verifica Jaheira e Halsin/Thaniel; concludi le scene e le ricompense prima della strada per Baldur's Gate | L'uscita verso Atto 3 è definitiva. Non lasciare incompiuta la maledizione contando di tornare |
 
 Fonti: [Isobel](https://bg3.wiki/wiki/Resolve_the_Abduction), [protezione](https://bg3.wiki/wiki/Seek_Protection_from_the_Shadow_Curse), [Rolan](https://bg3.wiki/wiki/Find_Rolan_in_the_Shadows), [infiltrazione](https://bg3.wiki/wiki/Infiltrate_Moonrise_Towers), [prigionieri](https://bg3.wiki/wiki/Rescue_the_Tieflings), [Halsin](https://bg3.wiki/wiki/Lift_the_Shadow_Curse), [reliquia e Coltre](https://bg3.wiki/wiki/Find_Ketheric_Thorm%27s_Relic), [Zevlor](https://bg3.wiki/wiki/Find_Zevlor), [Wyll](https://bg3.wiki/wiki/The_Blade_of_Frontiers), [Ketheric](https://bg3.wiki/wiki/Defeat_Ketheric_Thorm).
 

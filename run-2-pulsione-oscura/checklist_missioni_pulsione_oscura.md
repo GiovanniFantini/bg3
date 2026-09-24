@@ -2,6 +2,8 @@
 
 Verifica online: **17 settembre 2026**. Ogni voce è collegata alla pagina individuale consultata; i nomi inglesi evitano ambiguità di localizzazione. Per l’ordine operativo usa il [percorso in 50 tappe](percorso_pulsione_oscura_bardo.md).
 
+**Aggiornamento del giocatore — 24 settembre 2026:** tutto l’Atto 1 concluso; prosegui da PO-18. Le righe precedenti con “Da verificare” conservano l’incertezza sui singoli esiti/ricompense, non indicano attività da rifare. Nessuna missione dell’Atto 2 è stata dichiarata conclusa. Le sue 20 voci regionali, continuazioni e alternative sono state ricontrollate nella [roadmap Atto 2](roadmap_atto2_pulsione_oscura.md#-tutte-le-missioni-dellatto-2).
+
 **Copertura: 147 voci**, comprese sottomissioni, prologo e alternative. Le quattro voci esclusive di altre origini sono elencate a parte. Il conteggio non rappresenta altrettante missioni simultaneamente completabili: alcune sono contenitori, continuazioni o rami incompatibili.
 
 Sono stati confrontati gli [indici generali](https://bg3.wiki/wiki/Quests) e le pagine individuali. Una missione che compare solo dopo una scelta non va forzata per spuntare la casella. Le attività prive di voce autonoma nel diario (Akabi, Abdirak, animali, boss di esplorazione e recuperi di oggetti) sono nel percorso operativo.

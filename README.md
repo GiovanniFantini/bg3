@@ -16,6 +16,8 @@ trophy-images/          screenshot dei trofei
 
 Protagonista **Bardo delle Lame** (*College of Swords*), elfo dei boschi, modalità **Stratega**, combattimento in mischia. Pulsione Oscura **opportunista per massimizzare armi, equipaggiamento e bonus**: salvare PNG e conservare mercanti serve alle ricompense, non è un vincolo morale.
 
+**Stato al 24 settembre 2026:** Atto 1 concluso; prossima tappa **PO-18, Ultima Luce**. [Roadmap Atto 2 aggiornata](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md#ordine-atto-2).
+
 **Parti da qui:** [percorso attivo in 50 tappe](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md) — stato della run, ordine delle missioni, scadenze dei tre atti. Per ordine e prerequisiti prevale su ogni altro file.
 
 | File | Cosa copre |
@@ -25,7 +27,7 @@ Protagonista **Bardo delle Lame** (*College of Swords*), elfo dei boschi, modali
 | [bardadino_opportunista_livello_per_livello.md](run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md) | Build attiva: Bardo delle Lame 10 / Paladino 2. Sostituisce Astarion per serrature e furtività; Allerta al 4, +2 DES al 10 |
 | [oggetti_exploit_opportunista.md](run-2-pulsione-oscura/oggetti_exploit_opportunista.md) | Oggetti da exploit divisi per atto, tappa, destinatario e limiti PS5 |
 | [roadmap_atto1_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md) | Atto 1: eventi esclusivi dell'origine, Ispirazioni, 70 voci di missione, percorso che asseconda la Pulsione e variante conservativa |
-| [roadmap_atto2_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md) | Atto 2: Isobel e la notte del compagno più caro (TS Saggezza CD 14 e bonus disponibili), la forma del Carnefice, le altre pulsioni |
+| [roadmap_atto2_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md) | Atto 2: ordine PO-18–29, 20 quest regionali e sottomissioni, continuazioni dei compagni, attività extra, scadenze e scelte opportuniste della Pulsione (verifica 24 settembre) |
 | [roadmap_atto3_pulsione_oscura.md](run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md) | Atto 3: la verità sul passato, Gortash, il Tribunale dell'Omicidio, il duello con Orin, i quattro finali, il set bhaalista |
 
 Le tre roadmap sono approfondimenti dell'origine, non l'itinerario: l'ordine lo dà il percorso attivo.
