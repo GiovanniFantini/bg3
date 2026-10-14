@@ -1,6 +1,6 @@
 # Oggetti per Paladino degli Antichi Astarion Karlach e Lae’zel in Onore
 
-**14 ottobre 2026 · PS5 · Patch 8 · Allerta su tutti.** Collegata alla [guida delle build e dei livelli](build_party_paladino_antichi.md). Gruppo principale: Antichi 7/Tempesta 5, Astarion Cacciatore Oscuro 5/Assassino 4/Maestro di Battaglia 3, Karlach Mano Aperta 8/Furfante 4, Lae’zel Maestro di Battaglia 12.
+**14 ottobre 2026 · PS5 · Patch 8 · Allerta su tutti.** Collegata alla [guida delle build e dei livelli](build_party_paladino_antichi.md). Gruppo principale: **Paladino degli Antichi puro 12**, Astarion Cacciatore Oscuro 5/Assassino 4/Maestro di Battaglia 3, Karlach Mano Aperta 8/Furfante 4, Lae’zel Maestro di Battaglia 12.
 
 **Nessuno degli oggetti qui è dichiarato posseduto.** Le tabelle indicano acquisti e ricompense da pianificare nella nuova run. I nomi italiani degli oggetti sono marcati ⚠️ perché la dicitura PS5 non è confermata: l’inglese e il link identificano senza ambiguità l’oggetto. Non usare le traduzioni italiane per cercare un oggetto diverso.
 
@@ -22,7 +22,7 @@ Un solo elisir ordinario attivo: **Forza e Sete di Sangue non si sommano**. Il b
 
 ## Paladino offensivo equipaggiamento per atto
 
-**Assetto principale aggiornato: arma a due mani, punizioni, cure d’emergenza.** Allerta al 4 e Grande Maestro d’Armi al totale 11. Prima del secondo talento la due mani resta utilizzabile, ma non applica il +10 del talento. Stile Difesa al 2 per conservare +1 CA senza scudo.
+**Assetto principale aggiornato: arma a due mani, punizioni, cure d’emergenza.** Allerta al 4, Grande Maestro d’Armi all’8 e Attaccante Selvaggio al 12. Prima del secondo talento la due mani resta utilizzabile, ma non applica il +10 del talento. Stile Difesa al 2 per conservare +1 CA senza scudo.
 
 | Atto | Slot | Oggetto e acquisizione | Impiego |
 |---|---|---|---|
@@ -31,12 +31,12 @@ Un solo elisir ordinario attivo: **Forza e Sete di Sangue non si sommano**. Il b
 | 1 | Guanti | ⚠️ **Guanti del Perdente Ringhiante (Gloves of the Growling Underdog)** dal tesoro di Ragzlin, **al Paladino**. [Fonte](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog). | Lae’zel usa un paio libero fino ai guanti offensivi dell’Atto 2. La condizione per il vantaggio non è sempre presente. |
 | 1 | Difese | Migliore armatura pesante; Elmo di Grym, Stivali della Velocità, amuleto Passo Nebbioso e anello Protezione se ottenuto. | Nessuno scudo mentre usi la due mani. La prima creazione adamantina resta la pesante di Lae’zel; la seconda può essere **una seconda pesante per il Paladino**, invece dello scudo della variante difensiva. |
 | 2 | Arma e guanti | Mantieni **Minaccia Invisibile** e **Perdente Ringhiante**. | Lae’zel prende i guanti Helldusk difettosi se disponibili; Karlach mantiene Brace e Sfrigolio in quel caso. |
-| 2 | Testa | ⚠️ **Diadema della Sinergia Arcana (Diadem of Arcane Synergy)**, da Ardent Jhe’rezath alla Creche, già Atto 1. [Fonte](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy). | Quando applichi una condizione ottieni Sinergia: +CAR ai danni dell’arma finché attiva. Comando o una condizione effettivamente inflitta aiutano ad attivarla; non supporre il bonus permanente senza trigger. |
+| 2 | Testa | ⚠️ **Diadema della Sinergia Arcana (Diadem of Arcane Synergy)**, da Ardent Jhe’rezath alla Creche, già Atto 1. [Fonte](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy). | Quando applichi una condizione ottieni Sinergia: +modificatore CAR ai danni dell’arma finché attiva. Comando o una condizione effettivamente inflitta aiutano ad attivarla; non supporre il bonus permanente senza trigger. |
 | 2 | Anello | ⚠️ **Dolcezza dell’Assassino (Killer’s Sweetheart)** dalla Prova di Autoidentificazione, **al Paladino**. [Fonte](https://bg3.wiki/wiki/Killer%27s_Sweetheart). | Critico preparato dopo un’uccisione: conserva la punizione per il bersaglio importante. Lae’zel non lo equipaggia contemporaneamente. |
 | 3 | Arma principale | ⚠️ **Ammazzagiganti di Balduran (Balduran’s Giantslayer)** da Ansur, **al Paladino**. [Fonte](https://bg3.wiki/wiki/Balduran%27s_Giantslayer). | Raddoppia il contributo FOR al danno; elisir 27 per il massimo danno. **Spada d’Argento rimane a Lae’zel**. Fino ad Ansur mantieni Minaccia Invisibile. |
 | 3 | Guanti | ⚠️ **Eredità dei Maestri (Legacy of the Masters)** da Dammon, **al Paladino**. [Fonte](https://bg3.wiki/wiki/Legacy_of_the_Masters). | +2 precisione/+2 danni con armi. **Astarion mantiene Guanti di Destrezza e DES 18**. Le Mani Rianimatrici sono opzionali, fuori dal set principale. |
 | 3 | Testa e anelli | **Diadema; Dolcezza dell’Assassino + Fascia del Furfante Mistico**. | Diadema per danni; Fascia per una magia utile dopo il colpo. Il bonus di Grande Maestro d’Armi dopo critico/uccisione compete per l’azione bonus: scegli, non conteggiarli entrambi. |
-| 3 | Difese | **Persistenza, Stivali Helldusk, Salute Superiore**, mantello Assorbimento Elementale e arco Cavalieri Infernali. | Senza scudo: **CA 21 = Persistenza 20 + Difesa 1**, temporaneamente **26** con Scudo reattivo. Viconia e Stella Sacra rimangono alternative difensive. |
+| 3 | Difese | **Persistenza, Stivali Helldusk, Salute Superiore**, mantello Assorbimento Elementale e arco Cavalieri Infernali. | Senza scudo: **CA 21 = Persistenza 20 + Difesa 1**, temporaneamente **26** solo se sostituisci Salute Superiore con un oggetto che concede Scudo, per esempio Amuleto degli Arpisti; il set principale non ha Scudo dalla classe. Viconia e Stella Sacra rimangono alternative difensive. |
 
 L’elisir di Forza non aumenta CAR: **CAR 16** senza bonus permanenti. Diadema attivo aggiunge +3 ai danni; Diritto di Nascita lo sostituisce e migliora CAR/aura, senza conservarne contemporaneamente la Sinergia. Le tabelle seguenti conservano la **variante con scudo e cure**, non il set principale aggiornato.
 
@@ -71,7 +71,7 @@ L’elisir di Forza non aumenta CAR: **CAR 16** senza bonus permanenti. Diadema 
 | Guanti | Mantieni **Orgoglio dei Cavalieri Infernali**. | La cura con bonus è una parte centrale del gruppo. |
 | Stivali | **Velocità**, oppure ⚠️ **Stivali del Clamore Tempestoso (Boots of Stormy Clamour)** da Omeluum dopo la missione del parassita, già ottenibili nell’Atto 1. [Fonte](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour). | Variante di controllo con Riverbero. L’attivazione non si moltiplica automaticamente su tutti i nemici investiti da un’aura. |
 | Mantello | ⚠️ **Mantello dell’Assorbimento Elementale (Cloak of Elemental Absorption)**, baule nelle stanze di Ketheric alle Torri. [Fonte](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption). | Difesa situazionale con reazione. La wiki segnala ricarica effettiva per riposo lungo; la resistenza non si somma a quella dell’aura. |
-| Amuleto | ⚠️ **Amuleto degli Arpisti (Amulet of the Harpers)** da Talli a Ultima Luce, poi sostituibile nell’Atto 3. [Fonte](https://bg3.wiki/wiki/Amulet_of_the_Harpers). | Vantaggio TS SAG e Scudo una volta per riposo lungo; dal totale 8 conosci anche Scudo. |
+| Amuleto | ⚠️ **Amuleto degli Arpisti (Amulet of the Harpers)** da Talli a Ultima Luce, poi sostituibile nell’Atto 3. [Fonte](https://bg3.wiki/wiki/Amulet_of_the_Harpers). | Vantaggio TS SAG e Scudo una volta per riposo lungo; il Paladino puro non impara Scudo dalla classe: questo è un uso da oggetto, non una magia preparabile. |
 | Anelli e arco | Mantieni **Promessa Sussurrata**, Protezione se ottenuto, Consapevolezza. | Conserva soldi per i veri salti di forza del resto del gruppo. |
 
 ### Atto 3
@@ -86,10 +86,10 @@ L’elisir di Forza non aumenta CAR: **CAR 16** senza bonus permanenti. Diadema 
 | Stivali | ⚠️ **Stivali Crepuscolo Infernale (Helldusk Boots)**, baule nell’alloggio di Gortash alla Roccia del Dragone. [Fonte](https://bg3.wiki/wiki/Helldusk_Boots). | Difesa contro spostamento/Prono, terreno difficile e reazione per un TS fallito. Rubarli dopo l’incoronazione può rendere ostile il piano: recuperali al momento compatibile col percorso o dopo Gortash. |
 | Amuleto | ⚠️ **Amuleto di Salute Superiore (Amulet of Greater Health)**, Archivio della Casa della Speranza. [Fonte](https://bg3.wiki/wiki/Amulet_of_Greater_Health). | **COS 23 e vantaggio ai TS COS**, compresa concentrazione. Non dà competenza COS. Disinnesca il piedistallo e cura dopo averlo equipaggiato. |
 | Anello 1 | **Promessa Sussurrata**. | Il buff delle cure rimane utile a livello 12. |
-| Anello 2 | ⚠️ **Fascia del Furfante Mistico (Band of the Mystic Scoundrel)**, zaino nella giungla di Akabi al Circo degli Ultimi Giorni. [Fonte](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel). | Dopo un colpo con arma, illusioni/ammaliamenti come azione bonus. Comando e Blocca Persone sono i primi candidati. Funziona anche con pergamene della scuola adatta. |
+| Anello 2 | ⚠️ **Fascia del Furfante Mistico (Band of the Mystic Scoundrel)**, zaino nella giungla di Akabi al Circo degli Ultimi Giorni. [Fonte](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel). | Dopo un colpo con arma, illusioni/ammaliamenti come azione bonus. Comando è preparabile dalla classe; Blocca Persone richiede una pergamena perché non è una magia degli Antichi. Funziona anche con pergamene della scuola adatta. |
 | Arco passivo | ⚠️ **Arco Lungo dei Cavalieri Infernali (Hellrider Longbow)** da Ferg Drogher a Rivington, senza Cuorescuro redenta vicina. [Fonte](https://bg3.wiki/wiki/Hellrider_Longbow). | +3 iniziativa e vantaggio Percezione. Con Allerta e DES 10 totale fisso iniziativa **+8**; nella versione DES 14 è **+10**. |
 
-**CA della variante con scudo:** Persistenza 20 + Viconia 3 + stile Difesa 1 = **24**, senza magie. Scudo reattivo porta temporaneamente a **29**. Non aggiungere al conteggio scudo adamantino, elmo di Balduran o mantello di protezione assegnati altrove.
+**CA della variante con scudo:** Persistenza 20 + Viconia 3 + stile Difesa 1 = **24**, senza magie. Con Amuleto degli Arpisti al posto di Salute Superiore puoi usare Scudo una volta per riposo lungo e arrivare temporaneamente a **29**; senza quell’oggetto il Paladino non ha Scudo. Non aggiungere al conteggio scudo adamantino, elmo di Balduran o mantello di protezione assegnati altrove.
 
 ### Variante offensiva del Paladino
 
@@ -318,4 +318,4 @@ Tieni **Picca Ritornante o Lanciatore Nanico** come alternativa singolo bersagli
 
 **Anello Rischioso:** rende più forte l’arciere quando precisione e apertura decidono lo scontro; può renderlo più fragile contro paralisi, paura o altri TS. Il sostituto difensivo non è un ripiego sbagliato: è una scelta per quel nemico.
 
-**Stivali e mobilità:** Velocità, Passo Nebbioso, volo della Tempesta, cure e Fascia del Furfante Mistico competono spesso per l’azione bonus. Gli oggetti concedono opzioni, non azioni bonus extra. Solo la classe Furfante di Karlach ne aggiunge una nel gruppo principale.
+**Stivali e mobilità:** Passo Nebbioso, attacco bonus di Grande Maestro d’Armi, cure e Fascia del Furfante Mistico competono spesso per l’azione bonus. Gli oggetti concedono opzioni, non azioni bonus extra. Solo la classe Furfante di Karlach ne aggiunge una nel gruppo principale.

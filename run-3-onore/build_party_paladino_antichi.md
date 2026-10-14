@@ -2,7 +2,7 @@
 
 **14 ottobre 2026 · PS5 · Patch 8 · Allerta su tutti.** Gruppo e giuramento confermati da Giovanni. La run di Mira è terminata; questa è la progettazione del nuovo gruppo. Livello, origine, razza, oggetti e bonus della nuova partita non sono stati dichiarati. Le statistiche includono già +2/+1 e usano 27 punti.
 
-**Preferenza confermata: poche cure e tante mazzate.** Il protagonista usa un’arma a due mani e punizioni; le aure restano attive e le cure servono alle emergenze. Nome proposto: **Bram Spezzarovi**, non ancora confermato. La multiclass resta una proposta.
+**Preferenza confermata: poche cure e tante mazzate.** Il protagonista usa un’arma a due mani e punizioni; le aure restano attive e le cure servono alle emergenze. Nome proposto: **Bram Spezzarovi**, non ancora confermato. **Classe confermata: Paladino degli Antichi puro 12**, senza multiclassare.
 
 ## Il gruppo consigliato
 
@@ -10,7 +10,7 @@ L’obiettivo è vincere gli scontri di Onore con iniziativa alta, danno affidab
 
 | Personaggio | Build finale consigliata | Funzione | Talenti reali |
 |---|---|---|---|
-| Protagonista | **Paladino degli Antichi 7 / Stregone della Tempesta 5** | Portavoce, arma a due mani, punizioni, aure e Controincantesimo | Allerta; Grande Maestro d’Armi |
+| Protagonista | **Paladino degli Antichi 12** | Portavoce, arma a due mani, punizioni e aure | Allerta; Grande Maestro d’Armi; Attaccante Selvaggio |
 | Astarion | **Ramingo Cacciatore Oscuro 5 / Ladro Assassino 4 / Guerriero Maestro di Battaglia 3** | Arco, frecce speciali, apertura, serrature e trappole | Allerta; Tiratore Scelto |
 | Karlach | **Monaca Via della Mano Aperta 8 / Ladra Furfante 4** | Danno senz’armi, stordimento, rimozione reazioni, mobilità | Allerta; Rissaiolo da Taverna; +2 SAG |
 | Lae’zel | **Guerriera Maestro di Battaglia 12** | Tre attacchi, Azione Impetuosa, manovre, arma a due mani | Allerta; Grande Maestro d’Armi; +2 FOR; +2 FOR |
@@ -19,7 +19,7 @@ L’obiettivo è vincere gli scontri di Onore con iniziativa alta, danno affidab
 
 **Dipendenza della versione di massimo danno:** Karlach usa elisir di Forza; anche il Paladino può usarli per concentrare i punti su CAR e difese. Si preparano scorte, non si presume un mercante sempre rifornito. Le distribuzioni autonome sotto permettono di giocare senza elisir, ma non danno gli stessi numeri. Non consumare un altro elisir dopo quello di Forza: normalmente lo sostituisce.
 
-Fonti: [Paladino](https://bg3.wiki/wiki/Paladin), [Antichi](https://bg3.wiki/wiki/Oath_of_the_Ancients), [Stregone](https://bg3.wiki/wiki/Sorcerer), [Tempesta](https://bg3.wiki/wiki/Storm_Sorcery), [Mano Aperta](https://bg3.wiki/wiki/Way_of_the_Open_Hand), [Furfante](https://bg3.wiki/wiki/Thief), [Rissaiolo](https://bg3.wiki/wiki/Tavern_Brawler).
+Fonti: [Paladino](https://bg3.wiki/wiki/Paladin), [Antichi](https://bg3.wiki/wiki/Oath_of_the_Ancients), [Mano Aperta](https://bg3.wiki/wiki/Way_of_the_Open_Hand), [Furfante](https://bg3.wiki/wiki/Thief), [Rissaiolo](https://bg3.wiki/wiki/Tavern_Brawler).
 
 **Localizzazione:** ⚠️ indica una dicitura italiana da verificare sulla PS5; l’inglese tra parentesi identifica la scelta. I nomi degli oggetti nella guida collegata sono tutti accompagnati dall’inglese. Lo schermo prevale sulle traduzioni delle vecchie guide.
 
@@ -38,7 +38,7 @@ Fonti: [Paladino](https://bg3.wiki/wiki/Paladin), [Antichi](https://bg3.wiki/wik
 
 **Razza proposta per il protagonista: halfling Cuoreforte.** Fortuna degli halfling ritira gli 1 su attacchi, prove e tiri salvezza; utile anche nei dialoghi di Onore. Ha movimento 7,5 m: Passo Veloce e gli oggetti di mobilità compensano in parte. Alternativa: mezzorco per Tenacia Implacabile e critici, oppure mezzelfo dei boschi per movimento 10,5 m. Il Paladino possiede già le competenze in armature e scudi, quindi non sceglierlo per ottenere quelle. [Halfling](https://bg3.wiki/wiki/Halfling), [Mezzorco](https://bg3.wiki/wiki/Half-Orc), [Mezzelfo](https://bg3.wiki/wiki/Half-Elf), [background](https://bg3.wiki/wiki/Backgrounds).
 
-Nel piano offensivo il Paladino resta a **CAR 16**: il secondo talento è Grande Maestro d’Armi, non +2 CAR. Specchio riuscito porta a 18; Diritto di Nascita equipaggiato porta a 18 senza Specchio, oppure 20 con Specchio, ma sostituisce il diadema offensivo. La variante con +2 CAR al posto del talento offensivo arriva a 18 senza premi. La versione con elisir mantiene la stessa CAR, ma migliora DES, COS e SAG. Non usare FOR 8 senza un elisir attivo.
+Nel piano offensivo il Paladino resta a **CAR 16**: Allerta al 4, Grande Maestro d’Armi all’8 e Attaccante Selvaggio al 12. Specchio riuscito porta a 18; Diritto di Nascita equipaggiato porta a 18 senza Specchio, oppure 20 con Specchio, ma sostituisce il diadema offensivo. La variante con +2 CAR al posto di Attaccante Selvaggio al 12 arriva a 18 senza premi, mantenendo Grande Maestro d’Armi. La versione con elisir mantiene la stessa CAR, ma migliora DES, COS e SAG. Non usare FOR 8 senza un elisir attivo.
 
 ## Nautiloide e Comando al livello 1
 
@@ -50,62 +50,52 @@ Nel piano offensivo il Paladino resta a **CAR 16**: il secondo talento è Grande
 
 Per tentare di prendere lo spadone di Zhalk, prepara **⚠️ Comando: Lascia cadere (Command: Drop)** su Cuorescuro prima dello scontro. Se Zhalk fallisce il TS SAG, lascia l’arma a terra: raccoglila e raggiungi il transponder senza doverlo uccidere. Il tentativo può fallire; non prolungare lo scontro di Onore per inseguire il bottino. Cuorescuro nel prologo non sostituisce Karlach nel gruppo definitivo. [Comando e classi](https://bg3.wiki/wiki/Command), [Lascia cadere](https://bg3.wiki/wiki/Command:_Drop), [spadone](https://bg3.wiki/wiki/Everburn_Blade).
 
-## Paladino degli Antichi livello per livello
+## Paladino degli Antichi puro livello per livello
 
-**Inizia Paladino e mantieni la classe fino al 7.** Così ottieni armature pesanti, Attacco Extra al 5 e le due aure al 6/7 senza ritardi. Aggiungere Stregone successivamente non concede competenza nei tiri salvezza su COS: restano quelli iniziali del Paladino, SAG e CAR.
+**Scegli Paladino a tutti i livelli, dal primo al dodicesimo.** Tre talenti: **Allerta al 4, Grande Maestro d’Armi all’8, Attaccante Selvaggio al 12**. È il piano offensivo; CAR rimane 16 senza bonus esterni. Se vuoi privilegiare CAR, al 12 puoi sostituire Attaccante Selvaggio con +2 CAR, arrivando a 18. Non aggiungere entrambi come un quarto talento.
 
-| Livello totale | Classe | Scelte esatte | Uso e capacità |
+| Livello | Classe e scelte | Magie da preparare e capacità | Uso |
 |---|---|---|---|
-| **1** | Paladino 1 | **Giuramento degli Antichi**. Statistiche e abilità sopra. **Arma a due mani**, senza scudo. | Imposizione delle Mani; ⚠️ **Radianza Curativa (Healing Radiance)**, azione bonus e carica del giuramento. Cura ad area ora e all’inizio del tuo prossimo turno. |
-| **2** | Paladino 2 | Stile **Difesa (Defence)**. Prepara Benedizione (*Bless*) [C], Comando (*Command*), Cura Ferite (*Cure Wounds*), Scudo della Fede (*Shield of Faith*) [C]. | +1 CA con armatura. **Punizione Divina** disponibile. La lista preparabile è più ampia di questo nucleo: non devi scegliere permanentemente quattro magie. |
-| **3** | Paladino 3 | Aggiungi Protezione dal Bene e dal Male (*Protection from Evil and Good*) [C] quando serve. | Salute Divina; capacità del giuramento. Sempre preparati Parlare con gli Animali e Colpo Intrappolante (*Ensnaring Strike*) [C]. |
-| **4** | Paladino 4 | **Allerta**. CAR resta 16. | +5 iniziativa e immunità a Sorpreso. Non protegge da azioni leggendarie o da tutti gli effetti che fanno perdere il turno. |
-| **5** | Paladino 5 | Prepara **Aiuto (Aid)** e **Ristorare Inferiore (Lesser Restoration)**. Aggiungi Punizione Marchiante (*Branding Smite*) [C] solo per situazioni adatte. | **Attacco Extra**. Sempre preparati Passo Nebbioso e Raggio Lunare (*Moonbeam*) [C]. Aiuto aumenta PF attuali e massimi: preparalo dopo il riposo, tenendolo preparato. |
-| **6** | Paladino 6 | **Attiva Aura di Protezione**. | Te e alleati entro **3 m** aggiungete CAR ai tiri salvezza: +3 con CAR 16, +4 con 18. Non copre un arciere lontano. |
-| **7** | Paladino 7 | **Attiva anche l’aura degli Antichi (Aura of Warding)**. | Danni degli **incantesimi** dimezzati entro 3 m. Non dimezza qualsiasi danno magico; non si somma a una resistenza dello stesso tipo per ottenere un quarto dei danni. |
-| **8** | Stregone 1 | **Tempesta (Storm Sorcery)**. Trucchetti: ⚠️ Lama Rimbombante (*Booming Blade*), Raggio di Gelo, Illusione Minore, Luce. Impara **Scudo (Shield)** e **Dardo Incantato (Magic Missile)**. | Volo con azione bonus dopo una magia di livello 1 o superiore. Scudo è una reazione, +5 CA fino al turno successivo. |
-| **9** | Stregone 2 | Impara **Camuffare Se Stesso (Disguise Self)**. Metamagia: ⚠️ **Incantesimo Raddoppiato (Twinned Spell)** e **Incantesimo Esteso (Extended Spell)**. | 2 punti stregoneria. Puoi trasformare slot in punti; non spendere tutto prima di un boss. |
-| **10** | Stregone 3 | Impara **Blocca Persone (Hold Person) [C]**. Sostituisci Dardo Incantato con **Immagine Speculare (Mirror Image)**. Metamagia: ⚠️ **Incantesimo Intensificato (Heightened Spell)**. | 4 magie da Stregone conosciute. Intensificato costa 3 punti e dà svantaggio al primo TS: utile per il controllo. La paralisi funziona sugli umanoidi, non su ogni boss. |
-| **11** | Stregone 4 | Talento **Grande Maestro d’Armi (Great Weapon Master)**. CAR resta **16**. Impara **Caratteristica Potenziata (Enhance Ability) [C]**. Trucchetto **Mano Magica**. | 5 magie conosciute; +3 dall’aura. Il -5/+10 richiede precisione adeguata. Il colpo bonus dopo critico/uccisione compete con le magie della Fascia e il volo. Caratteristica Potenziata dà vantaggio alle prove della caratteristica scelta, non ai tiri salvezza. |
-| **12** | Stregone 5 | Impara **Controincantesimo (Counterspell)**. Sostituisci Camuffare Se Stesso con **Trama Ipnotica (Hypnotic Pattern) [C]**. | Lista finale: Scudo, Immagine Speculare, Blocca Persone, Caratteristica Potenziata, Controincantesimo, Trama Ipnotica. **6 magie, 5 trucchetti, 3 metamagie, 5 punti stregoneria.** |
+| **1** | **Paladino 1, Giuramento degli Antichi**; statistiche e abilità sopra. Arma a due mani. | Imposizione delle Mani; ⚠️ Radianza Curativa (*Healing Radiance*). Nessuno slot o Comando dalla classe. | Cure d’emergenza; scegli un’arma +1 se lo spadone di Zhalk non viene recuperato. |
+| **2** | Paladino 2; stile **Difesa (Defence)**. | **Punizione Divina**. Prepara Benedizione (*Bless*) [C], Comando (*Command*), Favore Divino (*Divine Favour*) [C], Protezione dal Bene e dal Male [C]; Cura Ferite quando serve. | +1 CA con armatura. Punizioni normali e su critico impostate su «Chiedi». Le magie preparate si cambiano fuori combattimento. |
+| **3** | Paladino 3. | Salute Divina e capacità del giuramento; Parlare con gli Animali e Colpo Intrappolante (*Ensnaring Strike*) [C] sempre preparati. | Parla con gli animali fuori combattimento senza spendere slot come rituale. |
+| **4** | Paladino 4; **Allerta**. | CAR 16; +5 iniziativa e immunità a Sorpreso. | Grande Maestro d’Armi arriverà all’8. |
+| **5** | Paladino 5. | **Attacco Extra**. Prepara Aiuto (*Aid*) e Ristorare Inferiore (*Lesser Restoration*). Passo Nebbioso e Raggio Lunare [C] sempre preparati dal giuramento. | Due attacchi con l’azione. Aiuto dopo il riposo, tenendolo preparato. Teletrasporto per raggiungere il bersaglio. |
+| **6** | Paladino 6; **attiva Aura di Protezione**. | +CAR ai TS del Paladino e degli alleati entro **3 m**: +3 con CAR 16. | L’arciere distante non riceve l’aura. |
+| **7** | Paladino 7; **attiva Aura degli Antichi (Aura of Warding)**. | Dimezza i danni degli **incantesimi** entro 3 m. | Non dimezza ogni danno magico e non si somma a resistenze identiche. |
+| **8** | Paladino 8; **Grande Maestro d’Armi (Great Weapon Master)**. | -5 al colpire/+10 danni con l’arma pesante adatta; colpo bonus dopo critico/uccisione. | Attiva il -5/+10 quando la precisione è buona. Il colpo bonus usa l’azione bonus, condivisa con Passo Nebbioso e le magie della Fascia. |
+| **9** | Paladino 9. | Magie di **3°**. Prepara **Manto del Crociato (Crusader’s Mantle) [C]**, ⚠️ **Rivitalizza (Revivify)**; Arma Elementale (*Elemental Weapon*) [C] come alternativa. Protezione dall’Energia [C] e Crescita Vegetale sempre preparate dal giuramento. | Manto aggiunge 1d4 radioso alle armi degli alleati nel raggio: utile per Astarion e Lae’zel, non come bonus ai pugni. Controlla ritorsioni radiose prima di usarlo. |
+| **10** | Paladino 10; **attiva Aura di Coraggio**. | Immunità a Spaventato per te e alleati nel raggio dell’aura; cinque cariche di Imposizione delle Mani. | Mantieni attive tutte le aure disponibili. |
+| **11** | Paladino 11. | **Punizione Divina Migliorata (Improved Divine Smite)**: +1d8 radioso agli attacchi con arma da mischia, senza spendere slot. | La punizione ordinaria con slot rimane separata e si può aggiungere. Il bonus è automatico: controlla le ritorsioni radiose prima di attaccare in mischia, anche senza spendere slot. |
+| **12** | Paladino 12; **Attaccante Selvaggio (Savage Attacker)**. | Ritira i dadi di danno degli attacchi da mischia scegliendo il risultato migliore, incluse le punizioni nei casi documentati. | Terzo talento: aumenta il danno della due mani e delle punizioni; non alza CAR e non aggiunge un attacco. |
 
-Fonti: [Paladino e magie](https://bg3.wiki/wiki/Paladin), [lista del Paladino](https://bg3.wiki/wiki/List_of_Paladin_spells), [giuramento](https://bg3.wiki/wiki/Oath_of_the_Ancients), [Stregone e metamagia](https://bg3.wiki/wiki/Sorcerer), [lista dello Stregone](https://bg3.wiki/wiki/List_of_Sorcerer_spells), [Aura di Protezione](https://bg3.wiki/wiki/Aura_of_Protection), [Aura degli Antichi](https://bg3.wiki/wiki/Aura_of_Warding), [Lama Rimbombante](https://bg3.wiki/wiki/Booming_Blade).
+Fonti: [Paladino e progressione](https://bg3.wiki/wiki/Paladin), [magie del Paladino](https://bg3.wiki/wiki/List_of_Paladin_spells), [Antichi](https://bg3.wiki/wiki/Oath_of_the_Ancients), [Attaccante Selvaggio](https://bg3.wiki/wiki/Savage_Attacker), [Punizione Migliorata](https://bg3.wiki/wiki/Improved_Divine_Smite), [Manto del Crociato](https://bg3.wiki/wiki/Crusader%27s_Mantle).
 
 ### Slot e concentrazione
 
-Al 12 il livello effettivo d’incantatore è **8**: `floor(7/2 + 5)`. Slot normali **4 di 1°, 3 di 2°, 3 di 3°, 2 di 4°**. Nessuno slot di 5° e nessuna magia di 4° appresa dalle classi: gli slot di 4° servono per potenziare magie note o punizioni. La wiki distingue l’arrotondamento della classe singola da quello delle multiclassi. [Regola degli slot](https://bg3.wiki/wiki/Spells#Spellcasting).
+Al livello 12 hai **4 slot di 1°, 3 di 2°, 3 di 3°**, recuperati col riposo lungo. Nessuno slot di 4° o superiore. Nessun punto stregoneria, metamagia o trucchetto di classe. Il Paladino prepara le magie: non impara una lista fissa come uno Stregone. Non ottiene Scudo (*Shield*), Controincantesimo, Blocca Persone o Trama Ipnotica dalla classe degli Antichi. [Classe](https://bg3.wiki/wiki/Paladin), [lista delle magie](https://bg3.wiki/wiki/List_of_Paladin_spells).
 
-Punizione Divina: 2d8/3d8/4d8/5d8 con slot di 1°/2°/3°/4°, più 1d8 contro non morti e immondi. Imposta **«Chiedi» sia per i colpi normali sia per i critici**, così spendi lo slot dopo un colpo riuscito. Il prompt della punizione non consuma la tua risorsa Reazione. Non sprecare lo slot alto per un nemico che muore col danno normale. [Punizione Divina](https://bg3.wiki/wiki/Divine_Smite), [reazione](https://bg3.wiki/wiki/Divine_Smite_(reaction)).
+**Punizione Divina con slot:** 2d8/3d8/4d8 con slot di 1°/2°/3°, più 1d8 contro non morti e immondi. La Punizione Migliorata del livello 11 aggiunge separatamente il suo 1d8 agli attacchi da mischia. Imposta «Chiedi» per le punizioni normali e su critico: il prompt non consuma la risorsa Reazione. Spendi gli slot dove cambiano l’esito del colpo. [Punizione](https://bg3.wiki/wiki/Divine_Smite), [reazione](https://bg3.wiki/wiki/Divine_Smite_(reaction)), [Punizione Migliorata](https://bg3.wiki/wiki/Improved_Divine_Smite).
 
-Ogni PG tiene **una sola concentrazione**. Benedizione, Scudo della Fede, Raggio Lunare, Blocca Persone, Caratteristica Potenziata e Trama Ipnotica si sostituiscono. **Le aure, Immagine Speculare, Scudo e Punizione Divina ordinaria non richiedono concentrazione.** Aiuto non è una magia a concentrazione.
+Ogni PG mantiene **una sola concentrazione**: Benedizione, Favore Divino, Protezione dal Bene e dal Male, Raggio Lunare, Manto del Crociato e Arma Elementale si sostituiscono. Aure, Aiuto e Punizione Divina ordinaria non richiedono concentrazione. Per scontri brevi puoi preferire attaccare subito invece di spendere un’azione per Manto. Le aure restano attive mentre picchi.
 
-Non apprendi Velocità nella lista principale: questo gruppo beneficia molto di controllo e di Controincantesimo. Se la vuoi, sostituisci Trama Ipnotica al 12, oppure usa pergamene/Arco del Fuoco Oscuro. In Onore l’azione aggiunta non replica l’intera sequenza di Attacco Extra; interrompere Velocità infligge Letargia. **Velocità raddoppiata non è l’apertura automatica del gruppo.** [Velocità](https://bg3.wiki/wiki/Haste).
+**Velocità non è una magia degli Antichi.** Usa l’oggetto/pergamena appropriato se vuoi quell’effetto; in Onore l’azione aggiunta non replica l’intera sequenza di Attacco Extra e interrompere la Velocità ordinaria causa Letargia. [Velocità](https://bg3.wiki/wiki/Haste).
 
-### Cura di emergenza e variante di supporto
+### Cure di emergenza e variante di supporto
 
-Il set di cura seguente è **opzionale**: non occupa gli slot del set offensivo finale. Non cambiare guanti o anelli durante uno scontro dando per gratuito il costo del cambio. **Radianza Curativa + Promessa Sussurrata + Orgoglio dei Cavalieri Infernali**: l’azione bonus cura entro 3 m, concede il bonus di Benedizione per 2 turni senza concentrazione e resistenza fisica agli alleati curati. Il secondo impulso rinnova gli effetti sui bersagli raggiunti. I guanti dell’Atto 1 **non proteggono il guaritore che cura sé stesso**; Le Mani Rianimatrici dell’Atto 3 sì. Usalo per recuperare un alleato o proteggere il gruppo quando serve; la rotazione principale rimane attaccare e punire. [Cura del giuramento](https://bg3.wiki/wiki/Healing_Radiance), [anello](https://bg3.wiki/wiki/The_Whispering_Promise), [guanti iniziali](https://bg3.wiki/wiki/Hellrider%27s_Pride), [guanti finali](https://bg3.wiki/wiki/The_Reviving_Hands).
+Le cure non sono la rotazione principale. **Radianza Curativa** permette di recuperare il gruppo con un’azione bonus quando necessario; Imposizione delle Mani è la riserva per salvare un alleato. Promessa Sussurrata + Orgoglio dei Cavalieri Infernali/Mani Rianimatrici restano un set opzionale che sostituisce anelli/guanti offensivi, senza occupare contemporaneamente quegli stessi slot. [Cura del giuramento](https://bg3.wiki/wiki/Healing_Radiance), [anello](https://bg3.wiki/wiki/The_Whispering_Promise), [guanti iniziali](https://bg3.wiki/wiki/Hellrider%27s_Pride), [guanti finali](https://bg3.wiki/wiki/The_Reviving_Hands).
 
-La resistenza fisica concessa dai guanti non si somma a un’altra resistenza fisica. Benedizione ordinaria e il bonus di Benedizione dell’anello non vanno sommati come due +1d4 identici.
+Le cure con quel set concedono bonus a colpire/TS e resistenza fisica agli alleati; i guanti iniziali non proteggono la tua autocura, quelli finali sì. Non sommare due Benedizioni identiche o due resistenze identiche.
 
-### Variante di controllo con elmo e anello
+### Comando con la Fascia del Furfante Mistico
 
-Nel set offensivo indossi il **Diadema della Sinergia Arcana**. Per uno scontro dove il controllo conta più del danno, sostituiscilo con l’elmo seguente. **Elmo dell’Acume Arcano + Fascia del Furfante Mistico**: colpisci con l’arma, accumula Acume, poi lancia **Comando, Blocca Persone o Trama Ipnotica con l’azione bonus**. Due colpi normali riusciti danno normalmente 4 accumuli di Acume, quindi +4 alla CD delle magie. Il massimo è 10, ma non lo ottieni automaticamente con due attacchi. Scudo e Controincantesimo non diventano azioni bonus grazie all’anello.
+Il set offensivo usa **Diadema della Sinergia Arcana** per danni e **Fascia del Furfante Mistico** per lanciare **Comando con azione bonus dopo un colpo con arma**. Con slot di 3° Comando può colpire fino a **3 bersagli** e non richiede concentrazione; non funziona sui non morti. L’azione bonus compete con il colpo di Grande Maestro d’Armi: scegli la risposta più utile. [Comando](https://bg3.wiki/wiki/Command), [Fascia](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel).
 
-Comando può colpire più bersagli usando slot superiori e non richiede concentrazione; **non funziona sui non morti**. Con Incantesimo Esteso può durare due turni, senza un secondo TS nei casi documentati dalla wiki: una forte opzione per togliere azioni a bersagli validi. Blocca Persone di 4° seleziona fino a **3 umanoidi**. Gli attacchi entro 3 m contro un bersaglio paralizzato sono critici se colpiscono: il gruppo concentra il danno su quel bersaglio. Resistenze leggendarie e immunità continuano a contare. [Elmo](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity), [Acume](https://bg3.wiki/wiki/Arcane_Acuity_(Condition)), [anello](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel), [Comando](https://bg3.wiki/wiki/Command), [Blocca Persone](https://bg3.wiki/wiki/Hold_Person).
+La variante **Elmo dell’Acume Arcano** sostituisce il Diadema quando vuoi aumentare la CD. Due colpi normali riusciti danno normalmente 4 accumuli di Acume. La Fascia può anche usare pergamene di illusioni/ammaliamenti, ma **Blocca Persone e Trama Ipnotica non sono apprese dal Paladino** e richiedono le rispettive pergamene. Nessun Incantesimo Esteso o Intensificato in questa build. [Elmo](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity), [Acume](https://bg3.wiki/wiki/Arcane_Acuity_(Condition)), [pergamene](https://bg3.wiki/wiki/Spells#Scrolls).
 
-### Confronto con Paladino puro e Hexblade
+### Talento finale e Carisma
 
-| Variante | Talenti e risultato senza bonus | Cosa guadagni | Cosa rinunci |
-|---|---|---|---|
-| **Antichi 7 / Tempesta 5**, scelta principale offensiva | Allerta, Grande Maestro d’Armi; CAR 16 | Più slot, controllo con CAR, Scudo, Controincantesimo; copre parte delle magie mancanti al gruppo | Punizione Migliorata, terzo talento, aura contro paura del Paladino 10 |
-| **Antichi 12** | Allerta al 4, +2 CAR all’8, +2 CAR al 12; CAR 20 | Semplicità; Punizione Migliorata al 11; aura contro paura al 10 | Controincantesimo e magie da Stregone; meno slot |
-| **Antichi 11 / Hexblade 1** | Allerta e +2 CAR; CAR 18 | L’arma vincolata usa CAR; Punizione Migliorata; Scudo; minore bisogno di Forza | Terzo talento; controllo e slot del 7/5 |
-
-**Puro 12, scelte oltre il 7:** all’8 +2 CAR; al 9 prepara **⚠️ Rivitalizza (Revivify)** e **Arma Elementale (Elemental Weapon) [C]**; ottieni anche Protezione dall’Energia e Crescita Vegetale dal giuramento. Al 10 Aura di Coraggio, all’11 Punizione Divina Migliorata, al 12 +2 CAR. Le magie preparate restano cambiabili fuori combattimento. [Lista effettiva](https://bg3.wiki/wiki/List_of_Paladin_spells).
-
-**11/1, percorso:** livelli 1–7 Paladino come sopra; al totale 8 prendi Hexblade 1 e impara Scudo + Armatura di Agathys, trucchetti Lama Rimbombante + Deflagrazione Occulta; al 9 Paladino 8 e +2 CAR; 10 Paladino 9; 11 Paladino 10; 12 Paladino 11. Dopo il livello Hexblade puoi rispecializzare a 8/14/16/8/12/16 e vincolare l’arma per usare CAR, senza elisir. La Deflagrazione senza invocazione Agonizzante è una soluzione di riserva, non una build da raggi. [Hexblade](https://bg3.wiki/wiki/The_Hexblade), [vincolo](https://bg3.wiki/wiki/Bind_Hexed_Weapon).
-
-Il vecchio **Paladino 7 / Warlock 5 non ottiene tre attacchi in Onore**: gli Attacchi Extra non si sommano. Non è la variante consigliata qui. [Patto Approfondito](https://bg3.wiki/wiki/Deepened_Pact).
+**Assetto offensivo principale:** Allerta, Grande Maestro d’Armi, Attaccante Selvaggio; **CAR 16**, con eventuali bonus esterni separati. **Variante CAR:** Allerta, Grande Maestro d’Armi, +2 CAR; **CAR 18** senza bonus, rinunciando ad Attaccante Selvaggio. Mantieni la classe pura in entrambi i casi. Non inserire altre classi nella progressione del protagonista.
 
 ## Astarion livello per livello
 
@@ -223,7 +213,7 @@ L’equipaggiamento della variante è nella [guida oggetti](equip_party_paladino
 
 Fonti: [bonus permanenti](https://bg3.wiki/wiki/Permanent_bonuses), [Specchio](https://bg3.wiki/wiki/Mirror_of_Loss), [rotture degli Antichi](https://bg3.wiki/wiki/Oath_of_the_Ancients#Oathbreaking_actions), [Armatura Bhaalista](https://bg3.wiki/wiki/Bhaalist_Armour).
 
-**CAR reale del piano offensivo:** base **16**, senza aumento da talento; Specchio +2 confermato = **18**. La precedente variante con +2 CAR al posto di Grande Maestro d’Armi raggiunge 18, oppure 20 con Specchio. Il Diritto di Nascita aggiunge 2, ma occupa lo slot dell’Elmo dell’Acume: non sommare entrambi. Solo nella variante che sceglie il talento +2 CAR, con una rispecializzazione iniziale a CAR 17 e capello +1, il talento porta a 20; Specchio porta a 22; cappello può portare a 24 secondo l’ordine dei bonus documentato. È una variante condizionata, non CAR 24 gratuita per il piano principale.
+**CAR reale del piano offensivo:** base **16**, senza aumento da talento; Specchio +2 confermato = **18**. La variante con +2 CAR al posto di Attaccante Selvaggio al 12 raggiunge 18, oppure 20 con Specchio. Il Diritto di Nascita aggiunge 2, ma occupa lo slot dell’Elmo dell’Acume: non sommare entrambi. Solo nella variante che sceglie il talento +2 CAR, con una rispecializzazione iniziale a CAR 17 e capello +1, il talento porta a 20; Specchio porta a 22; cappello può portare a 24 secondo l’ordine dei bonus documentato. È una variante condizionata, non CAR 24 gratuita per il piano principale.
 
 **SAG reale di Karlach:** 17 iniziale + talento 2 = **19**; Specchio +2 = **21**, modificatore +5; eventuale +1 ulteriore porta a 22, modificatore +6. Non scrivere SAG 20 senza indicare da dove arriva il punto mancante. [Diritto di Nascita](https://bg3.wiki/wiki/Birthright), [Specchio](https://bg3.wiki/wiki/Mirror_of_Loss).
 
@@ -235,9 +225,9 @@ Fonti: [bonus permanenti](https://bg3.wiki/wiki/Permanent_bonuses), [Specchio](h
 4. **Paladino:** se il controllo può togliere il turno a più nemici, dai priorità a quello. Usa cure se servono per salvare un alleato; il set di bonus sulle cure rimane la variante di supporto. Se il boss è vulnerabile e va chiuso subito, punizioni sui colpi buoni.
 5. **Karlach:** passa a manifestazione necrotica/psichica dove il radioso è punito. Stordisci il nemico adatto, oppure impedisci reazioni prima di muovere gli alleati; queste capacità non spengono automaticamente ogni azione leggendaria.
 6. **Lae’zel:** Attacco Preciso sostiene Grande Maestro d’Armi. Disarma un nemico che dipende dall’arma; Azione Impetuosa quando cambia l’esito del round, non per togliere gli ultimi 3 PF a un gregario.
-7. **Risorse di reazione:** Scudo, Controincantesimo, risposta dello scudo e Infernal Evasion competono per la stessa reazione del Paladino. Metti «Chiedi» e scegli la risposta che evita il danno o controllo più importante.
+7. **Risorse di reazione:** attacchi di opportunità, eventuale risposta dello scudo e Infernal Evasion competono per la stessa reazione del Paladino. Scudo è disponibile solo tramite un oggetto adatto, per esempio Amuleto degli Arpisti, che sostituisce Salute Superiore. Metti «Chiedi» dove utile.
 
-**Limite reale del gruppo:** nessun incantatore completo, nessun Controincantesimo prima del totale 12 nel piano principale, nessun Chierico. Conserva pergamene di controllo, Porta Dimensionale, Globo di Invulnerabilità, pozioni curative e invisibilità. Il Paladino è il candidato principale per le pergamene che richiedono CD: usa CAR, mentre il Monaco multiclassato può usare una caratteristica diversa per gli oggetti. Non assegnare ad Astarion un incantesimo con CD alta pensando che l’arco lo renda bravo anche a lanciarlo. [Pergamene e caratteristiche](https://bg3.wiki/wiki/Spells#Scrolls).
+**Limite reale del gruppo:** nessun incantatore completo, nessun Controincantesimo appreso a nessun livello del piano principale, nessun Chierico. Conserva pergamene di controllo, Porta Dimensionale, Globo di Invulnerabilità, pozioni curative e invisibilità. Il Paladino usa CAR per le pergamene che richiedono CD; con CAR 16, elmo dell’Acume e bonus reali aiutano la precisione delle magie, mentre il Monaco multiclassato può usare una caratteristica diversa per gli oggetti. Non assegnare ad Astarion un incantesimo con CD alta pensando che l’arco lo renda bravo anche a lanciarlo. [Pergamene e caratteristiche](https://bg3.wiki/wiki/Spells#Scrolls).
 
 La scelta del giuramento impone di controllare anche il percorso: **Ethel, Connor, liberazione della pixie, Aylin, Cazador e Valeria** possono cambiarlo. Se si rompe, il personaggio non è più la build degli Antichi descritta qui: ripristina il giuramento per recuperarla. Da Spezzagiuramento non puoi rispecializzare normalmente finché non ripristini il giuramento. [Regole e costo](https://bg3.wiki/wiki/Paladin#Oaths_and_Oathbreaking).
 

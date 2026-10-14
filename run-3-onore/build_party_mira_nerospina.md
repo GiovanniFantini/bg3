@@ -2,7 +2,7 @@
 
 > **Run terminata, aggiornamento del 14 ottobre 2026:** il giocatore ha dichiarato la morte e la fine della run Onore di Mira. Questa guida conserva il piano storico. Per la nuova Onore ha scelto Paladino degli Antichi, Astarion, Karlach e Lae’zel; non trasferire oggetti o progressi di Mira come dati acquisiti.
 
-**Nuovo piano:** [Paladino degli Antichi e gruppo](build_party_paladino_antichi.md), con [oggetti atto per atto](equip_party_paladino_antichi_atto_per_atto.md). Gruppo e giuramento confermati il 14 ottobre; multiclassi e razza rimangono proposte.
+**Nuovo piano:** [Paladino degli Antichi e gruppo](build_party_paladino_antichi.md), con [oggetti atto per atto](equip_party_paladino_antichi_atto_per_atto.md). Gruppo e protagonista **Paladino degli Antichi puro 12** confermati il 14 ottobre; build dei compagni e razza rimangono proposte.
 
 **Piano Onore aggiornato al 13 ottobre 2026 · PS5 · Patch 8.** Il giocatore ha confermato il gruppo **Mira, Astarion, Lae’zel e Karlach**, con **Allerta su tutti**. Livello attuale, missioni completate, bonus permanenti ed equipaggiamento posseduto non sono comunicati. Le build al 12 e le progressioni sono raccomandazioni, non una lettura del salvataggio. Questa guida riguarda solo Onore.
 
