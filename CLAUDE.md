@@ -3,8 +3,9 @@
 Repo di **guide personali per Baldur's Gate 3** (PS5, UI italiana, Patch 8). Contiene solo Markdown: niente build, niente test. Gli script Python di supporto stanno in `.claude/` (o `.Codex/`), entrambe **gitignorate**.
 
 ```
-run-1-buona/            prima partita, eroica — completata
+run-1-buona/            prima partita, eroica : completata
 run-2-pulsione-oscura/  partita corrente
+run-3-onore/           nuova Onore con Paladino degli Antichi; Mira storica
 riferimenti/            build e oggetti, validi per entrambe le run
 archivio/               alternative superate, tenute solo come confronto
 trophy-images/          screenshot dei trofei
@@ -20,20 +21,34 @@ trophy-images/          screenshot dei trofei
 - **Punto del percorso:** **PO-18, inizio Atto 2 / Ultima Luce**. Posizione esatta e livello attuale non comunicati; il livello 6 a Grymforge è un dato precedente. Non proporre di rifare l’Atto 1. Roadmap Atto 2 verificata online il 24 settembre: Torri neutrali e prigionieri prima della Coltre; rami opportunisti espliciti.
 - **Prima run (buona/eroica): completata.** I suoi file restano il riferimento per mappe, tattiche e tappe 1-50.
 
+## Run Onore con Paladino degli Antichi
+
+- **Dichiarato il 14 ottobre 2026:** la run di Mira è morta. Nuovo gruppo confermato: **Paladino degli Antichi, Astarion, Karlach, Lae’zel**. **Allerta su tutti** riconfermata esplicitamente. Il Paladino è ora gradito; non applicare il vecchio vincolo che lo escludeva.
+- Guide del nuovo studio: [build_party_paladino_antichi.md](run-3-onore/build_party_paladino_antichi.md) e [equip_party_paladino_antichi_atto_per_atto.md](run-3-onore/equip_party_paladino_antichi_atto_per_atto.md). Prevalgono sul vecchio piano di Mira per build, statistiche e assegnazioni della nuova Onore; non cambiano la gerarchia delle guide della Pulsione Oscura.
+- **Proposte, non selezioni già confermate nel salvataggio:** Antichi 7 / Tempesta 5, Astarion Cacciatore Oscuro 5 / Assassino 4 / Maestro di Battaglia 3, Karlach Mano Aperta 8 / Furfante 4, Lae’zel Maestro di Battaglia 12. Incluse alternative Paladino puro 12, Antichi 11/Hexblade 1 e Karlach lanciatrice 6/4/2. Razza proposta halfling Cuoreforte; origine e nome non ancora confermati. Evitare un altro Bardo delle Lame a distanza resta la preferenza precedente.
+- Allerta è proposta al primo talento su tutti. Di conseguenza Astarion prende Tiratore Scelto al 9; Karlach monaca prende Rissaiolo all’8 e +2 SAG al 12. La variante lanciatrice prende Rissaiolo al 9. Non descriverli come build già complete al 4.
+- **Preferenza confermata:** poche cure e tante mazzate. Paladino a due mani, punizioni e cure d’emergenza; Allerta al 4, Grande Maestro d’Armi al totale 11 nella proposta 7/5. Bram Spezzarovi è un nome proposto, non confermato.
+- **Numeri senza premi permanenti:** Paladino offensivo CAR 16 con Allerta e Grande Maestro d’Armi; CAR 18 nella variante +2 CAR al posto del talento offensivo, oppure CAR 20 nella variante pura che sceglie due aumenti CAR; Astarion DES 16, 18 solo mentre porta Guanti di Destrezza o con bonus esterno; Karlach monaca SAG 19 e COS 16 dopo Rissaiolo, COS 18 con Acchiappanime; Lae’zel FOR 20 prima della rispecializzazione condizionata ai guanti FOR 23.
+- Versione di massimo danno della monaca usa elisir FOR 21/27; distribuzione autonoma separata. Anche il Paladino può rispecializzare FOR 8 solo con scorta di elisir confermata. Non sommare elisir, guanti che impostano una caratteristica, Araj e bonus permanenti come fossero tutti additivi.
+- Paladino 7/Tempesta 5: parte Paladino per armature pesanti; nessuna competenza COS da multiclassare Stregone. Slot finali 4/3/3/2, niente slot di 5°. Le aure hanno raggio 3 m. Set principale offensivo: Minaccia Invisibile poi Ammazzagiganti, Diadema della Sinergia, Eredità dei Maestri; niente scudo. Cure con Promessa/guanti e controllo con Acume sono varianti. Lae’zel tiene Spada d’Argento; Astarion mantiene Guanti di Destrezza e DES 18 nell’assetto finale. Con Persistenza e Difesa il Paladino ha CA 21, non 24. Controincantesimo arriva al totale 12.
+- **Livello, missioni, oggetti e bonus della nuova run non comunicati.** Non trasferire acquisizioni della Pulsione o di Mira. Capello, Specchio, Araj e ascensione sono varianti condizionate; Ethel, Cazador e Tribunale possono rompere il giuramento degli Antichi.
+- **Comando al livello 1 nel prologo:** Cuorescuro Chierica può prepararlo; Lae’zel Guerriera no; protagonista Paladino solo dal livello 2. Comando: Lascia cadere su Zhalk può recuperare lo spadone senza ucciderlo se fallisce il TS; tentativo non garantito. Cuorescuro nel prologo non cambia il team definitivo.
+- Mira resta come storico in [build_party_mira_nerospina.md](run-3-onore/build_party_mira_nerospina.md). La sua mancata disponibilità del Marksmanship Hat da Roah non va trasformata in un obbligo per il nuovo arciere. Astarion conserva serrature/trappole; nessun supporto automatico di Cuorescuro.
+
 ## Stato dei trofei
 
 Il [registro trofei PS5](riferimenti/registro_trofei_ps5.md), verificato sugli screenshot del 22 settembre 2026, prevale sulle previsioni delle roadmap per lo **stato dei trofei del profilo**: 40 sbloccati confermati, 13 bloccati incluso il platino, Azione Impetuosa da verificare. Disinfestazione e Due Piccioni con uno Gnomo sbloccati il 19 settembre. Non dedurre progressi della run corrente dagli sblocchi di altre partite.
 
 ## Gerarchia dei file (chi vince in caso di conflitto)
 
-1. **[percorso_pulsione_oscura_bardo.md](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md)** — guida operativa della partita corrente, 50 tappe **PO-00 … PO-50**, stato della run, vincoli reali, priorità del Bardo. **Per ordine delle missioni e prerequisiti prevale su tutto il resto.**
-2. **[checklist_missioni_pulsione_oscura.md](run-2-pulsione-oscura/checklist_missioni_pulsione_oscura.md)** — catalogo di **147 voci** di missione, ognuna con link alla pagina bg3.wiki, tappe PO di riferimento e stato (`Da verificare` / `In corso` / `Fatto`). "Da verificare" significa *non dichiarato dal giocatore*, non *incompiuto*.
-3. **Roadmap dell'origine** — [Atto 1](run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md), [Atto 2](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md), [Atto 3](run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md): approfondimenti e varianti, non l'itinerario. L'ordine 01-21 con **assedio del Boschetto** è un'**alternativa storica** (il ramo attivo risolve i tre capi nel campo). Ogni file si apre con un box di aggiornamento operativo datato (Atto 2: **24 settembre 2026**) che rimanda alle tappe PO: mantenerlo coerente.
+1. **[percorso_pulsione_oscura_bardo.md](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md)** : guida operativa della partita corrente, 50 tappe **PO-00 … PO-50**, stato della run, vincoli reali, priorità del Bardo. **Per ordine delle missioni e prerequisiti prevale su tutto il resto.**
+2. **[checklist_missioni_pulsione_oscura.md](run-2-pulsione-oscura/checklist_missioni_pulsione_oscura.md)** : catalogo di **147 voci** di missione, ognuna con link alla pagina bg3.wiki, tappe PO di riferimento e stato (`Da verificare` / `In corso` / `Fatto`). "Da verificare" significa *non dichiarato dal giocatore*, non *incompiuto*.
+3. **Roadmap dell'origine** : [Atto 1](run-2-pulsione-oscura/roadmap_atto1_pulsione_oscura.md), [Atto 2](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md), [Atto 3](run-2-pulsione-oscura/roadmap_atto3_pulsione_oscura.md): approfondimenti e varianti, non l'itinerario. L'ordine 01-21 con **assedio del Boschetto** è un'**alternativa storica** (il ramo attivo risolve i tre capi nel campo). Ogni file si apre con un box di aggiornamento operativo datato (Atto 2: **24 settembre 2026**) che rimanda alle tappe PO: mantenerlo coerente.
 4. **Build del protagonista:** [bardadino_opportunista_livello_per_livello.md](run-2-pulsione-oscura/bardadino_opportunista_livello_per_livello.md) (piano attivo) e [oggetti_exploit_opportunista.md](run-2-pulsione-oscura/oggetti_exploit_opportunista.md) (exploit per atto/tappa/destinatario).
 5. **Riferimenti trasversali:** [build_completa_livello_1-12.md](riferimenti/build_completa_livello_1-12.md) (tutti gli 11 personaggi) e [oggetti_e_build_definitive.md](riferimenti/oggetti_e_build_definitive.md) (catalogo oggetti per slot e setup finali).
-6. **Prima run:** [Atto 1](run-1-buona/roadmap_atto1_run_buona.md), [Atto 2](run-1-buona/roadmap_atto2_run_buona.md), [Atto 3](run-1-buona/roadmap_atto3_run_buona.md) — tappe 1-50, mappe, tattiche, atlante delle location. Le guide dell'origine vi rimandano invece di duplicarle.
-7. **`archivio/`** — piani superati del protagonista (confronto Guerriero, Lockadin). Conservati solo come confronto: **non sommare i loro numeri, premi e talenti alla build attiva**.
-8. **[README.md](README.md)** — indice di tutto: va aggiornato ogni volta che si aggiunge un file o cambia l'impostazione della run.
+6. **Prima run:** [Atto 1](run-1-buona/roadmap_atto1_run_buona.md), [Atto 2](run-1-buona/roadmap_atto2_run_buona.md), [Atto 3](run-1-buona/roadmap_atto3_run_buona.md) : tappe 1-50, mappe, tattiche, atlante delle location. Le guide dell'origine vi rimandano invece di duplicarle.
+7. **`archivio/`** : piani superati del protagonista (confronto Guerriero, Lockadin). Conservati solo come confronto: **non sommare i loro numeri, premi e talenti alla build attiva**.
+8. **[README.md](README.md)** : indice di tutto: va aggiornato ogni volta che si aggiunge un file o cambia l'impostazione della run.
 
 ## Convenzioni
 
@@ -48,10 +63,10 @@ Il [registro trofei PS5](riferimenti/registro_trofei_ps5.md), verificato sugli s
 
 ## Strumenti locali (`.claude/`, non versionati)
 
-- `audit_quests.py` — scarica le pagine bg3.wiki in `research_2026_09_17/sources.json`.
-- `build_catalog.py` — genera il catalogo missioni mappando gli slug wiki sulle tappe PO.
-- `update_guides.py` — applica patch testuali ai file `.md` con `assert` sui marcatori (fallisce se il testo atteso non c'è).
-- `read_audit.py` — lettura rapida dei dati scaricati.
+- `audit_quests.py` : scarica le pagine bg3.wiki in `research_2026_09_17/sources.json`.
+- `build_catalog.py` : genera il catalogo missioni mappando gli slug wiki sulle tappe PO.
+- `update_guides.py` : applica patch testuali ai file `.md` con `assert` sui marcatori (fallisce se il testo atteso non c'è).
+- `read_audit.py` : lettura rapida dei dati scaricati.
 
 Per modifiche ripetitive su più guide conviene estendere `update_guides.py` invece di editare a mano ogni file.
 

@@ -1,24 +1,25 @@
-# Baldur's Gate 3 — Guide personali (PS5, Patch 8)
+# Baldur's Gate 3 : Guide personali (PS5, Patch 8)
 
-Guide personali per Baldur's Gate 3 su PS5, in italiano: **due partite complete** — la prima eroica, la seconda con l'origine **Pulsione Oscura** — più i riferimenti di build ed equipaggiamento validi per entrambe.
+Guide personali per Baldur's Gate 3 su PS5, in italiano: prima partita eroica completata, seconda con l'origine **Pulsione Oscura**, piano della **terza run Onore**, più i riferimenti di build ed equipaggiamento.
 
 ## Dove sta cosa
 
 ```
-run-1-buona/            prima partita, eroica — completata
+run-1-buona/            prima partita, eroica : completata
 run-2-pulsione-oscura/  partita corrente
+run-3-onore/           nuova Onore con Paladino degli Antichi; Mira storica
 riferimenti/            build e oggetti, validi per entrambe le run
 archivio/               alternative superate, tenute solo come confronto
 trophy-images/          screenshot dei trofei
 ```
 
-## Partita corrente — Pulsione Oscura
+## Partita corrente : Pulsione Oscura
 
 Protagonista **Bardo delle Lame** (*College of Swords*), elfo dei boschi, modalità **Stratega**, combattimento in mischia. Pulsione Oscura **opportunista per massimizzare armi, equipaggiamento e bonus**: salvare PNG e conservare mercanti serve alle ricompense, non è un vincolo morale.
 
 **Stato al 24 settembre 2026:** Atto 1 concluso; prossima tappa **PO-18, Ultima Luce**. [Roadmap Atto 2 aggiornata](run-2-pulsione-oscura/roadmap_atto2_pulsione_oscura.md#ordine-atto-2).
 
-**Parti da qui:** [percorso attivo in 50 tappe](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md) — stato della run, ordine delle missioni, scadenze dei tre atti. Per ordine e prerequisiti prevale su ogni altro file.
+**Parti da qui:** [percorso attivo in 50 tappe](run-2-pulsione-oscura/percorso_pulsione_oscura_bardo.md) : stato della run, ordine delle missioni, scadenze dei tre atti. Per ordine e prerequisiti prevale su ogni altro file.
 
 | File | Cosa copre |
 |---|---|
@@ -32,7 +33,17 @@ Protagonista **Bardo delle Lame** (*College of Swords*), elfo dei boschi, modali
 
 Le tre roadmap sono approfondimenti dell'origine, non l'itinerario: l'ordine lo dà il percorso attivo.
 
-## Prima partita — run "buona" (completata)
+## Terza partita: Onore
+
+**Aggiornamento del 14 ottobre 2026:** run di Mira terminata. Giovanni ha confermato **Paladino degli Antichi, Astarion, Karlach e Lae’zel**, con **Allerta su tutti**. Il nuovo studio propone Antichi 7 / Stregone della Tempesta 5, Astarion arciere 5/4/3, Karlach Mano Aperta 8 / Furfante 4 e Lae’zel Maestro di Battaglia 12. **Preferenza aggiornata: poche cure, tante mazzate.** Il Paladino usa una due mani e punizioni; set offensivo senza scudo, Allerta e Grande Maestro d’Armi, CAR 16 senza bonus esterni. Nome proposto Bram Spezzarovi, da confermare. Le multiclassi e la razza del protagonista sono raccomandazioni, non scelte già dichiarate nel salvataggio. Livello, missioni, oggetti e bonus della nuova run non comunicati.
+
+| File | Cosa copre |
+|---|---|
+| [build_party_paladino_antichi.md](run-3-onore/build_party_paladino_antichi.md) | Nuovo piano del **14 ottobre 2026**: quattro progressioni 1–12, prologo con Comando di Cuorescuro e recupero dello spadone di Zhalk, statistiche e talenti con Allerta, Paladino offensivo a due mani, Antichi 7/Tempesta 5 e alternative puro 12/Hexblade 11/1, Karlach monaca e variante lanciatrice, bonus permanenti e giuramento. |
+| [equip_party_paladino_antichi_atto_per_atto.md](run-3-onore/equip_party_paladino_antichi_atto_per_atto.md) | Oggetti per ognuno nell’Atto 1, 2 e 3, venditori e condizioni, set finale offensivo senza doppioni, trasferimenti di Ammazzagiganti/Eredità/Dolcezza al Paladino, elisir, varianti offensive e tappe di acquisizione. |
+| [build_party_mira_nerospina.md](run-3-onore/build_party_mira_nerospina.md) | **Storico della run terminata:** Mira Hexblade e gruppo. Non è il piano attivo della nuova Onore. |
+
+## Prima partita : run "buona" (completata)
 
 Resta il riferimento per mappe, tattiche e atlante delle location: le guide della Pulsione Oscura vi rimandano invece di duplicarle.
 
@@ -57,8 +68,8 @@ Resta il riferimento per mappe, tattiche e atlante delle location: le guide dell
 
 Piani superati per il protagonista, tenuti solo per confronto. **Non sommare i loro numeri, premi e talenti a quelli della build attiva.**
 
-- [build_pulsione_oscura_mischia_stratega.md](archivio/build_pulsione_oscura_mischia_stratega.md) — confronto fra classi e alternativa Guerriero Maestro di Battaglia
-- [lockadin_livello_per_livello.md](archivio/lockadin_livello_per_livello.md) e [lockadin_elisir_bonus_e_oggetti.md](archivio/lockadin_elisir_bonus_e_oggetti.md) — vecchia progressione Paladino/Warlock
+- [build_pulsione_oscura_mischia_stratega.md](archivio/build_pulsione_oscura_mischia_stratega.md) : confronto fra classi e alternativa Guerriero Maestro di Battaglia
+- [lockadin_livello_per_livello.md](archivio/lockadin_livello_per_livello.md) e [lockadin_elisir_bonus_e_oggetti.md](archivio/lockadin_elisir_bonus_e_oggetti.md) : vecchia progressione Paladino/Warlock
 
 ## Come sono scritte
 
